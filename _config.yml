@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Lowkey | A blog by Matthew Wang
+email: malsf21@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Lowkey is a blog by Matthew Wang, a student, web developer, and video game player.
+  Developed using Jekyll, Lowkey contains Matt's rambles, rants, projects, and random things
+  that you may or may not find cool. Don't worry, he has nothing to Hyde!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://matthewwang.me" # the base hostname & protocol for your site
+twitter_username: malsf21
+github_username:  malsf21
 
 # Build settings
 markdown: kramdown

@@ -1,25 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-03-17 08:02:52 -0400
-categories: jekyll update
+title:  "Welcome to Lowkey!"
+date:   2016-03-19 18:50:52 -0400
+categories: news dev
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to Lowkey, a blog where I'll try my best to be funny and show you cool things.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Man, I'm super excited for this blog! I have no ruby experience, have never used jekyll, and am an absolutely new blogger. That being said, hopefully this'll become a cool-ass project that I can look back on two or three years in the future saying, wow Matt, this was a great idea. First things first, I need to formalize my writing style!
 
-Jekyll also offers powerful support for code snippets:
+Jekyll is a tool that builds websites out of markdown and yaml files. You can check out the [Jekyll docs here](http://jekyllrb.com/docs/home)!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+To quote Sky: I'm excited to be here, and I'm definitely going to be back.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Are you?
