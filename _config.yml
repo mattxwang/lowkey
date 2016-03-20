@@ -6,7 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Lowkey | A blog by Matthew Wang
+title: Lowkey
+title_long: Lowkey | A blog by Matthew Wang
 email: malsf21@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Lowkey is a blog by Matthew Wang, a student, web developer, and video game player.
