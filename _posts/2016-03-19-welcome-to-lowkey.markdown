@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Low Key!"
 date:   2016-03-19 18:50:52 -0400
-categories: news dev
+categories: dev news
 ---
 Welcome to Low Key, a blog where I'll try my best to be funny and show you cool things.
 
