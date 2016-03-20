@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## About Lowkey
+## About Low Key
 
-Since kids these days are supposed to be young and hip, lets take the definition of lowkey from [Urban Dictionary](http://www.urbandictionary.com/define.php?term=low+key&defid=1312270):
+Since kids these days are supposed to be young and hip, lets take the definition of Low Key from [Urban Dictionary](http://www.urbandictionary.com/define.php?term=low+key&defid=1312270):
 
 > to keep something low key: to not announce it;
 
@@ -16,7 +16,7 @@ Since kids these days are supposed to be young and hip, lets take the definition
 
 > "im going out tonight but it's pretty low key; i've gotta work tomorrow so tonight's going to be a low key event."
 
-To be honest, I like [this definition much better](http://www.urbandictionary.com/define.php?term=low+key&defid=2721080), but lowkey embodies the spirit of this blog. I'm not here to make some big, flashy statements that polarize people and spark intense, serious discussions. Instead, this blog is simply here to provide a bit of fun, insight, or rationale for what's going on in our world, whether it be politically, technologically, or socially. As the youngsters say, this is a "chill" blog.
+To be honest, I like [this definition much better](http://www.urbandictionary.com/define.php?term=low+key&defid=2721080), but Low Key embodies the spirit of this blog. I'm not here to make some big, flashy statements that polarize people and spark intense, serious discussions. Instead, this blog is simply here to provide a bit of fun, insight, or rationale for what's going on in our world, whether it be politically, technologically, or socially. As the youngsters say, this is a "chill" blog.
 
 ## About Matt
 
