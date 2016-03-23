@@ -19,6 +19,7 @@ Let's go over how *My Starbucks Rewards*, or *MSR*, worked in the past. Simply, 
 | 3 Venti JCFs (~$16.50)       | 1 | 8.33% |
 | A Tall Latté everyday for 1 week (~$24.50) | 7 | 58.83% |
 | A Venti JCF everyday for 1 week (~$38.50) | 7 | 58.83% |
+</br>
 
 
 Rather simple. In order to get a free drink, you need to come in on twelve different days. You need to spend $35.40 on just Tall Lattés to get a free drink, or
@@ -35,7 +36,7 @@ Let's see how that means for our test Starbucks cases:
 | 3 Venti JCFs (~$16.50)      | 33 | 26.4% |
 | A Tall Latté everyday for 1 week (~$24.50) | 49 | 39.2% |
 | A Venti JCF everyday for 1 week (~$38.50) | 77 | 61.6% |
-
+</br>
 
 Okay, I'm not going to lie, calculating this was a pain. I actually used my calculator for it, though there's a tool I've linked below that you can use to figure out what's more cost efficient. Let's take a look for our test case to see which plan benefits who:
 
@@ -47,6 +48,7 @@ Okay, I'm not going to lie, calculating this was a pain. I actually used my calc
 | 3 Venti JCFs (~$16.50)                     | 8.33%            | 26.4% |
 | A Tall Latté everyday for 1 week (~$24.50) | 58.83%           | 39.2% |
 | A Venti JCF everyday for 1 week (~$38.50)  | 58.83%           | 61.6% |
+</br>
 
 Hm, there's a few trends we need to take a look at.
 1. The old MSR system favors cheaper drinks, while the new SR system favors more expensive drinks. This should be no surprise, as the old system is based off of per-visit, while the new system is based off of per-price.
