@@ -21,7 +21,7 @@ Let's go over how *My Starbucks Rewards*, or *MSR*, worked in the past. Simply, 
 | A Venti JCF everyday for 1 week (~$38.50) | 7 | 58.83% |
 
 
-Rather simple. In order to get a free drink, you need to come in on twelve different days. You need to spend $35.40 on just Tall Lattés to get a free drink, or
+Rather simple. In order to get a free drink, you need to come in on twelve different days. You need to spend $42 on just Tall Lattés to get a free drink, or $66 on Venti JCFs.
 
 Now let's see how up-and-coming *Starbucks Rewards* (or *SR*) is going to look like. Instead of getting 1 star per visit, you now get 2 stars *per dollar you spend*. **Damn**. Then, you need 125 stars to get a free reward in *Gold*, and 300 to get to *Gold* in the first place. They've dropped the *Welcome* level, kept the *Green* level, and have promised more incentives in the future.
 
@@ -37,7 +37,9 @@ Let's see how that means for our test Starbucks cases:
 | A Venti JCF everyday for 1 week (~$38.50) | 77 | 61.6% |
 
 
-Okay, I'm not going to lie, calculating this was a pain. I actually used my calculator for it, though there's a tool I've linked below that you can use to figure out what's more cost efficient. Let's take a look for our test case to see which plan benefits who:
+Okay, I'm not going to lie, calculating this was a pain. I actually used my calculator for it, though there's a tool I've linked below that you can use to figure out what's more cost efficient. You need to spend $62.5 to get a free drink.
+
+Let's take a look for our test case to see which plan benefits who:
 
 | Order                                      | MSR % | SR % |
 | -------------------------------------------|:----------------:| :-----:|
