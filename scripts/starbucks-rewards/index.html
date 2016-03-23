@@ -1,10 +1,15 @@
 ---
-layout: page
+layout: script
 title: Starbucks Rewards Calculator
 permalink: /scripts/starbucks-rewards/index.html
 ---
 
 <table>
+  <tr>
+    <th>Price of Order</th>
+    <th>Amount of Orders</th>
+    <th>Number of Visits</th>
+  </tr>
   <tr>
     <td><input class="form-element" type="number" id="price" placeholder="0.00" min="0"></input></td>
     <td><input class="form-element" type="number" id="amount" placeholder="1" min="1"></input></td>
@@ -19,18 +24,13 @@ permalink: /scripts/starbucks-rewards/index.html
     <th>SR (New): <span id="total-SR"></span></th>
   </tr>
 </table>
-<!--
-<input type="number" id="price" placeholder="0.00" min="0"></input>
-<input type="number" id="amount" placeholder="1" min="1"></input>
-<input type="number" id="visits" placeholder="1" min="1"></input>
--->
 <script src="../jquery.js"></script>
 <script>
-  function calculateMSR(visits){//check if visit is an int
-    return visits*100/12 + "%"; //might need to round this one to a certain dec place
+  function calculateMSR(visits){
+    return (visits*100/12).toFixed(2) + "%";
   }
-  function calculateSR(price,amount,visits){ //check if price is a number, and if amount/visit is an int
-    return (price*amount*2*100/125*visits);//might need to round this one to a certain dec place
+  function calculateSR(price,amount,visits){
+    return (price*amount*2*100/125*visits).toFixed(2) + "%";
   }
   function update(){
     $("#total-MSR").html(calculateMSR($("#visits").val()));
