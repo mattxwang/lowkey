@@ -17,7 +17,7 @@ Since kids these days are supposed to be young and hip, lets take the definition
 
 > "im going out tonight but it's pretty Lowkey; i've gotta work tomorrow so tonight's going to be a Lowkey event."
 
-To be honest, I like [this definition much better](http://www.urbandictionary.com/define.php?term=low+key&defid=2721080), but Lowkey embodies the spirit of this blog. I'm not here to make some big, flashy statements that polarize people and spark intense, serious discussions. Instead, this blog is simply here to provide a bit of fun, insight, or rationale for what's going on in our world, whether it be politically, technologically, or socially. As the youngsters say, this is a "chill" blog.
+To be honest, I like [this definition much better](http://www.urbandictionary.com/define.php?term=low+key&defid=2721080), but Lowkey embodies the spirit of this blog. I'm certainly no expert on any of the topics that I topic about; it's more about what piques my interest, and what I think is cool. I'm not there to make flashy declarations, intense debates, or rally for social change (maybe I should make a blog called Highkey for that). Hopefully, you find this stuff cool as well.
 
 ## About Matt
 
