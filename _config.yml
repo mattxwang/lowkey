@@ -13,8 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Lowkey is a blog by Matthew Wang, a student, web developer, and video game player.
   Developed using Jekyll, Lowkey contains Matt's rambles, rants, projects, and random things
   that you may or may not find cool. Don't worry, he has nothing to Hyde!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://matthewwang.me" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.matthewwang.me" # the base hostname & protocol for your site
 twitter_username: malsf21
 github_username:  malsf21
 
