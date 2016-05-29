@@ -2,7 +2,7 @@
 layout: post
 title:  "Shoot for the Stars | Analyzing Starbucks Rewards"
 date:   2016-03-23 10:50:26 -0400
-categories: news starbucks
+categories: fun
 ---
 
 ![My Starbucks Rewards](http://matthewwang.me/blog/img/2016-03-23-MSR.png "My Starbucks Rewards")
@@ -61,6 +61,6 @@ If you're the kind of person who only goes to Starbucks to get a cheap, early-mo
 
 And, this doesn't even include everything else Starbucks sells, such as Bistro Boxes, pastries, coffee mugs, and coffee grinds. All in all, this seems like a great change for most Starbucks visitors.
 
-Don't believe me? Try out [this little plugin](http://matthewwang.me/blog/scripts/starbucks-rewards/) and tell me whether or not you believe me.
+Don't believe me? Try out [this little plugin]({{site.baseurl}}/scripts/starbucks-rewards/) and tell me whether or not you believe me.
 
 Happy Caramelized Honey Latté Season!

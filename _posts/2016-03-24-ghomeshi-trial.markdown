@@ -2,7 +2,7 @@
 layout: post
 title:  "Ghomeshi Trial | Beyond Reasonable Doubt"
 date:   2016-03-24 20:43:27 -0400
-categories: news current
+categories: social
 ---
 
 Today, [Jian Ghomeshi was acquitted of all charges](http://www.cbc.ca/news/canada/toronto/horkins-decision-ghomeshi-1.3505808). While my major complaint is that [SHAD](http://www.thespec.com/news-story/5566639-rapper-shad-takes-over-from-ghomeshi-on-cbc/) might not host the Q anymore, there's [a lot of uproar concerning the decision](http://www.huffingtonpost.ca/2016/03/24/ghomeshi-decision_n_9541386.html): namely, that "This was an insult to women". I don't think that's what this trial is about though: what it does do is demonstrate to us how public opinion is shaped by testimony, whether or not there is evidence to back it up, and how ultimately society often sides with the victim, regardless of proof.

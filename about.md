@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-menu: main
 ---
 
 ## About Lowkey
@@ -21,4 +20,4 @@ To be honest, I like [this definition much better](http://www.urbandictionary.co
 
 ## About Matt
 
-Hey there! I'm a teenager living in Toronto, Ontario who does computer science, debate, plays maybe a bit too much video games, and loves listening to music. You can find my "hub" of websites at [matthewwang.me](http://matthewwang.me), and a little portfolio I've made [here](http://matthewwang.me/dmcs/portfolio-prototype). If you've got any questions, feel free to ask me on [twitter](http://twitter.com/malsf21), [on stream](http://twitch.tv/malsf21), or [on GitHub](http://github.com/malsf21). Happy reading!
+Hey there! I'm a teenager living in Toronto, Ontario who does computer science, debate, plays maybe a bit too much video games, and loves listening to music. You can find my "hub" of websites at [matthewwang.me](http://matthewwang.me), and a little portfolio I've made [here](http://malsf21.github.io). If you've got any questions, feel free to ask me on [twitter](http://twitter.com/malsf21), [on stream](http://twitch.tv/malsf21), or [on GitHub](http://github.com/malsf21). Happy reading!

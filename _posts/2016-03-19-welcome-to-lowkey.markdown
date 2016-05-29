@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Lowkey!"
 date:   2016-03-19 18:50:52 -0400
-categories: news site
+categories: site
 ---
 Welcome to Lowkey, a blog where I'll try my best to be funny and show you cool things.
 

@@ -1,6 +1,6 @@
 <footer class="site-footer">
 
-  <div class="wrapper">
+  <div class="container">
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -28,10 +28,17 @@
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
-        <p>{% include icon-github.html %} You can find the code for this blog on the <a href="http://github.com/malsf21/lowkey">lowkey GitHub repository</a></p>
+        <p>{% include icon-github.html %} You can find the code for this blog on the <a href="{{site.repo}}">lowkey GitHub repository</a>.</p>
       </div>
     </div>
 
   </div>
 
 </footer>
+
+<script src="{{site.baseurl}}/js/jquery.js"></script>
+<script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+<script src="{{site.baseurl}}/js/ct-paper.js"></script>
+<script src="{{site.baseurl}}/js/ct-paper-radio.js"></script>
+<script src="{{site.baseurl}}/js/ct-paper-checkbox.js"></script>
+<script src="{{site.baseurl}}/js/bootstrap-select.js"></script>

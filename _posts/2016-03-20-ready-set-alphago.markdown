@@ -2,7 +2,7 @@
 layout: post
 title:  "Ready, Set, AlphaGo"
 date:   2016-03-20 03:17:43 -0400
-categories: news tech
+categories: tech
 ---
 
 Right before the recession, many people had a saying about computer AIs. A computer would destroy a human in checkers, go toe-to-toe with humans in chess, but lose to humans in Go.

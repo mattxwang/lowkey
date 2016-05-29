@@ -1,30 +1,27 @@
 ---
 layout: script
 title: Starbucks Rewards Calculator
-permalink: /scripts/starbucks-rewards/index.html
+permalink: /scripts/starbucks-rewards/
 ---
 
-<table>
+<table class="table">
   <tr>
     <th>Price of Order</th>
     <th>Amount of Orders</th>
     <th>Number of Visits</th>
   </tr>
   <tr>
-    <td><input class="form-element" type="number" id="price" placeholder="0.00" min="0"></input></td>
-    <td><input class="form-element" type="number" id="amount" placeholder="1" min="1"></input></td>
-    <td><input class="form-element" type="number" id="visits" placeholder="1" min="1"></input></td>
+    <td><input class="form-control form-element" type="number" id="price" placeholder="0.00" min="0"></input></td>
+    <td><input class="form-control form-element" type="number" id="amount" placeholder="1" min="1"></input></td>
+    <td><input class="form-control form-element" type="number" id="visits" placeholder="1" min="1"></input></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <th>Price Comparisons</th>
-    <th>MSR (Old): <span id="total-MSR">0</span></th>
-    <th>SR (New): <span id="total-SR"></span></th>
+    <td>% Towards Free Drink</td>
+    <td> MSR (Old): <span id="total-MSR">0</span></td>
+    <td> SR (New): <span id="total-SR"></span></td>
   </tr>
 </table>
-<script src="../jquery.js"></script>
+<script src="{{site.baseurl}}/js/jquery.js"></script>
 <script>
   function calculateMSR(visits){
     return (visits*100/12).toFixed(2) + "%";

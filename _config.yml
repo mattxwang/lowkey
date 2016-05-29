@@ -17,6 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.matthewwang.me" # the base hostname & protocol for your site
 twitter_username: malsf21
 github_username:  malsf21
+repo: "http://github.com/malsf21/lowkey"
 
 # Build settings
 markdown: kramdown
