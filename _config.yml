@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Lowkey
 title_long: Lowkey | A blog by Matthew Wang
@@ -13,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Lowkey is a blog by Matthew Wang, a student, web developer, and video game player.
   Developed using Jekyll, Lowkey contains Matt's rambles, rants, projects, and random things
   that you may or may not find cool. Don't worry, he has nothing to Hyde!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.matthewwang.me" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://blog.matthewwang.me"
 twitter_username: malsf21
 github_username:  malsf21
 repo: "http://github.com/malsf21/lowkey"

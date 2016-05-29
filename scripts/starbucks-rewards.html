@@ -4,22 +4,26 @@ title: Starbucks Rewards Calculator
 permalink: /scripts/starbucks-rewards/
 ---
 
-<table class="table">
-  <tr>
-    <th>Price of Order</th>
-    <th>Amount of Orders</th>
-    <th>Number of Visits</th>
-  </tr>
-  <tr>
-    <td><input class="form-control form-element" type="number" id="price" placeholder="0.00" min="0"></input></td>
-    <td><input class="form-control form-element" type="number" id="amount" placeholder="1" min="1"></input></td>
-    <td><input class="form-control form-element" type="number" id="visits" placeholder="1" min="1"></input></td>
-  </tr>
-  <tr>
-    <td>% Towards Free Drink</td>
-    <td> MSR (Old): <span id="total-MSR">0</span></td>
-    <td> SR (New): <span id="total-SR"></span></td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th>Price of Order</th>
+      <th>Amount of Orders</th>
+      <th>Number of Visits</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><input class="form-control form-element" type="number" id="price" placeholder="0.00" min="0"></input></td>
+      <td><input class="form-control form-element" type="number" id="amount" placeholder="1" min="1"></input></td>
+      <td><input class="form-control form-element" type="number" id="visits" placeholder="1" min="1"></input></td>
+    </tr>
+    <tr>
+      <td>% Towards Free Drink</td>
+      <td> MSR (Old): <span id="total-MSR">0</span></td>
+      <td> SR (New): <span id="total-SR"></span></td>
+    </tr>
+  </tbody>
 </table>
 <script src="{{site.baseurl}}/js/jquery.js"></script>
 <script>

@@ -7,6 +7,6 @@ categories: site
 
 Hey there! Just a quick update, I've changed how the site looks so it isn't just the default Jekyll theme. Woohoo! Now it looks truly lowkey, with colours that don't yell at your face, but are nice, pretty, and pleasing. Obviously, I didn't choose this palette myself; you can find the theme [here](http://www.creative-tim.com/product/paper-kit), free-of-charge courtesy of [Creative Tim](http://www.creative-tim.com/).
 
-I'm also looking to change the domain of this site to blog.matthewwang.me, but we'll see how that goes along. I haven't been too active on this blog as of late, but I plan to post around once a week once exams are done. Who knows? Maybe I'll become the victim of another Tumblr attack?
+I've also changed the domain of the blog to [blog.matthewwang.me](http://blog.matthewwang.me/) to keep up with the new look! I haven't been too active on this blog as of late, but I plan to post around once a week once exams are done. Who knows? Maybe I'll become the victim of another Tumblr attack?
 
 Thanks for reading this short update! Have fun, but keep it lowkey!

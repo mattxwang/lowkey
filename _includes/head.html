@@ -3,13 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title_long | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title}} | {{site.title}}{% else %}{{ site.title_long | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="icon" href="{{ "/css/favicon.ico" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/ct-paper.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/demo.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/font-awesome.min.css" | prepend: site.baseurl }}">
   <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
