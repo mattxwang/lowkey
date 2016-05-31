@@ -2,7 +2,7 @@
 layout: post
 title:  "Shoot for the Stars | Analyzing Starbucks Rewards"
 date:   2016-03-23 10:50:26 -0400
-categories: fun
+categories: lifestyle
 author: Crazed Starbucks Fanatic
 ---
 
