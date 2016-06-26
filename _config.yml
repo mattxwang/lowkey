@@ -14,3 +14,4 @@ repo: "http://github.com/malsf21/lowkey"
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
