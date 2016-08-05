@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Life of a SHADuate Q&A, Day 1 | SHAD 2016 Series"
+title:  "Life of a SHADuate, Day 1 | SHAD 2016 Series"
 date:   2016-07-30 17:44:42 -0400
 categories: shad2016
 author: "Very, Very Sad SHAD Matthew Wang"

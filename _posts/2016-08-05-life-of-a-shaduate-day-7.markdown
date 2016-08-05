@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Life of a SHADuate, Day 7 | SHAD 2016 Series"
+date:   2016-07-30 17:44:42 -0400
+categories: shad2016
+author: "Introspective SHAD Matthew Wang"
+---
+
+**I think you've guessed by now** that this series isn't necessarily me talking about the physical things that I experienced at SHAD, but more of a set of life lessons. And I'm no licensed life coach or anything (but I'm close), but maybe I'll share a few more thoughts.
+
+**It's been a full week since I've finished SHAD.** And I'm not shedding any tears or popping some (un-alcoholic) champagne, but I have been giving what I've learned some thought. I'm going to answer some of my hypothetical questions, just like last time, except with a bit of hindsight sprinkled in.
+
+### What are core values? What are *your* core values? Can core values change? Does your friend group, or your company, or your partner need to share your core values?
+
+**The first answer is pretty straight forward.** Core Values are moral codes that you abide to in your day-to-day life, but also affect (effect? at this point I don't even want to know) your big life decisions. Core Values are part of your moral compass: and ultimately, they encompass who you are as a person. For example, I'd say my Core Values are: **Integrity**, **Respect**, **Perseverance**, **Attitude**, and **Rationale**. Seems a bit arbitrary, but I'll do some explaining.
+
+To me, **Integrity** is a fancy word for honesty, combined staying true to your word and what you've said. I place *integrity* at the top of my list because it's the one that I stand by the most: I'm honest with people (though not brutally honest/using honesty as an excuse to being a donkeyhole, I hate that), and that extends to virtually everything (with a few exceptions: I'd lie to save someone's life, for example). If someone asks me if I can do a task in x amount of time, but it's too short, I'll let them know. If someone asks me if their y proposal is feasible, and it isn't, I'll let them know (and provide some constructive feedback). If someone asks me, for one more time, whether or not I actually like Starbucks (the answer is yes), I'll let them know. All of these examples seem rather trivial, but trust me, it goes a long way. When big decisions come your way, staying true and honest your best move; when you need help, staying true and honest is how people will trust you, and build deep connections.
+
+I'm rambling. Next up is **Respect**. Respect for me is gauging someone's effort, skill, or passion, independent of their personality, how much they suck, or how awesome they are. I respect a lot of people: my mother, for making huge sacrifices as a parent; most of my best friends, for the effort that they put into their passions; and for people that I don't really like, but have put huge amounts of work and effort into what they do. This is a bit of a tangent, but one example of that last one for me is **G-Eazy**. I don't like his introspective Kendrick-esque songs on his new album (When It's Dark Out), and the songs that I do think are good are the shallow, "fucking bitches making money" type of songs that I don't think will ever become **great**. Regardless of my opinion on his music, he's put in hours on end to make it; he's been nothing but kind to his fans, and he's been an overall hard worker and standup guy. For that, I'll give him some *"respek"*. Obviously, I still respect people I love; to continue that hip-hop trend with **Logic**, one of my favourite rappers. He's dedicated to his craft: he's dropped work for the past 6 years straight. He's dedicated to his fans: he streams, does signings, has amazing concerts, and even does pro bono work for disabled kids. He's just a cool guy, and I respect that. Add that to the fact that I've loved all of his projects, and you can probably figure out why I like him. Nevertheless, I attribute similar levels of respect to G-Eazy and Logic, and I think that respecting people's skills and effort will mean a lot in the future, both professionally and personal.
+
+Damn, I'm really ranting! I little insight to my blogging cycle: I normally don't edit my stuff. Obviously I check for obvious grammar/spelling issues, but beyond that I normally keep super long paragraphs like this. My next value is **Perseverance**. Ultimately, it's the grind. It's pretty cliché, but it doesn't matter how you fall, but how you get back up. And while it's absolute insanity (literally) to do the exact same thing every single time and failing repeatedly, learning a bit from each failure and applying it to the next problem goes a long way. It's baby steps.
+
+This next one is often undervalued: **Attitude**. Everybody has shitty days, but you can't let it get to the best of you. If you've met me in person (which you probably have if you're reading this), one of the things I do (that may be annoying) is that I crack jokes and puns. **All. The. Time.** And it's not something that I do randomly, but usually I do to break tension, to make everybody laugh, that kind of thing. If everybody else is laughing, I'm more likely too! Even if it involves some dancing and terrible accents. Having a positive attitude, whether it's a temporary positive like hearing an absolutely god awful pun, or a long term commitment (hey, even though today sucks, that means tomorrow is going to be better, right) makes it much easier to do things like Persevere. You have more gas in your tank, you're more likely to work hard and effectively, and you're probably going to live happier.
+
+The last one is **Rationale**. Short and simple. Think through things before you act, especially at the impact it has on other people. Pretty rational, eh?
+
+As to if whether or not core values can change, I think they definitely can. Core values reflect who you are as a person, and people change. When I was much younger (think 6/7 years old) I lied all the time (pretty bad kid to babysit, looking back). When I turned 11, I promised to myself that honesty was something important to me, and now it's part of my core values. While it's all anecdotal (most of this is), core values do shift and morph. It doesn't mean that you circumvent them any time you want, but it does mean that they have different weights throughout your life.
+
+I think the question of your friend group/company/partner having the same core values with you is more of a situational question, but it does pose and interesting idea. For me, it depends on which value. If someone doesn't respect another human being, especially for an immutable personal characteristic (race, gender, etc.) then it's probably a no. I'll usually explain the situation, and if they don't agree, then it goes south from there. But for something like attitude, I'm not going to fault my friends for being down on a shitty day, it's not their fault. Instead, I'll try to lighten the mood (at appropriate times, e.g. not at a funeral) to change their attitude, but I'm not going to make it my mission to harass my friends for feeling bad.
+
+
+### Pen-Penultimate Conclusion
+
+Well, that was way too long. If you are still reading, thanks for sticking through this wall of text. Until next time. 
+
+
+*P.S. If you've noticed, I've been super liberal with text stylings (italics, bold, etc.) in the past few posts. While I don't have a comment section or anything, if you've got feedback slide it my way. Won't be too bold.*
