@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life of a SHADuate, Day 7 | SHAD 2016 Series"
-date:   2016-07-30 17:44:42 -0400
+date:   2016-08-05 17:44:42 -0400
 categories: shad2016
 author: "Introspective SHAD Matthew Wang"
 ---
@@ -31,7 +31,7 @@ I think the question of your friend group/company/partner having the same core v
 
 ### Pen-Penultimate Conclusion
 
-Well, that was way too long. If you are still reading, thanks for sticking through this wall of text. Until next time. 
+Well, that was way too long. If you are still reading, thanks for sticking through this wall of text. Until next time.
 
 
 *P.S. If you've noticed, I've been super liberal with text stylings (italics, bold, etc.) in the past few posts. While I don't have a comment section or anything, if you've got feedback slide it my way. Won't be too bold.*
