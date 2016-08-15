@@ -1,0 +1,34 @@
+---
+layout: default
+permalink: /categories/
+---
+
+<div class="container">
+  <h1 class="page-header">Post Categories</h1>
+  <h2>Click to expand</h2>
+  <div class="panel-group" id="categories-accordion" role="tablist" aria-multiselectable="true">
+    {% for category in site.categories %}
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="heading{{ category | first }}">
+          <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#categories-accordion" href="#collapse{{ category | first }}" aria-expanded="true" aria-controls="collapse{{ category | first }}">
+              {{ category | first }}
+            </a>
+          </h4>
+        </div>
+        <div id="collapse{{ category | first }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{ category | first }}">
+          <div class="panel-body">
+            {% for posts in category %}
+              {% for post in posts %}
+              <h4>
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small>
+              </h4>
+              {{ post.excerpt }}
+              {% endfor %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
