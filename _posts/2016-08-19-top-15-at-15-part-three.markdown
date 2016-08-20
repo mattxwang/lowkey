@@ -2,7 +2,7 @@
 layout: post
 title:  "Top 15 Albums at 15 | #13 Paramore"
 date:   2016-08-19 15:46:42 -0400
-categories: music
+categories: 15at15
 ---
 
 Our next album is a very interesting, but also amazing release. Plus, it both brings back nostalgia to the early 2000's and 2010's, and also is a look into modern music. Let's get a  drumroll...
@@ -29,3 +29,5 @@ This combination of *goddamn good music* (I've said this a lot, haven't I) and a
 **Favourite Songs**: *Fast In My Car, Now, Grow Up, Daydreaming, Ain't It Fun, Part II, Still Into You, Anklebiters, Hate To See Your Heart Break, Be Alone*
 
 Thanks for reading! Next, we'll be exploring an album that was unexpectedly featured on [President Obama's Summer Playlist](https://twitter.com/POTUS/status/763744742072913920).
+
+*P.S. From now on, I'm going to do one album a week. That leaves enough for content just until my birthday, coinciding with the age theme.*
