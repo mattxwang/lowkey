@@ -2,7 +2,7 @@
 title: Lowkey
 title_long: Lowkey | A blog by Matthew Wang
 email: malsf21@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > #
   Lowkey is a blog by Matthew Wang, a student, web developer, and video game player.
   Developed using Jekyll, Lowkey contains Matt's rambles, rants, projects, and random things
   that you may or may not find cool. Don't worry, he has nothing to Hyde!
@@ -16,5 +16,15 @@ repo: "http://github.com/malsf21/lowkey"
 markdown: kramdown
 exclude: [vendor]
 
+# Paginate
 gems: [jekyll-paginate]
 paginate: 10
+
+# Static Man! (I'm using this for comment sections)
+staticman:
+  allowedFields: ['name', 'email', 'comment']
+  branch: 'gh-pages'
+  path: _data/posts/{options.post-slug}
+  filename: comment{@timestamp}
+  format: 'yaml'
+  moderation: false

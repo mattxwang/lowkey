@@ -13,5 +13,30 @@ layout: default
       {{ content }}
     </div>
 
+    <div>
+      <form method="POST" action="https://api.staticman.net/v1/entry/malsf21/lowkey/master">
+        <input class="form-control" name="options[slug]" type="hidden" value="{{ page.slug }}">
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="form-group">
+              <label for="name">Nickname</label>
+              <input class="form-control" id="name" name="fields[name]" type="text" placeholder="Doesn't have to be real.">
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input class="form-control" id="email" name="fields[email]" type="email" placeholder="Try to make this one legit.">
+            </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="comment">Comment</label>
+          <textarea class="form-control" id="comment" name="fields[comment]" placeholder="Be nice."></textarea>
+        </div>
+        <button class="btn btn-lg btn-info" type="submit">Go!</button>
+      </form>
+    </div>
+
   </article>
 </div>
