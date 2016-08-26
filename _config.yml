@@ -26,7 +26,7 @@ staticman:
   requiredFields: ['name', 'email', 'comment']
   commitMessage: "Here's the latest comment from Lowkey."
   branch: master
-  path: _data/comments/{options.post-slug}
+  path: "_data/comments"
   filename: entry{@timestamp}
   format: 'yml'
   moderation: false
