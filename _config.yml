@@ -7,7 +7,7 @@ description: > #
   Developed using Jekyll, Lowkey contains Matt's rambles, rants, projects, and random things
   that you may or may not find cool. Don't worry, he has nothing to Hyde!
 baseurl: ""
-url: "http://blog.matthewwang.me"
+url: "https://blog.matthewwang.me"
 twitter_username: malsf21
 github_username:  malsf21
 repo: "http://github.com/malsf21/lowkey"
@@ -23,8 +23,8 @@ paginate: 10
 # Static Man! (I'm using this for comment sections)
 staticman:
   allowedFields: ['name', 'email', 'comment']
-  branch: 'gh-pages'
-  path: _data/posts/{options.post-slug}
+  branch: 'master'
+  path: _data/comments/{options.post-slug}
   filename: comment{@timestamp}
-  format: 'yaml'
+  format: 'yml'
   moderation: false

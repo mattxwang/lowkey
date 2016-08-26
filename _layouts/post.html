@@ -14,8 +14,21 @@ layout: default
     </div>
 
     <div>
+      <h2><span class="fa fa-fw fa-pencil"></span> Comments</h2>
+      {% if site.data.comments[post_slug] %}
+        {% assign comments = site.data.comments[post_slug] | sort %}
+          {% for comment in comments %}
+            <div class="well">
+              <h2><a href="{{comment[1].email}}">{{comment[1].name}}</a></h2>
+              <p>
+                {{comment[1].comment}}
+              </p>
+            </div>
+          {% endfor %}
+			{% endif %}
       <form method="POST" action="https://api.staticman.net/v1/entry/malsf21/lowkey/master">
-        <input class="form-control" name="options[slug]" type="hidden" value="{{ page.slug }}">
+        <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+        <input name="options[redirect]" type="hidden" value="{{site.url}}{{page.url}}">
         <div class="row">
           <div class="col-sm-6">
             <div class="form-group">
@@ -34,7 +47,7 @@ layout: default
           <label for="comment">Comment</label>
           <textarea class="form-control" id="comment" name="fields[comment]" placeholder="Be nice."></textarea>
         </div>
-        <button class="btn btn-lg btn-info" type="submit">Go!</button>
+        <button class="btn btn-lg btn-info" type="submit">Give your two cents.</button>
       </form>
     </div>
 
