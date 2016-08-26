@@ -14,19 +14,9 @@ layout: default
     </div>
 
     <div>
-      <h2><span class="fa fa-fw fa-pencil"></span> Comments</h2>
-      {% if site.data.comments[post_slug] %}
-        {% assign comments = site.data.comments[post_slug] | sort %}
-          {% for comment in comments %}
-            <div class="well">
-              <h2><a href="{{comment[1].email}}">{{comment[1].name}}</a></h2>
-              <p>
-                {{comment[1].comment}}
-              </p>
-            </div>
-          {% endfor %}
-			{% endif %}
-      <form method="POST" action="https://api.staticman.net/v1/entry/malsf21/lowkey/master">
+      <h2>Comments <small>not as bad as youtube's, I promise</small></h2>
+      <h3><span class="fa fa-fw fa-pencil"></span> Write a Comment!</h3>
+      <form method="post" action="https://api.staticman.net/v1/entry/malsf21/lowkey/master">
         <input name="options[slug]" type="hidden" value="{{ page.slug }}">
         <input name="options[redirect]" type="hidden" value="{{site.url}}{{page.url}}">
         <div class="row">
@@ -49,6 +39,18 @@ layout: default
         </div>
         <button class="btn btn-lg btn-info" type="submit">Give your two cents.</button>
       </form>
+      {% if site.data.comments[post_slug] %}
+        <h4>Comments from others</h4>
+        {% assign comments = site.data.comments[post_slug] | sort %}
+          {% for comment in comments %}
+            <div class="well">
+              <h2><a href="{{comment[1].email}}">{{comment[1].name}}</a></h2>
+              <p>
+                {{comment[1].comment  | markdownify }}
+              </p>
+            </div>
+          {% endfor %}
+			{% endif %}
     </div>
 
   </article>

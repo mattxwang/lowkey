@@ -23,8 +23,10 @@ paginate: 10
 # Static Man! (I'm using this for comment sections)
 staticman:
   allowedFields: ['name', 'email', 'comment']
-  branch: 'master'
+  requiredFields: ['name', 'email', 'comment']
+  commitMessage: "Here's the latest comment from Lowkey."
+  branch: master
   path: _data/comments/{options.post-slug}
-  filename: comment{@timestamp}
+  filename: entry{@timestamp}
   format: 'yml'
   moderation: false
