@@ -39,15 +39,24 @@ layout: default
         </div>
         <button class="btn btn-lg btn-info" type="submit">Give your two cents.</button>
       </form>
-      {% if site.data.comments[post_slug] %}
+
+      {% capture post_slug %}{{ page.slug }}{% endcapture %}
+      {% if site.data.comments[post_slug]  %}
         <h4>Comments from others</h4>
         {% assign comments = site.data.comments[post_slug] | sort %}
           {% for comment in comments %}
             <div class="well">
-              <h2><a href="{{comment[1].email}}">{{comment[1].name}}</a></h2>
-              <p>
-                {{comment[1].comment  | markdownify }}
-              </p>
+              <div class="row">
+                <div class="col-sm-2 text-center">
+                  <h4><a href="{{comment[1].email}}">{{comment[1].name}}</a></h4>
+                  <img class="img-responsive img-thumbnail" src="https://api.adorable.io/avatars/256/{{comment[1].name | slugify}}" />
+                </div>
+                <div class="col-sm-10">
+                  <p class="lead">
+                    {{comment[1].comment  | markdownify }}
+                  </p>
+                </div>
+              </div>
             </div>
           {% endfor %}
 			{% endif %}
