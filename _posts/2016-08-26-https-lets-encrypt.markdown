@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Woah, HTTPS | Let's Encrypt"
-date:   2016-08-15 10:49:42 -0400
+date:   2016-08-26 10:49:42 -0400
 categories: site
 ---
 
