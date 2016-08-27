@@ -28,6 +28,6 @@ This combination of *goddamn good music* (I've said this a lot, haven't I) and a
 
 **Favourite Songs**: *Fast In My Car, Now, Grow Up, Daydreaming, Ain't It Fun, Part II, Still Into You, Anklebiters, Hate To See Your Heart Break, Be Alone*
 
-Thanks for reading! Next, we'll be exploring an album that was unexpectedly featured on [President Obama's Summer Playlist](https://twitter.com/POTUS/status/763744742072913920).
+Thanks for reading! Next, we'll be exploring an artist that was unexpectedly featured on [President Obama's Summer Playlist](https://twitter.com/POTUS/status/763744742072913920).
 
 *P.S. From now on, I'm going to do one album a week. That leaves enough for content just until my birthday, coinciding with the age theme.*
