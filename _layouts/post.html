@@ -13,7 +13,7 @@ layout: default
       {{ content }}
     </div>
 
-    <div>
+    <div class="well">
       <h2>Comments <small>not as bad as youtube's, I promise</small> <span class="label label-warning">WIP</span></h2>
       <h3><span class="fa fa-fw fa-pencil"></span> Write a Comment! <span class="label label-warning">WIP</span></h3>
       <form method="post" action="https://api.staticman.net/v1/entry/malsf21/lowkey/master">
@@ -52,7 +52,7 @@ layout: default
               <div class="row">
                 <div class="col-sm-2 text-center">
                   <h4><a href="mailto:{{comment[1].email}}">{{comment[1].name}}</a></h4>
-                  <img class="img-responsive img-thumbnail" src="https://api.adorable.io/avatars/256/{{comment[1].name | slugify}}" />
+                  <img class="img-responsive img-thumbnail" src="https://api.adorable.io/avatars/256/{{comment[1].name | slugify}}" style="max-width:50%;margin-left: auto;margin-right: auto;" />
                 </div>
                 <div class="col-sm-10">
                   <p class="lead">
