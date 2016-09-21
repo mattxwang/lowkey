@@ -29,4 +29,4 @@ staticman:
   path: "_data/comments/{options.slug}"
   filename: entry{@timestamp}
   format: 'yml'
-  moderation: false
+  moderation: true
