@@ -7,7 +7,7 @@ categories: 15at15
 
 Poppy, feel-good, uplifting music is always lovely to listen to, and this album is no exception. Let's take a look at:
 
-## Album #7: Doo-Wops and Hooligans by Bruno Mars
+## Album #6: Doo-Wops and Hooligans by Bruno Mars
 
 ![Doo-Wops and Hooligans Album Cover]({{site.baseurl}}/img/albums/doo-wops-and-hooligans.jpg)
 
