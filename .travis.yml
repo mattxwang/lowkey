@@ -2,11 +2,8 @@ language: ruby
 rvm:
 - 2.1
 
-install:
-  - gem install jekyll
-  - gem install jekyll-paginate
 script:
-  - jekyll build
+  - bundle exec jekyll serve
 
 branches:
   only:

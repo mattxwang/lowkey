@@ -16,9 +16,22 @@ repo: "http://github.com/malsf21/lowkey"
 markdown: kramdown
 exclude: [vendor]
 
-# Paginate
-gems: [jekyll-paginate]
+# Gem Configs
+gems:
+  - jekyll-paginate
+  - jekyll-archives
 paginate: 10
+
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - categories
+  layouts:
+    year: year-archive
+    month: month-archive
+    day: day-archive
+    category: category-archive
 
 # Static Man! (I'm using this for comment sections)
 staticman:

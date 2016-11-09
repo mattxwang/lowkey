@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
-<div class="container">
-  <div id="latest">
-    {% for post in site.posts limit: 1 %}
-      <h2><a class="post-link" href="{{site.url}}{{site.baseurl}}{{post.url}}">{{ post.title }} <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small></a></h2>
-      {{post.excerpt}}
-    {% endfor %}
-  </div>
+
+<div id="latest">
+  {% for post in site.posts limit: 1 %}
+    <h2><a class="post-link" href="{{site.url}}{{site.baseurl}}{{post.url}}">{{ post.title }} <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small></a></h2>
+    {{post.excerpt}}
+  {% endfor %}
 </div>
