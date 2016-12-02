@@ -34,12 +34,12 @@ jekyll-archives:
     category: category-archive
 
 # Static Man! (I'm using this for comment sections)
-staticman:
-  allowedFields: ['name', 'email', 'comment']
-  requiredFields: ['name', 'email', 'comment']
-  commitMessage: "Here's the latest comment from Lowkey."
-  branch: master
-  path: "_data/comments/{options.slug}"
-  filename: entry{@timestamp}
-  format: 'yml'
-  moderation: true
+# staticman:
+#   allowedFields: ['name', 'email', 'comment']
+#   requiredFields: ['name', 'email', 'comment']
+#   commitMessage: "Here's the latest comment from Lowkey."
+#   branch: master
+#   path: "_data/comments/{options.slug}"
+#   filename: entry{@timestamp}
+#   format: 'yml'
+#   moderation: true

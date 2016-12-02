@@ -7,7 +7,7 @@ categories: 15at15
 
 Did you realize, that you are a champion?
 
-## Album #5: Graduation by Kanye West
+## Album #4: Graduation by Kanye West
 
 ![The Graduation Cover]({{site.baseurl}}/img/albums/graduation.jpg)
 
@@ -27,6 +27,6 @@ And yes, I've realized that I'm a champion.
 
 **Favourite Songs**: *Good Morning, Champion, Stronger, I Wonder, Good Life, Everything I Am, The Glory, Homecoming*
 
-Next, we'll talk another type of Graduation: metamorphosis. 
+Next, we'll talk another type of Graduation: metamorphosis.
 
 Until next time!
