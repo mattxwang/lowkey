@@ -1,24 +1,23 @@
-<footer class="site-footer">
+<hr />
+<footer>
 
   <div class="container">
 
     <div class="row">
       <div class="col-sm-4">
-        <ul class="contact-list">
+        <ul class="list-unstyled">
           <li>{{ site.title_long }}</li>
-          <li></br></li>
-          <li><span class="fa fa-envelope"></span> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {% if site.github_username %}
           <li>
-            <a href="https://github.com/{{site.github_username}}"><span class="fa fa-github" style="color:black;"></span> {{site.github_username}}</a>
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
+            <a href="mailto:{{ site.email }}"><span class="fa fa-fw fa-envelope" style="color:red;"></span> {{ site.email }}</a></li>
           <li>
-            <a href="https://twitter.com/{{site.twitter_username}}"><span class="fa fa-twitter" style="color:lightblue;"></span> {{site.twitter_username}}</a>
+            <li>
+              <a href="https://matthewwang.me"><span class="fa fa-fw fa-link"></span> matthewwang.me</a></li>
+            <li>
+            <a href="https://github.com/{{site.github_username}}"><span class="fa fa-fw fa-github" style="color:black;"></span> {{site.github_username}}</a>
           </li>
-          {% endif %}
+          <li>
+            <a href="https://twitter.com/{{site.twitter_username}}"><span class="fa fa-fw fa-twitter" style="color:lightblue;"></span> {{site.twitter_username}}</a>
+          </li>
         </ul>
       </div>
 

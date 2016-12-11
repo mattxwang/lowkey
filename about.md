@@ -10,14 +10,12 @@ Since kids these days are supposed to be young and hip, lets take the definition
 
 > to keep something Lowkey: to not announce it;
 
-> to have a quiet gathering;
-
 > opposite of a large party or big group of people; not much emphasis, closely aligned with a normal night out doing the usual stuff.
 
 > "im going out tonight but it's pretty Lowkey; i've gotta work tomorrow so tonight's going to be a Lowkey event."
 
-To be honest, I like [this definition much better](http://www.urbandictionary.com/define.php?term=low+key&defid=2721080), but Lowkey embodies the spirit of this blog. I'm certainly no expert on any of the topics that I topic about; it's more about what piques my interest, and what I think is cool. I'm not there to make flashy declarations, intense debates, or rally for social change (maybe I should make a blog called Highkey for that). Hopefully, you find this stuff cool as well.
+To be honest, I like [this definition much better](http://www.urbandictionary.com/define.php?term=low+key&defid=2721080), but Lowkey embodies the spirit of this blog. I'm not here to argue with people over the internet for imaginary internet points or make bold claims and statements. I'm just here to tell you what's on my mind, what I find cool, and to practice my writing so it isn't this rambly. Hopefully, you like it; if you don't, that's fine. We can still be friends.
 
 ## About Matt
 
-Hey there! I'm a teenager living in Toronto, Ontario who does computer science, debate, plays maybe a bit too much video games, and loves listening to music. You can find my "hub" of websites at [matthewwang.me](http://matthewwang.me), and a little portfolio I've made [here](http://malsf21.github.io). If you've got any questions, feel free to ask me on [twitter](http://twitter.com/malsf21), [on stream](http://twitch.tv/malsf21), or [on GitHub](http://github.com/malsf21). Happy reading!
+Hey there! I'm a teenager living in Toronto, Ontario who does computer science, debate, plays maybe a bit too much video games, and loves listening to music. You can find my website at [matthewwang.me](http://matthewwang.me), which has a bit more about me. If you've got any questions, feel free to ask me on [twitter](http://twitter.com/malsf21), [on stream](http://twitch.tv/malsf21), or [on GitHub](http://github.com/malsf21). Happy reading!
