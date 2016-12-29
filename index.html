@@ -5,9 +5,10 @@ layout: default
 <h1 class="page-header">Posts</h1>
 
 {% for post in paginator.posts %}
-    <h4>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small>
-    </h4>
+  <div class="post-listing post-listing-index">
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </br>
+  </div>
 {% endfor %}
 <nav>
   <ul class="pager">

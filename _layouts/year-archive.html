@@ -4,7 +4,8 @@ layout: default
 <h1>{{ page.date | date: "%Y" }}</h1>
 
 {% for post in page.posts %}
-  <h4>
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small>
-  </h4>
+<div class="post-listing">
+  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="post-listing-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+  </br>
+</div>
 {% endfor %}
