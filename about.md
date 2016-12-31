@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## About Lowkey
+![An image logo of Lowkey]({{site.baseurl}}/img/lowkey-transparent.png)
 
 Since kids these days are supposed to be young and hip, lets take the definition of Lowkey from [Urban Dictionary](http://www.urbandictionary.com/define.php?term=low+key&defid=1312270):
 
@@ -16,6 +16,6 @@ Since kids these days are supposed to be young and hip, lets take the definition
 
 To be honest, I like [this definition much better](http://www.urbandictionary.com/define.php?term=low+key&defid=2721080), but Lowkey embodies the spirit of this blog. I'm not here to argue with people over the internet for imaginary internet points or make bold claims and statements. I'm just here to tell you what's on my mind, what I find cool, and to practice my writing so it isn't this rambly. Hopefully, you like it; if you don't, that's fine. We can still be friends.
 
-## About Matt
+Okay, but who's Matthew Wang?
 
 Hey there! I'm a teenager living in Toronto, Ontario who does computer science, debate, plays maybe a bit too much video games, and loves listening to music. You can find my website at [matthewwang.me](http://matthewwang.me), which has a bit more about me. If you've got any questions, feel free to ask me on [twitter](http://twitter.com/malsf21), [on stream](http://twitch.tv/malsf21), or [on GitHub](http://github.com/malsf21). Happy reading!

@@ -2,14 +2,19 @@
 title: Lowkey
 title_long: Lowkey | A blog by Matthew Wang
 email: malsf21@gmail.com
+author:
+  name: Matthew Wang
+  twitter: malsf21
 description: > #
   I'm Matt, and Lowkey is my blog. On Lowkey, I discuss random cool things, cool people, and cool ideas.
 baseurl: ""
 url: "https://blog.matthewwang.me"
-twitter: malsf21
+twitter:
+  username: malsf21
 github:  malsf21
 repo: "http://github.com/malsf21/lowkey"
 website: "https://matthewwang.me"
+logo: "/img/lowkey-simple.png"
 
 # Build settings
 markdown: kramdown
@@ -19,6 +24,10 @@ exclude: [vendor]
 gems:
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-seo-tag
+
+# Paginate
+
 paginate: 10
 
 # Collections
