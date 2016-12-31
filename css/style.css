@@ -37,8 +37,6 @@ h6{
   font-size: 1.75em;
   font-weight: bold;
   line-height: 2em;
-}
-.post-listing-index{
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;

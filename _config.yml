@@ -21,6 +21,15 @@ gems:
   - jekyll-archives
 paginate: 10
 
+# Collections
+
+collections:
+  specials:
+    output: true
+    layout: page
+
+# Jekyll Archives Configuration
+
 jekyll-archives:
   enabled:
     - year
