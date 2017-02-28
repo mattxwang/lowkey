@@ -25,7 +25,7 @@ Probably the most important part of your text editor is whether or not it actual
 
 Well, off of that it seems like Notepad ++ is at a severe disadvantage. Unix systems are pretty popular in coding and design, so Notepad++ already loses that battle.
 
-Everything else works across all three platforms: Atom uses the [Electron framework](electron.atom.io), a pretty cool way of building cross-platform apps. It's a personal favourite for me, and I suggest you check it out. Brackets and Sublime also pass with flying colours, both being cross-platform. Brackets is also written in HTML, CSS and JS; sublime is closed source, and written in Python.
+Everything else works across all three platforms: Atom uses the [Electron framework](https://electron.atom.io), a pretty cool way of building cross-platform apps. It's a personal favourite for me, and I suggest you check it out. Brackets and Sublime also pass with flying colours, both being cross-platform. Brackets is also written in HTML, CSS and JS; sublime is closed source, and written in Python.
 
 **Winners: Atom, Brackets, Sublime Text**
 

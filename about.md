@@ -18,4 +18,4 @@ To be honest, I like [this definition much better](http://www.urbandictionary.co
 
 Okay, but who's Matthew Wang?
 
-Hey there! I'm a teenager living in Toronto, Ontario who does computer science, debate, plays maybe a bit too much video games, and loves listening to music. You can find my website at [matthewwang.me](http://matthewwang.me), which has a bit more about me. If you've got any questions, feel free to ask me on [twitter](http://twitter.com/malsf21), [on stream](http://twitch.tv/malsf21), or [on GitHub](http://github.com/malsf21). Happy reading!
+Hey there! I'm a teenager living in Toronto, Ontario who does computer science, debate, plays maybe a bit too much video games, and loves listening to music. You can find my website at [matthewwang.me](https://matthewwang.me), which has a bit more about me. If you've got any questions, feel free to ask me on [twitter](https://twitter.com/malsf21), [on stream](https://twitch.tv/malsf21), or [on GitHub](https://github.com/malsf21). Happy reading!

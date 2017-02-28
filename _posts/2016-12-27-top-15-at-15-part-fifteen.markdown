@@ -11,7 +11,7 @@ And, here's the (almost) end of the series; after, I'll do a runner-up list. It 
 
 ![Under Pressure Album Cover]({{site.baseurl}}/img/albums/under-pressure.jpg)
 
-This, admittedly, is a strange one. I spent a very long time telling you [why Kendrick Lamar's To Pimp a Butterfly was the best rap album on this list](15at15/2016/12/10/top-15-at-15-part-thirteen.html). So then, why is *this rap album* #1 on my list? Well, a lot of it has to do with sentimental value (man, I hate saying that), and the issues that I'm willing to overlook in just how awesome this album is. So, let me tell you a story.
+This, admittedly, is a strange one. I spent a very long time telling you [why Kendrick Lamar's To Pimp a Butterfly was the best rap album on this list]({{site.baseurl}}/15at15/2016/12/10/top-15-at-15-part-thirteen.html). So then, why is *this rap album* #1 on my list? Well, a lot of it has to do with sentimental value (man, I hate saying that), and the issues that I'm willing to overlook in just how awesome this album is. So, let me tell you a story.
 
 ## A Serious Review
 
