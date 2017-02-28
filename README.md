@@ -21,28 +21,28 @@ First things first, we need to install Jekyll. We assume that you have Git, Ruby
 
 First, clone the git repository:
 ```
-git clone https://github.com/malsf21/lowkey.git
+$ git clone https://github.com/malsf21/lowkey.git
 ```
 
 Then, cd into the repository:
 ```
-cd lowkey
+$ cd lowkey
 ```
 
 Now, we're going to install all of our dependencies! Type in your command line:
 ```
-bundle
+$ bundle
 ```
 
 We're almost done: now, we're just going to serve the site. Type the following into your command line:
 ```
-jekyll serve
+$ bundle exec jekyll serve
 ```
 
 After that, you should get a response that looks something like this:
 
 ```
-jekyll serve
+$ bundle exec jekyll serve
 Configuration file: /Users/matthew.wang/github/lowkey/_config.yml
             Source: /Users/matthew.wang/github/lowkey
        Destination: /Users/matthew.wang/github/lowkey/_site
@@ -53,7 +53,6 @@ Configuration file: /Users/matthew.wang/github/lowkey/_config.yml
 Configuration file: /Users/matthew.wang/github/lowkey/_config.yml
     Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
-
 ```
 
 Visit what follows the "Server address:" line (which is normally [http://127.0.0.1:4000/](http://127.0.0.1:4000/)).
