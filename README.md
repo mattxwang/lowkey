@@ -58,3 +58,5 @@ Configuration file: /Users/matthew.wang/github/lowkey/_config.yml
 Visit what follows the "Server address:" line (which is normally [http://127.0.0.1:4000/](http://127.0.0.1:4000/)).
 
 And voila! Everything should work for you! Congrats, you lowkey did it!
+
+Note: you can use `rake` to build and test the output of `bundle exec jekyll build`.
