@@ -1,5 +1,5 @@
 # [![Lowkey Logo](img/lowkey-transparent.png)](http://blog.matthewwang.me)
-![travis build status](https://travis-ci.org/malsf21/lowkey.svg)
+[![Build Status](https://travis-ci.org/malsf21/lowkey.svg?branch=master)](https://travis-ci.org/malsf21/lowkey)
 > to keep something Lowkey: to not announce it;
 
 **Lowkey** is my blog: nothing too special, nothing I need to announce, just a place where I talk about cool things, cool events, and cool people. Along the way, you'll see some wacky stuff (like a post analyzing Starbucks Rewards), developer insights on how I made this blog (using Jekyll, obviously!), and a few nice tidbits about my life.
