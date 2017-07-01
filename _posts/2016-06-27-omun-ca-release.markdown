@@ -33,4 +33,4 @@ I've finished most of the content documentation, which is what we need to fill o
 
 Yeah, that's kind of it. Just a few lessons that I've learned from the OMUN.ca development cycle: hopefully I can apply it elsewhere!
 
-*You can visit the [OMUN Website](http://omun.ca) to see what I'm talking about. [Docs here](http://omun.ca/docs).*
+*You can visit the [OMUN Website](http://omun.ca) to see what I'm talking about.*
