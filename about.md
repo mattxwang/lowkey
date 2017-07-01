@@ -14,8 +14,12 @@ Since kids these days are supposed to be young and hip, lets take the definition
 
 > "im going out tonight but it's pretty Lowkey; i've gotta work tomorrow so tonight's going to be a Lowkey event."
 
-To be honest, I like [this definition much better](http://www.urbandictionary.com/define.php?term=low+key&defid=2721080), but Lowkey embodies the spirit of this blog. I'm not here to argue with people over the internet for imaginary internet points or make bold claims and statements. I'm just here to tell you what's on my mind, what I find cool, and to practice my writing so it isn't this rambly. Hopefully, you like it; if you don't, that's fine. We can still be friends.
+Ultimately, this blog is supposed to be lowkey. I'm not here to make any broad sweeping declarations; in fact, my goal with this blog is to improve my writing skills. Along the way, I hope I end up telling some funny stories, or introduce you to new music, or maybe even learn something from my misfortune. Who knows?
 
-Okay, but who's Matthew Wang?
+Okay, but who am I?
 
-Hey there! I'm a teenager living in Toronto, Ontario who does computer science, debate, plays maybe a bit too much video games, and loves listening to music. You can find my website at [matthewwang.me](https://matthewwang.me), which has a bit more about me. If you've got any questions, feel free to ask me on [twitter](https://twitter.com/malsf21), [on stream](https://twitch.tv/malsf21), or [on GitHub](https://github.com/malsf21). Happy reading!
+Hey there! My name is Matt, and I'm a teenager living in Toronto Ontario. I do a lot of computer science, and debate, and maybe play a bit too many video games. I love listening to music and reading in my free time, and I'll often talk about that on this blog as well.
+
+If you'd like, you can find my website at [matthewwang.me](https://matthewwang.me), which has a bit more about me and what I do. I also stream on [Twitch](https://twitch.tv/malsf21), if you want to see me play some video games, actively do stuff on [GitHub](https://github.com/malsf21/), if you want to see me attempt to code thing, and [tweet](https://twitter.com/malsf21), where I attempt (and fail) to be funny.
+
+If you do enjoy reading this blog, please let me know! I'm working on improving my writing style and telling cool stories. If you don't enjoy reading this blog, also let me know! I'll try to make things better for next time.
