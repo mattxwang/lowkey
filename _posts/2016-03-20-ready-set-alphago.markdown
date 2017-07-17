@@ -7,7 +7,7 @@ categories: tech
 
 Right before the recession, many people had a saying about computer AIs. A computer would destroy a human in checkers, go toe-to-toe with humans in chess, but lose to humans in Go.
 
-**Go** [is a complicated board game](http://www.usgo.org/what-go) infinitely more complex than chess; played on a 19*19 board, there are [2.082 × 10^170](http://senseis.xmp.net/?NumberOfPossibleGoGames) legal board positions. That's more than [the number of observable atoms in the universe](http://www.universetoday.com/36302/atoms-in-the-universe/)! It's one of the most mentally complicating board games in the world, and was the Mount Everest for machine-learning and artificial intelligence in general. But why? Let's take a look at what a chess algorithm actually is.
+**Go** [is a complicated board game](http://www.usgo.org/what-go) infinitely more complex than chess; played on a 19*19 board, there are [2.082 × 10^170](http://senseis.xmp.net/?NumberOfPossibleGoGames) legal board positions. That's more than the number of observable atoms in the universe! It's one of the most mentally complicating board games in the world, and was the Mount Everest for machine-learning and artificial intelligence in general. But why? Let's take a look at what a chess algorithm actually is.
 
 ![Chess Tree Algorithm](http://matthewwang.me/blog/img/2016-03-20-chess.png "Chess Tree Algorithm")
 
