@@ -32,6 +32,12 @@ h6{
 .post-container{
   margin: 0 auto;
   max-width: 75rem;
+  line-height: 1.5em;
+}
+
+.post-container p{
+  margin-bottom: 1.5em;
+  font-size: 1em;
 }
 .post-listing{
   font-size: 1.75em;

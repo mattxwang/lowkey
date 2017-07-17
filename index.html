@@ -6,7 +6,7 @@ layout: default
 
 {% for post in paginator.posts %}
   <div class="post-listing">
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="post-listing-date">{{ post.date | date: "%b %-d, %Y" }}</span>
     </br>
   </div>
 {% endfor %}

@@ -9,4 +9,7 @@ layout: default
   {{ content }}
 </div>
 <hr />
-<p class="text-center">{{ page.title }} • <a href="{{site.baseurl}}/category/{{ page.categories }}/">{{ page.categories }}</a> • {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}</p>
+<div class="text-center">
+  <p>This was: <a href="{{page.url}}">{{ page.title }}</a></p>
+  <p><a href="{{site.baseurl}}/category/{{ page.categories }}/">{{ page.categories }}</a> • {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}</p>
+</div>
