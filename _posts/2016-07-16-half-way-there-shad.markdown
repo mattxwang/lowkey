@@ -8,9 +8,9 @@ author: "Tired SHAD Matthew Wang"
 
 *Hey there! If you don't know, I'm at SHAD @ Mac (and will be for the next two weeks). While I said I'd post weekly updates, SHAD has been insanely busy; that being said, I'll try my best to talk about it now.*
 
-**SHAD is a very interesting program**: unlike most summer programs (like DEEP) where the goal is to build a community and teach life skills, with science still being important but not as heavily prioritized. The focus around these life skills makes sense: after all, it's much easier to learn how to name ionic bonds or calculate velocity than how to work as a team, how to lead, and how to make friends. It's compounded by SHAD's uber-diversity; very few SHADs (at least in my personal experience) have similar skillsets. There are ARCT pianists, there are professional yo-yo throwers, there are national level public speak-offs, there are CWSF Gold Medalists, there are internationally ranked javelin throwers. Making teams, and ultimately friends with these people is pretty freaking awesome.
+**SHAD is a very interesting program**: unlike most summer programs (like DEEP), the goal is to build a community and teach life skills, with science taking a backseat. The focus around these life skills makes sense: after all, it's much easier to learn how to name ionic bonds or calculate velocity than how to work as a team, how to lead, and how to make friends. It's compounded by SHAD's uber-diversity; very few SHADs (at least in my personal experience) have similar skillsets. There are ARCT pianists, there are professional yo-yo throwers, there are national level public speak-offs, there are CWSF Gold Medalists, there are internationally ranked javelin throwers. Making teams, and ultimately friends with these people is pretty freaking awesome.
 
-This post is going to get long, I'm just going to let you know ahead of time. Let's talk about what I've learned.
+This post is not going to be long; it's quite busy here. But I'll elaborate more in the future.
 
 ## Teamwork
 
@@ -20,4 +20,4 @@ The first thing that we learned about teamwork was *vulnerability*. Our coordina
 
 A few other important topics that we've touched on: "expecting excellence", [the tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), understanding perspective, and learning how to create diversity. Obviously that's other stuff, but maybe I'll talk about that another day.
 
-Stay vulnerable, my friends. 
+Stay vulnerable, my friends.

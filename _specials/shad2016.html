@@ -1,0 +1,24 @@
+---
+title: SHAD 2016
+layout: page
+permalink: /specials/shad2016/
+---
+<div class="row">
+  <div class="col-sm-4">
+    <a href="{{site.baseurl}}/specials/shad2016/">
+      <img class="img-responsive" src="{{site.baseurl}}/img/shad.png" alt="SHAD Logo"/>
+    </a>
+  </div>
+  <div class="col-sm-8">
+    <h2><a href="{{site.baseurl}}/specials/shad2016/">SHAD 2016</a></h2>
+    <p>
+      SHAD was a life-changing experience for me. I talk to you about why in this special, with some juicy introspective reflection.
+    </p>
+  </div>
+</div>
+{% for post in site.categories["shad2016"] reversed %}
+  <div class="post-listing">
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="post-listing-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </br>
+  </div>
+{% endfor %}
