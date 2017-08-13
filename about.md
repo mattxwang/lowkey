@@ -10,11 +10,7 @@ Since kids these days are supposed to be young and hip, lets take the definition
 
 > to keep something Lowkey: to not announce it;
 
-> opposite of a large party or big group of people; not much emphasis, closely aligned with a normal night out doing the usual stuff.
-
-> "im going out tonight but it's pretty Lowkey; i've gotta work tomorrow so tonight's going to be a Lowkey event."
-
-Ultimately, this blog is supposed to be lowkey. I'm not here to make any broad sweeping declarations; in fact, my goal with this blog is to improve my writing skills. Along the way, I hope I end up telling some funny stories, or introduce you to new music, or maybe even learn something from my misfortune. Who knows?
+Ultimately, this blog is supposed to be lowkey. I started it to improve my writing skills, not to make any broad declarations. Along the way, I hope I end up telling some funny stories, or introduce you to new music, or maybe even learn something from my misfortune. Who knows?
 
 Okay, but who am I?
 
