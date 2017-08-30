@@ -62,6 +62,4 @@ If you're the kind of person who only goes to Starbucks to get a cheap, early-mo
 
 And, this doesn't even include everything else Starbucks sells, such as Bistro Boxes, pastries, coffee mugs, and coffee grinds. All in all, this seems like a great change for most Starbucks visitors.
 
-Don't believe me? Try out [this little plugin]({{site.baseurl}}/scripts/starbucks-rewards/) and tell me whether or not you believe me.
-
 Happy Caramelized Honey Latté Season!
