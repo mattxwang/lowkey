@@ -33,11 +33,11 @@ Here's a draft of my answer, if you're interested.
 
 _____
 
-**Films:** Arrival, Moana, Ex Machina, Zootopia, Deadpool, Get Out, Spiderman: Homecoming
+**Films:** Arrival, Moana, Ex Machina, Zootopia, Deadpool, Inside Out, Get Out, Spiderman: Homecoming, The Big Short, Finding Dory, Edge of Seventeen
 
-**Television:** The Office (U.S.), How I Met Your Mother, Brooklyn Nine-Nine, Master of None, Black Mirror
+**Television:** The Office (U.S.), How I Met Your Mother, Brooklyn Nine-Nine, Master of None, Black Mirror, Community, Bojack Horseman
 
-**Music:** E•MO•TION by Carly Rae Jepsen, SATURATION and SATURATION II by BROCKHAMPTON, Pure Heroine and Melodrama by Lorde, Good For You by Aminé, DAMN. by Kendrick Lamar, 24K Magic by Bruno Mars, Starboy by The Weeknd, Future Friends by Superfruit, Issa Album by 21 Savage, Pretty Girls Like Trap Music by 2 Chainz, Drive Like It’s Stolen by Injury Reserve, hopeless fountain kingdom by Halsey
+**Music:** E•MO•TION by Carly Rae Jepsen, SATURATION and SATURATION II by BROCKHAMPTON, Pure Heroine and Melodrama by Lorde, Good For You by Aminé, DAMN. by Kendrick Lamar, 24K Magic by Bruno Mars, Starboy by The Weeknd, Future Friends by Superfruit, Issa Album by 21 Savage, Culture by Migos, Drive Like It’s Stolen by Injury Reserve, hopeless fountain kingdom by Halsey, After Laughter by Paramore, Connect the Dots by Misterwives, Worlds by Porter Robinson, Dangerous Woman by Ariana Grande
 
 **Spoken:** Homecoming King by Hassan Minhaj
 
@@ -84,7 +84,7 @@ Recently, I've taken a break from the classic stock of multiplayer games I play 
 
 [![Slime Rancher Logo]({{site.baseurl}}/img/slime-rancher.png)](http://slimerancher.com/)
 
-Slime Rancher is my shit. It's a pretty basic game in principle: you're a slime rancher, ranching slimes by taking care of them and feeding them. You explore a well-drawn world filled with cute (and feral slimes), and you just chill. It's a really relaxing game to play - there's very little pressure, and you just enjoy yourself.
+Slime Rancher is my shit. It's a pretty basic game in principle: you're a slime rancher, taking care of them while collecting valuable plorts. You explore a well-drawn world filled with cute (and sometimes feral) slimes, and you just chill. It's a really relaxing game to play - there's very little pressure, and you just enjoy yourself.
 
 ![Slime Rancher Gameplay]({{site.baseurl}}/img/slime-rancher-gameplay.jpg)
 
