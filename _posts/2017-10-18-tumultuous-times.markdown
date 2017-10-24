@@ -9,7 +9,7 @@ Now, it might seem that all I do is complain on this blog, and you wouldn't be c
 
 ## The Big Hill
 
-Every single year of the school, I'll always here about how this will be the "hardest year" of my high school life, even when I was a freshman. And every year, it really feels like it - life gets harder. This year is no exception: an unfortunate combination of unlucky school deadlines, university applications, extracurricular pressure, and some personal issues have compounded into a giant boulder that crushes all of my hopes and dreams.
+Every single year of the school, I'll always hear about how this will be the "hardest year" of my high school life, even when I was a freshman. And every year, it really feels like it - life gets harder. This year is no exception: an unfortunate combination of unlucky school deadlines, university applications, extracurricular pressure, and some personal issues have compounded into a giant boulder that crushes all of my hopes and dreams.
 
 But, as I said earlier, I'm not here to complain - rather, I want to talk about how I instead avoid complaining. So, let's get into it.
 
