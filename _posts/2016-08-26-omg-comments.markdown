@@ -1,8 +1,9 @@
 ---
+title: OMG, Comments!
+date: 2016-08-26 15:36:42 Z
+categories:
+- site
 layout: post
-title:  "OMG, Comments!"
-date:   2016-08-26 11:36:42 -0400
-categories: site
 ---
 
 **Oh yeah,** and in the theme of improvements, I've now added comments to the blog. Before, if you disagreed with what I said, you just had to hold it in. Now, you can finally let it go in true Elsa fashion! In addition, you can use *markdown*, and you get an [awesome, adorable, avatar](http://avatars.adorable.io/). How awesome. And adorable.

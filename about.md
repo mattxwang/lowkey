@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 ![An image logo of Lowkey]({{site.baseurl}}/img/lowkey-transparent.png)

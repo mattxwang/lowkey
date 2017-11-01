@@ -1,8 +1,9 @@
 ---
+title: 'Top 15 Albums at 15 | #4 Graduation'
+date: 2016-11-15 03:02:42 Z
+categories:
+- 15at15
 layout: post
-title:  "Top 15 Albums at 15 | #4 Graduation"
-date:   2016-11-14 23:02:42 -0400
-categories: 15at15
 ---
 
 Did you realize, that you are a champion?

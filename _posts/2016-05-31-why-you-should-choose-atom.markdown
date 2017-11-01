@@ -1,8 +1,9 @@
 ---
+title: 'Text Editors: Why You Should Choose Atom'
+date: 2016-05-31 22:38:42 Z
+categories:
+- tech
 layout: post
-title:  "Text Editors: Why You Should Choose Atom"
-date:   2016-05-31 18:38:42 -0400
-categories: tech
 ---
 
 **A piece of advice** my parents have drilled into me, and subsequently that I've given to other people, is to not skimp out on important stuff: when you're buying a mattress, or shoes, or a TV, that's something that you're going to be using every, single, day. Getting a bad mattress will cause you a lot more pain than the $30 you saved.

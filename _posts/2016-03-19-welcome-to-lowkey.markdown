@@ -1,9 +1,11 @@
 ---
+title: Welcome to Lowkey!
+date: 2016-03-19 22:50:52 Z
+categories:
+- site
 layout: post
-title:  "Welcome to Lowkey!"
-date:   2016-03-19 18:50:52 -0400
-categories: site
 ---
+
 Welcome to Lowkey, a blog where I'll try my best to be funny and show you cool things.
 
 Man, I'm super excited for this blog! I have no ruby experience, have never used jekyll, and am an absolutely new blogger. That being said, hopefully this'll become a cool-ass project that I can look back on two or three years in the future saying, wow Matt, this was a great idea. First things first, I need to formalize my writing style!

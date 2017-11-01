@@ -1,9 +1,10 @@
 ---
+title: Intro | SHAD 2016 Series
+date: 2016-07-03 15:44:42 Z
+categories:
+- shad2016
 layout: post
-title:  "Intro | SHAD 2016 Series"
-date:   2016-07-03 11:44:42 -0400
-categories: shad2016
-author: "Eager SHAD Matthew Wang"
+author: Eager SHAD Matthew Wang
 ---
 
 For the next month or so, I'm going to spend my time at McMaster University completing the SHAD program, which in short is a sciences and "life" camp where candidates stay at Canadian universities for a month. While I'm there, I'll update you guys (or the one person who actually does read my blog) on what's going on, including projects that I work on, and people that I meet. Hopefully, it'll be an awesome time!

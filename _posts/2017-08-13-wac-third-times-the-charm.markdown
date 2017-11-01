@@ -1,8 +1,9 @@
 ---
+title: 'WAC: Third Time''s The Charm'
+date: 2017-08-13 18:44:41 Z
+categories:
+- dev
 layout: post
-title:  "WAC: Third Time's The Charm"
-date:   2017-08-13 14:44:41 -0400
-categories: dev
 ---
 
 I just took a break from playing Skyrim to do work on WAC.

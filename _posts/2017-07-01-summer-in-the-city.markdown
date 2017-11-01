@@ -1,8 +1,9 @@
 ---
+title: Summer In The City and A Summer-y of This Year
+date: 2017-07-01 19:15:15 Z
+categories:
+- life
 layout: post
-title:  "Summer In The City and A Summer-y of This Year"
-date:   2017-07-01 15:15:15 -0400
-categories: life
 ---
 
 Summer is a great time for most kids. School is over, the weather is (somewhat) nice, and there are tons of fun things to do. And for me, it's similar, but different. In this post, I'll just talk about what I'm doing for the summer, as well as some thoughts on this academic year. For all 2 of my readers, you're going to be in for a fun time.

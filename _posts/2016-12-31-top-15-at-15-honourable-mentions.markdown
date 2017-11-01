@@ -1,8 +1,9 @@
 ---
+title: Top 15 Albums at 15 | Honourable Mentions
+date: 2016-12-31 12:24:42 Z
+categories:
+- 15at15
 layout: post
-title:  "Top 15 Albums at 15 | Honourable Mentions"
-date:   2016-12-31 08:24:42 -0400
-categories: 15at15
 ---
 
 Wow, it's the end of the year! It's also the end of the Top 15 Albums at 15 series, which I thought was an interesting and cool experiment. It forced me to reflect on my music tastes, and how age and maturity affected my journey as a music consumer. Before I do a mini-reflection, let's do a quick list of some honourable mentions that didn't end up making the list, but are still pretty cool albums.

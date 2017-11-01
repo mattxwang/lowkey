@@ -1,8 +1,9 @@
 ---
+title: 'Top 15 Albums at 15 | #12 Coloring Book'
+date: 2016-08-27 14:46:42 Z
+categories:
+- 15at15
 layout: post
-title:  "Top 15 Albums at 15 | #12 Coloring Book"
-date:   2016-08-27 10:46:42 -0400
-categories: 15at15
 ---
 
 This next album isn't really an album, but a mixtape: it'll also be the first mixtape eligible for a Grammy. It's also probably the only coloring book used by adults. I'm excited to present to you:

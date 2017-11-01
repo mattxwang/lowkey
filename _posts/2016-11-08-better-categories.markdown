@@ -1,8 +1,9 @@
 ---
+title: "(Hopefully) Better Categories"
+date: 2016-11-08 14:21:42 Z
+categories:
+- site
 layout: post
-title:  "(Hopefully) Better Categories"
-date:   2016-11-08 10:21:42 -0400
-categories: site
 ---
 
 Hello there,

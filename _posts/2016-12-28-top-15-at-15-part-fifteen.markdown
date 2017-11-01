@@ -1,8 +1,9 @@
 ---
+title: 'Top 15 Albums at 15 | #1: Under Pressure'
+date: 2016-12-28 00:02:42 Z
+categories:
+- 15at15
 layout: post
-title:  "Top 15 Albums at 15 | #1: Under Pressure"
-date:   2016-12-27 20:02:42 -0400
-categories: 15at15
 ---
 
 And, here's the (almost) end of the series; after, I'll do a runner-up list. It was fun while it lasted.

@@ -1,8 +1,9 @@
 ---
+title: Installing Jekyll 3 and Ruby 2+ On A Webserver
+date: 2016-06-29 17:30:43 Z
+categories:
+- dev
 layout: post
-title:  "Installing Jekyll 3 and Ruby 2+ On A Webserver"
-date:   2016-06-29 13:30:43 -0400
-categories: dev
 ---
 
 As you may or may not know, I've been working on the [OMUN](http://omun.ca) and [WAC](http://world.ac) websites over the summer, both of which are rendered with [Jekyll](https://jekyllrb.com/). I've had to set up new webservers (or new configurations) of this stuff to get it to work with our official, stable releases, and it's a huge headache to install. Let me walk you through it on `Ubuntu 14.04`:

@@ -1,8 +1,9 @@
 ---
+title: 'Top 15 Albums at 15 | #7 Oracular Spectacular'
+date: 2016-10-02 22:02:42 Z
+categories:
+- 15at15
 layout: post
-title:  "Top 15 Albums at 15 | #7 Oracular Spectacular"
-date:   2016-10-02 18:02:42 -0400
-categories: 15at15
 ---
 
 Man, this one is the definition of a throwback to me (which is kinda pathetic since it's only ~ 10 years back), but it's also what I anticipate to be one of the *classics*. Let's take a look at:

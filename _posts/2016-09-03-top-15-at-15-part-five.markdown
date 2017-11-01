@@ -1,8 +1,9 @@
 ---
+title: 'Top 15 Albums at 15 | #11 Death Of A Bachelor'
+date: 2016-09-03 13:37:42 Z
+categories:
+- 15at15
 layout: post
-title:  "Top 15 Albums at 15 | #11 Death Of A Bachelor"
-date:   2016-09-03 09:37:42 -0400
-categories: 15at15
 ---
 
 Whenever I talk about Panic!, I always yell out the "Panic!" and do a panic squat. It's something special that I picked up from the friend who recommended me Panic!. I'm going to talk about that, and more, in this exceptionally long album review that has nothing to do with the actual review, but with an interesting story that I want to tell you about this friend. I'm excited to recommend to you..

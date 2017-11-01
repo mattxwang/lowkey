@@ -1,8 +1,9 @@
 ---
+title: Shoot for the Stars | Analyzing Starbucks Rewards
+date: 2016-03-23 14:50:26 Z
+categories:
+- misc
 layout: post
-title:  "Shoot for the Stars | Analyzing Starbucks Rewards"
-date:   2016-03-23 10:50:26 -0400
-categories: misc
 author: Crazed Starbucks Fanatic
 ---
 

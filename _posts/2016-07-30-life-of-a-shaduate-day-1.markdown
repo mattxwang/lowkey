@@ -1,9 +1,10 @@
 ---
+title: Life of a SHADuate, Day 1 | SHAD 2016 Series
+date: 2016-07-30 21:44:42 Z
+categories:
+- shad2016
 layout: post
-title:  "Life of a SHADuate, Day 1 | SHAD 2016 Series"
-date:   2016-07-30 17:44:42 -0400
-categories: shad2016
-author: "Very, Very Sad SHAD Matthew Wang"
+author: Very, Very Sad SHAD Matthew Wang
 ---
 
 **I'm sad.** Not because of how depressing the world is (though it is, and I'll allude to this later), but because I'm going to miss a lot of people. 55 SHADs, 7 PAs, an AF, and 4 Senior Staff, to be exact.

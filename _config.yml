@@ -1,49 +1,47 @@
-# Site settings
+---
 title: Lowkey
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  specials:
+    title: Specials
+    output: true
+    layout: page
+  uploads:
+    title: Uploads
+    output: true
 title_long: Lowkey | A blog by Matthew Wang
 email: matt@matthewwang.me
 author:
   name: Matthew Wang
   twitter: malsf21
-description: > #
-  I'm Matt, and Lowkey is my blog. On Lowkey, I discuss random cool things, cool people, and cool ideas.
-baseurl: ""
-url: "https://blog.matthewwang.me"
+description: 'I''m Matt, and Lowkey is my blog. On Lowkey, I discuss random cool things,
+  cool people, and cool ideas.
+
+'
+baseurl: ''
+url: https://blog.matthewwang.me
 twitter:
   username: malsf21
-github:  malsf21
-repo: "http://github.com/malsf21/lowkey"
-website: "https://matthewwang.me"
+github: malsf21
+repo: http://github.com/malsf21/lowkey
+website: https://matthewwang.me
 logo: "/img/lowkey-simple.png"
-
-# Build settings
 markdown: kramdown
-exclude: [vendor]
-
-# Gem Configs
+exclude:
+- vendor
 gems:
-  - jekyll-paginate
-  - jekyll-archives
-  - jekyll-seo-tag
-
-# Paginate
-
+- jekyll-paginate
+- jekyll-archives
+- jekyll-seo-tag
 paginate: 10
-
-# Collections
-
-collections:
-  specials:
-    output: true
-    layout: page
-
-# Jekyll Archives Configuration
-
 jekyll-archives:
   enabled:
-    - year
-    - month
-    - categories
+  - year
+  - month
+  - categories
   layouts:
     year: year-archive
     month: month-archive

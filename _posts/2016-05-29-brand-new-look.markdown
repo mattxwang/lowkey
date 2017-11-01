@@ -1,8 +1,9 @@
 ---
+title: A Brand New Look
+date: 2016-05-29 18:53:42 Z
+categories:
+- site
 layout: post
-title:  "A Brand New Look"
-date:   2016-05-29 14:53:42 -0400
-categories: site
 ---
 
 Hey there! Just a quick update, I've changed how the site looks so it isn't just the default Jekyll theme. Woohoo! Now it looks truly lowkey, with colours that don't yell at your face, but are nice, pretty, and pleasing. Obviously, I didn't choose this palette myself; you can find the theme <a href="https://www.creative-tim.com/product/paper-kit" data-proofer-ignore>here</a>, free-of-charge courtesy of Creative Tim.

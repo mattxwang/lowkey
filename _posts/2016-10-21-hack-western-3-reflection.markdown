@@ -1,8 +1,9 @@
 ---
+title: Hack Western 3 Post-Mortem
+date: 2016-10-21 14:02:42 Z
+categories:
+- dev
 layout: post
-title:  "Hack Western 3 Post-Mortem"
-date:   2016-10-21 10:02:42 -0400
-categories: dev
 ---
 
 Aw man, this is kinda late: but I've been a little busy (and I'm heading out to McGill right now)! I want to do a quick reflection of my experience at Hack Western: it was my first hackathon, and I loved it! It's one of those experiences that I'll hopefully cherish for a very, very long time. Alas, I have no regrets (except maybe not as much Pepsi)!

@@ -1,8 +1,9 @@
 ---
+title: March &lt;/br&gt;
+date: 2017-03-21 16:12:12 Z
+categories:
+- life
 layout: post
-title:  "March &lt;/br&gt;"
-date:   2017-03-21 12:12:12 -0400
-categories: life
 ---
 
 So firstly, I apologize to my one reader (hi John) for not writing posts earlier: I've had a brutal past 2 months (haven't been at home on the weekends in the past 9 weeks), but that's alright. Now, it's the March Break, so I have a bit of time to talk about what's been going on in the past few months, and a few of the lessons I've learned.

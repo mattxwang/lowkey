@@ -1,8 +1,9 @@
 ---
+title: The End of Comments
+date: 2016-12-01 16:39:43 Z
+categories:
+- site
 layout: post
-title:  "The End of Comments"
-date:   2016-12-01 12:39:43 -0400
-categories: site
 ---
 
 Yeah, the title says it all. I've removed comments from Lowkey.

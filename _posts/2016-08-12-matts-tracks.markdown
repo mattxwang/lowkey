@@ -1,8 +1,9 @@
 ---
+title: Taking a Look Into My Music Habits
+date: 2016-08-12 18:39:43 Z
+categories:
+- dev
 layout: post
-title:  "Taking a Look Into My Music Habits"
-date:   2016-08-12 14:39:43 -0400
-categories: dev
 ---
 
 **As you probably don't know**, one of my personal projects (stuff that I work on when I don't have to work on FoodSpan or school stuff) is [Status](https://github.com/malsf21/status), a set of tools that tells you things about me. It's buggy as hell, and terribly coded, but it's alright: I still like it.

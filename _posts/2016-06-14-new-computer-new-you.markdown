@@ -1,8 +1,9 @@
 ---
+title: New Computer, New You | Tech Philosophy
+date: 2016-06-14 22:26:43 Z
+categories:
+- tech
 layout: post
-title:  "New Computer, New You | Tech Philosophy"
-date:   2016-06-14 18:26:43 -0400
-categories: tech
 ---
 
 **Today** I received a brand new 2015 MacBook Air, trading in my old 2012 MacBook Pro for a much-needed upgrade. I installed Google Drive, customized my terminal, and re-installed all my Steam Games, finishing my upgrade in a record 30 minutes. It's a nice feeling: I have an SSD now, a lighter laptop, and a nicer display, but at the cost of a worse CPU and integrated graphics system.

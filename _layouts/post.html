@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="post-info">
   <h1 class="post-title">{{ page.title }}</h1>
   <p class="text-center"><a href="{{site.baseurl}}/category/{{ page.categories }}/">{{ page.categories }}</a> • {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}</p>

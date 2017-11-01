@@ -1,8 +1,9 @@
 ---
+title: 'Top 15 Albums at 15 | #13 Paramore'
+date: 2016-08-19 19:46:42 Z
+categories:
+- 15at15
 layout: post
-title:  "Top 15 Albums at 15 | #13 Paramore"
-date:   2016-08-19 15:46:42 -0400
-categories: 15at15
 ---
 
 Our next album is a very interesting, but also amazing release. Plus, it both brings back nostalgia to the early 2000's and 2010's, and also is a look into modern music. Let's get a  drumroll...

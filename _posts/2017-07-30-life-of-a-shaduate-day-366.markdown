@@ -1,8 +1,9 @@
 ---
+title: Life of a SHADuate, Day 366 | SHAD 2016 Series
+date: 2017-07-30 18:44:42 Z
+categories:
+- shad2016
 layout: post
-title:  "Life of a SHADuate, Day 366 | SHAD 2016 Series"
-date:   2017-07-30 14:44:42 -0400
-categories: shad2016
 ---
 
 SHAD 2017 just ended. I wasn't a part of that "graduating class", but a lot of my friends were; I caught up with them and asked about how it was. And for the wide majority of them, the answer was a resounding "awesome". I was super happy for all of my friends when they heard they got into SHAD, and I'm excited that they got to experience the same (mostly) awesome program that I did a year ago.

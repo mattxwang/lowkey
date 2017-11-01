@@ -1,8 +1,9 @@
 ---
+title: 'Top 15 Albums at 15 | #5 The Black Parade'
+date: 2016-10-31 03:02:42 Z
+categories:
+- 15at15
 layout: post
-title:  "Top 15 Albums at 15 | #5 The Black Parade"
-date:   2016-10-30 23:02:42 -0400
-categories: 15at15
 ---
 
 I'm going to regret writing this, aren't I?

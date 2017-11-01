@@ -1,8 +1,9 @@
 ---
+title: 'Top 15 Albums at 15 | #8 Acid Rap'
+date: 2016-09-26 00:02:42 Z
+categories:
+- 15at15
 layout: post
-title:  "Top 15 Albums at 15 | #8 Acid Rap"
-date:   2016-09-25 20:02:42 -0400
-categories: 15at15
 ---
 
 Chance, acid rapper, soccer, hacky sacker, cocky khaki jacket jacker, slap-happy f-... woah woah woah. Regardless of some of the lyrics, I'm excited to present to you this next project:

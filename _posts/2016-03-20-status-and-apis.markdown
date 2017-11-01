@@ -1,8 +1,9 @@
 ---
+title: Status And Learning About APIs
+date: 2016-03-20 00:39:43 Z
+categories:
+- dev
 layout: post
-title:  "Status And Learning About APIs"
-date:   2016-03-19 20:39:43 -0400
-categories: dev
 ---
 
 One of my latest pet projects has been [status](http://matthewwang.me/status), a little web-app that tells you what I'm doing, whether it be playing League, Streaming, tweeting, Instagramming, or coding. I'm planning to add Steam API functionality, as well as Spotify API/Last.fm API functionality, though I think it's going to be a struggle. Eventually, I'm planning to get everything to work with different users, allowing each user to make their own status!

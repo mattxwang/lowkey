@@ -1,9 +1,10 @@
 ---
+title: Life of a SHADuate, Day 7 | SHAD 2016 Series
+date: 2016-08-05 21:44:42 Z
+categories:
+- shad2016
 layout: post
-title:  "Life of a SHADuate, Day 7 | SHAD 2016 Series"
-date:   2016-08-05 17:44:42 -0400
-categories: shad2016
-author: "Introspective SHAD Matthew Wang"
+author: Introspective SHAD Matthew Wang
 ---
 
 **I think you've guessed by now** that this series isn't necessarily me talking about the physical things that I experienced at SHAD, but more of a set of life lessons. And I'm no licensed life coach or anything (but I'm close), but maybe I'll share a few more thoughts.

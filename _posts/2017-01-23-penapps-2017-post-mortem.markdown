@@ -1,8 +1,9 @@
 ---
+title: PennApps 2017 Post-Mortem
+date: 2017-01-23 03:18:42 Z
+categories:
+- dev
 layout: post
-title:  "PennApps 2017 Post-Mortem"
-date:   2017-01-22 23:18:42 -0400
-categories: dev
 ---
 
 ![PennApps Cover Page]({{site.baseurl}}/img/2017-01-22-pennapps.png)

@@ -1,8 +1,9 @@
 ---
+title: A Trek And A Half | OMUN.ca General Public Release
+date: 2016-06-27 15:30:43 Z
+categories:
+- dev
 layout: post
-title:  "A Trek And A Half | OMUN.ca General Public Release"
-date:   2016-06-27 11:30:43 -0400
-categories: dev
 ---
 
 Today, we [released Version 1](https://github.com/malsf21/omun.ca/releases/tag/v1.0.0) of [omun.ca](http://omun.ca), which is a huge milestone for me: it's a completely solo site project, so I've been doing planning (with some Agile Scrum, of course), content, coding, QA, everything. It's been a nightmare, but at the same time a great learning experience: a lot of late-night realisations of how I should do things next time around, which is better to know now than later.

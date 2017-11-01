@@ -1,8 +1,9 @@
 ---
+title: AudioNotch Post-Mortem, Part 1
+date: 2017-09-06 19:55:55 Z
+categories:
+- dev
 layout: post
-title:  "AudioNotch Post-Mortem, Part 1"
-date:   2017-09-06 15:55:55 -0400
-categories: dev
 ---
 
 It's that time of the year again! I'm going back to school tomorrow, and that marks the end of my summer. I'm feeling a little tired, to be honest. This summer, I had the least amount of rest I've ever had, and done the most work. More specifically, I worked as a software developer at [AudioNotch](https://audionotch.com). I'll break down what I did, and what I learned.

@@ -1,9 +1,10 @@
 ---
+title: Half Way There | SHAD 2016 Series
+date: 2016-07-16 11:44:42 Z
+categories:
+- shad2016
 layout: post
-title:  "Half Way There | SHAD 2016 Series"
-date:   2016-07-16 07:44:42 -0400
-categories: shad2016
-author: "Tired SHAD Matthew Wang"
+author: Tired SHAD Matthew Wang
 ---
 
 *Hey there! If you don't know, I'm at SHAD @ Mac (and will be for the next two weeks). While I said I'd post weekly updates, SHAD has been insanely busy; that being said, I'll try my best to talk about it now.*

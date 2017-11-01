@@ -1,8 +1,9 @@
 ---
+title: 'Top 15 Albums at 15 | #9 1989'
+date: 2016-09-17 20:10:42 Z
+categories:
+- 15at15
 layout: post
-title:  "Top 15 Albums at 15 | #9 1989"
-date:   2016-09-17 16:10:42 -0400
-categories: 15at15
 ---
 
 If you know me well, this next album comes with no surprises. Let's talk about...

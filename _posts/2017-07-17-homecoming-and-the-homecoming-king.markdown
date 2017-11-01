@@ -1,8 +1,9 @@
 ---
+title: Homecoming and the Homecoming King
+date: 2017-07-17 00:20:20 Z
+categories:
+- entertainment
 layout: post
-title:  "Homecoming and the Homecoming King"
-date:   2017-07-16 20:20:20 -0400
-categories: entertainment
 ---
 
 During the summer, a lot of people go on vacation. Paris, Hong Kong, Mexico City, Sydney, even Cairo. I've never been a huge vacation person, which probably isn't a good thing; there are lots of benefits of seeing the world, even if it means you have to leave the comfort of your home. I'm in Toronto for my entire summer break, but that's okay. I still try to travel the world, just from the comfort of my chair.

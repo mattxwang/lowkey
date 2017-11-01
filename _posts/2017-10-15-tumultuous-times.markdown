@@ -1,8 +1,9 @@
 ---
+title: Tumultuous Times, Amperes, and Slime Rancher
+date: 2017-10-15 16:34:50 Z
+categories:
+- life
 layout: post
-title:  "Tumultuous Times, Amperes, and Slime Rancher"
-date:   2017-10-15 12:34:50 -0400
-categories: life
 ---
 
 Now, it might seem that all I do is complain on this blog, and you wouldn't be completely wrong. In this post, I'm going to complain a bit, but I'll also talk about how I cope - music, video games, and the power of friendship.
