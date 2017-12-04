@@ -1,5 +1,5 @@
 ---
-title: "Looking Back at 15at15: 15at17 Part 1"
+title: 'Looking Back at 15at15: 15at17 Part 1'
 date: 2017-11-29 16:34:50 Z
 categories:
 - 15at15
