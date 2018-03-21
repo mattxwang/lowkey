@@ -4,21 +4,14 @@ permalink: "/specials/15at15/"
 layout: page
 ---
 
-<div class="well">
-  <div class="row">
-    <div class="col-sm-4">
-      <a href="{{site.baseurl}}/specials/15at15/">
-        <img class="img-responsive" src="{{site.baseurl}}/img/vinyl-turntable.jpg" alt="Vinyl Turntable"/>
-      </a>
-    </div>
-    <div class="col-sm-8">
-      <h2><a href="{{site.baseurl}}/specials/15at15/">Top 15 Albums at 15</a></h2>
-      <p>
-        I walk you through my Top 15 most impactful albums at 15, and tell a few long, off-topic stories that somehow all come together to make one coherent series. Plus, there's an honourable mention section, and many things I write about that you can use to make fun of me.
-      </p>
-    </div>
-  </div>
-</div>
+<a href="{{site.baseurl}}/specials/15at15/">
+  <img class="img-responsive" src="{{site.baseurl}}/img/vinyl-turntable.jpg" alt="Vinyl Turntable"/>
+</a>
+<h2><a href="{{site.baseurl}}/specials/15at15/">Top 15 Albums at 15</a></h2>
+<p>
+  I walk you through my Top 15 most impactful albums at 15, and tell a few long, off-topic stories that somehow all come together to make one coherent series. Plus, there's an honourable mention section, and many things I write about that you can use to make fun of me.
+</p>
+<hr class="border-top-primary" />
 {% for post in site.categories["15at15"] reversed %}
   <div class="post-listing">
     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | remove: "Top 15 Albums at 15 | "}}</a> <span class="post-listing-date">{{ post.date | date: "%b %-d, %Y" }}</span>

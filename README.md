@@ -4,7 +4,7 @@
 
 **Lowkey** is my blog: nothing too special, nothing I need to announce, just a place where I talk about cool things, cool events, and cool people. Along the way, you'll see some wacky stuff (like a post analyzing Starbucks Rewards), developer insights on how I made this blog (using Jekyll, obviously!), and a few nice tidbits about my life.
 
-Lowkey was built on [Jekyll](https://jekyllrb.com) and [Bootstrap](https://getbootstrap.com).
+Lowkey was built on [Jekyll](https://jekyllrb.com) and [Liteweight](https://malsf21.github.io/liteweight/).
 
 ## Setup
 

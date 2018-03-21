@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>{{ page.title | capitalize }}</h1>
+<h1>Category: {{ page.title | capitalize }}</h1>
 {% for post in page.posts %}
 <div class="post-listing">
   <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="post-listing-date">{{ post.date | date: "%b %-d, %Y" }}</span>

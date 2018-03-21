@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<h1>Lowkey <small>A Blog by Matthew Wang</small></h1>
+<h1><span class="text-primary">Lowkey</span> <span class="post-listing-date">a blog by Matthew Wang</span></h1>
 
-<hr />
+<hr class="border-top-primary" />
 
 {% for post in paginator.posts %}
   <div class="post-listing">
@@ -12,18 +12,12 @@ layout: default
     </br>
   </div>
 {% endfor %}
-<nav>
-  <ul class="pager">
-    <li>{% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% else %}
-      <span class="previous">Previous</span>
-    {% endif %}</li>
-    <li><span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span></li>
-    <li>{% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-    {% else %}
-      <span class="next ">Next</span>
-    {% endif %}</li>
-  </ul>
-</nav>
+<div class="text-center">
+  {% if paginator.previous_page %}
+    <a class="button button-primary" href="{{ paginator.previous_page_path }}">Previous</a>
+  {% endif %}
+  <span class="tag tag-primary">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a class="button button-primary" href="{{ paginator.next_page_path }}">Next</a>
+  {% endif %}</li>
+</div>

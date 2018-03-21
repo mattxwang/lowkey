@@ -1,8 +1,6 @@
-<hr />
 <footer>
   <div class="container footer-container">
     <span>{{site.title_long}}</span>
-    <p>{{ site.description }}</p>
     <p>You can find the code for this blog on <a href="{{site.repo}}">GitHub.</a></p>
     <a href="mailto:{{ site.email }}">
       <span class="sr-only">Matt's Email, {{site.email}}</span>
@@ -42,46 +40,3 @@
     </a>
   </div>
 </footer>
-
-
-<script src="{{site.baseurl}}/js/jquery.min.js"></script>
-<script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
-
-<script>
-  $("table").addClass("table"); // this is so markdown tables are responsive
-  // this next part is Navbar stuff
-  function initRightMenu() {
-    navbar_initialized || ($navbar = $("nav").find(".navbar-collapse").first().clone(!0), $navbar.css("min-height", window.screen.height), ul_content = "", $navbar.children("ul").each(function() {
-      content_buff = $(this).html(),
-      ul_content += content_buff
-    }), ul_content = '<ul class="nav navbar-nav">' + ul_content + "</ul>", $navbar.html(ul_content), $("body").append($navbar),
-    $toggle = $(".navbar-toggle"),
-    $navbar.find("a").removeClass("btn btn-round btn-default"),
-    $navbar.find("button").removeClass("btn-round btn-fill btn-info btn-primary btn-success btn-danger btn-warning btn-neutral"),
-    $navbar.find("button").addClass("btn-simple btn-block"),
-    $toggle.click(function() {
-      1 == navbar_menu_visible
-        ? ($("html").removeClass("nav-open"), navbar_menu_visible = 0, $("#bodyClick").remove(), setTimeout(function() {
-          $toggle.removeClass("toggled")
-        }, 400))
-        : (setTimeout(function() {
-          $toggle.addClass("toggled")
-        }, 430), div = '<div id="bodyClick"></div>', $(div).appendTo("body").click(function() {
-          $("html").removeClass("nav-open"),
-          navbar_menu_visible = 0,
-          $("#bodyClick").remove(),
-          setTimeout(function() {
-            $toggle.removeClass("toggled")
-          }, 400)
-        }), $("html").addClass("nav-open"), navbar_menu_visible = 1)
-    }), navbar_initialized = !0)
-  }
-  var navbar_initialized = !1,
-    navbar_menu_visible = 0;
-  $(document).ready(function() {
-    $(window).width() < 768 && initRightMenu()
-  }),
-  $(window).resize(function() {
-    $(window).width() < 768 && initRightMenu()
-  });
-</script>

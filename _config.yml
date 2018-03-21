@@ -31,11 +31,19 @@ website: https://matthewwang.me
 logo: "/img/lowkey-simple.png"
 markdown: kramdown
 exclude:
-- vendor
+  - vendor
+  - LICENSE.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - .travis.yml
+  - .gitignore
+  - .sass-cache
+  - .git
 gems:
-- jekyll-paginate
-- jekyll-archives
-- jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-seo-tag
 paginate: 10
 jekyll-archives:
   enabled:
