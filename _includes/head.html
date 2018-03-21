@@ -5,8 +5,8 @@
 
   <title>{% if page.title %}{{ page.title}} | {{site.title}}{% else %}{{ site.title_long | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <link rel="icon" href="{{ "/css/favicon.ico" | prepend: site.baseurl }}">
-  
+  <link rel="icon" href="{{ "/img/logo.png" | prepend: site.baseurl }}">
+
   <link rel="stylesheet" href="{{ "/css/liteweight.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
 
