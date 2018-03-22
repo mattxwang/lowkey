@@ -25,6 +25,12 @@ img{
   white-space: nowrap;
   text-overflow: ellipsis;
 }
+.post-listing-link{
+  color:inherit;
+}
+.post-listing-link:hover{
+  color: #E95420;
+}
 .post-listing-date{
   font-size: 0.75em;
   color: #95A5A6;

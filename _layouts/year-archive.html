@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<h1>Year: {{ page.date | date: "%Y" }}</h1>
-
+<h1 class="text-primary">Year: {{ page.date | date: "%Y" }}</h1>
+<hr class="border-top-primary" />
 {% for post in page.posts %}
 <div class="post-listing">
-  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="post-listing-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <a class="post-listing-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="post-listing-date">{{ post.date | date: "%b %-d, %Y" }}</span>
   </br>
 </div>
 {% endfor %}

@@ -1,9 +1,9 @@
 ---
+title: "Categories"
 permalink: "/categories/"
-layout: default
+layout: page
 ---
 
-<h1 class="page-header">Categories</h1>
 {% for category in site.categories %}
-  <h2><a href="{{site.baseurl}}/category/{{ category | first }}">{{ category | first | capitalize }}</a></h2>
+  <h2><a class="post-listing-link" href="{{site.baseurl}}/category/{{ category | first }}">{{ category | first | capitalize }}</a></h2>
 {% endfor %}
