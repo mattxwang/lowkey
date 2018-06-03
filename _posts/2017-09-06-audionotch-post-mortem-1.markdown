@@ -149,7 +149,7 @@ I made a few sitewide changes to generally improve readability:
 * New colour scheme (same idea though), a little more bright and feel good
 * **Focused layouting** (I explain this later)
 * Standardized standard content areas (footer, navbar, app drawer, etc.)
-* New and larger icons ([Font Awesome!](https://fontawesome.io))
+* New and larger icons ([Font Awesome!](https://fontawesome.com))
 * Responsive imagery
 * Upped font sizes and made almost all fonts relative (this is a Bootstrap thing, but it's still good that we did it)
 * General coding stuff that made my life easier (less inline styling, compressing stylesheets, removing unneeded libraries, etc.)
