@@ -7,7 +7,7 @@ layout: post
 author: Crazed Starbucks Fanatic
 ---
 
-![My Starbucks Rewards](http://matthewwang.me/blog/img/2016-03-23-MSR.png "My Starbucks Rewards")
+![My Starbucks Rewards]({{site.baseurl}}/img/2016-03-23-MSR.png)
 
 **Starbucks Canada**, for a long time, has had a rewards program called *My Starbucks Rewards*. Recently, they've announced that a new program, *Starbucks Rewards*, will be replacing MSR in April. And, this wouldn't be Matt Wang without some article about Starbucks, so let's go over the changes.
 
