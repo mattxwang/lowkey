@@ -40,7 +40,7 @@ exclude:
   - .gitignore
   - .sass-cache
   - .git
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-seo-tag
