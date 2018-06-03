@@ -49,6 +49,12 @@ img{
   margin: 0 auto;
   max-width: 75rem;
 }
+.footer-link:hover{
+  text-decoration: none;
+}
+.footer-link svg:hover{
+  fill: #E95420;
+}
 .sr-only{
   position: absolute;
   width: 1px;
