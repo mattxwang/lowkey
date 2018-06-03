@@ -55,8 +55,6 @@ So, what's the consequence of these awards? Well, for starters, it makes the act
 
 ## Lessons Learned
 
-Wow, that was super cynical. And I'm aware how pretentious, gatekeep-y, and "salty" I sound, but I promise, I'm not like this in real life. MUN just has me very vindictive.
-
 But, even though I think that MUN (as an activity) has major, major flaws, it still has a lion's share of benefits - just those benefits are not the ones I identified earlier.
 
 The biggest lesson that I've learned is completely unrelated to international relations or Model UN. How MUN doles out awards is very similar to how a lot of things in real life actually function, opposed to how they should. Being qualified for a job is important, but "sounding smart" and being sociable is easily as important, if not more. MUN has taught me how important these "soft skills" are, and it's developed them for me too. "Compromising" without compromising has proven to be a very useful skill in life, as has using flowery language to "sell" an idea. Spotting the people in the room who care and those who don't has made me a significantly better presenter. Being nice to people that I strongly dislike has become easy as cake. Spotting people who are being overconfident in their knowledge and/or are lying has been invaluable, especially when hiring. And, being helpful to people who need help is actually a good thing to do, though now I try to do it without ulterior motives.
@@ -72,6 +70,8 @@ On a more personal note, I also learned about prioritizing commitments. While I 
 As with any kind of activity, I also made lots of friends - people in my club at school, random people that I met at conferences, or bonding with people over how much I hated aspects of Model UN. Still, something about the nature of Model UN (how it blurs the line between the human being and the delegate) made it harder to have long lasting friendships through MUN, compared to debate. Regardless, I made quite a few good friends (and many more acquaintances) through MUN. I also had the pleasure of having a great faculty advisor - one who was equally intelligent and passionate about MUN and about his students. Thank you Mr. Griem!
 
 ## Final Thoughts
+
+Wow, this entire post was super cynical. And I'm aware how pretentious, gatekeep-y, and "salty" I sound, but I promise, I'm not like this in real life. MUN just has me very vindictive, and gets me in a #mood.
 
 Looking back, it's very hard for me to say whether or not I would've done Model UN all over again. It's hard for me to want to change most things about my past, since I'm not sure what kind of person I'd be now (i.e. I'd probably be more of a dick). Model UN was a huge timesink, and that's time that I could've spent studying more or doing more coding to get into Stanford or UC Berkeley.
 
