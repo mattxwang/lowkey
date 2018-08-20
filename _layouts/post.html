@@ -2,9 +2,17 @@
 layout: default
 ---
 
-<div class="post-info">
+<div class="post-info text-center">
   <h1 class="post-title">{{ page.title }}</h1>
-  <p class="text-center"><a href="{{site.baseurl}}/category/{{ page.categories }}/">{{ page.categories }}</a> • {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}</p>
+  <p><a href="{{site.baseurl}}/category/{{ page.categories }}/">{{ page.categories }}</a> • {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}</p>
+  <p>
+    {% capture words %}
+      {{ page.content | number_of_words | minus: 250 }}
+    {% endcapture %}
+    {% unless words contains "-" %}
+    ~ {{ words | plus: 250 | divided_by: 180 | append: " minute read" }} • {{ words | plus: 250 | append: " words" }}
+    {% endunless %}
+  </p>
 </div>
 <div class="post-container">
   {{ content }}
@@ -12,4 +20,12 @@ layout: default
 <div class="text-center">
   <p>This was: <a href="{{page.url}}">{{ page.title }}</a></p>
   <p><a href="{{site.baseurl}}/category/{{ page.categories }}/">{{ page.categories }}</a> • {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}</p>
+  <p>
+    {% capture words %}
+      {{ page.content | number_of_words | minus: 250 }}
+    {% endcapture %}
+    {% unless words contains "-" %}
+    ~ {{ words | plus: 250 | divided_by: 180 | append: " minute read" }} • {{ words | plus: 250 | append: " words" }}
+    {% endunless %}
+  </p>
 </div>
