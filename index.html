@@ -4,15 +4,28 @@ layout: default
 
 {% for post in paginator.posts %}
   <div class="post-listing">
-    <a class="post-listing-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="post-listing-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </br>
+    <a class="post-listing-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <div class="post-listing-info">
+      <div class="post-listing-date">{{ post.date | date: "%d/%m/%y" }}</div>
+      <div class="post-listing-metadata">
+        {% capture words %}
+          {{ post.content | number_of_words | minus: 250 }}
+        {% endcapture %}
+        {% if words contains "-" %}
+        quick read / {{ words | plus: 250 | append: " words" }}
+        {% else %}
+        ~ {{ words | plus: 250 | divided_by: 180 | append: " min" }} / {{ words | plus: 250 | append: " words" }}
+        {% endif %}
+      </div>
+    </div>
   </div>
+  <hr />
 {% endfor %}
 <div class="text-center">
   {% if paginator.previous_page %}
-    <a class="button button-primary" href="{{ paginator.previous_page_path }}">Previous</a>
+    <a class="button bg-primary" href="{{ paginator.previous_page_path }}">Previous</a>
   {% endif %}
-  <span class="tag tag-primary">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="tag bg-primary">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a class="button button-primary" href="{{ paginator.next_page_path }}">Next</a>
   {% endif %}</li>

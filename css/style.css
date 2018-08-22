@@ -21,18 +21,27 @@ img{
   font-size: 1.75em;
   font-weight: bold;
   line-height: 2em;
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+.post-listing-link{
+  color:inherit;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
-.post-listing-link{
-  color:inherit;
-}
 .post-listing-link:hover{
   color: #E95420;
 }
+.post-listing-info{
+  font-size: 0.5em;
+  line-height: 1.5;
+  text-align: right;
+}
 .post-listing-date{
-  font-size: 0.75em;
+  font-size: 1.5em;
+}
+.post-listing-metadata{
   color: #95A5A6;
 }
 .post-title{
