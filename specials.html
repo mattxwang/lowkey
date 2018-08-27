@@ -10,10 +10,7 @@ layout: page
 
 {% for special in site.specials %}
 <div class="card border-primary">
-  <a href="{{site.baseurl}}/specials/{{special.tag}}/">
-    <img src="{{site.baseurl}}/img/{{special.img}}" alt="{{special.title}} image"/>
-  </a>
-  <h2><a href="{{site.baseurl}}/specials/{{special.tag}}/">{{special.title}}</a></h2>
+  <a class="post-listing" href="{{site.baseurl}}/specials/{{special.tag}}/">{{special.title}}</a>
   {{special.content}}
 </div>
 {% endfor %}

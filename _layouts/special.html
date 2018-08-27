@@ -2,13 +2,9 @@
 layout: default
 ---
 
-<a href="{{site.baseurl}}/specials/{{page.tag}}/">
-  <img class="img-responsive" src="{{site.baseurl}}/img/{{page.img}}" alt="{{page.title}} picture"/>
-</a>
-<h2><a href="{{site.baseurl}}/specials/{{page.tag}}/">{{page.title}}</a></h2>
-<p>
-	{{ content }}
-</p>
+<h1 class="title title-1 text-primary">{{page.title}}</h1>
+<hr />
+{{ content }}
 <hr class="border-top-primary" />
 {% for post in site.categories[page.tag] reversed %}
 <div>
