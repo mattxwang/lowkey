@@ -2,6 +2,7 @@
 title: 'Hindsight 20/18: OMUN'
 date: 2018-08-19 02:34:50 Z
 categories:
+- life
 - hindsight2018
 author: "Strangely Relieved Matt Wang"
 layout: post

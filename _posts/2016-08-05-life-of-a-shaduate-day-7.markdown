@@ -2,6 +2,7 @@
 title: Life of a SHADuate, Day 7 | SHAD 2016 Series
 date: 2016-08-05 21:44:42 Z
 categories:
+- life
 - shad2016
 layout: post
 author: Introspective SHAD Matthew Wang

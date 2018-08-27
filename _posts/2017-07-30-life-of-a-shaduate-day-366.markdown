@@ -2,6 +2,7 @@
 title: Life of a SHADuate, Day 366 | SHAD 2016 Series
 date: 2017-07-30 18:44:42 Z
 categories:
+- life
 - shad2016
 layout: post
 ---

@@ -2,16 +2,18 @@
 title: Lowkey
 timezone: UTC
 collections:
+  category:
+    output: true
   posts:
     title: Posts
     output: true
   specials:
     title: Specials
     output: true
-    layout: page
-  uploads:
-    title: Uploads
-    output: true
+specials_list:
+  - "15at15"
+  - "hindsight2018"
+  - "shad2016"
 title_long: Lowkey | A blog by Matthew Wang
 email: matt@matthewwang.me
 author:

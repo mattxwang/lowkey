@@ -2,6 +2,7 @@
 title: 'Top 15 Albums at 15 | #13 Paramore'
 date: 2016-08-19 19:46:42 Z
 categories:
+- entertainment
 - 15at15
 layout: post
 ---

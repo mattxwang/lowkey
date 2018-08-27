@@ -2,6 +2,7 @@
 title: 'Top 15 Albums at 15 | #7 Oracular Spectacular'
 date: 2016-10-02 22:02:42 Z
 categories:
+- entertainment
 - 15at15
 layout: post
 ---

@@ -2,6 +2,7 @@
 title: 'Top 15 Albums at 15 | #15 Sound & Color '
 date: 2016-08-17 13:25:42 Z
 categories:
+- entertainment
 - 15at15
 layout: post
 ---

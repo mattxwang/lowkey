@@ -2,6 +2,7 @@
 title: Life of a SHADuate, Day 1 | SHAD 2016 Series
 date: 2016-07-30 21:44:42 Z
 categories:
+- life
 - shad2016
 layout: post
 author: Very, Very Sad SHAD Matthew Wang

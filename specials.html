@@ -5,32 +5,15 @@ layout: page
 ---
 
 <p>
-  Here are a few specials I've done, some of which are organized for binge reading (how exciting)! Just click on a special to get started.
+  Specials are series of posts that I write that touch on an overall theme. They're organized here for binge reading, if you really feel like reading that much bad writing.
 </p>
+
+{% for special in site.specials %}
 <div class="card border-primary">
-  <a href="{{site.baseurl}}/specials/hindsight2018/">
-    <img src="{{site.baseurl}}/img/hindsight-2018.png" alt="Hindsight 20/18"/>
+  <a href="{{site.baseurl}}/specials/{{special.tag}}/">
+    <img src="{{site.baseurl}}/img/{{special.img}}" alt="{{special.title}} image"/>
   </a>
-  <h2><a href="{{site.baseurl}}/specials/hindsight2018/">Hindsight 20/18</a></h2>
-  <p>
-    Hindsight is 20/20. I reflect on the end of my high school career, talk about the things that defined me as an individual, and look forward to a new chapter of my life. In each article, I examine a specific activity I did, and how it affected my life.
-  </p>
+  <h2><a href="{{site.baseurl}}/specials/{{special.tag}}/">{{special.title}}</a></h2>
+  {{special.content}}
 </div>
-<div class="card border-primary">
-  <a href="{{site.baseurl}}/specials/15at15/">
-    <img src="{{site.baseurl}}/img/vinyl-turntable.jpg" alt="Vinyl Turntable"/>
-  </a>
-  <h2><a href="{{site.baseurl}}/specials/15at15/">Top 15 Albums at 15</a></h2>
-  <p>
-    I walk you through my Top 15 most impactful albums at 15, and tell a few long, off-topic stories that somehow all come together to make one coherent series. Plus, there's an honourable mention section, and many things I write about that you can use to make fun of me.
-  </p>
-</div>
-<div class="card border-primary">
-  <a href="{{site.baseurl}}/specials/shad2016/">
-    <img src="{{site.baseurl}}/img/shad.png" alt="SHAD Logo"/>
-  </a>
-  <h2><a href="{{site.baseurl}}/specials/shad2016/">SHAD 2016</a></h2>
-  <p>
-    SHAD was a life-changing experience for me. I talk to you about why in this special, with some juicy introspective reflection.
-  </p>
-</div>
+{% endfor %}

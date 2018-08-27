@@ -2,6 +2,7 @@
 title: 'Top 15 Albums at 15 | #2: Too Weird To Live, To Rare To Die'
 date: 2016-12-18 05:02:42 Z
 categories:
+- entertainment
 - 15at15
 layout: post
 ---

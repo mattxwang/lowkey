@@ -2,6 +2,7 @@
 title: 'Top 15 Albums at 15 | #3 To Pimp A Butterfly'
 date: 2016-12-11 00:02:42 Z
 categories:
+- entertainment
 - 15at15
 layout: post
 author: Kendrick Stan Matthew Wang

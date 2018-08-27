@@ -2,6 +2,7 @@
 title: Half Way There | SHAD 2016 Series
 date: 2016-07-16 11:44:42 Z
 categories:
+- life
 - shad2016
 layout: post
 author: Tired SHAD Matthew Wang

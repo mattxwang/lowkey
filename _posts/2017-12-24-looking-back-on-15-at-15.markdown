@@ -2,6 +2,7 @@
 title: 'Looking Back at 15at15: 15at17 Part 2'
 date: 2017-12-24 16:34:50 Z
 categories:
+- entertainment
 - 15at15
 layout: post
 ---

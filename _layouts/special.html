@@ -1,21 +1,19 @@
 ---
-title: SHAD 2016
-permalink: "/specials/shad2016/"
 layout: default
 ---
 
-<a href="{{site.baseurl}}/specials/shad2016/">
-  <img class="img-responsive" src="{{site.baseurl}}/img/shad.png" alt="SHAD Logo"/>
+<a href="{{site.baseurl}}/specials/{{page.tag}}/">
+  <img class="img-responsive" src="{{site.baseurl}}/img/{{page.img}}" alt="{{page.title}} picture"/>
 </a>
-<h2><a href="{{site.baseurl}}/specials/shad2016/">SHAD 2016</a></h2>
+<h2><a href="{{site.baseurl}}/specials/{{page.tag}}/">{{page.title}}</a></h2>
 <p>
-  SHAD was a life-changing experience for me. I talk to you about why in this special, with some juicy introspective reflection.
+	{{ content }}
 </p>
 <hr class="border-top-primary" />
-{% for post in site.categories["shad2016"] reversed %}
+{% for post in site.categories[page.tag] reversed %}
 <div>
   <a class="post-listing" href="{{ post.url | prepend: site.baseurl }}">
-    <div class="post-listing-title">{{ post.title }}</div>
+    <div class="post-listing-title">{{ post.title | remove: page.rslug }}</div>
     <div class="post-listing-info">
       <div class="post-listing-date">{{ post.date | date: "%d/%m/%y" }}</div>
       <div class="post-listing-metadata">

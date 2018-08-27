@@ -2,6 +2,7 @@
 title: 'Top 15 Albums at 15 | #8 Acid Rap'
 date: 2016-09-26 00:02:42 Z
 categories:
+- entertainment
 - 15at15
 layout: post
 ---

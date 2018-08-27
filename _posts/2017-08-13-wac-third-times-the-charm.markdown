@@ -3,6 +3,7 @@ title: 'WAC: Third Time''s The Charm'
 date: 2017-08-13 18:44:41 Z
 categories:
 - dev
+- life
 layout: post
 ---
 

@@ -2,6 +2,7 @@
 title: 'Top 15 Albums at 15 | #6 Doo-Wops and Hooligans'
 date: 2016-10-14 16:02:42 Z
 categories:
+- entertainment
 - 15at15
 layout: post
 ---

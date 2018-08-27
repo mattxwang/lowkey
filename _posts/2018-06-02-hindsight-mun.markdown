@@ -2,6 +2,7 @@
 title: 'Hindsight 20/18: Model UN'
 date: 2018-06-02 02:34:50 Z
 categories:
+- life
 - hindsight2018
 author: "Procrastinating Matt Wang"
 layout: post

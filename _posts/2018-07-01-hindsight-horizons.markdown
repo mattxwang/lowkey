@@ -2,6 +2,7 @@
 title: 'Hindsight 20/18: Horizons'
 date: 2018-07-01 02:34:50 Z
 categories:
+- life
 - hindsight2018
 author: "Burned Out Matt Wang"
 layout: post

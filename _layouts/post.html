@@ -4,7 +4,22 @@ layout: default
 
 <div class="post-info text-center">
   <h1 class="post-title">{{ page.title }}</h1>
-  <p><a href="{{site.baseurl}}/category/{{ page.categories }}/">{{ page.categories }}</a> • {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}</p>
+  <p>
+     {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}
+  </p>
+  <div>
+    {% for category in page.categories %}
+      {% if site.specials_list contains category %}
+        <span class="tag bg-primary">
+          <a class="link-white" href="/specials/{{ category }}">{{ category }}</a>
+        </span>
+      {% else %}
+        <span class="tag border-primary">
+          <a href="/category/{{ category }}">{{ category }}</a>
+        </span>
+      {% endif %}
+    {% endfor %}
+  </div>
   <p>
     {% capture words %}
       {{ page.content | number_of_words | minus: 250 }}
@@ -17,9 +32,25 @@ layout: default
 <div class="post-container">
   {{ content }}
 </div>
+<hr />
 <div class="text-center">
   <p>This was: <a href="{{page.url}}">{{ page.title }}</a></p>
-  <p><a href="{{site.baseurl}}/category/{{ page.categories }}/">{{ page.categories }}</a> • {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}</p>
+  <p>
+     {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}
+  </p>
+  <div>
+    {% for category in page.categories %}
+      {% if site.specials_list contains category %}
+        <span class="tag bg-primary">
+          <a class="link-white" href="/specials/{{ category }}">{{ category }}</a>
+        </span>
+      {% else %}
+        <span class="tag border-primary">
+          <a href="/category/{{ category }}">{{ category }}</a>
+        </span>
+      {% endif %}
+    {% endfor %}
+  </div>
   <p>
     {% capture words %}
       {{ page.content | number_of_words | minus: 250 }}

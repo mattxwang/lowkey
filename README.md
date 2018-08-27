@@ -6,6 +6,8 @@
 
 Lowkey was built on [Jekyll](https://jekyllrb.com) and [Liteweight](https://malsf21.github.io/liteweight/).
 
+*Note: you might ask why categories and specials are self-coded instead of using gems. That's because Lowkey is hosted in GitHub Pages, which only allows certain whitelist plugins (jekyll-archives not being one of them). Therefore, I need to implement those functionalities by hand).*
+
 ## Setup
 
 Want to build your own version of Lowkey? No problem!

@@ -2,6 +2,7 @@
 title: 'Hindsight 20/18: WAC'
 date: 2018-03-21 02:34:50 Z
 categories:
+- life
 - hindsight2018
 author: "No Longer Sleep Deprived Matt Wang"
 layout: post

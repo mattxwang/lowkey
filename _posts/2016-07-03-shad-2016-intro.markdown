@@ -2,6 +2,7 @@
 title: Intro | SHAD 2016 Series
 date: 2016-07-03 15:44:42 Z
 categories:
+- life
 - shad2016
 layout: post
 author: Eager SHAD Matthew Wang
