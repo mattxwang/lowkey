@@ -40,18 +40,7 @@ exclude:
   - .gitignore
   - .sass-cache
   - .git
-gems:
+plugins:
   - jekyll-paginate
-  - jekyll-archives
   - jekyll-seo-tag
 paginate: 10
-jekyll-archives:
-  enabled:
-  - year
-  - month
-  - categories
-  layouts:
-    year: year-archive
-    month: month-archive
-    day: day-archive
-    category: category-archive
