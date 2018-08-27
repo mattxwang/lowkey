@@ -41,7 +41,7 @@ Surprise surprise, but only one album out of the 4 remains on the new 15at17 lis
 
 Paramore's self-titled still sticks with me - there's a kind of emotion and passion that you get out of Hayley Williams' voice that you don't get out of most artists, period. In addition to what I said earlier, I also like how I can distinctly tell they're a band - you couldn't replace the rest of Paramore with just some filler guitarists.
 
-Something I do want to note is that I also really liked Paramore's new album, *After Laughter*, even if it does depart from the style that I liked in their eponymous album. I actually really, really like *After Laughter* - if it wasn't for the backstory in *Paramore* (which I explain [here](http://127.0.0.1:4000/15at15/2016/08/19/top-15-at-15-part-three.html)), *After Laughter* might be on my top 15 list, but I weighed that heavily when I made this list, and I'll weigh it the same.
+Something I do want to note is that I also really liked Paramore's new album, *After Laughter*, even if it does depart from the style that I liked in their eponymous album. I actually really, really like *After Laughter* - if it wasn't for the backstory in *Paramore*, *After Laughter* might be on my top 15 list, but I weighed that heavily when I made this list, and I'll weigh it the same.
 
 As for *Coloring Book*, and *Sound & Color*, I still like both of these albums. But, their personal touch isn't as large as, let's say, *Under Pressure*, and I've found other albums that I'd put on this list instead because I both like them and they have a larger personal aspect to me.
 

@@ -7,7 +7,7 @@ categories:
 layout: post
 ---
 
-We're back at it again! [In my last post]({{site.baseurl}}/15at15/2017/11/29/looking-back-on-15-at-15.html) I talked about how I want to look back on my [15at15 series]({{site.baseurl}}/specials/15at15/), which detailed my top 15 albums when I was 15. Now, I disagree heavily with some of my picks, so this post is a sort of cathartic release (and me defending my music tastes to all the haters).
+We're back at it again! In my last post I talked about how I want to look back on my [15at15 series]({{site.baseurl}}/specials/15at15/), which detailed my top 15 albums when I was 15. Now, I disagree heavily with some of my picks, so this post is a sort of cathartic release (and me defending my music tastes to all the haters).
 
 ## The List
 

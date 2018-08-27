@@ -32,7 +32,7 @@ WAC requires an insane amount of work to set up - after working there, I have a 
 
 I joined WAC in my first year at "Upper School" (Grade 8), but in a very limited role. I was a graphic design and registration assistant, which wasn't too hard - I just handed out some pamphlets and helped fix some small design flaws. The year after, I had the same technical role, but I was a lot more involved in each of the processes. I worked under two guys (Nick Elder and Derek Lam) who were awesome mentors, and I learned a lot about what they did and how they did it.
 
-Oh, also, [we got Edward Snowden to speak at WAC](https://www.ucc.on.ca/2015/02/10/edward-snowden-addresses-historic-world-affairs-conference/). That was fucking awesome.
+Oh, also, we got Edward Snowden to speak at WAC. That was fucking awesome.
 
 During that time, I really enjoyed my role at WAC. I had awesome bosses, I was really interested in the topics they discussed at WAC, and the stuff I helped out with (using Photoshop/Illustrator to make posters and other marketing materials, as well as minor website design) was right up my alley! In those two years, I had a really positive impression of WAC, and when I was asked to take on a larger role the year after, I was ready to do it full-force.
 
