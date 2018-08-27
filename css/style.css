@@ -23,15 +23,15 @@ img{
   line-height: 2em;
   display: grid;
   grid-template-columns: 1fr auto;
-}
-.post-listing-link{
   color:inherit;
+}
+.post-listing:hover{
+  color: #E95420;
+}
+.post-listing-title{
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-}
-.post-listing-link:hover{
-  color: #E95420;
 }
 .post-listing-info{
   font-size: 0.5em;

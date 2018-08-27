@@ -1,7 +1,7 @@
 ---
 title: SHAD 2016
 permalink: "/specials/shad2016/"
-layout: page
+layout: default
 ---
 
 <a href="{{site.baseurl}}/specials/shad2016/">
@@ -13,21 +13,23 @@ layout: page
 </p>
 <hr class="border-top-primary" />
 {% for post in site.categories["shad2016"] reversed %}
-<div class="post-listing">
-  <a class="post-listing-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-  <div class="post-listing-info">
-    <div class="post-listing-date">{{ post.date | date: "%d/%m/%y" }}</div>
-    <div class="post-listing-metadata">
-      {% capture words %}
-        {{ post.content | number_of_words | minus: 250 }}
-      {% endcapture %}
-      {% if words contains "-" %}
-      quick read / {{ words | plus: 250 | append: " words" }}
-      {% else %}
-      ~ {{ words | plus: 250 | divided_by: 180 | append: " min" }} / {{ words | plus: 250 | append: " words" }}
-      {% endif %}
+<div>
+  <a class="post-listing" href="{{ post.url | prepend: site.baseurl }}">
+    <div class="post-listing-title">{{ post.title }}</div>
+    <div class="post-listing-info">
+      <div class="post-listing-date">{{ post.date | date: "%d/%m/%y" }}</div>
+      <div class="post-listing-metadata">
+        {% capture words %}
+          {{ post.content | number_of_words | minus: 250 }}
+        {% endcapture %}
+        {% if words contains "-" %}
+        quick read / {{ words | plus: 250 | append: " words" }}
+        {% else %}
+        ~ {{ words | plus: 250 | divided_by: 180 | append: " min" }} / {{ words | plus: 250 | append: " words" }}
+        {% endif %}
+      </div>
     </div>
-  </div>
+  </a>
 </div>
 <hr />
 {% endfor %}
