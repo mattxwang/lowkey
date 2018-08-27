@@ -25,7 +25,7 @@ layout: default
 {% endfor %}
 <div class="text-center">
   {% if paginator.previous_page %}
-    <a class="button bg-primary" href="{{ paginator.previous_page_path }}">Previous</a>
+    <a class="button button-primary" href="{{ paginator.previous_page_path }}">Previous</a>
   {% endif %}
   <span class="tag bg-primary">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
