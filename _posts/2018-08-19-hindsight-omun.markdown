@@ -8,10 +8,6 @@ author: "Strangely Relieved Matt Wang"
 layout: post
 ---
 
-![Hindsight 20/18]({{site.baseurl}}/img/hindsight-2018.png)
-
-*This is the fourth article in the "Hindsight 20/18" series, where I reflect on the end of my high school career and look at what I thought were the most transformative experiences of my life thus far. And, I roast a lot of people.*
-
 I'll keep this one short too - I don't have much else to say that I haven't already talked about in my WAC short essay - OMUN bears many of the same stories that WAC does.
 
 Before I get ahead of myself, OMUN stands for Ontario Model United Nations - a Model UN conference that's held at Upper Canada College (aka my high school). During the three years that I worked there, I had two major responsibilities: I was a Committee Chair, which means that I ran a Model UN committee (the intricacies of which I talked about in my MUN post), and I was the USG Communications, which basically meant that I did all the tech-related stuff (website, design, and a few apps). I'll do a quick split and talk about both of those experiences.

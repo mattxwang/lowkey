@@ -8,10 +8,6 @@ author: "Burned Out Matt Wang"
 layout: post
 ---
 
-![Hindsight 20/18]({{site.baseurl}}/img/hindsight-2018.png)
-
-*This is the third article in the "Hindsight 20/18" series, where I reflect on the end of my high school career and look at what I thought were the most transformative experiences of my life thus far. And, I roast a lot of people.*
-
 I think for the most part all of my life experiences so far have been both positive and negative, which is just how life works. However, there are a few things that I've done that I thought was fully positive - and one of them is Horizons. Let's talk about Horizons.
 
 Horizons is a peer tutoring program at my school - students from UCC link up with students from low-income public schools and teach them stuff like math or robotics. Horizons is super successful (at least in my perspective), for a few reasons: it has a very dedicated role in our school (we have two paid employees who manage it as their top priority), our school has lots of infrastructure and resources, and we have a large pool of tutors (i.e. kids who need community service hours).

@@ -8,10 +8,6 @@ author: "No Longer Sleep Deprived Matt Wang"
 layout: post
 ---
 
-![Hindsight 20/18]({{site.baseurl}}/img/hindsight-2018.png)
-
-*This is the first article in the "Hindsight 20/18" series, where I reflect on the end of my high school career and look at what I thought were the most transformative experiences of my life thus far. And, I roast a lot of people.*
-
 I've almost come to terms with the fact that my high school "career" is over. The things that I did, whether I loved them or not, are almost done - and I have no control over their future. During this March Break, I've spent a lot of time doing stuff for me: working on personal projects, catching up with old friends, and playing a helluva lot of video games. So while I'm free from the shackles that normally constrain me during the school year, I want to take a moment and look into them, deeply. That's what this series ("Hindsight 20/18", which I think is some clever wordplay) is about.
 
 I wouldn't describe most of my extracurriculars as "soul-crushing" or "shackles" or "the worst thing I have to do at UCC", but the World Affairs Conference (or WAC) is one of them. Why then, did I spend hundreds of hours doing it over the last five years? Let's find out.

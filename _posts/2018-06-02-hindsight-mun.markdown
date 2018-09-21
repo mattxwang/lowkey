@@ -8,12 +8,6 @@ author: "Procrastinating Matt Wang"
 layout: post
 ---
 
-![Hindsight 20/18]({{site.baseurl}}/img/hindsight-2018.png)
-
-*This is the second article in the "Hindsight 20/18" series, where I reflect on the end of my high school career and look at what I thought were the most transformative experiences of my life thus far. And, I roast a lot of people.*
-
-*Also, I've been sitting on this article for about two months - I apologize for the failed promise of writing more. Hopefully, I'll start that now.*
-
 Model UN is one of the most interesting experiences I've undergone in my high school "career". On one hand, I think it's one of the largest growth experiences that I've undergone - I've learned a lot about the world, I've learned about how to solve problems, and I've definitely learned people skills. On the other hand, it's been one of the most gruelling experiences that I've undergone - it has sucked the soul out of what I do, and I've never felt truly happy doing Model UN (and even winning, which seems... problematic). Let's take a journey as to why.
 
 ## What is Model UN, and what *IS* Model UN?

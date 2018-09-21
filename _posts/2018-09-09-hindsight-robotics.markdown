@@ -8,10 +8,6 @@ author: 'Matt "Expand the Box" Wang'
 layout: post
 ---
 
-![Hindsight 20/18]({{site.baseurl}}/img/hindsight-2018.png)
-
-*This is the fifth article in the "Hindsight 20/18" series, where I reflect on the end of my high school career and look at what I thought were the most transformative experiences of my life thus far. And, I roast a lot of people.*
-
 I'm currently in LA, lazing around and just getting things in order for me to start a new chapter of my life. I've had to close out my final responsibilities for a lot of the work that I've done: WAC, OMUN, and possibly most importantly, Robotics.
 
 For those of you who know me well, you'd find that very surprising. And that's a correct response. I have a very... long and complicated history with the activity at UCC.
