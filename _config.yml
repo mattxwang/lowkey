@@ -11,8 +11,8 @@ collections:
     title: Specials
     output: true
 specials_list:
-  - "15at15"
   - "hindsight2018"
+  - "15at15"
   - "shad2016"
 title_long: Lowkey | A blog by Matthew Wang
 email: matt@matthewwang.me
