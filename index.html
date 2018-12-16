@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-
+<div>
+  <h1><span class="text-primary">Lowkey</span> is matt's blog</h1>
+  <p>
+    and on it, matt talks about random things.
+  </p>
+</div>
+<hr class="border-top-primary" />
 {% for post in paginator.posts %}
   <div>
     <a class="post-listing" href="{{ post.url | prepend: site.baseurl }}">
@@ -30,6 +36,6 @@ layout: default
   <span class="tag bg-primary">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a class="button button-primary" href="{{ paginator.next_page_path }}">Next</a>
-  {% endif %}</li>
+  {% endif %}
 </div>
 <hr class="border-top-primary" />
