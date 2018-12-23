@@ -13,7 +13,7 @@ As a result, I'm going to start editing and revising some of the articles that I
 
 <span class="tag tag-rounded bg-secondary">Edited 12/22/2018</span>
 
-So far, I haven't edited any posts - but I'll get in that rhythm soon.
+So far, I haven't edited any posts - but I'll get in that rhythm soon. The idea is to walk the fine line between bettering my writing, and maintaining the original spirit and voice of what I've written about - a tough task ahead of me.
 
 I'm also going to delete posts that I feel are no longer representative of who I am, or on topics that I don't think are important. To clarify, I've already done this in the past - but I might be more vigilant with it now. Because lowkey always has been (and always will be) open-source, you can always find these old posts and drafts by looking at the [GitHub repository](https://github.com/malsf21/lowkey).
 
