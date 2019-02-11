@@ -2,6 +2,7 @@
 layout: default
 ---
 <h1 class="title title-1 text-primary">{{ page.tag | capitalize }}</h1>
+{{content}}
 <hr />
 {% for post in site.categories[page.tag] %}
 <div>
