@@ -1,0 +1,71 @@
+song_of_the_week:
+  week1:
+    week: "Week 1: Jan 1 - Jan 4"
+    title: "Loving Is Easy"
+    artist: "Rex Orange County"
+    album: "Loving Is Easy"
+    album_art: "loving-is-easy.jpg"
+    genre: "indie pop"
+    year: 2017
+    blurb: >
+      Rex Orange County makes another catchy and relatable love ballad.
+  week2:
+    week: "Week 2: Jan 4 - Jan 10"
+    title: "Crush"
+    artist: "Tessa Violet"
+    album: "Crush"
+    album_art: "crush.png"
+    genre: "electro pop"
+    year: 2018
+    blurb: >
+      Crush is what I love about modern pop: innovative and flashy production backed by simple but effective lyrics.
+  week3:
+    week: "Week 3: Jan 11 - Jan 17"
+    title: "Ruin Your Night"
+    artist: "Sorcha Richardson"
+    album: "Ruin Your Night"
+    album_art: "ruin-your-night.jpg"
+    genre: "indie pop"
+    year: 2016
+    blurb: >
+      This is the catchiest sanger (sad banger) I've heard so far. The lyrics are so simple, yet so depressing.
+  week4:
+    week: "Week 4: Jan 18 - Jan 24"
+    title: "Lovers Rock"
+    artist: "TV Girl"
+    album: "French Exit"
+    album_art: "french-exit.jpg"
+    genre: "indie pop"
+    year: 2014
+    blurb: >
+      Lovers Rock is entrancing, smooth pop at its best - something I imagine in the background of an upscale restaurant.
+  week5:
+    week: "Week 5: Jan 25 - Jan 31"
+    title: "Rivers and Roads"
+    artist: "The Head and the Heart"
+    album: "The Head and the Heart"
+    album_art: "the-head-and-the-heart.jpg"
+    genre: "indie folk"
+    year: 2011
+    blurb: >
+      A much-too-relatable emotional ballad about missed friends and love songs - bread and butter for any university student.
+  week6:
+    week: "Week 5: Feb 1 - Feb 7"
+    title: "You Only Like Me With The Lights Out"
+    artist: "Avid Dancer"
+    album: "You Only Like Me With The Lights Out"
+    album_art: "yolmwtlo.jpg"
+    genre: "alt rock"
+    year: 2016
+    blurb: >
+      Strong, raw guitars and an equally raw voice addictingly convey a truth that nobody wants to hear.
+  week7:
+    week: "Week 5: Feb 8 - Feb 14"
+    title: "5% TINT"
+    artist: "Travis Scott"
+    album: "Astroworld"
+    album_art: "astroworld.jpg"
+    genre: "rap"
+    year: 2018
+    blurb: >
+      Travis weaves together a spooky vibe with a haunting piano chord, barebones beats, and his signature eerie autotune.

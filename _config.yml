@@ -10,6 +10,9 @@ collections:
   specials:
     title: Specials
     output: true
+  stats:
+    title: Stats
+    output: true
 specials_list:
   - "hindsight2018"
   - "15at15"
@@ -19,10 +22,10 @@ email: matt@matthewwang.me
 author:
   name: Matthew Wang
   twitter: malsf21
-description: 'I''m Matt, and Lowkey is my blog. On Lowkey, I discuss random cool things,
+description: "I'm Matt, and Lowkey is my blog. On Lowkey, I discuss random cool things,
   cool people, and cool ideas.
 
-'
+"
 baseurl: ''
 url: https://blog.matthewwang.me
 twitter:
