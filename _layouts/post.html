@@ -30,7 +30,7 @@ layout: default
       {{ page.content | number_of_words | minus: 250 }}
     {% endcapture %}
     {% unless words contains "-" %}
-    ~ {{ words | plus: 250 | divided_by: 180 | append: " minute read" }} • {{ words | plus: 250 | append: " words" }}
+    ~ {{ words | plus: 250 | divided_by: 120 | append: " minute read" }} • {{ words | plus: 250 | append: " words" }}
     {% endunless %}
   </p>
 </div>
@@ -61,7 +61,7 @@ layout: default
       {{ page.content | number_of_words | minus: 250 }}
     {% endcapture %}
     {% unless words contains "-" %}
-    ~ {{ words | plus: 250 | divided_by: 180 | append: " minute read" }} • {{ words | plus: 250 | append: " words" }}
+    ~ {{ words | plus: 250 | divided_by: 120 | append: " minute read" }} • {{ words | plus: 250 | append: " words" }}
     {% endunless %}
   </p>
 </div>
