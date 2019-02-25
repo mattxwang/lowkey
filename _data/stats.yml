@@ -50,7 +50,7 @@ song_of_the_week:
     blurb: >
       A much-too-relatable emotional ballad about missed friends and love songs - bread and butter for any university student.
   week6:
-    week: "Week 5: Feb 1 - Feb 7"
+    week: "Week 6: Feb 1 - Feb 7"
     title: "You Only Like Me With The Lights Out"
     artist: "Avid Dancer"
     album: "You Only Like Me With The Lights Out"
@@ -60,7 +60,7 @@ song_of_the_week:
     blurb: >
       Strong, raw guitars and an equally raw voice addictingly convey a truth that nobody wants to hear.
   week7:
-    week: "Week 5: Feb 8 - Feb 14"
+    week: "Week 7: Feb 8 - Feb 14"
     title: "5% TINT"
     artist: "Travis Scott"
     album: "Astroworld"
@@ -69,3 +69,13 @@ song_of_the_week:
     year: 2018
     blurb: >
       Travis weaves together a spooky vibe with a haunting piano chord, barebones beats, and his signature eerie autotune.
+  week8:
+    week: "Week 8: Feb 15 - Feb 21"
+    title: "Gimme The Loot"
+    artist: "The Notorious B.I.G"
+    album: "Ready To Die"
+    album_art: "ready-to-die.jpg"
+    genre: "rap"
+    year: 1994
+    blurb: >
+      Considering the prominence of "Gimme The Loot" as a producer tag and adlib, I thought it'd be nice to take it back to the OG. Biggie is just a straight killer on this track.
