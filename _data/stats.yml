@@ -79,3 +79,13 @@ song_of_the_week:
     year: 1994
     blurb: >
       Considering the prominence of "Gimme The Loot" as a producer tag and adlib, I thought it'd be nice to take it back to the OG. Biggie is just a straight killer on this track.
+  week9:
+    week: "Week 9: Feb 22 - Feb 28"
+    title: "Forever Always"
+    artist: "Peter Cottontale, Chance the Rapper, Daniel Caesar, Madison Ryann Ward, YEBBA"
+    album: "Forever Always"
+    album_art: "forever-always.jpg"
+    genre: "indie pop"
+    year: 2018
+    blurb: >
+      A surprisingly star-studded feel-good song - something that definitely helps with a rough week of work.
