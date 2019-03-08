@@ -89,3 +89,13 @@ song_of_the_week:
     year: 2018
     blurb: >
       A surprisingly star-studded feel-good song - something that definitely helps with a rough week of work.
+  week10:
+    week: "Week 10: Mar 1 - Mar 7"
+    title: "Locket"
+    artist: "Crumb"
+    album: "Locket"
+    album_art: "locket.jpg"
+    genre: "indie rock"
+    year: 2017
+    blurb: >
+      Locket is a tantalizing earworm, a combination of smooth rock and jazz-like elements that's been stuck in my head for the past few weeks.
