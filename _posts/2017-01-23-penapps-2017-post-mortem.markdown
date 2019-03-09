@@ -4,9 +4,13 @@ date: 2017-01-23 03:18:42 Z
 categories:
 - dev
 layout: post
+edits:
+- "03/09/2019"
 ---
 
 ![PennApps Cover Page]({{site.baseurl}}/img/2017-01-22-pennapps.png)
+
+*Note: I'm generally unhappy with this post. On `03/09/2019`, I only removed references to the now defunct firebase project; I might edit or delete the entire post later.*
 
 I'm writing this post as I cruise along some Pennsylvania interstate highway in the middle of a Sunday night. I'm going to get home at 4am, or crash at boarding, and I'm going to be ridiculously sleep-deprived for the next two days (as if I wasn't already). Over the past weekend, I totaled 6 hours of sleep, took a skate to the knee, overstrained by hands and arms, and drank more than 10 cans of pop (no coffee though). I'll deviate from the cliché where I describe doom and gloom and then proceed to tell you how it's just warped bias, because this weekend was truly hellish. The only reason I ever go to hackathons like PennApps is to make some sort of long-term investment, at the expense of my short-term health and well-being. So, what's the long term looking like right now?
 
@@ -130,7 +134,7 @@ Here's what our project ended up looking like:
 
 ![Our Final Project]({{site.baseurl}}/img/2017-01-22-worksafe.png)
 
-You can test it from the [Firebase Deploy link](https://penapps-70df7.firebaseapp.com/index.html).
+~~You can test it from the Firebase Deploy Link.~~ (Project was deleted)
 
 The GitHub repo is at [malsf21/penapps2017](https://github.com/malsf21/penapps2017/), and the DevPost is at [this link](https://devpost.com/software/penapps2017).
 

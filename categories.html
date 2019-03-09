@@ -6,7 +6,7 @@ layout: page
 
 {% for category in site.categories %}
   {% unless site.specials_list contains category.first %}
-    <a class="post-listing" href="{{site.baseurl}}/category/{{ category | first }}">{{ category | first | capitalize }}</a>
+    <a class="post-listing" href="{{site.baseurl}}/category/{{ category | first }}.html">{{ category | first | capitalize }}</a>
     <hr />
   {% endunless %}
 {% endfor %}

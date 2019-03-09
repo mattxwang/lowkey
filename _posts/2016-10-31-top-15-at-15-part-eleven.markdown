@@ -15,7 +15,7 @@ I'm going to regret writing this, aren't I?
 
 ## the story of emo, part deux
 
-In my [previous Paramore post]({{site.baseurl}}/15at15/2016/08/19/top-15-at-15-part-three.html) I alluded to the story of emo, and its broad social and cultural impacts. If you remember the early-mid 2000's, you know exactly what I'm talking about. I mean, I certainly don't, but that's alright.
+In my [previous Paramore post]({{site.baseurl}}/entertainment/15at15/2016/08/19/top-15-at-15-part-three.html) I alluded to the story of emo, and its broad social and cultural impacts. If you remember the early-mid 2000's, you know exactly what I'm talking about. I mean, I certainly don't, but that's alright.
 
 Emo songs were about emotion (which is why it's called emo). You were taken on a rollercoaster of emotions: love, hate, envy, pain, joy, the list goes on. But, obviously, that's not restrictive to emo: Beyoncé makes me feel empowered, Eminem makes me feel pissed off, and Lil Dicky makes me laugh. I think the special thing about emo music is that the emotion is the central message of the song, rather than a mechanism to convey that message. That's pretty self-evident from songs like *Pain* by Jimmy Eat World, or *I Don't Love You* by our titular My Chemical Romance.
 

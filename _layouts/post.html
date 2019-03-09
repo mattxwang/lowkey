@@ -11,11 +11,11 @@ layout: default
     {% for category in page.categories %}
       {% if site.specials_list contains category %}
         <span class="tag tag-rounded bg-primary">
-          <a class="link-white" href="{{site.baseurl}}/specials/{{ category }}">{{ category }}</a>
+          <a class="link-white" href="{{site.baseurl}}/specials/{{ category }}/">{{ category }}</a>
         </span>
       {% else %}
         <span class="tag tag-rounded border-primary">
-          <a href="{{site.baseurl}}/category/{{ category }}">{{ category }}</a>
+          <a href="{{site.baseurl}}/category/{{ category }}.html">{{ category }}</a>
         </span>
       {% endif %}
     {% endfor %}
@@ -47,11 +47,11 @@ layout: default
     {% for category in page.categories %}
       {% if site.specials_list contains category %}
         <span class="tag bg-primary">
-          <a class="link-white" href="{{site.baseurl}}/specials/{{ category }}">{{ category }}</a>
+          <a class="link-white" href="{{site.baseurl}}/specials/{{ category }}/">{{ category }}</a>
         </span>
       {% else %}
         <span class="tag border-primary">
-          <a href="{{site.baseurl}}/category/{{ category }}">{{ category }}</a>
+          <a href="{{site.baseurl}}/category/{{ category }}.html">{{ category }}</a>
         </span>
       {% endif %}
     {% endfor %}

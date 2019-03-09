@@ -6,7 +6,11 @@ categories:
 - hindsight2018
 author: "Strangely Relieved Matt Wang"
 layout: post
+edits:
+- "03/09/2019"
 ---
+
+*Note: since I wrote this post (and after I left OMUN), I've personally lost control of the omun.ca domain, and the rest of the stuff I reference. I've replaced the links when necessary.*
 
 I'll keep this one short too - I don't have much else to say that I haven't already talked about in my WAC short essay - OMUN bears many of the same stories that WAC does.
 
@@ -48,7 +52,7 @@ For my final year, I took the gas pedal off of breaking new changes and just loo
 
 I also made [Fair Chair](https://malsf21.github.io/fair-chair/), an Electron and Angular based desktop app that provides utility to conference chairs, keeping timers, speaker lists, and topics all on one screen. I technically started development the year before, but this is where I made something that was production-ready; it was good enough that I felt confident putting it on the OSX App Store. I'm quite proud of it, even though I think that it could be much, much better - but that's a conversation for another day. Fair Chair is pretty low on my priority of things to work on, but it's a project that I could see myself maintaining for quite a while - even if I'm leaving the MUN scene.
 
-Now, I just have to work on documentation - because as I leave, there is nobody taking my place. Broadly, that's representative of a huge problem at UCC (and at many other schools): as students cycle in and out, it's not possible to guarantee the longevity of technology that needs to be maintained. It sucks to see a website that I spent so much time optimizing get scrapped for another crappy Wix website, but that's the reality of student organizations - and of a MUN club that has nobody who knows how to code. I'm writing down everything I've done for OMUN in a nice little website ([design.omun.ca](https://design.omun.ca/)), if anything just to immortalize all the hard work that I've put in.
+Now, I just have to work on documentation - because as I leave, there is nobody taking my place. Broadly, that's representative of a huge problem at UCC (and at many other schools): as students cycle in and out, it's not possible to guarantee the longevity of technology that needs to be maintained. It sucks to see a website that I spent so much time optimizing get scrapped for another crappy Wix website, but that's the reality of student organizations - and of a MUN club that has nobody who knows how to code. I'm writing down everything I've done for OMUN in a nice little website ([design.omun.ca](https://omun.gitbook.io/design/)), if anything just to immortalize all the hard work that I've put in.
 
 And therein lies my largest issue with OMUN. I feel as if I've done immeasurable amounts of work for the organization, poured my blood, sweat, and tears into it - and it's all gone. Sure, my work will be documented, and sure, my code is on GitHub, but it really feels bad to see most of your work get scrapped because nobody else can pick up the torch.
 

@@ -6,7 +6,11 @@ categories:
 - hindsight2018
 author: "No Longer Sleep Deprived Matt Wang"
 layout: post
+edits:
+- "03/09/2019"
 ---
+
+*Note: since I wrote this post (and after I left WAC), the organization lost the "world.ac" domain. As such, I've removed those links from the original post. You can find everything this post talks about on [GitHub](https://github.com/worldaffairsconference), if you don't mind searching around a bit.*
 
 I've almost come to terms with the fact that my high school "career" is over. The things that I did, whether I loved them or not, are almost done - and I have no control over their future. During this March Break, I've spent a lot of time doing stuff for me: working on personal projects, catching up with old friends, and playing a helluva lot of video games. So while I'm free from the shackles that normally constrain me during the school year, I want to take a moment and look into them, deeply. That's what this series ("Hindsight 20/18", which I think is some clever wordplay) is about.
 
@@ -137,7 +141,7 @@ I think that making an online registration system was the right choice - while i
 
 ### Design, Simplified
 
-There are lots of moving parts to WAC's design - in fact, I have to write an entire [manual](https://design.world.ac) on it! This blog post is already way too long, so I just want to touch on a few things that I learned during the design process.
+There are lots of moving parts to WAC's design - in fact, I have to write an entire manual on it! This blog post is already way too long, so I just want to touch on a few things that I learned during the design process.
 
 First of all, there's way too much stuff to design as a team of two - I'm surprised that Nick and Derek handled it so well! Here's what we have to make:
 

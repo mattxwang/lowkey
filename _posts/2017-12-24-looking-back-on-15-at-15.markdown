@@ -73,11 +73,11 @@ For many of my friends, this is no surprise - one of my favourite albums of all 
 
 ![CRJ's EMOTION]({{site.baseurl}}/img/albums/emotion.jpg)
 
-[I actually spoke about CRJ's EMOTION earlier as one of my honourable mentions]({{site.baseurl}}/15at15/2016/12/31/top-15-at-15-honourable-mentions.html), and I still agree with that I said. Every single song on the album (and the b-sides) is a BOP - it really does display EMOTION, and I really do feel like I'm in CRJ's shoes. Carly has an amazing voice, and she tells really emotional songs about entering and exiting relationships (which has a very interesting fan theory behind it).
+[I actually spoke about CRJ's EMOTION earlier as one of my honourable mentions]({{site.baseurl}}/entertainment/15at15/2016/12/31/top-15-at-15-honourable-mentions.html), and I still agree with that I said. Every single song on the album (and the b-sides) is a BOP - it really does display EMOTION, and I really do feel like I'm in CRJ's shoes. Carly has an amazing voice, and she tells really emotional songs about entering and exiting relationships (which has a very interesting fan theory behind it).
 
 I still love this album - the bop-ness of CRJ is not lost with me over the years, and I've recommended this album to everyone I know. It's clean too, which means I can play it at Debate Camp, school assemblies, basically anywhere I want. Songs like *Boy Problems*, *LA Hallucinations*, and *Store* are still in my banger rotation. If I hear EMOTION, you're going to see me doing some EMOTION-al stuff!!!!!!!
 
-Again - if you want to read more check out my thing in the [honourable mentions]({{site.baseurl}}/15at15/2016/12/31/top-15-at-15-honourable-mentions.html).
+Again - if you want to read more check out my thing in the [honourable mentions]({{site.baseurl}}/entertainment/15at15/2016/12/31/top-15-at-15-honourable-mentions.html).
 
 ## last but not least
 
@@ -89,7 +89,7 @@ Previously, I put Logic's *Under Pressure* at #1, citing personal reasons and th
 
 However, I've realised more and more how much influence *Graduation* actually has on the kind of music I listen to. There were three albums that got me into listening to rap: *Recovery*, *The Adventures of Bobby Ray*, and *Graduation*. Out of those three, *Graduation* is the only album that's still in my rotation. My other all-time favourite rap albums, like Chance's *Acid Rap* or Logic's *Under Pressure*, attribute a lot of their creative inspiration to what I think is Kanye's best album.
 
-I want to quickly expand on [a point I made in the original review]({{site.baseurl}}/15at15/2016/11/15/top-15-at-15-part-twelve.html): *Graduation* was the start of a new era. Along with Eminem, Kanye pushed rap into the main-mainstream, topping the charts with *Homecoming*, *Stronger*, *Flashing Lights*, and *Champion*. Millions of people (including me) were introduced to a new genre of music, and we saw it grow from then, as rap continued to cross over into other genres. Most modern rap acts now owe some of their success to *Graduation* - without it, rap would never have the mainstream influence it has today. Kanye's use of synths and electronic music sparked thousands of other rappers to do the same, a motif he further pushed in *808's*; Kanye's introspective, soft, soulful content inspired a new wave of artists (think Drake/The Weeknd/J. Cole); Kanye's perfect album created history.
+I want to quickly expand on [a point I made in the original review]({{site.baseurl}}/entertainment/15at15/2016/11/15/top-15-at-15-part-twelve.html): *Graduation* was the start of a new era. Along with Eminem, Kanye pushed rap into the main-mainstream, topping the charts with *Homecoming*, *Stronger*, *Flashing Lights*, and *Champion*. Millions of people (including me) were introduced to a new genre of music, and we saw it grow from then, as rap continued to cross over into other genres. Most modern rap acts now owe some of their success to *Graduation* - without it, rap would never have the mainstream influence it has today. Kanye's use of synths and electronic music sparked thousands of other rappers to do the same, a motif he further pushed in *808's*; Kanye's introspective, soft, soulful content inspired a new wave of artists (think Drake/The Weeknd/J. Cole); Kanye's perfect album created history.
 
 ## la fin, until next time
 
