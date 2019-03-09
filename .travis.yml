@@ -5,6 +5,7 @@ rvm:
 
 script:
   - bundle exec rake build
+  - bundle exec rake test
 
 branches:
   only:

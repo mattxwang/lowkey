@@ -8,6 +8,6 @@ task :build do
 end
 
 task :test do
-  sh "bundle exec jekyll build"
+  # sh "bundle exec jekyll build"
   HTMLProofer.check_directory("./_site").run
 end
