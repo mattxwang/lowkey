@@ -99,3 +99,13 @@ song_of_the_week:
     year: 2017
     blurb: >
       Locket is a tantalizing earworm, a combination of smooth rock and jazz-like elements that's been stuck in my head for the past few weeks.
+  week11:
+    week: "Week 11: Mar 8 - Mar 14"
+    title: "No Drug Like Me"
+    artist: "Carly Rae Jepsen"
+    album: "Now That I Found You / No Drug Like Me"
+    album_art: "crj-3ep.jpg"
+    genre: "pop"
+    year: 2019
+    blurb: >
+      Carly's back with more bops. What else can I say.
