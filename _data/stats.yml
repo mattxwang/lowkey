@@ -109,3 +109,13 @@ song_of_the_week:
     year: 2019
     blurb: >
       Carly's back with more bops. What else can I say.
+  week12:
+    week: "Week 12: Mar 15 - Mar 21"
+    title: "Pristine"
+    artist: "Snail Mail"
+    album: "Lush"
+    album_art: "lush.png"
+    genre: "indie rock"
+    year: 2018
+    blurb: >
+      Pristine is yet another addition to simp session bedroom pop and indie rock - as cliché as it sounds, you really do feel her pain.
