@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div class="post-info text-center">
-  <h1 class="post-title">{{ page.title }}</h1>
+<div class="text-center">
+  <h1 class="title title-1">{{ page.title }}</h1>
   <p>
      {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}
   </p>
@@ -34,6 +34,7 @@ layout: default
     {% endunless %}
   </p>
 </div>
+<hr />
 <div class="post-container">
   {{ content }}
 </div>
@@ -65,4 +66,3 @@ layout: default
     {% endunless %}
   </p>
 </div>
-<hr class="border-top-primary" />

@@ -4,6 +4,12 @@ permalink: "/categories/"
 layout: page
 ---
 
+<p>
+  matt loosely organizes his thoughts. very loosely.
+</p>
+
+<hr />
+
 {% for category in site.categories %}
   {% unless site.specials_list contains category.first %}
     <a class="post-listing" href="{{site.baseurl}}/category/{{ category | first }}.html">{{ category | first | capitalize }}</a>

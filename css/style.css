@@ -2,18 +2,21 @@ body{
   font-size: 18px;
 }
 img{
+  /* Forces markdown images to be responsive */
   display: block;
   max-width: 100%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
 }
+hr{
+  /* hr override to make them thin - might add in liteweight soon */
+  border: 0;
+  border-top: 1px solid #566B78;
+}
 .post-container{
-  margin: 0 auto;
-  max-width: 75rem;
   line-height: 1.5em;
 }
-
 .post-container p{
   margin-bottom: 1.5em;
 }
@@ -27,11 +30,16 @@ img{
 }
 .post-listing:hover{
   color: #E95420;
+  text-decoration: none;
+}
+.post-listing:hover > .post-listing-title, .post-listing:hover > .post-listing-info > .post-listing-metadata{
+  color: #E95420;
 }
 .post-listing-title{
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  color: black;
 }
 .post-listing-info{
   font-size: 0.5em;
@@ -44,19 +52,26 @@ img{
 .post-listing-metadata{
   color: #95A5A6;
 }
-.post-title{
-  font-size: 2em;
-  text-align: center;
+.main-body{
+  /* I override Liteweight. Whoever wrote that did bad code -_- */
+  padding-top: 3rem;
+  padding-bottom: 1rem;
 }
-.post-info{
-  padding: 1em;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
+
+@media only screen and (max-width: 50rem) {
+  /* "Compact view" for mobile, will figure out a better solution later */
+  .main-body{
+    padding-top: 5rem;
+  }
+  .post-listing{
+    font-size: 1.25em;
+  }
 }
+
 .footer-container{
-  text-align: center;
   margin: 0 auto;
-  max-width: 75rem;
+  max-width: 50rem;
+  padding: 0 1rem;
 }
 .footer-link:hover{
   text-decoration: none;
