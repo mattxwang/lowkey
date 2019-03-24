@@ -2,11 +2,8 @@
 layout: default
 ---
 
-<div class="text-center">
+<div>
   <h1 class="title title-1">{{ page.title }}</h1>
-  <p>
-     {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}
-  </p>
   <div>
     {% for category in page.categories %}
       {% if site.specials_list contains category %}
@@ -26,48 +23,45 @@ layout: default
     {% endif %}
   </div>
   <p>
-    {% capture words %}
-      {{ page.content | number_of_words | minus: 250 }}
-    {% endcapture %}
-    {% unless words contains "-" %}
-    ~ {{ words | plus: 250 | divided_by: 120 | append: " minute read" }} • {{ words | plus: 250 | append: " words" }}
-    {% endunless %}
-  </p>
+      {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %} • 
+      {% capture words %}
+        {{ page.content | number_of_words | minus: 250 }}
+      {% endcapture %}
+      {% if words contains "-" %}
+        a quick read • {{ words | plus: 250 | append: " words" }}
+      {% else %}
+        ~ {{ words | plus: 250 | divided_by: 120 | append: " minute read" }} • {{ words | plus: 250 | append: " words" }}
+      {% endif %}
+    </p>
 </div>
 <hr />
 <div class="post-container">
   {{ content }}
 </div>
 <hr />
-<div class="text-center">
-  <p>This was: <a href="{{page.url}}">{{ page.title }}</a></p>
-  <p>
-     {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}
-  </p>
-  <div>
-    {% for category in page.categories %}
-      {% if site.specials_list contains category %}
-        <span class="tag tag-rounded bg-primary">
-          <a class="link-white" href="{{site.baseurl}}/specials/{{ category }}/">{{ category }}</a>
-        </span>
-      {% else %}
-        <span class="tag tag-rounded border-primary">
-          <a href="{{site.baseurl}}/category/{{ category }}.html">{{ category }}</a>
-        </span>
-      {% endif %}
-    {% endfor %}
-    {% if page.edits %}
-      {% for edit in page.edits %}
-        <span class="tag tag-rounded bg-secondary">Edited {{ edit }}</span>
-      {% endfor %}
+<div>
+  Thank you for reading <a href="{{page.url}}">{{ page.title }}</a>.
+  It was written on {{ page.date | date: "%b %-d, %Y" }} by {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}. 
+  It was 
+  {% capture words %}
+    {{ page.content | number_of_words | minus: 250 }}
+  {% endcapture %}
+  {{ words | plus: 250 | append: " words long" }}, and should be a
+  {% if words contains "-" %}
+    quick read.
+  {% else %}
+    ~ {{ words | plus: 250 | divided_by: 120 | append: " minute read." }}
+  {% endif %}
+  {% for category in page.categories %}
+    {% if site.specials_list contains category %}
+      It was part of the special series <a href="{{site.baseurl}}/specials/{{ category }}/">{{ category }}</a>.
+    {% else %}
+      It was categorized under <a href="{{site.baseurl}}/category/{{ category }}.html">{{ category }}</a>.
     {% endif %}
-  </div>
-  <p>
-    {% capture words %}
-      {{ page.content | number_of_words | minus: 250 }}
-    {% endcapture %}
-    {% unless words contains "-" %}
-    ~ {{ words | plus: 250 | divided_by: 120 | append: " minute read" }} • {{ words | plus: 250 | append: " words" }}
-    {% endunless %}
-  </p>
+  {% endfor %}
+  {% if page.edits %}
+    {% for edit in page.edits %}
+      It was edited on {{ edit }}.
+    {% endfor %}
+  {% endif %}
 </div>
