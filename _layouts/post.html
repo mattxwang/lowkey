@@ -47,15 +47,20 @@ layout: default
   <div>
     {% for category in page.categories %}
       {% if site.specials_list contains category %}
-        <span class="tag bg-primary">
+        <span class="tag tag-rounded bg-primary">
           <a class="link-white" href="{{site.baseurl}}/specials/{{ category }}/">{{ category }}</a>
         </span>
       {% else %}
-        <span class="tag border-primary">
+        <span class="tag tag-rounded border-primary">
           <a href="{{site.baseurl}}/category/{{ category }}.html">{{ category }}</a>
         </span>
       {% endif %}
     {% endfor %}
+    {% if page.edits %}
+      {% for edit in page.edits %}
+        <span class="tag tag-rounded bg-secondary">Edited {{ edit }}</span>
+      {% endfor %}
+    {% endif %}
   </div>
   <p>
     {% capture words %}
