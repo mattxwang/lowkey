@@ -39,7 +39,6 @@ hr{
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  color: black;
 }
 .post-listing-info{
   font-size: 0.5em;
