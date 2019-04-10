@@ -23,7 +23,7 @@ layout: default
     {% endif %}
   </div>
   <p>
-      {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %} • 
+      {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matt{% endif %} • 
       {% capture words %}
         {{ page.content | number_of_words | minus: 250 }}
       {% endcapture %}
@@ -41,7 +41,7 @@ layout: default
 <hr />
 <div>
   Thank you for reading <a href="{{page.url}}">{{ page.title }}</a>.
-  It was written on {{ page.date | date: "%b %-d, %Y" }} by {% if page.author %}{{ page.author }}{% else %}Matthew Wang{% endif %}. 
+  It was written on {{ page.date | date: "%b %-d, %Y" }} by {% if page.author %}{{ page.author }}{% else %}Matt{% endif %}. 
   It was 
   {% capture words %}
     {{ page.content | number_of_words | minus: 250 }}
