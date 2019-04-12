@@ -130,7 +130,7 @@ song_of_the_week:
     blurb: >
       Was surprised that this wasn't a Metro Boomin' collab, because this shit slaps.
   week14:
-    week: "Week 13: Mar 29 - Apr 4"
+    week: "Week 14: Mar 29 - Apr 4"
     title: "bad guy"
     artist: "Billie Eilish"
     album: "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"
@@ -139,3 +139,14 @@ song_of_the_week:
     year: 2019
     blurb: >
       Billie's brings a unique, consistent, and pretty spooky sound: a welcome addition to a pop scene filled with bland mediocrity, and from a 17 year-old no less.
+  week15:
+    week: "Week 15: Apr 5 - Apr 11"
+    title: "Butterflies"
+    artist: "Kacey Musgraves"
+    album: "Golden Hour"
+    album_art: "golden-hour.jpg"
+    genre: "country"
+    year: 2018
+    blurb: >
+      I'm a bit late to the party, but Kacey Musgraves weaves together a beautifully melancholic pop-country album - chock full of tearjerkers and "aww" moments.
+
