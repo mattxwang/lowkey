@@ -149,4 +149,14 @@ song_of_the_week:
     year: 2018
     blurb: >
       I'm a bit late to the party, but Kacey Musgraves weaves together a beautifully melancholic pop-country album - chock full of tearjerkers and "aww" moments.
+  week16:
+    week: "Week 15: Apr 12 - Apr 18"
+    title: "Hookers"
+    artist: "Tierra Whack"
+    album: "Whack World"
+    album_art: "whack-world.jpg"
+    genre: "rap"
+    year: 2018
+    blurb: >
+      Tierra brings a refreshing and whacky take on contemporary rap, delivering a deeply emotional and passionate performance in just one minute.
 
