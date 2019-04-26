@@ -159,4 +159,14 @@ song_of_the_week:
     year: 2018
     blurb: >
       Tierra brings a refreshing and whacky take on contemporary rap, delivering a deeply emotional and passionate performance in just one minute.
+  week17:
+    week: "Week 17: Apr 19 - Apr 25"
+    title: "Distant"
+    artist: "Wayllo"
+    album: "Distant"
+    album_art: "distant.jpg"
+    genre: "electro pop"
+    year: 2019
+    blurb: >
+      Someone I went to high school with dropped a single, and it's fire. Reminds me of Snakehips, Major Lazer, and Louis the Child, in the best way possible.
 
