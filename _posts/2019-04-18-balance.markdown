@@ -5,7 +5,6 @@ categories:
 - life
 author: 'matt'
 layout: post
-published: false
 ---
 
 I haven't spent that much time thinking about this blog over the school year, like I have in the years before me. Previously, I didn't write a lot because I was just too busy: too busy juggling way too many activities and an extremely unhealthy lifestyle. 
@@ -14,4 +13,4 @@ This time around, it's a bit different. I'm not ecstatic that I'm not writing mu
 
 ## undercommitting
 
-I think most of my friends in high school would be surprised that I'm only in two, relatively low-committment clubs right now. Don't get me wrong, I love BEAM and ACM Teach LA: the thing 
+I think most of my friends in high school would be surprised that I'm only in two, relatively low-committment clubs right now (and I work a 10-hour job). Don't get me wrong, I love BEAM and ACM Teach LA: the thing 

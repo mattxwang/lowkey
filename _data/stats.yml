@@ -179,4 +179,15 @@ song_of_the_week:
     year: 2019
     blurb: >
       The BROCKHAMPTON boys do it again. Energetic production, vibrant vocals, and personal slices of Kevin's life. 
+  week19:
+    week: "Week 19: May 3 - May 9"
+    title: "prom dress"
+    artist: "mxmtoon"
+    album: "prom dress"
+    album_art: "prom-dress.jpg"
+    genre: "bedroom pop"
+    year: 2019
+    blurb: >
+      New mxmtoon? Emotional vulnerability? Minimal production? Beautiful vocals? Instant banger.
+
 
