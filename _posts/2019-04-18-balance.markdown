@@ -5,6 +5,7 @@ categories:
 - life
 author: 'matt'
 layout: post
+published: false
 ---
 
 I haven't spent that much time thinking about this blog over the school year, like I have in the years before me. Previously, I didn't write a lot because I was just too busy: too busy juggling way too many activities and an extremely unhealthy lifestyle. 
