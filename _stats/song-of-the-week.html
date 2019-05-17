@@ -17,9 +17,13 @@ layout: page
 			<img src="{{site.baseurl}}/img/albums/{{item[1].album_art}}" alt="{{ item[1].title }} album cover" />
 		</div>
 		<div class="col-8">
-			<h4>{{ item[1].week }}</h4>
-			<h2><span class="text-primary">{{ item[1].title }}</span> <small>by <span class="text-secondary">{{ item[1].artist }}</span></small></h2>
+			<h4 style="margin-top:0.5em; margin-bottom: 0.5em">{{ item[1].week }}</h4>
+			<h2 style="margin-top:0"><span class="text-primary">{{ item[1].title }}</span> <small>by <span class="text-secondary">{{ item[1].artist }}</span></small></h2>
 			<p>{{ item[1].blurb }}</p>
+			<p>
+				<span class="tag tag-rounded border-primary">{{ item[1].genre }}</span> 
+				<span class="tag tag-rounded border-primary">{{ item[1].year }}</span>
+			</p>
 		</div>
 	</div>
 </div>
