@@ -209,5 +209,16 @@ song_of_the_week:
     year: 2018
     blurb: >
       Grilled Cheese is an absolute earworm; I'm surprised that this is Peach Face's only song on Spotify, 'cause it's so damn catchy.
+  week22:
+    week: "Week 22: May 24 - May 30"
+    title: "EARFQUAKE"
+    artist: "Tyler, the Creator"
+    album: "IGOR"
+    album_art: "igor.jpg"
+    genre: "rap"
+    year: 2019
+    blurb: >
+      IGOR is unabashedly raw, emotional, and personal. Tyler presents a fresh take in an oversaturated rap scene, and a possible AOTY.
+
 
 
