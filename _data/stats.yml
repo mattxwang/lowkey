@@ -219,6 +219,19 @@ song_of_the_week:
     year: 2019
     blurb: >
       IGOR is unabashedly raw, emotional, and personal. Tyler presents a fresh take in an oversaturated rap scene, and a possible AOTY.
+  week23:
+    week: "Week 23: May 31 - June 6"
+    title: "Oom Sha La La"
+    artist: "Haley Heynderickx"
+    album: "I Need to Start a Garden"
+    album_art: "i-need-to-start-a-garden.jpg"
+    genre: "indie folk"
+    year: 2018
+    blurb: >
+      I Need to Start a Garden.
+
+
+
 
 
 
