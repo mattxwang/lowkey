@@ -239,6 +239,17 @@ song_of_the_week:
     year: 2018
     blurb: >
       I'd be remiss if I didn't mention this absolute earworm. I want more Dominic x BROCKHAMPTON.
+  week25:
+    week: "Week 25: June 14 - June 20"
+    title: "Feels Right"
+    artist: "Carly Rae Jepsen"
+    album: "Dedicated"
+    album_art: "dedicated.jpg"
+    genre: "pop"
+    year: 2019
+    blurb: >
+      You thought I wouldn't be rocking new Carly? She doesn't stop embracing core elements of electro pop to keep on making bops.
+
 
 
 
