@@ -15,7 +15,7 @@ song_of_the_week:
     artist: "Tessa Violet"
     album: "Crush"
     album_art: "crush.png"
-    genre: "electro pop"
+    genre: "indie pop"
     year: 2018
     blurb: >
       Crush is what I love about modern pop: innovative and flashy production backed by simple but effective lyrics.
@@ -195,7 +195,7 @@ song_of_the_week:
     artist: "Tessa Violet"
     album: "I Like (the idea of) You"
     album_art: "iltioy.jpg"
-    genre: "electro pop"
+    genre: "indie pop"
     year: 2019
     blurb: >
       Tessa Violet drops another summer bop, filled with lovesick lyrics and production that makes you wanna dance. 
@@ -279,6 +279,16 @@ song_of_the_week:
     year: 2019
     blurb: >
       GREY Area is one of the only rap albums where I've added every single song to my playlist. Little Simz hits hard, but most importantly, she hits consistently.
+  week29:
+    week: "Week 29: July 12 - July 18"
+    title: "Hands Down (Reprise)"
+    artist: "The Greeting Committee"
+    album: "Hands Down (Reprise)"
+    album_art: "hands-down-reprise.jpg"
+    genre: "indie pop"
+    year: 2017
+    blurb: >
+      The original is one of my favourite songs, so I can't believe that I discovered the reprise so late. Hands down my favourite cute song.
 
 
 
