@@ -289,6 +289,17 @@ song_of_the_week:
     year: 2017
     blurb: >
       The original is one of my favourite songs, so I can't believe that I discovered the reprise so late. Hands down my favourite cute song.
+  week30:
+    week: "Week 30: July 19 - July 25"
+    title: "Are You Bored Yet?"
+    artist: "Wallows"
+    album: "Nothing Happens"
+    album_art: "nothing-happens.jpg"
+    genre: "indie rock"
+    year: 2019
+    blurb: >
+      Wallows x Clairo is like the Ed Sheeran collab album for softbois. I can't believe I just typed that sentence.
+    
 
 
 
