@@ -299,8 +299,17 @@ song_of_the_week:
     year: 2019
     blurb: >
       Wallows x Clairo is like the Ed Sheeran collab album for softbois. I can't believe I just typed that sentence.
+  week31:
+    week: "Week 31: July 26 - July 31"
+    title: "4EVER"
+    artist: "Clairo"
+    album: "diary 001"
+    album_art: "diary-001.jpg"
+    genre: "bedroom pop"
+    year: 2018
+    blurb: >
+      I've fully become a Wallows and Clairo addict at this point. 4EVER will tide me over until I listen to Immunity.
     
-
 
 
 
