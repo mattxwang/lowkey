@@ -63,7 +63,7 @@ Things get spicier when you look at my [last.fm metrics](https://www.last.fm/use
 9. I'm Awkward and Shy by nvthvn ft. tiffi (49 plays)
 10. three way tie: thank u, next by Ariana Grande, Pristine by Snail Mail, Sun by Two Door Cinema Club (48 plays)
 
-Out of these twelve, only one is a rap song (Bound 2 by Kanye). In comparison, mxmtoon shows up twice(luv her), as does Rex.
+Out of these twelve, only one is a rap song (Bound 2 by Kanye). In comparison, mxmtoon shows up twice (luv her), as does Rex.
 
 However, this might just be a byproduct of what I talked about earlier with pop songs being standout. Let's look at the distribution of the top 50, which should be more consistent with my listening trends.
 
@@ -268,7 +268,7 @@ When I was younger, I really loved rap because of fast flows and flashy punchlin
 
 Part of it just might be that rap is getting worse, at least in my eyes. I like some of mumble rap/new wave, but not all of it: for example, the XXL Freshmen Class are definitely getting worse and worse (Lil Mosey, wtf man). I do think music streaming has some part to play in all of this, especially if you look at the longer, more bloated albums that rap superstars have been releasing (Migos, Drake, Future, and Logic all come to mind). It's just plain tiring to sit down and listen to an hour and a half of mediocre rap. I want more albums like Kanye's surgical summer, even if I wasn't the biggest fan of KSG or ye. I want more albums that are polished and meticulously crafted. And if they aren't, to at least have some raw energy to them, to have something new that lights a fire under my ass. Right now, I just don't think that rap is giving that to me.
 
-There are some other factors top. I just enjoy chill music more now. There are tons of reasons about why I love Rex and mxmtoon, not the least because their music is calming and pleasant to listen to. It invokes a different set of emotions than TPAB or GMKC or UP, and I like it. It's also compounded by the fact that not many of my friends at UCLA listen to rap - it's hard to rave about ASTROWORLD if people I'm close to just don't care.
+There are some other factors too. I just enjoy chill music more now. There are tons of reasons about why I love Rex and mxmtoon, not the least because their music is calming and pleasant to listen to. It invokes a different set of emotions than TPAB or GMKC or UP, and I like it. It's also compounded by the fact that not many of my friends at UCLA listen to rap - it's hard to rave about ASTROWORLD if people I'm close to just don't care.
 
 Secondly, I'm invested in slightly changing how I listen to music. I think I'm too much of a playlist listener - I tend to not listen to albums front-to-back after I listen to them once or twice, and it draws away from some of the experience. Granted, this will likely lower the overall diversity of songs I listen to - an advantage of playlist listening is that I can easily mix and match genres - but I'm willing to take the trade-off to enjoy the music I listen to more.
 
