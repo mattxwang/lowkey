@@ -300,7 +300,7 @@ song_of_the_week:
     blurb: >
       Wallows x Clairo is like the Ed Sheeran collab album for softbois. I can't believe I just typed that sentence.
   week31:
-    week: "Week 31: July 26 - July 31"
+    week: "Week 31: July 26 - August 1"
     title: "4EVER"
     artist: "Clairo"
     album: "diary 001"
@@ -309,6 +309,16 @@ song_of_the_week:
     year: 2018
     blurb: >
       I've fully become a Wallows and Clairo addict at this point. 4EVER will tide me over until I listen to Immunity.
+  week32:
+    week: "Week 32: August 2 - August 8"
+    title: "Sunday Best"
+    artist: "Surfaces"
+    album: "Where The Light Is"
+    album_art: "where-the-light-is.jpg"
+    genre: "r&b"
+    year: 2019
+    blurb: >
+      This is just such a feel good song. It's got me feeling blessed, never stressed. And you bet it's got me on my sunday best.
     
 
 
