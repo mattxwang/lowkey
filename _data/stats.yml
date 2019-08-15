@@ -305,7 +305,7 @@ song_of_the_week:
     artist: "Clairo"
     album: "diary 001"
     album_art: "diary-001.jpg"
-    genre: "bedroom pop"
+    genre: "indie pop"
     year: 2018
     blurb: >
       I've fully become a Wallows and Clairo addict at this point. 4EVER will tide me over until I listen to Immunity.
@@ -319,6 +319,16 @@ song_of_the_week:
     year: 2019
     blurb: >
       This is just such a feel good song. It's got me feeling blessed, never stressed. And you bet it's got me on my sunday best.
+  week33:
+    week: "Week 33: August 9 - August 15"
+    title: "Closer To You"
+    artist: "Clairo"
+    album: "Immunity"
+    album_art: "immunity.jpg"
+    genre: "indie pop"
+    year: 2019
+    blurb: >
+      Some of this album is just... so sad. Clairo rips out emotions with minimal production and vocals.
     
 
 
