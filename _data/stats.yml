@@ -329,6 +329,16 @@ song_of_the_week:
     year: 2019
     blurb: >
       Some of this album is just... so sad. Clairo rips out emotions with minimal production and vocals.
+  week34:
+    week: "Week 34: August 16 - August 22"
+    title: "suburban wonderland"
+    artist: "BETWEEN FRIENDS"
+    album: "suburban wonderland"
+    album_art: "suburban-wonderland.jpg"
+    genre: "indie pop"
+    year: 2017
+    blurb: >
+      I'm glad that I've left the 'burbs, but there is something special about it that I miss.
     
 
 
