@@ -339,7 +339,16 @@ song_of_the_week:
     year: 2017
     blurb: >
       I'm glad that I've left the 'burbs, but there is something special about it that I miss.
-    
+  week35:
+    week: "Week 35: August 23 - August 29"
+    title: "SUGAR"
+    artist: "BROCKHAMPTON"
+    album: "GINGER"
+    album_art: "ginger.jpg"
+    genre: "rap"
+    year: 2019
+    blurb: >
+      The BROCKHAMPTON boys are back, and they're sad. 
 
 
 
