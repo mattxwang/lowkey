@@ -183,8 +183,8 @@ song_of_the_week:
     week: "Week 19: May 3 - May 9"
     title: "prom dress"
     artist: "mxmtoon"
-    album: "prom dress"
-    album_art: "prom-dress.jpg"
+    album: "the masquerade"
+    album_art: "the-masquerade.jpg"
     genre: "bedroom pop"
     year: 2019
     blurb: >
@@ -349,6 +349,16 @@ song_of_the_week:
     year: 2019
     blurb: >
       The BROCKHAMPTON boys are back, and they're sad. 
+  week36:
+    week: "Week 36: August 30 - September 5"
+    title: "dream of you"
+    artist: "mxmtoon"
+    album: "the masquerade"
+    album_art: "the-masquerade.jpg"
+    genre: "bedroom pop"
+    year: 2019
+    blurb: >
+      I am unbearbly excited for the masquerade. maia hasn't disappointed yet!
 
 
 
