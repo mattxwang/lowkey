@@ -1,0 +1,412 @@
+song_of_the_week:
+week1:
+  week: "Week 1: Jan 1 - Jan 4"
+  title: "Loving Is Easy"
+  artist: "Rex Orange County"
+  album: "Loving Is Easy"
+  album_art: "loving-is-easy.jpg"
+  genre: "indie pop"
+  year: 2017
+  blurb: >
+    Rex Orange County makes another catchy and relatable love ballad.
+week2:
+  week: "Week 2: Jan 4 - Jan 10"
+  title: "Crush"
+  artist: "Tessa Violet"
+  album: "Crush"
+  album_art: "crush.png"
+  genre: "indie pop"
+  year: 2018
+  blurb: >
+    Crush is what I love about modern pop: innovative and flashy production backed by simple but effective lyrics.
+week3:
+  week: "Week 3: Jan 11 - Jan 17"
+  title: "Ruin Your Night"
+  artist: "Sorcha Richardson"
+  album: "Ruin Your Night"
+  album_art: "ruin-your-night.jpg"
+  genre: "indie pop"
+  year: 2016
+  blurb: >
+    This is the catchiest sanger (sad banger) I've heard so far. The lyrics are so simple, yet so depressing.
+week4:
+  week: "Week 4: Jan 18 - Jan 24"
+  title: "Lovers Rock"
+  artist: "TV Girl"
+  album: "French Exit"
+  album_art: "french-exit.jpg"
+  genre: "indie pop"
+  year: 2014
+  blurb: >
+    Lovers Rock is entrancing, smooth pop at its best - something I imagine in the background of an upscale restaurant.
+week5:
+  week: "Week 5: Jan 25 - Jan 31"
+  title: "Rivers and Roads"
+  artist: "The Head and the Heart"
+  album: "The Head and the Heart"
+  album_art: "the-head-and-the-heart.jpg"
+  genre: "indie folk"
+  year: 2011
+  blurb: >
+    A much-too-relatable emotional ballad about missed friends and love songs - bread and butter for any university student.
+week6:
+  week: "Week 6: Feb 1 - Feb 7"
+  title: "You Only Like Me With The Lights Out"
+  artist: "Avid Dancer"
+  album: "You Only Like Me With The Lights Out"
+  album_art: "yolmwtlo.jpg"
+  genre: "alt rock"
+  year: 2016
+  blurb: >
+    Strong, raw guitars and an equally raw voice addictingly convey a truth that nobody wants to hear.
+week7:
+  week: "Week 7: Feb 8 - Feb 14"
+  title: "5% TINT"
+  artist: "Travis Scott"
+  album: "Astroworld"
+  album_art: "astroworld.jpg"
+  genre: "rap"
+  year: 2018
+  blurb: >
+    Travis weaves together a spooky vibe with a haunting piano chord, barebones beats, and his signature eerie autotune.
+week8:
+  week: "Week 8: Feb 15 - Feb 21"
+  title: "Gimme The Loot"
+  artist: "The Notorious B.I.G"
+  album: "Ready To Die"
+  album_art: "ready-to-die.jpg"
+  genre: "rap"
+  year: 1994
+  blurb: >
+    Considering the prominence of "Gimme The Loot" as a producer tag and adlib, I thought it'd be nice to take it back to the OG. Biggie is just a straight killer on this track.
+week9:
+  week: "Week 9: Feb 22 - Feb 28"
+  title: "Forever Always"
+  artist: "Peter Cottontale, Chance the Rapper, Daniel Caesar, Madison Ryann Ward, YEBBA"
+  album: "Forever Always"
+  album_art: "forever-always.jpg"
+  genre: "indie pop"
+  year: 2018
+  blurb: >
+    A surprisingly star-studded feel-good song - something that definitely helps with a rough week of work.
+week10:
+  week: "Week 10: Mar 1 - Mar 7"
+  title: "Locket"
+  artist: "Crumb"
+  album: "Locket"
+  album_art: "locket.jpg"
+  genre: "indie rock"
+  year: 2017
+  blurb: >
+    Locket is a tantalizing earworm, a combination of smooth rock and jazz-like elements that's been stuck in my head for the past few weeks.
+week11:
+  week: "Week 11: Mar 8 - Mar 14"
+  title: "No Drug Like Me"
+  artist: "Carly Rae Jepsen"
+  album: "Now That I Found You / No Drug Like Me"
+  album_art: "crj-3ep.jpg"
+  genre: "pop"
+  year: 2019
+  blurb: >
+    Carly's back with more bops. What else can I say.
+week12:
+  week: "Week 12: Mar 15 - Mar 21"
+  title: "Pristine"
+  artist: "Snail Mail"
+  album: "Lush"
+  album_art: "lush.png"
+  genre: "indie rock"
+  year: 2018
+  blurb: >
+    Pristine is yet another addition to simp session bedroom pop and indie rock - as cliché as it sounds, you really do feel her pain.
+week13:
+  week: "Week 13: Mar 22 - Mar 28"
+  title: "Upside Down"
+  artist: "Jack Johnson and Friends"
+  album: "Sing-A-Longs And Lullabies For The Film Curious George"
+  album_art: "curious-george.jpg"
+  genre: "pop"
+  year: 2006
+  blurb: >
+    Was surprised that this wasn't a Metro Boomin' collab, because this shit slaps.
+week14:
+  week: "Week 14: Mar 29 - Apr 4"
+  title: "bad guy"
+  artist: "Billie Eilish"
+  album: "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"
+  album_art: "wwafawdwg.jpg"
+  genre: "pop"
+  year: 2019
+  blurb: >
+    Billie brings a unique, consistent, and pretty spooky sound: a welcome addition to a pop scene filled with bland mediocrity, and from a 17 year-old no less.
+week15:
+  week: "Week 15: Apr 5 - Apr 11"
+  title: "Butterflies"
+  artist: "Kacey Musgraves"
+  album: "Golden Hour"
+  album_art: "golden-hour.jpg"
+  genre: "country"
+  year: 2018
+  blurb: >
+    I'm a bit late to the party, but Kacey Musgraves weaves together a beautifully melancholic pop-country album - chock full of tearjerkers and "aww" moments.
+week16:
+  week: "Week 16: Apr 12 - Apr 18"
+  title: "Hookers"
+  artist: "Tierra Whack"
+  album: "Whack World"
+  album_art: "whack-world.jpg"
+  genre: "rap"
+  year: 2018
+  blurb: >
+    Tierra brings a refreshing and whacky take on contemporary rap, delivering a deeply emotional and passionate performance in just one minute.
+week17:
+  week: "Week 17: Apr 19 - Apr 25"
+  title: "Distant"
+  artist: "Wayllo"
+  album: "Distant"
+  album_art: "distant.jpg"
+  genre: "electro pop"
+  year: 2019
+  blurb: >
+    Someone I went to high school with dropped a single, and it's fire. Reminds me of Snakehips, Major Lazer, and Louis the Child, in the best way possible.
+week18:
+  week: "Week 18: Apr 26 - May 2"
+  title: "Boyer"
+  artist: "Kevin Abstract"
+  album: "ARIZONA BABY"
+  album_art: "arizona-baby.jpg"
+  genre: "rap"
+  year: 2019
+  blurb: >
+    The BROCKHAMPTON boys do it again. Energetic production, vibrant vocals, and personal slices of Kevin's life. 
+week19:
+  week: "Week 19: May 3 - May 9"
+  title: "prom dress"
+  artist: "mxmtoon"
+  album: "the masquerade"
+  album_art: "the-masquerade.jpg"
+  genre: "bedroom pop"
+  year: 2019
+  blurb: >
+    New mxmtoon? Emotional vulnerability? Minimal production? Beautiful vocals? Instant banger.
+week20:
+  week: "Week 20: May 10 - May 16"
+  title: "I Like (the idea of) You"
+  artist: "Tessa Violet"
+  album: "I Like (the idea of) You"
+  album_art: "iltioy.jpg"
+  genre: "indie pop"
+  year: 2019
+  blurb: >
+    Tessa Violet drops another summer bop, filled with lovesick lyrics and production that makes you wanna dance. 
+week21:
+  week: "Week 21: May 17 - May 23"
+  title: "Grilled Cheese"
+  artist: "Peach Face"
+  album: "Grilled Cheese"
+  album_art: "grilled-cheese.jpg"
+  genre: "bedroom pop"
+  year: 2018
+  blurb: >
+    Grilled Cheese is an absolute earworm; I'm surprised that this is Peach Face's only song on Spotify, 'cause it's so damn catchy.
+week22:
+  week: "Week 22: May 24 - May 30"
+  title: "EARFQUAKE"
+  artist: "Tyler, the Creator"
+  album: "IGOR"
+  album_art: "igor.jpg"
+  genre: "rap"
+  year: 2019
+  blurb: >
+    IGOR is unabashedly raw, emotional, and personal. Tyler presents a fresh take in an oversaturated rap scene, and a possible AOTY.
+week23:
+  week: "Week 23: May 31 - June 6"
+  title: "Oom Sha La La"
+  artist: "Haley Heynderickx"
+  album: "I Need to Start a Garden"
+  album_art: "i-need-to-start-a-garden.jpg"
+  genre: "indie folk"
+  year: 2018
+  blurb: >
+    I Need to Start a Garden.
+week24:
+  week: "Week 24: June 7 - June 13"
+  title: "3 Nights"
+  artist: "Dominic Fike"
+  album: "Don't Forget About Me, Demos"
+  album_art: "dfamd.jpg"
+  genre: "alt pop"
+  year: 2018
+  blurb: >
+    I'd be remiss if I didn't mention this absolute earworm. I want more Dominic x BROCKHAMPTON.
+week25:
+  week: "Week 25: June 14 - June 20"
+  title: "Feels Right"
+  artist: "Carly Rae Jepsen"
+  album: "Dedicated"
+  album_art: "dedicated.jpg"
+  genre: "pop"
+  year: 2019
+  blurb: >
+    You thought I wouldn't be rocking new Carly? She doesn't stop embracing core elements of electro pop to keep on making bops.
+week26:
+  week: "Week 26: June 21 - June 27"
+  title: "Chinese New Year"
+  artist: "SALES"
+  album: "SALES - EP"
+  album_art: "sales.jpg"
+  genre: "pop"
+  year: 2014
+  blurb: >
+    Chinese New Year was a long time ago, but I'm still down. SALES sells me on an amazing hook and a raw sound.
+week27:
+  week: "Week 27: June 28 - July 4"
+  title: "Cocoa Butter Kisses"
+  artist: "Chance the Rapper"
+  album: "Acid Rap"
+  album_art: "acid-rap.jpg"
+  genre: "rap"
+  year: 2013
+  blurb: >
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">i think my quality of life has significantly improved now that acid rap is back on spotify</p>&mdash; matt wang (@malsf21) <a href="https://twitter.com/malsf21/status/1145177933448749056?ref_src=twsrc%5Etfw">June 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+week28:
+  week: "Week 28: July 5 - July 11"
+  title: "Selfish"
+  artist: "Little Simz"
+  album: "GREY Area"
+  album_art: "grey-area.jpg"
+  genre: "rap"
+  year: 2019
+  blurb: >
+    GREY Area is one of the only rap albums where I've added every single song to my playlist. Little Simz hits hard, but most importantly, she hits consistently.
+week29:
+  week: "Week 29: July 12 - July 18"
+  title: "Hands Down (Reprise)"
+  artist: "The Greeting Committee"
+  album: "Hands Down (Reprise)"
+  album_art: "hands-down-reprise.jpg"
+  genre: "indie pop"
+  year: 2017
+  blurb: >
+    The original is one of my favourite songs, so I can't believe that I discovered the reprise so late. Hands down my favourite cute song.
+week30:
+  week: "Week 30: July 19 - July 25"
+  title: "Are You Bored Yet?"
+  artist: "Wallows"
+  album: "Nothing Happens"
+  album_art: "nothing-happens.jpg"
+  genre: "indie rock"
+  year: 2019
+  blurb: >
+    Wallows x Clairo is like the Ed Sheeran collab album for softbois. I can't believe I just typed that sentence.
+week31:
+  week: "Week 31: July 26 - August 1"
+  title: "4EVER"
+  artist: "Clairo"
+  album: "diary 001"
+  album_art: "diary-001.jpg"
+  genre: "indie pop"
+  year: 2018
+  blurb: >
+    I've fully become a Wallows and Clairo addict at this point. 4EVER will tide me over until I listen to Immunity.
+week32:
+  week: "Week 32: August 2 - August 8"
+  title: "Sunday Best"
+  artist: "Surfaces"
+  album: "Where The Light Is"
+  album_art: "where-the-light-is.jpg"
+  genre: "r&b"
+  year: 2019
+  blurb: >
+    This is just such a feel good song. It's got me feeling blessed, never stressed. And you bet it's got me on my sunday best.
+week33:
+  week: "Week 33: August 9 - August 15"
+  title: "Closer To You"
+  artist: "Clairo"
+  album: "Immunity"
+  album_art: "immunity.jpg"
+  genre: "indie pop"
+  year: 2019
+  blurb: >
+    Some of this album is just... so sad. Clairo rips out emotions with minimal production and vocals.
+week34:
+  week: "Week 34: August 16 - August 22"
+  title: "suburban wonderland"
+  artist: "BETWEEN FRIENDS"
+  album: "suburban wonderland"
+  album_art: "suburban-wonderland.jpg"
+  genre: "indie pop"
+  year: 2017
+  blurb: >
+    I'm glad that I've left the 'burbs, but there is something special about it that I miss.
+week35:
+  week: "Week 35: August 23 - August 29"
+  title: "SUGAR"
+  artist: "BROCKHAMPTON"
+  album: "GINGER"
+  album_art: "ginger.jpg"
+  genre: "rap"
+  year: 2019
+  blurb: >
+    The BROCKHAMPTON boys are back, and they're sad. 
+week36:
+  week: "Week 36: August 30 - September 5"
+  title: "dream of you"
+  artist: "mxmtoon"
+  album: "the masquerade"
+  album_art: "the-masquerade.jpg"
+  genre: "bedroom pop"
+  year: 2019
+  blurb: >
+    I am unbearbly excited for the masquerade. maia hasn't disappointed yet!
+week37:
+  week: "Week 37: September 6 - September 12"
+  title: "Indigo"
+  artist: "NIKI"
+  album: "Indigo"
+  album_art: "indigo.jpg"
+  genre: "pop"
+  year: 2019
+  blurb: >
+    Wow, I'm just addicted to this song. Love the sugary-sweet synths and the colourful chorus.
+week38:
+  week: "Week 38: September 13 - September 19"
+  title: "Tenderness"
+  artist: "Jay Som"
+  album: "Anak Ko"
+  album_art: "anak-ko.jpg"
+  genre: "indie rock"
+  year: 2019
+  blurb: >
+    Anak Ko has been on repeat for me this past month. Jay Som is definitely an underrated gem, and I'm excited to hear more and more from her!!!
+week39:
+  week: "Week 39: September 20 - September 26"
+  title: "White Mercedes"
+  artist: "Charli XCX"
+  album: "Charli"
+  album_art: "charli.jpg"
+  genre: "pop"
+  year: 2019
+  blurb: >
+    Charli's back baby.
+week40:
+  week: "Week 40: September 27 - October 3"
+  title: "Vossi Bop"
+  artist: "Stormzy"
+  album: "Vossi Bop"
+  album_art: "vossi-bop.jpg"
+  genre: "rap"
+  year: 2019
+  blurb: >
+    Punchy one-liners, solid flow, and a very catchy beat. Stormzy brings the bread and butter of a chart-topping rap song.
+
+
+
+
+
+
+
+
+
+
+
