@@ -398,14 +398,13 @@ week40:
   year: 2019
   blurb: >
     Punchy one-liners, solid flow, and a very catchy beat. Stormzy brings the bread and butter of a chart-topping rap song.
-
-
-
-
-
-
-
-
-
-
-
+week41:
+  week: "Week 41: October 4 - October 10"
+  title: "For Real"
+  artist: "Mallrat"
+  album: "Uninvited"
+  album_art: "uninvited.jpg"
+  genre: "pop"
+  year: 2016
+  blurb: >
+    An adorably cute, positive song. "And you didn't even wanna die once this week" is a strange but graceful hook.
