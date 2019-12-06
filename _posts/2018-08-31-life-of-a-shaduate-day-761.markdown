@@ -1,12 +1,16 @@
 ---
-title: 'Life of a SHADuate, Day 761 | SHAD 2016 Series'
+title: 'Hindsight 20/18: SHAD'
 date: 2018-08-31 02:34:50 Z
 categories:
 - life
-- shad2016
+- hindsight2018
 author: "dazed, confused, and ashamed matt"
 layout: post
+edits:
+- "05/12/2019"
 ---
+
+*After doing some winter cleaning, I reframed this as a hindsight post. No content changes tho!*
 
 It's been more than two full years since I spent a summer at McMaster University and did the SHAD program. Since then, I've done a ton of reflection; not just on SHAD, but on me as a person. I've thought about the journey that's led to the person that I am now, and I have a few thoughts. If you don't mind, let's get self-reflective.
 
