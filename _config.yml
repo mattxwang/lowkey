@@ -35,6 +35,8 @@ repo: http://github.com/malsf21/lowkey
 website: https://matthewwang.me
 logo: "/img/lowkey-simple.png"
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 exclude:
   - vendor
   - LICENSE.md
