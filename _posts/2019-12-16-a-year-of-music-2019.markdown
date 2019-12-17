@@ -1,0 +1,500 @@
+---
+title: 'My Music in 2019, A Glance'
+date: 2019-12-16 02:34:50 Z
+categories:
+- entertainment
+author: 'spotify stalker matt'
+layout: post
+---
+
+Wow, 2019 has been a wild year. I have a few posts in mind, but the first thing I want to talk about is this year in music - and specifically, this year in my music taste.
+
+## Albums of the Year
+
+I'll cut straight to the chase. Here are my 10 favourite albums that came out in 2019:
+
+<div class="row" markdown="0">
+    <div class="col-4" markdown="span">
+        ![anak ko album cover]({{site.baseurl}}/img/albums/anak-ko.jpg)
+    </div>
+    <div class="col-8" markdown="0">
+        <h3>Anak Ko by Jay Som</h3>
+        <p>
+            Anak Ko is an indie masterpiece - Jay Som creates the music of daydreams and late night talks.
+        </p>
+        <details>
+            <summary markdown="span">a few more thoughts...</summary>
+            <p>
+                I rarely come across albums with a mood as consistent and fleshed-out as <em>Anak Ko's</em>. Jay Som creates a great soundtrack to life, one that's quiet and unassuming enough to not be in your face, but with a serenity and playfullness that always reminds you that it's there. In particular, I think Jay Som does an amazing balancing act between guitars/bass that's active but not overbearing, and a voice that's strong but doesn't steal the spotlight. Nothing solely grabs my attention, but at the same time, everything does. In that sense, it's a very versatile sort of music: one that I can put in the background while working or designing, listen to on my walk to class, or just when I'm diassociating.
+            </p>
+        </details>
+        <p>
+            Faves: <em>If You Want It, Superbike, Devotion, Nighttime Drive, Tenderness, Crown, Get Well</em>
+        </p>
+    </div>
+</div>
+
+<div class="row" markdown="0">
+    <div class="col-4" markdown="span">
+        ![charli album cover]({{site.baseurl}}/img/albums/charli.jpg)
+    </div>
+    <div class="col-8" markdown="0">
+        <h3>Charli by Charli XCX</h3>
+        <p>
+            Charli XCX continues being the future of pop.
+        </p>
+        <details>
+            <summary markdown="span">a few more thoughts...</summary>
+            <p>
+                Charli has an almost-rabid fan base, and for good reason: she has an almost complete hold on her lane, this kind of synth-filled future-pop dominated by PC Music. I'm a sucker for her electropop (especially since I used to listen to a <em>ton</em> of EDM when I was younger), and I think <em>Charli</em> is the natural mainstream progression of her <em>Number 1 Angel</em> and <em>Pop 2</em> sound: a maybe less raw, but much more polished experimental electro/synth pop. She shows off more of her voice (think Gone or White Mercedes) but keeps the big-room, in-your-face synths and flashy production that's earned her so much praise. If this is the direction that pop is heading in, then I'm pretty excited.
+            </p>
+        </details>
+        <p>
+            Faves: <em>Next Level Charli, Gone, Cross You Out, 1999, Blame It on Your Love, White Mercedes, Official, February 2017</em>
+        </p>
+    </div>
+</div>
+
+<div class="row" markdown="0">
+    <div class="col-4" markdown="span">
+        ![ginger album cover]({{site.baseurl}}/img/albums/ginger.jpg)
+    </div>
+    <div class="col-8" markdown="0">
+        <h3>GINGER by BROCKHAMPTON</h3>
+        <p>
+            The BROCKHAMPTON boys mature and mellow out, but maintain a unique lane in rap & pop.
+        </p>
+        <details>
+            <summary markdown="span">a few more thoughts...</summary>
+            <p>
+                To be honest, the new BH was unexpected, but definitely a welcome surprise. Admittedly, the <em>SATURATION</em> trilogy is a very high bar to live up to. <em>iridescense</em> tried to fill that gap by churning out lots of banger-esque songs, but I think the group was still struggling to find their right footing. On <em>GINGER</em>, BROCKHAMPTON takes a step back and reflects on their success, and their large, glaring failure. There aren't any true bangers (like BOOGIE or STAR), but they replace these with more personal, grounded, mature lyrics that show an evolution of America's best boyband. Sonically, they delve deeper into the sounds of BLEACH and SUMMER - it's great to see more bearface - but also maintain elements of iridescense's loud and powerful basslines in ST. PERCY and BOY BYE). As always, I'm excited to see what the boys do next.
+            </p>
+        </details>
+        <p>
+            Faves: <em>NO HALO, SUGAR, BOY BYE, HEAVEN BELONGS TO YOU, ST. PERCY, IF YOU PRAY RIGHT, I BEEN BORN AGAIN, BIG BOY</em>
+        </p>
+    </div>
+</div>
+
+<div class="row" markdown="0">
+    <div class="col-4" markdown="span">
+        ![heard it in a past life album cover]({{site.baseurl}}/img/albums/hiiapl.jpg)
+    </div>
+    <div class="col-8" markdown="0">
+        <h3>Heard It In A Past Life by Maggie Roggers</h3>
+        <p>
+            Maggie Rogers masquerades as a veteran of an industry with a well-polished debut album.
+        </p>
+        <details>
+            <summary markdown="span">a few more thoughts...</summary>
+            <p>
+                There's a <a href="https://youtu.be/G0u7lXy7pDg?t=1108" target="_blank" rel="noopener noreferrer">rather popular YouTube video</a> of Pharrell discovering Maggie Rogers. In sum, he's just flabbergasted - she's clearly outshone the rest of the NYU students, and he tells everybody to look for uniqueness like her. She's not redefining an entire genre, but has taken her own niche of art pop and created a unique, polished album. <em>Heard It In A Past Life</em> sounds like the refined album from a genre megastar, not 25 year old's studio debut. And it's just beautiful: her voice has a diverse range, both in ptich but also in emotion, and she masterfully blends electronic synths and pianos into almost folk-like hooks and refrains. She already posts amazing streaming numbers, but I think she'll do even better as more and more people discover just how good her music is.
+            </p>
+        </details>
+        <p>
+            Faves: <em>Give A Little, Overnight, Alaska, Light On, On + Off, Fallingwater, Retrograde, Back In My Body</em>
+        </p>
+    </div>
+</div>
+
+<div class="row" markdown="0">
+    <div class="col-4" markdown="span">
+        ![igor album cover]({{site.baseurl}}/img/albums/igor.jpg)
+    </div>
+    <div class="col-8" markdown="0">
+        <h3>IGOR by Tyler, The Creator</h3>
+        <p>
+            Tyler takes the raw energy from eating a cockraoch to producing one of the most personal, raw breakup albums out there.
+        </p>
+        <details>
+            <summary markdown="span">a few more thoughts...</summary>
+            <p>
+                I don't know what to say. I used to listen to <em>WOLF</em> and Odd Future mixtapes. I saw Tyler eat a cockroach, write vulgar rhymes that Eminem would be proud of, and just fuck around as a slightly alt rapper. If you told me the Tyler who made "BLOW YOUR LOAD" and "THE BROWN STAINS OF DARKEESE LATIFAH" would go on to make sadboi breakup music in four years, I'd call you insane; and if you told me it'd be one of my favourite albums of the year, I'd check you into Arkham Asylum myself. And yet, here we are. Tyler moves the breakup album genre forward, melding sad, introspective, raw lyrics with hip-hop and r&b's production and song structure. He sprinkles a bit of rap (apparently just enough to get him a rap AOTY nom?) and a little bit of that Tyler flair, and created a masterpiece. Bravo Tyler, bravo. 
+            </p>
+        </details>
+        <p>
+            Faves: <em>EARFQUAKE, I THINK, RUNNING OUT OF TIME, NEW MAGIC WAND, A BOY IS A GUN*, PUPPET, WHAT'S GOOD, ARE WE STILL FRIENDS?</em>
+        </p>
+    </div>
+</div>
+
+<div class="row" markdown="0">
+    <div class="col-4" markdown="span">
+        ![nothing happens album cover]({{site.baseurl}}/img/albums/nothing-happens.jpg)
+    </div>
+    <div class="col-8" markdown="0">
+        <h3>Nothing Happens by Wallows</h3>
+        <p>
+            Wallows embodies what I want to hear when someone says that they're in a band.
+        </p>
+        <details>
+            <summary markdown="span">a few more thoughts...</summary>
+            <p>
+                To be honest, I don't have much more to say. Wallows makes me want to roll up my pants and my sweater, wear Vans and denim, and skateboard. They have a vibe, and they play it extremely well. I basically loved every song on this album - it gave me a great and undeniable energy.
+            </p>
+        </details>
+        <p>
+            Faves: <em>Treacherous Doctor, Sidelines, Are You Bored Yet?, Scrawny, Ice Cold Pool, Worlds Apart, What You Like, Remember When, I'm Full</em>
+        </p>
+    </div>
+</div>
+
+<div class="row" markdown="0">
+    <div class="col-4" markdown="span">
+        ![thank u next album cover]({{site.baseurl}}/img/albums/thank-u-next.jpg)
+    </div>
+    <div class="col-8" markdown="0">
+        <h3>thank u, next by Ariana Grande</h3>
+        <p>
+            Ariana creates pop perfection.
+        </p>
+        <details>
+            <summary markdown="span">a few more thoughts...</summary>
+            <p>
+                A major criticism of pop is that it's derivative, and just waters down meaningful culture into bland nothingless. I think that's a bit unfair of a characterization, and <em>thank u, next</em> is a great counter-example of what pop does right. Ariana blends a medley of characterstics (rap and r&b-esque hooks, trap 808's, elements of electropop, and maybe a too-similar 2 Chainz chorus) and to create a powerhouse of songs that are equally ruthless and dark as they are catchy and fun. Definitely my favourite mainstream pop release of the year.
+            </p>
+        </details>
+        <p>
+            Faves: <em>imagine, NASA, bloodline, fake smile, make up, ghostin, in my head, 7 rings, thank u, next, break up with your girlfriend, i'm bored</em>
+        </p>
+    </div>
+</div>
+
+<div class="row" markdown="0">
+    <div class="col-4" markdown="span">
+        ![the masquerade album cover]({{site.baseurl}}/img/albums/the-masquerade.jpg)
+    </div>
+    <div class="col-8" markdown="0">
+        <h3>the masquerade by mxmtoon</h3>
+        <p>
+            Maia evolves her sound and becomes an internet phenom, but keeps her heart and soul as a sad but personable teenager.
+        </p>
+        <details>
+            <summary markdown="span">a few more thoughts...</summary>
+            <p>
+                If I had to fanboy over one artist, it'd definitely be mxmtoon. I love everything about maia: her music, her attitude, how she interacts with fans, her online persona - to me, I think it's everything an internet musician should be. And, I like where she's taken her sound. Don't get me wrong, I loved the simple, minimal, and sad vibes from <em>plum blossom</em>; but, maia (along with cavetown, who also makes some bangers) was able to fiddle and tinker with the formula without getting rid of the (BBQ) secret sauce: personable and vulnerable music from the perspective of the all-too-relatable sad teenager.
+            </p>
+            <p>
+                Oh and her Tik Toks are fire, but I didn't tell you that. I wouldn't use Tik Tok, after all.
+            </p>
+        </details>
+        <p>
+            Faves: <em>unspoken words, prom dress, suffice, blame game, high & dry, my ted talk, seasonal depression, dream of you, late nights</em>
+        </p>
+    </div>
+</div>
+
+<div class="row" markdown="0">
+    <div class="col-4" markdown="span">
+        ![where the light is album cover]({{site.baseurl}}/img/albums/where-the-light-is.jpg)
+    </div>
+    <div class="col-8" markdown="0">
+        <h3>Where the Light Is by Surfaces</h3>
+        <p>
+            Where the Light Is is feel-good music at its best. It has an infectious energy that makes you just want to dance.
+        </p>
+        <details>
+            <summary markdown="span">a few more thoughts...</summary>
+            <p>
+                Surfaces has just such a happy, feel-good sound. To be more precise, it sounds like a fun day at the beach: Forrest and Colin are having an amazing time, and they're asking you to join in on the water. It's reflected by their playful instrumentals, slow and chill lyrics, and clean, bubbly voice. Even their more somber cuts are like a breeze on a beach, with no sad moment in sight. You can tell it's tough for me to exactly place this feeling with words, but Surfaces's music just makes you feel warm.
+            </p>
+        </details>
+        <p>
+            Faves: <em>Shine On Top, Heaven Falls / Fall On Me, This View, Grace, Sunday Best, Where The Light Is, Someday, Home</em>
+        </p>
+    </div>
+</div>
+
+<div class="row" markdown="0">
+    <div class="col-4" markdown="span">
+        ![WHEN WE ALL FALL ASLEEP, WHERE DO WE GO album cover]({{site.baseurl}}/img/albums/wwafawdwg.jpg)
+    </div>
+    <div class="col-8" markdown="0">
+        <h3>WHEN WE ALL FALL ASLEEP, WHERE DO WE GO by Billie Eilish</h3>
+        <p>
+            Billie creates a unique, almost-visceral pop album, backed by innovative production and a clever use of her voice.
+        </p>
+        <details>
+            <summary markdown="span">a few more thoughts...</summary>
+            <p>
+                It's amazing to me that Billie Eilish is younger than me - how could someone who's spent almost a year less on the planet make such a substantial work of art, when I'm at my age and dumb? I really enjoyed <em>dont smile at me</em> - Billie really uses her voice, and Finneas does minimal production perfectly - but <em>WHEN WE ALL FALL ASLEEP, WHERE DO WE GO</em> is a completely different beast. Billie and Finneas create a dark and moody atmosphere out of lyrics and production, but at the same time create a diverse sonic profile: Billie hops from bops to ballads effortlessly, and the production naturally fluctuates from in-your-face electronic to minimalist pianos or eerie synths. And, it doesn't take itself too seriously, which is something I think pop needs a bit more of. To be honest, I think Billie Eilish is what pop needs a bit more of, if she's alright with that.
+            </p>
+        </details>
+        <p>
+            Faves: <em>bad guy, xanny, you should see me in a crown, all good girls go to hell, when the party's over, my strange addiction, bury a friend, ilomilo, i love you</em>
+        </p>
+    </div>
+</div>
+
+## Other Albums That I Liked
+
+There are a ton of other albums that I listened to this year that I really liked. Here's a list of them, split up by when they were released:
+
+### Albums Released in 2019
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *ARIZONA BABY* by Kevin Abstract
+* *Bad Ideas* by Tessa Violet
+* *Blood Harmony* by FINNEAS
+* *CASE STUDY 01* by Daniel Caesar
+* *chapter 2* by girl in red
+* *Dedicated* by Carly Rae Jepsen
+* *Diaspora* by Goldlink
+* *Father of the Bride* by Vampire Weekend
+* *GREY Area* by Little Simz
+* *Hollywood’s Bleeding* by Post Malone
+* *I Used To Know Her* by H.E.R.
+* *Immunity* by Clairo
+* *Injury Reserve* by Injury Reserve
+* *Is He Real?* by IDK
+* *Jinx* by Crumb
+* *Living Mirage* by The Head and the Heart
+* *Lover* by Taylor Swift
+* *LSD* by Labrinth, Sia, and Diplo
+* *Mirrorland* by EARTHGANG
+* *Norman Fucking Rockwell* by Lana Del Rey
+* *Pony* by Rex Orange County
+* *Revenge of the Dreamers III* by Dreamville
+* *The Lost Boy* by YBN Cordae
+* *wanna take this downtown?* by NIKI
+* *we just need some time together* by BETWEEN FRIENDS
+* *WELCOME HOME* by ARIES
+
+</details>
+
+A few highlights out of this long list:
+
+* **ARIZONA BABY** was good, but to be honest, a little below par compared to my expectations. I think the BROCKHAMPTON boys still work the best together.
+* I think **Clairo** is doing a great job of riding out her internet fame, and I absolutely loved some of her singles leading up to *Immunity*. But, to be honest, I thought the album was a bit underwhelming - nothing stood out in the same way that *4EVER* and *Pretty Girl* did. Still, she's growing, and I want to see more.
+* **Dedicated** was sooo close to being an AOTY for me - I think Carly did amazing (as always), but it just wasn't the same as EMOTION. Still, a stellar album, and definitely a clear #11 for me.
+* In contrast, I thought **Pony** wasn't a great showing out of Rex - yes, I did still like it, but it wasn't nearly to the calibre of *Loving is Easy*, *Best Friend*, *Sunflower*, or anything off of *Apricot Princess*. I hope his next few label studio albums maintain more elements from that area.
+* **GREY Area** by Little Simz was a surprise favourite for me - I had never heard of her before this album, but it actually slaps. Really excited to see what she'll do in the future!
+* Taylor's kinda back! I liked **Lover**, and it's a welcome direction from *reptutation*. I've got to say though, I think *ME!* was a terrible choice of a lead single, and I really dislike that song.
+* There are a few short EPs that I'd love to hear more from: BETWEEN FRIENDS, girl in red, and NIKI all released short EPs that want me wanting more. In particular, I've definitely become an overnight **NIKI** fan, and am absolutely going to any new music by her on release.
+* **YBN Cordae** is definitely the standout new rapper this year - he's killed it both on his album and his feature game (especially with H.E.R.).
+* You might notice that there aren't any true trap albums here, and most of the rap is pretty off-mainstream. I'll talk about this in a bit, but I really think rap has had a disappointing mainstream year.
+
+### Albums Released in 2018
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *Don’t Forget About Me, Demos* by Dominic Fike
+* *Golden Hour* by Kacey Musgraves
+* *Love Me / Love Me Not* by HONNE
+* *Lush* by Snail Mail
+* *Rabbit Hearted.* by chloe moriondo
+* *This Is It* by The Greeting Committee
+* *Whack World* by Tierra Whack
+* *Zephyr* by NIKI
+
+</details>
+
+A bit of a shorter list (which makes sense). Two super quick notes:
+
+* **Golden Hour** is an absolute banger. If it came out this year, it'd definitely be on my AOTY, and I 100% understood why it won AOTY at the Grammy's. It has singlehandedly gotten me a bit more into country this year.
+* **Tierra Whack** has lots of potential. Excited that she was an XXL Freshmen this year (though kinda disappointed by her performance there), and I'm excited for more.
+
+### Albums Released Before 2018
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* 4:44 by JAY-Z
+* A Different State of Mind by Kid Bloom
+* Beacon by Two Door Cinema Club
+* Beauty Behind The Madness by The Weeknd
+* Boys & Girls by Alabama Shakes
+* Carrie & Lowell by Surfjan Stevens
+* Harmless Melodies by Yellow Days
+* Is This It by The Strokes
+* I like it when you sleep, for you are so beautiful yet so unaware of it by The 1975
+* Landmark by Hippo Campus
+* Melophobia by Cage The Elephant
+* Surf by Surfaces
+* The Head and the Heart by The Head and the Heart
+* The Rise And Fall Of Ziggy Stardust And The Spiders From Mars by David Bowie
+* Torches by Foster The People
+
+</details>
+
+Some quick mentions:
+
+* Wow, **4:44** is a great album, I'm so happy that Jay decided to bring it back to Spotify. Definitely one of the best rap albums of that year, and possibly this decade.
+* Really enjoyed listening to music that's significantly out of my typical listening style, like **Carrie & Lowell**, **Is This It**, and **The Rise And Fall Of Ziggy Stardust And The Spiders From Mars**. Definitley excited to listen to more Surfjan, The Strokes, and David Bowie in this next year.
+* Similarly, I pushed a bit more into the folk/shoegaze/country scene (mostly inspired from Kacey) - **The Head and the Heart**'s self-titled and **Boys & Girls** were both standout listens for me.
+* I spent some time getting back getting back into **The Weeknd**, and I've got to say - there are quite a few songs on *Beauty Behind The Madness* that I slept on when I first listened to it (*Tell Your Friends*, *Losers*, *Prisoner*) - though a lot of that is my fault on not thoroughly listening to it the first time.
+* **A Different State of Mind** is definitely one of the best short EPs I've heard this year - it's hard to exactly put it in words, but Kid Bloom does an amazing job creating this trance-like vibe.
+* I realise that **The 1975** is a bit cringe and pretentious. Gotta say though, there are still times where I love their sugary-sweet pop.
+
+## Songs of the Year
+
+Most of my songs of the year are already covered in the albums that I've mentioned, but there are a few others that are either standalone singles or come from albums that I didn't love front-to-back. Here are a few:
+
+### Songs Released in 2019 (favourite albums non-inclusive)
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *at least i look cool* by Sasha Sloan
+* *Blinding Lights* by The Weeknd
+* *BOP* by DaBaby
+* *Borderline* by Tame Impala
+* *Champion* by 99 Neighbors
+* *Coming Home* by Pusha T, Lauryn Hill
+* *COMMA$* by LORD$OFTHEDOGTOWN
+* *DICTATOR* by Rei Ami
+* *Distant* by Wayllo
+* *double take* by dhruv
+* *Education* by Freddie Gibbs & Madlib, Black Thought, Yasiin Bey
+* *Family and Loyalty* by Gang Starr, J. Cole
+* *Goin Baby* by DaBaby
+* *i’m so tired...* by Lauv & Troye Sivan
+* *If I Were You* by Claud
+* *Indigo* by NIKI
+* *Jesus In LA* by Alec Benjamin
+* *Kids* by Rich Brian
+* *Money In The Grave* by Drake
+* *NEW WIP* by Boombox Cartel, MADEINTYO
+* *Numb Numb Juice* by Schoolboy Q
+* *OUTTA MY MIND* by Monsune
+* *Phone Numbers* by Dominic Fike, Kenny Beats
+* *Ready To Let Go* by Cage The Elephant
+* *ringtone* by 100 gecs
+* *Salvador Dali* by Royal & the Serpent
+* *Sugarplum Elegy* by NIKI
+* *Summer Girl* by HAIM
+* *Supalonely* by BENEE, Gus Dapperton
+* *Talk* by Khalid, Disclosure
+* *That’s Life* by 88-Keys, Mac Miller, Sia
+* *The London* by Young Thug
+* *To Love A Boy* by Maya Hawke
+
+</details>
+
+Some quick tidbits:
+
+* **DaBaby** is absolutely killing it commercially this year, and I think he's probably the best rapper of this new mainstream wave (assuming YBN Cordae, JID, etc. are in a different lane). He definitely makes some bops.
+* Super excited for this new **Tame Impala** album!
+* **COMMA$** is definitely the most underground song on all of my lists. Infectious flow, and could be the next BROCKHAMPTON!
+* **Rei Ami** is probably one of my guilty pleasures. Please don't make fun of me.
+* **Indigo** is probably my favourite song this year.
+* **NIKI** is sooooo good, WTF. *Sugarplum Elegy* is beautiful to its core.
+* I can't explain it, but I love about half of **100 gecs** music. Very strange. Very fun.
+* **OUTTA MY MIND** is nuts smooth. It's one of those songs that's hard to get sick of.
+* I heard **Salvador Dali** while carpooling to work, and I absolutely had to add it to the playlist. A very unique song.
+* In contrast to albums, I think this was a mediocre/good year for rap singles: *BOP*, lots of *Baby on Baby* (*Babysitter*, *Goin Baby*, *Suge*), *Cokewhite*, *Coming Home*, *Down Bad*, *Family and Loyalty*, *Kids*, *MIDDLE CHILD*, *Money In The Grave*, *Selfish*, *SUGAR*, and *The London* were probably my favourites.
+
+### Songs Released Before 2019
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *barcelona boots* by arlie
+* *Beach Bummer* by No Vacation
+* *Can I Call You Tonight?* by Dayglow
+* *CAN’T GET OVER YOU* by Joji, Clams Casino
+* *Chinese New Year* by SALES
+* *Coffee* by beabadoobee
+* *Coffee* by Sylvan Esso
+* *Dance in the Living Room* by nvthvn, Forrest
+* *Dissolve* by Absofacto
+* *For Real* by Mallrat
+* *Forever Always* by Peter Cottontale, Chance the Rapper, YEBBA, Madison Ryann Ward, Rex Orange County
+* *Grilled Cheese* by Peach Face
+* *Jane* by LAUNDRY DAY
+* *Herside Story* by Hare Squead
+* *Hunnybee* by Unknown Mortal Orchestra
+* *Locket* by Crumb
+* *Lovers Rock* by TV Girl
+* *Oom Sha La La* by Haley Heynderickx
+* *Quit* by Cashmere Cat, Ariana Grande
+* *Prom Queen* by Beach Bunny
+* *Put a Flower in Your Pocket* by The Arcs
+* *Ruin Your Night* by Sorcha Richardson
+* *San Francisco Street* by Sun Rai
+* *Saw You In A Dream* by Japanese House
+* *Shotgun* by Little Simz, Syd
+* *So Sad, So Sad* by Varsity
+* *The Spot* by Your Smith
+* *Unrequited Love (& other cliches)* by Breakup Shoes
+* *Vossi Bop* by Stormzy
+* *Wash It All Away* by San Cisco
+* *You Only Like Me With The Lights Out* by Avid Dancer
+
+</details>
+
+Final thoughts on these:
+
+* I know **Chinese New Year** is a Tik Tok song, but it slaps.
+* Ditto, but for **CAN'T GET OVER YOU**.
+* Ditto, but for **Dissolve**. Do I have a Tik Tok problem? Absolutely not.
+* **Grilled Cheese** has completely nonsensical lyrics, but it still bops.
+* When I think of bougie restaurant music, I think of **Lovers Rock**.
+* Or **Hunnybee**.
+* Mallrat's songs are just full of positive vibes, and **For Real** is a perfect example.
+* **Saw You In A Dream** is so elegant.
+
+### Honourable Mentions
+
+Two of my other favourite albums, *Acid Rap* and *Watch The Throne*, came back to Spotify this year (as did the rest of JAY-Z's catalogue and *Lemonade*). Definitely has made my year a bit better.
+
+### Disappointments
+
+I don't like shitting on music, but this year there were quite a few disappoining albums. In particular,
+
+* *The Big Day* by Chance the Rapper
+* *Supermarket* by Logic
+* *FATHER OF 4* by Offset
+* *Confessions of a Dangerous Mind* by Logic
+* *JESUS IS KING* by Kanye West
+
+Which is a good segue to...
+
+## Some Thoughts on Rap
+
+[I talked about this a bit before]({{site.baseurl}}/entertainment/2019/07/28/do-i-like-rap.html), but I think rap has been quite disappointing for me lately. At this point, I'm willing to put a bit more blame onto how the genre has been progressing.
+
+For starters, let's talk about our mainstream disappointments. *The Big Day* is literally a 0/10 for me. Don't get me wrong, I love Chance - *Acid Rap* is one of my favourite albums, and the singles he dropped leading up to this album (e.g. *I Might Need Security*, *The Man Who Has Everything*) were amazing. And somehow, we got this steaming pile of shit instead. This is literally the worst major album release I've heard out of any artist - I straight up did not like a single song on the album. The lyrics are surface-level, cringy, and annoying. Chance uses his voice awfully, trying and obviously failing to imitate his contemporaries. The production is at best watered-down copycats of what's popular now, and at worst so annoying that the acapella version would probably be better. Yes, it's great that Chance has a positive attitude and seems like a good guy most of the time, but that doesn't excuse this garbage album. It also does pain me to see him do all this promo for it, just for his tour to be cancelled and for the internet to start hating him - but at the same time, he really should've made a better  album.
+
+Then, we have Logic. Agh, this man was my Spotify most listened to artist from 2015-2017. *Under Pressure* was amazing, *The Incredible True Story* maintained what made *Under Pressure* great... and then... it just stopped. I was able to tolerate *Everybody*, and *YSIV* wasn't awful, but *Supermarket* and *Confessions of a Dangerous Mind* are just... unbelievable. It's not as bad as *The Big Day*, for sure, but it's just disappointing to see so much potential just not there. Logic used to have breadth: in his content, touching on social issues (albeit a little bluntly) and his life experience; in his technical ability, which IMO was a bit more than just fast-rapping and imitating what was popular; in his production choices, which was reminiscent of Nas and East Coast rap with a modern refresh. Now, he's just so one dimensional: every line is about how big he is or about his haters (of which I have met very few of), his rhymes are lazy, his singing is definitely not good, and his production doesn't fit him anymore. He's lost everything that made me fall in love with him, and at this point, I have to clarify that I'm an "old Logic" fan. That's just sad.
+
+And Kanye? Chick-fil-a? Are you kidding me?
+
+For someone who's favourite genre is (or at least used to be) rap, it really just is disappointing. I don't want to just recycle "trap and mumble rap all sound the same" or "streaming killed rap", but there are elements of truth in both of them. There's still a lot of trap and mumble rap that I love: I think 21 Savage and Travis Scott are still producing banger after banger, and acts like Playboi Carti, Young Thug (damnnnn *So Much Fun* did so well), Future, and MadeinTYO are definitely still pushing the envelope of what defines trap.
+
+But at the same time, there is just tons of fluff. I still maintain that *Culture* is an excellent example of trap done right, but the Migos have oversaturated themselves; they have no Quality Control. Their solo albums were all disappointing, the QC compilation albums are just bloated, and the triplet flow is... getting a tad bit old. I've said this before, but they need to repeat the direction of *Without Warning*: short and sweet, laser-focused, and just ever-so-slightly new. Pick a few producers, lean on their production themes, and have an air of album coherence.
+
+Similarly, I can't say I'm a huge fan of the even-newer generation of trap. Sure, *Rubbin Off The Paint* is a banger, but the YBN squad (sans Cordae) is really just rapping the same song, with the same flow, with the same beat. I do genuinely think that rappers like Blueface or NLE Choppa are bringing something new to the game with very distinct flows, but I can't say that they're my style - it just feels wrong. And while I get the appeal of Lil Tecca or Trippie Red, to me there's just a lack of depth.
+
+Now, it's not to say that I hate all new rap: in the mainstream, I like the rise of DaBaby, I think Ski Mask is one of the best rhythmic rappers out there, and Yung Gravy, amongst all the memes, is everything that Lil Dicky wanted to be. The Dreamville tape was quite solid, and I'm especially excited to see what JID and Bas have in store for us. But it's definitely a minority of newer rap, and I don't think anybody is on the same level of dominance that Kanye and Kendrick had at the beginning to the middle of this decade, let alone the GOAT status of JAY-Z, Tupac/Biggie, Outkast, Nas, Eminem, etc.
+
+It's not just newer rap though. There have been those huge big disappointments, but other seasoned acts have let me down a bit as well. I think part of this is a desire to compete with this new wave, especially when streaming has made immediacy and catchiness a top priority: I'd like to think this is what happened to Chance, but also to ScHoolboy Q, Vince Staples, 2 Chainz, YG, and Gucci Mane, all of whom I like at least a little bit. Each of them has lost a little bit of what made them unique and become just a bit more generic, which is not what I want to hear.
+
+That's definitely hit Logic the hardest - for someone who admittedly does mirror his peers, trying to get into the lane of the Migos, Trippie Red, or YBN Nahmir just doesn't fit his skillset. Even if you're the largest Logic hater, you've got to agree that *Under Pressure* was around Logic's peak; and even if you're the largest Logic fan, you've got to admit that he's lost a bit of something with *Confessions of a Dangerous Mind*. Unfortunately (for me), he's still racking up enough commercial success that he's probably not going to change anytime soon.
+
+In a slightly similar situation, I want to see Kanye go back to his roots too. I loved Kanye for his innovative production, somewhat meaningful (if occasionally subpar) lyrics, and above all, his attention to detail. I feel like we've lost that after *Yeezus*; even though *The Life of Pablo*, *ye*, and *Kids See Ghosts* all had amazing elements, they're sorely lacking in the quality that made the *College Dropout* -> *Late Registration* -> *Graduation* run so legendary. And, as far as gospel rap goes, I've heard better; I remember a song called *Jesus Walks* made a long time ago that was pretty good. Can't remember the rapper's name for the life of me, though.
+
+While I'm making wishes about the rap game, there's one more thing I want to see.
+
+I need (and I really mean **I need**) a new Kendrick album. The Black Panther soundtrack just wasn't enough to tide me over. *DAMN* wasn't stellar, but at this point, I'll take anything. If we get another *To Pimp A Butterfly*, I think my faith in rap will be restored.
+
+In the meantime, catch me listening to more softboi music. *The transformation is almost complete.*
+
+## Closing (and random) Thoughts
+
+I really liked Spotify Wrapped this year - it gets better year after year, and I think companies elegantly presenting genuinely interesting data to consumers will become more of a trend in the years to come. Not sure how excited I am for that though.
+
+I'm a bit happier with how my music listening habits have changed: I did become more of an album listener, which is something I mentioned I wanted to do more of last year. I spent a good amount of time revisiting albums that I'd heard of from their lead singles (like *Beauty Behind The Madness*, *Torches*, or *Beacon*), and I'm happy that I was able to find a few more hidden gems. And, I think I've diversified my music taste a bit (even if it's a bit basic), and I'm glad that I have a bit more versatility in the types of art that I enjoy.
+
+I'm also thankful for all of the friends who I have the privilege of ~~stalking~~ following on Spotify: I've received tons of great recommendations for music that I would've otherwise never listened. Special shoutouts to [John](https://open.spotify.com/user/koaw316wdik96wk7rxx1bk29r?si=W9qrAmFURxmRFNcjI5Bwbw), [Abbey](https://open.spotify.com/user/abbey424?si=De31yXUbTTKgCgI-L6iJGg), [Elizabeth](https://open.spotify.com/user/ejnail?si=IkT9CFlaQBS2HMaIr8X5vA), [Malcolm](https://open.spotify.com/user/uwzv4rm5qri2p1g473pbfw792?si=3Mr3Ti7xQWqwQgZ30REqYg), [Hannah](https://open.spotify.com/user/hannahdaijo?si=sTFmh3QxS_OFH6vMec0zdg), [Sophie](https://open.spotify.com/user/420sophie?si=qkETP6AOSWm9H5X0A0HMcg), Karen (who probably doesn't want me to link her spotify), [Adil](https://open.spotify.com/user/adilnatal?si=823ZBcJQQtOWt4e6_nhR4A), and [Geoff](https://open.spotify.com/user/22jaeoo3quijwrtbm3bokihzi?si=6zZxVt7qQHCviGLZ8Un2-A). 
+
+And, there are a bunch of other people I stalk on Spotify too. Maybe you're one of them?
+
+Oh, and finally, I made a playlist to close out the year, with songs that were released to Spotify in 2019. Makes sense, right?
+
+<iframe src="https://open.spotify.com/embed/playlist/3pc742oh3CXNry7K2zIe7d" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" style="display:block;margin-left:auto;margin-right:auto;"></iframe>
+
+Until next time!
