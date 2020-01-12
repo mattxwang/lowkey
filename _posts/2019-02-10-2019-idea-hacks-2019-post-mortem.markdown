@@ -53,9 +53,10 @@ Our team consisted of five people, who are all my close friends:
 
 ![pop 'n lock]({{site.baseurl}}/img/ideahacks/popnlock.png)
 Our project (which we named pop 'n lock at the last minute) was an RFID smart lock. Essentially, it's a lock that you can only unlock with a device that emits a certain radio signal, like a student card, a key fob, or a phone. Here's a brief video that shows it in action.
-
-<div class="twitter-embed-container">
-	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">life’s good <a href="https://twitter.com/hashtag/ideahacks?src=hash&amp;ref_src=twsrc%5Etfw">#ideahacks</a> <a href="https://t.co/5aWZD14Ejj">pic.twitter.com/5aWZD14Ejj</a></p>&mdash; Matthew Wang (@malsf21) <a href="https://twitter.com/malsf21/status/1086905494990540800?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div markdown="0">
+	<div class="twitter-embed-container">
+		<blockquote class="twitter-tweet"><p lang="en" dir="ltr">life’s good <a href="https://twitter.com/hashtag/ideahacks?src=hash&amp;ref_src=twsrc%5Etfw">#ideahacks</a> <a href="https://t.co/5aWZD14Ejj">pic.twitter.com/5aWZD14Ejj</a></p>&mdash; Matthew Wang (@malsf21) <a href="https://twitter.com/malsf21/status/1086905494990540800?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
 </div>
 
 In the rest of this post, I'll talk about the process that our team went through to make this project a reality, mention a few things that I learned, and detail an experience that I had lots of fun doing. Let's get started!
@@ -131,14 +132,18 @@ In addition, the housing was a less interesting but equally important problem: w
 
 By the evening, most of our components had been printed. All of our components fit, but with jumper cables and when plugged into the computer - so we had to do some soldering. Jeff ended up doing all of it (I accompanied him and gave him moral support), and late into the night we had a fully operational lock to test. So, we tested it.
 
-<div class="twitter-embed-container">
-	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">life’s good <a href="https://twitter.com/hashtag/ideahacks?src=hash&amp;ref_src=twsrc%5Etfw">#ideahacks</a> <a href="https://t.co/5aWZD14Ejj">pic.twitter.com/5aWZD14Ejj</a></p>&mdash; Matthew Wang (@malsf21) <a href="https://twitter.com/malsf21/status/1086905494990540800?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div markdown="0">
+	<div class="twitter-embed-container">
+		<blockquote class="twitter-tweet"><p lang="en" dir="ltr">life’s good <a href="https://twitter.com/hashtag/ideahacks?src=hash&amp;ref_src=twsrc%5Etfw">#ideahacks</a> <a href="https://t.co/5aWZD14Ejj">pic.twitter.com/5aWZD14Ejj</a></p>&mdash; Matthew Wang (@malsf21) <a href="https://twitter.com/malsf21/status/1086905494990540800?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
 </div>
 
 Here's an opened version of our lock.
 
-<div class="twitter-embed-container">
-	<blockquote class="twitter-tweet" data-conversation="none"><p lang="und" dir="ltr"><a href="https://t.co/Q0lHsBHGeJ">pic.twitter.com/Q0lHsBHGeJ</a></p>&mdash; Matthew Wang (@malsf21) <a href="https://twitter.com/malsf21/status/1086906357003894784?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div markdown="0">
+	<div class="twitter-embed-container">
+		<blockquote class="twitter-tweet" data-conversation="none"><p lang="und" dir="ltr"><a href="https://t.co/Q0lHsBHGeJ">pic.twitter.com/Q0lHsBHGeJ</a></p>&mdash; Matthew Wang (@malsf21) <a href="https://twitter.com/malsf21/status/1086906357003894784?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
 </div>
 
 By 12:37 AM (according to Twitter), we had a fully operational smart lock. Naturally, we celebrated for a bit - our blood, sweat, and tears were put into this prototype - and we went to sleep, at an almost normal hour - something I definitely didn't expect out of a hackathon.
