@@ -1,12 +1,10 @@
-# [![Lowkey Logo](img/lowkey-transparent.png)](http://blog.matthewwang.me)
+# Lowkey
 [![Build Status](https://travis-ci.org/malsf21/lowkey.svg?branch=master)](https://travis-ci.org/malsf21/lowkey)
 > to keep something Lowkey: to not announce it;
 
-**Lowkey** is my blog: nothing too special, nothing I need to announce, just a place where I talk about cool things, cool events, and cool people. Along the way, you'll see some wacky stuff (like a post analyzing Starbucks Rewards), developer insights on how I made this blog (using Jekyll, obviously!), and a few nice tidbits about my life.
+**Lowkey** is my blog. I have many opinions and thoughts, and these are the ones that are mildly interesting.
 
-Lowkey was built on [Jekyll](https://jekyllrb.com) and [Liteweight](https://malsf21.github.io/liteweight/).
-
-*Note: you might ask why categories and specials are self-coded instead of using gems. That's because Lowkey is hosted in GitHub Pages, which only allows certain whitelist plugins (jekyll-archives not being one of them). Therefore, I need to implement those functionalities by hand).*
+It's built with [Jekyll](https://jekyllrb.com) and [Liteweight](https://malsf21.github.io/liteweight/).
 
 ## Setup
 
@@ -21,22 +19,21 @@ You'll need a few things:
 
 First things first, we need to install Jekyll. We assume that you have Git, Ruby, and Bundle installed. If you don't, please visit the links above to install them. We also assume you're using a [Unix-based system](https://en.wikipedia.org/wiki/Unix); if you aren't, follow jekyll's alternatives instruction page.
 
-First, clone the git repository:
+First, clone the git repository and `cd` into it:
+
 ```
 $ git clone https://github.com/malsf21/lowkey.git
-```
-
-Then, cd into the repository:
-```
 $ cd lowkey
 ```
 
 Now, we're going to install all of our dependencies! Type in your command line:
+
 ```
 $ bundle
 ```
 
 We're almost done: now, we're just going to serve the site. Type the following into your command line:
+
 ```
 $ bundle exec jekyll serve
 ```
@@ -60,5 +57,3 @@ Configuration file: /Users/matthew.wang/github/lowkey/_config.yml
 Visit what follows the "Server address:" line (which is normally [http://127.0.0.1:4000/](http://127.0.0.1:4000/)).
 
 And voila! Everything should work for you! Congrats, you lowkey did it!
-
-Note: you can use `rake` to build and test the output of `bundle exec jekyll build`.
