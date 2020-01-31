@@ -9,7 +9,7 @@ layout: post
 
 For a while (something around 6 years), I haven't read a fiction book for pleasure.
 
-It's not that I haven't read fiction; but, when I did, it was usually a means to an end. I read *1984* and *Animal Farm* to learn about Orwellian states, *Brave New World* to be sad about humanity, Malcolm Gladwell to learn about psychology, and *Atlas Shrugged*... well, I'm not sure if I learned anything from that. I read books like *Homecoming* by Yaa Gyasi (which, by the way, is really underrated) for class and to get a better understanding of race and class. It's not to say that I didn't enjoy reading these books - I absolutely did - but that wasn't my goal when I picked them up.
+It's not that I haven't read fiction; but, when I did, it was usually a means to an end. I read *1984* and *Animal Farm* to learn about Orwellian states, *Brave New World* to be sad about humanity, and *Atlas Shrugged*... well, I'm not sure if I learned anything from that. I read books like *Homecoming* by Yaa Gyasi (which, by the way, is really underrated) for class and to get a better understanding of race and class. It's not to say that I didn't enjoy reading these books - I absolutely did - but that wasn't my goal when I picked them up.
 
 I used to be really into fantasy and sci-fi novels. But, when I got into high school debate, I pivoted towards reading debate-y non-fiction works: books like *Justice* by Michael Sandel to delve into moral philosophy or *Sapiens* to better understand debate arguments about human sociology (e.g. tribalism, communcation, human nature, etc.). I really enjoyed reading these too - but there isn't that same level of being lost in a book.
 
