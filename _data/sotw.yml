@@ -547,7 +547,7 @@ week55:
   genre: "psychedelic rock"
   year: 2020
   blurb: >
-    Have you ever heard of Tame Impala? They have this one song, The Less I Know The Better, but you probably haven't heard of it.
+    Have you ever heard of Tame Impala? They have this one song, "The Less I Know The Better", but you probably haven't heard of it.
 week56:
   week: "Week 56: January 17 - January 23"
   title: "Blue World"
@@ -558,3 +558,13 @@ week56:
   year: 2020
   blurb: >
     A painful, but well-deserved sendoff. Cements Mac's legacy. RIP.
+week57:
+  week: "Week 57: January 24 - January 30"
+  title: "Gotta Have It"
+  artist: "JAY-Z & Kanye West"
+  album: "Watch The Throne"
+  album_art: "wtt.jpg"
+  genre: "rap"
+  year: 2011
+  blurb: >
+    Kanye chops up this sample beautifully and absolutely kills his first verse. WTT is slowly moving up my Kanye rankings.
