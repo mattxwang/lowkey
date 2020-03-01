@@ -17,7 +17,7 @@ layout: default
 				{% if words contains "-" %}
 				quick read / {{ words | plus: 250 | append: " words" }}
 				{% else %}
-				~ {{ words | plus: 250 | divided_by: 120 | append: " min" }} / {{ words | plus: 250 | append: " words" }}
+				~ {{ words | plus: 250 | divided_by: site.words_read_per_minute | append: " min" }} / {{ words | plus: 250 | append: " words" }}
 				{% endif %}
 			</div>
 		</div>
