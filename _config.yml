@@ -15,15 +15,12 @@ collections:
     output: true
 specials_list:
   - "hindsight2018"
-  - "15at15"
-  - "shad2016"
 title_long: Lowkey | A blog by Matthew Wang
 email: matt@matthewwang.me
 author:
   name: Matthew Wang
   twitter: malsf21
-description: "I'm Matt, and Lowkey is my blog. On Lowkey, I discuss random cool things,
-  cool people, and cool ideas.
+description: "The blog of one of the more boring people named Matthew Wang.
 
 "
 baseurl: ''
@@ -33,13 +30,14 @@ twitter:
 github: malsf21
 repo: http://github.com/malsf21/lowkey
 website: https://matthewwang.me
-logo: "/img/lowkey-simple.png"
+logo: "/img/logo.png"
 markdown: kramdown
 kramdown:
   parse_block_html: true
 exclude:
   - vendor
   - LICENSE.md
+  - README.md
   - Rakefile
   - Gemfile
   - Gemfile.lock
