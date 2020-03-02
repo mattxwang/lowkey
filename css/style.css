@@ -14,6 +14,15 @@ hr{
   border: 0;
   border-top: 1px solid #566B78;
 }
+
+/* makes links account for fixed nav */
+:target::before {
+  content: '';
+  display: block;
+  height:      70px;
+  margin-top: -70px;
+}
+
 .post-container{
   line-height: 1.5em;
 }
