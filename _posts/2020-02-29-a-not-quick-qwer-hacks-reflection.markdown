@@ -15,7 +15,7 @@ Last month, I had the pleasure of running two workshops at QWER Hacks: An Introd
 
 *disclaimer*: I think the [Some Thoughts on being an 'Ally'](#some-thoughts-on-being-an-ally) is probably the most interesting and accessible part of this post. still, if you have the time, I think you should read it all :)
 
-1. [Hackathons & Why QWER Hacks](hackathons--why-qwer-hacks)
+1. [Hackathons & Why QWER Hacks](#hackathons--why-qwer-hacks)
 2. [Workshop 1: Intro to Web Development with React and Firebase](#workshop-1-intro-to-web-development-with-react-and-firebase)
 3. [Workshop 2: Hacking for Social Impact: EdTech](#workshop-2-hacking-for-social-impact-edtech)
 4. [Some Thoughts on being an 'Ally'](#some-thoughts-on-being-an-ally)
