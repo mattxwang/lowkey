@@ -19,14 +19,14 @@ title_long: Lowkey | A blog by Matthew Wang
 email: matt@matthewwang.me
 author:
   name: Matthew Wang
-  twitter: malsf21
+  twitter: welcomemattwang
 description: "The blog of one of the more boring people named Matthew Wang.
 
 "
 baseurl: ''
 url: https://blog.matthewwang.me
 twitter:
-  username: malsf21
+  username: welcomemattwang
 github: malsf21
 repo: http://github.com/malsf21/lowkey
 website: https://matthewwang.me
