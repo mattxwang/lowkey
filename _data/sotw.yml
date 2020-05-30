@@ -707,7 +707,7 @@ week71:
   genre: "indie pop"
   year: 2018
   blurb: >
-    This song hits harder than I expected it. Nice summer vibes, laid back instrumentals, and cute lyrics.
+    This song hits harder than I expected it. Nice summer vibes, laid-back instrumentals, and cute lyrics.
 week72:
   week: "Week 72: May 8 - May 14"
   title: "goodnight n go"
@@ -728,3 +728,13 @@ week73:
   year: 2017
   blurb: >
     If silk had a voice, Raveena has it. Absolutely absurd.
+week74:
+  week: "Week 74: May 22 - May 28"
+  title: "damn right"
+  artist: "Little Simz"
+  album: "Drop 6"
+  album_art: "drop-6.jpg"
+  genre: "rap"
+  year: 2020
+  blurb: >
+    Little Simz never ceases to drop quality track after quality track. One of the few rappers that I'm still excited about.
