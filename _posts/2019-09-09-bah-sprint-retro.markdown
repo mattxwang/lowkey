@@ -2,7 +2,7 @@
 title: 'Sprint Retro: Booz Allen Hamilton'
 date: 2019-09-09 02:34:50 Z
 categories:
-- life
+- dev
 author: 'matt "passionate service" wang'
 layout: post
 ---
