@@ -779,7 +779,7 @@ week78:
   blurb: >
     Still topical. Still relevant. .Paak is back.
 week79:
-  week: "Week 79: June 26 - July 1"
+  week: "Week 79: June 26 - July 2"
   title: "North Pole"
   artist: "Injury Reserve"
   album: "Drive Like It's Stolen"
@@ -789,7 +789,7 @@ week79:
   blurb: >
     RIP Groggs. Rest in power.
 week80:
-  week: "Week 80: July 2 - July 8"
+  week: "Week 80: July 3 - July 9"
   title: "Heat Waves"
   artist: "Glass Animals"
   album: "Heat Waves"
@@ -799,12 +799,22 @@ week80:
   blurb: >
     Late nights in the middle of June.
 week81:
-  week: "Week 81: July 9 - July 15"
+  week: "Week 81: July 10 - July 16"
   title: "Politics & Violence"
   artist: "Dominic Fike"
   album: "Politics & Violence"
   album_art: "what-could-possibly-go-wrong.jpg"
-  genre: "rap pop"
+  genre: "pop rap"
   year: 2020
   blurb: >
     At this point, they seem to be one and the same. Smooth AF song though.
+week82:
+  week: "Week 82: July 17 - July 23"
+  title: "Shine"
+  artist: "Joey Bada$$"
+  album: "The Light Pack"
+  album_art: "the-light-pack.jpg"
+  genre: "rap"
+  year: 2020
+  blurb: >
+    Need some Shine. Joey is back.
