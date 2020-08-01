@@ -177,7 +177,7 @@ week18:
   genre: "rap"
   year: 2019
   blurb: >
-    The BROCKHAMPTON boys do it again. Energetic production, vibrant vocals, and personal slices of Kevin's life. 
+    The BROCKHAMPTON boys do it again. Energetic production, vibrant vocals, and personal slices of Kevin's life.
 week19:
   week: "Week 19: May 3 - May 9"
   title: "prom dress"
@@ -197,7 +197,7 @@ week20:
   genre: "indie pop"
   year: 2019
   blurb: >
-    Tessa Violet drops another summer bop, filled with lovesick lyrics and production that makes you wanna dance. 
+    Tessa Violet drops another summer bop, filled with lovesick lyrics and production that makes you wanna dance.
 week21:
   week: "Week 21: May 17 - May 23"
   title: "Grilled Cheese"
@@ -347,7 +347,7 @@ week35:
   genre: "rap"
   year: 2019
   blurb: >
-    The BROCKHAMPTON boys are back, and they're sad. 
+    The BROCKHAMPTON boys are back, and they're sad.
 week36:
   week: "Week 36: August 30 - September 5"
   title: "dream of you"
@@ -818,3 +818,13 @@ week82:
   year: 2020
   blurb: >
     Need some Shine. Joey is back.
+week83:
+  week: "Week 83: July 24 - July 30"
+  title: "exile"
+  artist: "Taylor Swift, Bon Iver"
+  album: "folklore"
+  album_art: "folklore.jpg"
+  genre: "pop"
+  year: 2020
+  blurb: >
+    This song is by two undergound indie artists, Taylor Swift and Bon Iver. You probably haven't heard of them, I can't blame you.
