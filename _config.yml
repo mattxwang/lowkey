@@ -10,9 +10,6 @@ collections:
   specials:
     title: Specials
     output: true
-  stats:
-    title: Stats
-    output: true
 specials_list:
   - "hindsight2018"
 title_long: Lowkey | A blog by Matthew Wang

@@ -9,6 +9,9 @@ layout: page
 <p>
 	This project is definitely still a work in progress - I think there's a lot of cool statistical analysis I can do here. For now, I'm pretty busy, so it'll just be a simple list.
 </p>
+<p>
+	Oh yeah, and <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/playlist/0ebcv8uwo17Gss1UaHoCxK?si=xhz40GZSRJOMjkFmcmEjOg">here's the Spotify playlist, for your convenience.</a>
+</p>
 
 {% for item in site.data.sotw reversed %}
 <div class="card border-primary">
@@ -21,7 +24,7 @@ layout: page
 			<h2 style="margin-top:0; margin-bottom: 0"><span class="text-primary">{{ item[1].title }}</span> | {{ item[1].artist }}</h2>
 			<p>{{ item[1].blurb }}</p>
 			<p>
-				<span class="tag tag-rounded border-primary">{{ item[1].genre }}</span> 
+				<span class="tag tag-rounded border-primary">{{ item[1].genre }}</span>
 				<span class="tag tag-rounded border-primary">{{ item[1].year }}</span>
 			</p>
 		</div>

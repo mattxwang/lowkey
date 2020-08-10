@@ -1,0 +1,29 @@
+---
+title: "Books"
+permalink: "/stats/books"
+layout: page
+---
+
+<p>
+  This is just a list of books I've read (2020-onward), and my thoughts on them. Nothing too exciting. Oh, and this is a <b>spoiler-free zone</b>.
+</p>
+
+{% for book in site.data.books reversed %}
+<div class="card border-primary">
+  <h2 class="text-primary no-margin">
+    {{book[1].title}}
+  </h2>
+  <h3>
+    by <span class="text-primary">{{book[1].author}}</span>
+    {% if book[1].translator %} | translated by {{book[1].translator}}{% endif %}
+  </h3>
+  <div>
+    <span class="tag tag-rounded border-primary">genre: {{ book[1].genre }}</span>
+    <span class="tag tag-rounded border-primary">published: {{ book[1].year_published }}</span>
+    <span class="tag tag-rounded border-secondary">time read: {{ book[1].time_read }}</span>
+  </div>
+  <p>
+    {{book[1].thoughts}}
+  </p>
+</div>
+{% endfor %}

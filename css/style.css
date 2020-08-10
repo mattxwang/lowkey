@@ -270,3 +270,8 @@ pre {
   white-space: -o-pre-wrap;    /* Opera 7 */
   word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
+
+.no-margin {
+  margin-top: 0;
+  margin-bottom: 0;
+}
