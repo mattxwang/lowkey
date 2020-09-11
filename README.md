@@ -1,5 +1,7 @@
 # Lowkey
-[![Build Status](https://travis-ci.org/malsf21/lowkey.svg?branch=master)](https://travis-ci.org/malsf21/lowkey)
+
+![Test Jekyll Build](https://github.com/malsf21/lowkey/workflows/Test%20Jekyll%20Build/badge.svg)
+
 > to keep something Lowkey: to not announce it;
 
 **Lowkey** is my blog. I have many opinions and thoughts, and these are the ones that are mildly interesting.
