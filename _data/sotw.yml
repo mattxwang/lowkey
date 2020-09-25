@@ -344,7 +344,7 @@ week35:
   artist: "BROCKHAMPTON"
   album: "GINGER"
   album_art: "ginger.jpg"
-  genre: "rap"
+  genre: "pop rap"
   year: 2019
   blurb: >
     The BROCKHAMPTON boys are back, and they're sad.
@@ -784,7 +784,7 @@ week79:
   artist: "Injury Reserve"
   album: "Drive Like It's Stolen"
   album_art: "drive-like-its-stolen.jpg"
-  genre: "rap"
+  genre: "alt rap"
   year: 2017
   blurb: >
     RIP Groggs. Rest in power.
@@ -874,7 +874,7 @@ week88:
   artist: "K/DA - (G)I-DLE, Bea Miller, Wolftyla"
   album: "THE BADDEST"
   album_art: "the-baddest.jpg"
-  genre: "pop"
+  genre: "kpop"
   year: 2020
   blurb: >
     Hm, this is awkward. Am I ashamed? Maybe. Am I really ashamed? Absolutely not. Love the addition of Bea Miller too!
@@ -894,7 +894,17 @@ week90:
   artist: "BUMPER"
   album: "pop songs 2020"
   album_art: "pop-songs-2020.jpg"
-  genre: "pop"
+  genre: "electropop"
   year: 2020
   blurb: >
     This is something that I never knew I wanted but absolutely blew me away: Japanese Breakfast with happy-go-lucky production and vocals makes my day.
+week91:
+  week: "Week 91: September 18 - September 24"
+  title: "Don't Wanna"
+  artist: "HAIM"
+  album: "Women In Music Pt. III"
+  album_art: "wimpiii.jpg"
+  genre: "indie rock"
+  year: 2020
+  blurb: >
+    Damn. This album is awesome. HAIM maintains catchy pop bops (like Don't Wanna) but also playfully explore their boundaries.
