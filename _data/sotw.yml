@@ -919,7 +919,7 @@ week92:
   blurb: >
     What a Time to Be Alive. 5 years!
 week93:
-  week: "Week 92: October 2 - October 8"
+  week: "Week 93: October 2 - October 8"
   title: "Runnin"
   artist: "21 Savage, Metro Boomin"
   album: "SAVAGE MODE II"
@@ -928,3 +928,13 @@ week93:
   year: 2020
   blurb: >
     This album? Absolutely nuts. Best trap release front-to-back this year, and 21 + Metro is always a lethal combination. Love the innovation here.
+week94:
+  week: "Week 94: October 9 - October 15"
+  title: "LAX"
+  artist: "Vulfpeck"
+  album: "LAX"
+  album_art: "lax.jpeg"
+  genre: "funk"
+  year: 2020
+  blurb: >
+    Oh my, this song is just so catchy and danceable. Joey Dosik brings some great vocals to an immaculate bassline.
