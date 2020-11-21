@@ -1,0 +1,34 @@
+---
+title: "Murakami Books"
+permalink: "/stats/books/murakami"
+layout: page
+---
+
+<p>
+  Murakami books I've read and some short thoughts.
+</p>
+<p>
+  <a href="{{site.baseurl}}/stats/books">see all the books I've read</a>.
+</p>
+
+{% assign murakami_books = site.data.books | where: "author", "Haruki Murakami" %}
+
+{% for book in murakami_books reversed %}
+<div class="card border-primary">
+  <h2 class="text-primary no-margin">
+    {{book.title}}
+  </h2>
+  <h3>
+    by <span class="text-primary">{{book.author}}</span>
+    {% if book.translator %} | translated by {{book.translator}}{% endif %}
+  </h3>
+  <div>
+    <span class="tag tag-rounded border-primary">genre: {{ book.genre }}</span>
+    <span class="tag tag-rounded border-primary">published: {{ book.year_published }}</span>
+    <span class="tag tag-rounded border-secondary">time read: {{ book.time_read }}</span>
+  </div>
+  <p>
+    {{book.thoughts}}
+  </p>
+</div>
+{% endfor %}
