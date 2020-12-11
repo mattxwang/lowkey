@@ -1,6 +1,8 @@
 ---
 title: 'Getting Back Into Fiction'
 date: 2020-01-11 02:34:50 Z
+edits:
+- Dec. 12 2020
 categories:
 - entertainment
 author: 'matt on the shore'
@@ -39,9 +41,9 @@ In fact, it moved me enough to push me to make a resolution: I need to read more
 
 I will admit, I actually haven't read the book yet. But it's not because I've been flaky on this resolution. 
 
-## kafka by the sea (no spoilers)
+## kafka on the shore (no spoilers)
 
-Instead, I binge-read *Kafka by the Sea* by Haruki Murakami in a day. Well, ~ 5 hours of reading in 20 hours. Almost a day.
+Instead, I binge-read *Kafka on the Shore* by Haruki Murakami in a day. Well, ~ 5 hours of reading in 20 hours. Almost a day.
 
 And I've got to say, it was absolutely worth it.
 
@@ -54,3 +56,5 @@ I'm definitely reading *1Q84* next, and I've still got to read *Bleeding Edge* .
 But yes, I'm happy I can still get lost in a book.
 
 And hopefully, I'll lose myself in many more.
+
+*Note: Matt resolved a typo in the original post in December 2020.*
