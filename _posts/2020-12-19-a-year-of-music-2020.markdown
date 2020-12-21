@@ -1,0 +1,565 @@
+---
+title: 'My Music in 2020, A Glance'
+date: 2020-12-19 02:34:50 Z
+categories:
+- entertainment
+author: 'spotify wrapped stalker matt'
+layout: post
+---
+
+Welp, we're almost through this hellscape of a year. One of the only things that has kept me sane is music; let's take a quick tour of some of my faves. I'll also rant a bit about the state of rap. And there's a playlist at the end!
+
+## Albums of the Year
+
+Here are my (9) favourite albums released this year:
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+      ![after hours album cover]({{site.baseurl}}/img/albums/after-hours.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3>After Hours by The Weeknd</h3>
+    <p>
+      Abel pulls through with a meticulously-crafted period piece of pop perfection.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        I loved the thematic soundscape of <em>Starboy</em>, and Abel brings that internal consistency to an even more cohesive release in <em>After Hours</em>. The synths are absolutely gorgeous, the groove is immaculate, and Abel brings some of his best vocal performances to date on this album. I daresay, one of the best pop albums of the decade. Clearly snubbed for the Grammys.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Hardest To Love, Snowchild, Faith, Blinding Lights, In Your Eyes</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+      ![circles album cover]({{site.baseurl}}/img/albums/circles.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3>Circles by Mac Miller</h3>
+    <p>
+      Mac's posthumous release shows a level of intimacy and grace in the tragic twilight of his career.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        To some extent, I don't think I'll ever be objective with an artist's posthumous release, let alone Mac. Still, <em>Circles</em> ended up being one of my favourite albums of the year: it's the culmination of Mac's drift towards an alt, jazz-adjacent, melodic rap style that seems very few peers. The lyrics are heartbreaking: we get a sense that things are changing for Mac, from depression to drug abuse - but everything just got cut short. Just tragic.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Blue World, Good News, Woods, That's On Me</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+      ![limbo album cover]({{site.baseurl}}/img/albums/limbo.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3>Limbo by Aminé</h3>
+    <p>
+      Aminé keeps his unique attitude and production in a thoroughly enjoyable album.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        I've been following Aminé since <em>REDMERCEDES</em>, <em>Caroline</em>, and <em>Good For You</em>, and his growth has just been insane. He's definitely carved out a unique lane for himself in the rap scene - balancing bangers with trap beats, introspective melodic songs, and an irreplaceable attitude. He's got me even more excited for his next release.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Woodlawn, Roots, Compensating, Pressure In My Palms</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+      ![savage mode 2 album cover]({{site.baseurl}}/img/albums/savagemode2.png)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3>SAVAGE MODE II by 21 Savage &amp; Metro Boomin</h3>
+    <p>
+      Trap's most lethal duo is back and better than ever.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        It's no secret that Metro Boomin is one of my favourite producers, and 21 is my favourite "new giant" from an absurdly stacked 2016 XXL Freshmen class. This third collab tape is a testament to their growth as artists. 21 maintains his cold killer attitude, but switches up his flows and delves deeper into past struggles. Metro delivers banger after banger over a stunningly-diverse set of beats. Cements their dominance as artists in the trap era.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Runnin, Glock In My Lap, Many Men, My Dawg, Brand New Draco, Said N Done</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+      ![sawayama album cover]({{site.baseurl}}/img/albums/sawayama.png)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3>SAWAYAMA by Rina Sawayama</h3>
+    <p>
+      Rina delivers a stunningly innovative, versatile, and emotional breakthrough album. Makes me proud to be a Rina stan!
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        After a stellar debut EP in <em>RINA</em>, I was hungry for more - and <em>SAWAYAMA</em> does not disappoint. Rina brings a wide sonic and emotional range to this album. Hyperpop, nu-metal, R&amp;B, and alt-pop blend together to create anthemic bops, slow ballads, and everything in between. And lyrically, Rina still manages to strike an emotional chord with each song. Definite AOTY contender for me.
+      </p>
+    </details>
+    <p>
+      Faves: <em>XS, Akasaka Sad, Bad Friend, Tokyo Love Hotel, Chosen Family</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+      ![song machine album cover]({{site.baseurl}}/img/albums/song-machine.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3>Song Machine, Season One: Strange Timez by Gorillaz</h3>
+    <p>
+      Damion is a song machine, churning out an amazing set of singles with a stacked feature list.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        Damion Albarn produces an album very true to its name. Each track has its signature, wacky Gorillaz flair - but also manages to incorporate the widest set of influences yet, and still keeps coherent. Gorrilaz, Elton John, and 6LACK together doesn't sound like it should work, but it does - and beautifully. Given just how broad the net is, there's probably a song for everybody. And it impresses me that this is almost the 20th year of Gorillaz; Damion shows no sign of stopping.
+      </p>
+    </details>
+    <p>
+      Faves: <em>The Valley of the Pagans, Pac-Man, The Pink Phantom, Momentary Bliss, MLS</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+      ![the slow rush album cover]({{site.baseurl}}/img/albums/the-slow-rush.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3>The Slow Rush by Tame Impala</h3>
+    <p>
+      Kevin Parker puts us in a trance, yet again.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        I'm not sure if there's much else to say. This album is just a vibe, front to back. I can never complain about more Tame Impala.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Borderline, Breathe Deeper, On Track, Lost In Yesterday, It Might Be Time</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+      ![ungodly hour album cover]({{site.baseurl}}/img/albums/ungodly-hour.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3>Ungodly Hour by Chloe x Halle</h3>
+    <p>
+      Chloe and Halle craft the cleanest fusion of R&amp;B, rap production, and pop vocals I've heard this year.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        For being relative newcomers to the pop scene, <em>Ungodly Hour</em> is unreasonably pristine. Starting from the production, each song is meticulously produced to be 100% a bop, with heavy influence from Chloe herself. Chloe and Halle are also both heavily involved in the songwriting, which is particuarly refreshing in a pop scene with fewer singer/songwriters. And the vocals are just immaculate. If more of pop and R&amp;B was like this, I'd be so happy.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Forgive Me, Do It, Ungodly Hour, Lonely, ROYL</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+      ![women in music part three album cover]({{site.baseurl}}/img/albums/wimpiii.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3>Women In Music Pt. III by HAIM</h3>
+    <p>
+      The Haim sisters masterfully bring a certain beautiful energy to a variety of pop and alt subgenres.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        HAIM continues to show themselves as rockstar women in music. The sisters team up with Ariel Rechtshaid and Rostam of Vampire Weekend fame to create, in some senses, the perfect indie pop rock album. They weave their way through a variety of alt subgenres, creating wonderful pop ballads and bops rooted in folk, country, rock, jazz, funk, and R&amp;B. The versatility from such a small group of collaborators is so hard to execute, but HAIM have hit the nail on the head here.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Los Angeles, The Steps, 3 AM, Don't Wanna, Gasoline</em>
+    </p>
+  </div>
+</div>
+
+## Other Albums I That I Liked
+
+There were quite a few albums that I enjoyed listening to this year, even if they weren't my favourites. Here are some other good releases in 2020, and other albums that I listened to for the first time this year.
+
+### Albums Released in 2020
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *Alfredo* by Freddie Gibbs, Madlib
+* *American Head* by The Flaming Lips
+* *color theory* by Soccer Mommy
+* *dawn* + *dusk* by mxmtoon (2x EP)
+* *Dedicated Side B* by Carly Rae Jepsen
+* *Detroit 2* by Big Sean
+* *Drop 6* by Little Simz (EP)
+* *elated!* by Bea Miller (EP)
+* *evermore* by Taylor Swift
+* *folklore* by Taylor Swift
+* *Fuck The World* by Brent Faiyaz
+* *Future Nostalgia* by Dua Lipa
+* *how i'm feeling now* by Charli XCX
+* *I Can Feel You Forgetting Me* by Neon Trees
+* *IDK & FRIENDS 2* by IDK
+* *Man On The Moon III: The Chosen* by Kid Cudi
+* *MOONCHILD* by NIKI
+* *No Pressure* by Logic
+* *no song without you* by HONNE
+* *pop songs 2020* by BUMPER (EP)
+* *Punisher* by Phoebe Bridgers
+* *RTJ4* by Run The Jewels
+* *Shore* by Fleet Foxes
+* *souvenir* by Jonah Yano
+* *Spilligion* by Spillage Village
+* *These Are Not My Songs* by Su Lee (EP, Covers)
+* *UNLOCKED* by Denzel Curry, Kenny Beats (EP)
+
+</details>
+
+A few highlights and thoughts on this long list:
+
+* My closest-to-favourite albums were *Alfredo*, *Future Nostalgia*, and *Punisher*. All three are clear standout albums (and critical successes), but they just never went on repeat for me.
+* *Shore* is a close runner-up for the above category. It's such a serene but vibrant album.
+* 2020 produced some really solid EPs! *Drop 6* and *UNLOCKED* were some of the best rap EPs I've heard, maybe ever. *pop songs 2020* absolutely bops.
+* This was a good year for swifties! I really enjoyed the direction that *folklore* and *evermore* took, and I'm excited for this new, in-control-of-her-masters Taylor.
+* I always like new **mxmtoon**, but if I had to be honest - I think the new releases were a bit underwhelming. I'm still loving the new success she's found!
+* I like the new lane that **NIKI** tried for, though I'm not sure if she's exactly hit her mark yet. It makes me more excited for her next project!
+* *No Pressure* is **Logic**'s best album since *Under Pressure*/*The Incredible True Story*; much happier that he decided to retire on this than COADM.
+* **Su Lee** is one of my favourite musical youtubers, you have to check out her *Cocoa Butter Kisses* cover if you haven't already!
+
+And some albums that you might've expected:
+
+* I didn't have the chance to listen to *Chromatica*, the new **clipping** album, **Thundercat**'s *It Is What It Is*  or **Fiona Apple**'s *Fetch the Bolt Cutters*. Doesn't mean I didn't like them!
+* While *Positions* was a great first-listen, I felt like it was pretty forgettable as an album. Fire singles though.
+* Both **Eminem** surprise drops were an interesting return to form, but as albums they were pretty hard to digest. Love hearing Em on some more modern production though!
+* *Horizons* by **Surfaces** was not bad, but it wasn't ... good either? Not as many standout singles nor any big innovative steps. Still a great vibe :')
+* **beabadoobee**'s *Fake It Flowers* was really close to making this list, but I still feel like she's struggling to find her sound. Really excited for her next few projects!
+* The new **1975**? Honestly, ... not very good.
+* I thought the new **Dominic Fike** album was a bit all over the place stylistically and lyrically.
+
+### Albums Released Before 2020
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *1999* by Joey Bada$$
+* *2012-2017* by Against All Logic
+* *Cilvia Demo* by Isaiah Rashad
+* *Coast Modern* by Coast Modern
+* *Dream Girl* by Anna of the North
+* *Drunk* by Thundercat
+* *Fleet Foxes* by Fleet Foxes
+* *FOTO* by Kota the Friend
+* *Helplessness Blues* by Fleet Foxes
+* *i,i* by Bon Iver
+* *I’ll Never Be Amazing* by Sawyer Nunes
+* *Like What* by Tennyson
+* *Overly Dedicated* by Kendrick Lamar
+* *Supermodel* by Foster The People
+* *The Never Story* by JID
+
+</details>
+
+A shorter list, and some shorter thoughts:
+
+* *1999* is an amazing debut mixtape for a rapper, hands-down.
+* *Drunk* shows so much personality, it's so easy to put on repeat.
+* **Fleet Foxes** doesn't miss!
+* I can now finally be a true Kendrick Stan after listening to OD.
+
+## Songs of the Year
+
+Most of my songs of the year are already covered in the albums that I've mentioned, but there are a few others that are either standalone singles or come from albums that I didn't love front-to-back.
+
+*Note: I am not including lo-fi hip-hop beats in this list!*
+
+### Songs Released in 2020 (favourite albums non-inclusive)
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *327* by Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
+* *A Thousand Words* by Jay Som
+* *All That* by Emotional Oranges, Channel Tres
+* *Antidote* by Orion Sun
+* *Are You Even Real* by James Blake
+* *Are You Feeling Sad?* by Little Dragon, Kali Uchis
+* *Backyard Boy* by Claire Rosinkranz
+* *Baguetti* by Smino, JID, Kenny Beats
+* *BB (Bodybag)* by slowthai
+* *Bye Bye Baby* by Greer
+* *Care* by beabadoobee
+* *Chicago Freestyle* by Drake, Giveon
+* *COMMITMENT ISSUES* by Tiffany Day
+* *Could Be Fun* by Banana Club
+* *CUT EM IN* by Anderson .Paak, Rick Ross
+* *CUTIE PIE!* by JPEGMAFIA
+* *death bed* by Powfu, beabadoobee (* re-released)
+* *Dragonball Durag* by Thundercat
+* *Eugene* by Arlo Parks
+* *Fool's Gold* by ARIES
+* *Gimme Love* by Joji
+* *Heat Wave* by Glass Animals
+* *Hold It Together* by The Marias
+* *Hurry Home* by No Rome, beabadoobee, Jay Som
+* *I Like Him* by Princess Nokia
+* *I’m a Little Sad Tonight* by Su Lee
+* *Jupiter* by The Marias
+* *King of the Fall* by The Weeknd
+* *Laundry* by UD
+* *LAX* by Vulfpeck
+* *Lockdown* by Anderson .Paak
+* *Love In My Pocket* by Rich Brian
+* *midnight love* by girl in red
+* *moonlight* by dhruv
+* *MORE* by K/DA (Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns)
+* *Otherside of America* by Meek Mill
+* *Politics & Violence* by Dominic Fike
+* *positions* by Ariana Grande
+* *ringtone (remix)* by 100 gecs, Charli XCX, Kero Kero Bonito, Rico Nasty
+* *RUNAWAY* by Rei Ami
+* *Sangria* by $NOT, Denzel Curry
+* *Shine* by Joey Bada$$
+* *Song 33* by Noname
+* *Still Dreamin* by Dreamville (JID, Lute, 6LACK)
+* *Stone Cold* by Deb Never, Kenny Beats
+* *SUGAR (Remix)* by BROCKHAMPTON, Dua Lipa
+* *SUNRISE* by MICHELLE
+* *Tenant* by Andrea Chahayed
+* *THE BADDEST* by K/DA ((G)I-DLE, Wolftyla, Bea Miller)
+* *The Bigger Picture* by Lil Baby
+* *The Difference* by Flume, Toro y Moi
+* *The First Time* by Nicotine
+* *Treat You Right* by Yellow Days
+* *Trouble's Coming* by Royal Blood
+* *VILLAIN* by K/DA (Madison Beer, Kim Petras)
+* *walk but in a garden* by Llusion, mxmtoon
+* *WHATS POPPIN* by Jack Harlow
+* *Window* by Still Woozy
+* *You* by Yellow Days
+
+</details>
+
+Some quick tidbits:
+
+* *LAX* is such a good song; probably one of my top 10 songs of the year!
+* **The Marias** had a great year of singles: *bop it up!*, *Care For You*, *Jupiter*, and *Hold It Together* were all signature slow burn vibes.
+* **Arlo Parks** makes music that's peanut butter smooth and I love it.
+* I didn't get around to listening to *It Is What It Is*, but *Dragonball Durag* is one of the grooviest and also funniest songs I've ever heard.
+* *Song 33* is one of the cleanest rap beef-adjacent tracks I've ever heard, and it's only a minute.
+* I was really excited for more **Royal Blood**, but I'll have to wait another year.
+* Generally, I wasn't a huge fan of **Drake**'s mixtape drops, but I really enjoyed *Chicago Freestyle* - especially the *Superman* interpolation.
+* *CUT EM IN* is a lethal combo from **Anderson .Paak** and **Rick Ross**.
+* I, somewhat shamefully, really enjoyed the **K/DA** EP - both singles + *VILLAIN* were absolute bops.
+* *WHATS POPPIN* is probably my favourite party rap song of the year.
+* The *ringtone* remix just tickles my brain!
+
+### Songs Released Before 2020
+
+For a song to qualify here, I listened to it for the first time this year.
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *82 92* by Statik Selektah, Termanology, Mac Miller
+* *2012* by Joey Purp
+* *Animal Spirits* by Vulfpeck
+* *Apocalypse* by Cigarettes After Sex
+* *B L A C K S T O N E* by Semi-Attractive Boy
+* *Boys Aside* by Sofya Wang
+* *Breathe* by Fabolous
+* *Drug Dealers Anonymous* by Pusha T, JAY-Z
+* *Froyo* by Hans., Clairo, Aso
+* *Harvey* by Her’s
+* *Honeypie* by JAWNY
+* *If Only* by Raveena
+* *Let Me Blow Ya Mind* by Eve, Gwen Stefani
+* *Lover Boy* by Phum Viphurit
+* *Magnolia* by Gang of Youths
+* *Mr Blue* by Catherine Feeny*
+* *Pick Yourself Up* by Nat King Cole
+* *Nosetalgia* by Pusha T, Kendrick Lamar
+* *Nova Scotia 500* by Boyscott
+* *Renee* by SALES
+* *Sad Saturdays* by JOBA
+* *Smile* by Isaiah Rashad
+* *she likes spring, I prefer winter* by slchld
+* *Tell Them* by James Blake, Moses Sumney, Metro Boomin
+* *Tieduprightnow* by Parcels
+* *Toothpaste Kisses* by The Maccabees
+* *Water Glass* by Cannon
+* *with you* by seth arlan
+
+</details>
+
+Some quick tidbits:
+
+* *Animal Spirits* is just such a bop.
+* I really got into **James Blake** again this year!
+* *If Only* and *Lover Boy* are such simply emotional songs.
+* I really want to see more **Sofya Wang**!
+* *82 92* slaps, and you can't tell me otherwise.
+
+## Stats et al.
+
+I still enjoyed Spotify Wrapped this year, though I wasn't as big of a fan of how they presented it compared to past years (though apparently it was a great marketing move). Here's my wrapped summary, if you're interested:
+
+![2020 wrapped]({{site.baseurl}}/img/2020-wrapped.jpg){: style="max-width: 500px"}
+
+It's a bit funny that Monsune knocks out all 5 of my top songs, but other than that there's nothing too unexpected here. My Kendrick / BROCKHAMPTON / Monsune love was sustained without any new releases from them this year, which is an interesting stat to keep an eye out for.
+
+And, I've been using [last.fm for two years now](https://www.last.fm/user/matthewxwang). You can visit my page to do a deep-dive of stalking, but some interesting tidbits.
+
+On artists:
+
+* I listened to 1084 unique artists this year! About 100 less than last year :/
+* My BROCKHAMPTON boys were scrobbled at least 781 times, which is almost identical to last year's 788! Averages to about two songs a day.
+* The rest of my top ten is relatively standard (and if anything, a little mainstream): Kendrick, Monsune, mxmtoon, Logic, Drake, The Weeknd, 21 Savage, girl in red, and NIKI + Tame Impala (tied) round out the rest.
+* Chloe x Halle is the only brand-new artist for me in the top 50
+* More than half (an estimate) of my top 50 artists didn't release a new album or EP this year!
+* A few lo-fi hip hop beats producers creeped in, mostly from listening to music while reading. Shoutout potsu and biosphere!
+
+On songs:
+
+* I listened to >24282 songs this year, or about 92 songs a day. Marginally more than last year.
+* My most-listened to month was May; my least was September.
+* Monsune's six-song catalogue topped my top 6 songs of the year!
+* In my top 25 songs of the year, none of them came out in 2020, and only 4 of them are rap songs.
+* My most-listened to song from 2020 is *Blue World* by Mac Miller (with the advantage that it came out early in the year).
+
+On albums:
+
+* *Tradition* is my most-listened to album. last.fm undercounts it too, since it puts *OUTTA MY MIND* as a single. It beats TPAB by over 200 streams.
+* The only albums that stayed in my top ten most-listened were TPAB and SATURATION II.
+* Interestingly, my top ten has more rap than last year: seven albums are primarily rap!
+* 2020 albums are much better-represented than songs: *SAVAGE MODE II*, *After Hours*, *Ungodly Hour*, *No Pressure*, *The Slow Rush*, and *Limbo* all break the top 25 (with the first two at 11 and 12 respectively)
+
+Since last.fm had its fair share of outages, all of the above numbers are likely an undercount.
+
+An interesting aside: some of the statistics are warped by different types of music listening that I do. In particular,
+
+* I think Drake is overrepresented because I mostly listen to him when I go on runs! I also listen to IDK more frequently when exercising than when not. More broadly, I listen to rap much more frequently when running.
+* I only ever listen to lo-fi beats when reading Murakami books!
+* I often listen to Monsune's music when cooking, which explains the explosion in streams this year.
+
+## The State of Rap in 2020
+
+*this next part is **completely just my opinion**, no judgement!*
+
+I talked about this last year, and I'll say it again. I'm not super satisfied with where rap is right now.
+
+Now, 2020 has been an off-year for music in part because of quarantine. Cancellations of big festivals and tours were probably a factor in the delay of the Kendrick album (he was supposed to headline Glastonbury with possibly new music), and likely affected a whole host of TDE releases, Drake, and many of the other big names.
+
+But, it's not that quarantine completely destroyed creative output. I think we had an amazing year for pop. We got mainstream hits like *After Hours*, *Future Nostalgia*, *Chromatica*, *Positions*, or Taylor's forays into indie pop. And, alt had a killer year: Rina, Phoebe, Fiona, and HAIM all had stellar outputs. And rap still charted well: The Box, Rockstar, Life Is Good, Savage, and WAP all dominated for their fair portion.
+
+Looking at the Billboard [year-end chart](https://www.billboard.com/charts/year-end/2020/hot-r-and-and-b-hip-hop-songs) or [this year's Grammy noms](https://en.wikipedia.org/wiki/63rd_Annual_Grammy_Awards), I'm left pretty disappointed. Look at this year's best rap album noms:
+
+* *Black Habits* - D Smoke
+* *Alfredo* - Freddie Gibbs & The Alchemist
+* *A Written Testimony* - Jay Electronica
+* *King's Disease* - Nas
+* *The Allegory* - Royce da 5'9''
+
+First, it's interesting that trap is completely missing from this album list. There's a big disparity from this category and the best rap or melodic rap performance categories, which have **none of the above artists** and instead have the likes of DaBaby, Lil Baby, Jack Harlow, Lil Baby, Roddy Ricch, and heavyweights like Drake and Travis Scott.
+
+But secondly, this is just such a weak category year. Compare it to the legendary 2014 year of
+
+* *Nothing Was the Same* - Drake
+* *Magna Carta Holy Grail* - JAY-Z
+* *Yeezus* - Kanye West
+* *good kid, m.A.A.d city* - Kendrick Lamar
+* ***The Heist*** - Macklemore & Ryan Lewis (let's, uh, forget about this one)
+
+Or Kendrick's other two years, 2016:
+
+* *If You're Reading This, It's Too Late* - Drake
+* *Compton* - Dr. Dre
+* *2014 Forest hills Drive* - J. Cole
+* ***To Pimp A Butterfly*** - Kendrick Lamar
+* *The Pinkprint* - Nicki Minaj
+
+And 2018:
+
+* *4:44* - JAY-Z
+* **DAMN.** - Kendrick Lamar
+* *Culture* - Migos
+* *Laila's Wisdom* - Rapsody
+* *Flower Boy* - Tyler, the Creator
+
+Compared to any of those three years, the only album that's even reasonably competitive is *Alfredo*, and it's still probably in the bottom half of its year. And, this is given that the 2014/16/18 lists are still imperfect; there are better ablums to round out the bottom half.
+
+Normally, I would just chalk this up to the Grammys being bad - this is the same organization that gave *The Heist* a grammy over GKMC, NWTS, and *Yeezus*, and somehow put *Igor* in the rap category.
+
+But, I can't really come up with a much better list. Out of the albums that I listened to, the albums that I think are even remotely competitive are:
+
+* *SAVAGE MODE II* - 21 Savage &amp; Metro Boomin
+* *Limbo* - Aminé
+* *Detroit 2* - Big Sean
+* *Alfredo* - Freddie Gibbs & The Alchemist
+* *A Written Testimony* - Jay Electronica
+* *King's Disease* - Nas
+* *RTJ4* - Run The Jewels
+* *Spilligion* - Spillage Villiage
+
+(I'd put Mac Miller in a different category for *Circles*)
+
+This is ... not a very competitive field at all. I don't think any of my replacements could give Kendrick or Kanye a run for their money, let alone be a genre-definer in their own right. And of course, I haven't listened to every rap album this year - the new **clipping.** album, for example, seems like a strong contender - but I think I still have a pretty good handle on the mainstream stuff.
+
+So what gives? If you want my two cents - keeping in mind that I am just some rando commenting about music - I chalk it up to streaming killing the concise album, and a lull in innovation.
+
+First, on concise albums. I love concise albums. I think they have much better replayability and longevity over a more mediocre, long album (for example, *4:44*). It's much easier to execute on a concept album or theme with less songs (IDK's *Is He Real?* is a great example of this). Of course, I don't dislike long albums - TPAB, *The College Dropout*, and GKMC are all great in their own right - but they need to not overstay their welcome, and provide a reason for them to be that long. When long albums drag on for too long, they tend to hurt their best songs too: I get bored by a concept repeated too often, and everything gets hit.
+
+Streaming has warped that incentive. More and more artists are dumping 50min+ albums with much less quality control. And I get it - longer albums are better for streaming and sales, so you kinda just have to - but I think it's leaving albums with a sour taste in my mouth. *High Off Life* by Future is one hour and ten minutes, and there's absolutely no reason for it to be that long. Now, Future doesn't make that many short albums, but I loved how much tighter WATTBA, *EVOL*, or *SUPER SLIMEY* were. And it's not just Future this year: Lil Baby's *My Turn*, Big Sean's *Detroit 2*, and Royce's *The Allegory* all clear one hour, and probably could be tighter. Don't get me started about the trend in 2019.
+
+While I don't think that trap or "mumble rap" is ruining mainstream directly, I think these (especially new) artists need to take heed of conciseness too. To be frank, I don't think Lil Tecca has 19 songs of hits in him, Blueface could do with less than 16, and 18 is a bit ambitious for Gunna. It's not that trap can't do well on short and concise albums. My perennial favourite, *Without Warning*, clocks in at a smooth 33 minutes with ten songs - and sold like hotcakes. DaBaby has also been pretty good at this, capping out at ~13-ish songs per album. And as much as it's unlikely much will change, I'd love to see more rappers take up this mantle of concise albums - especially if they're early in their career.
+
+The second big problem I see is a lull in innovation. Again, this isn't the same as "mumble rap is bad". In the 2014-2017 run of trap, producers and artists were really innovating. Young Thug and Future were pulling in production influences from all the way in left field. The Migos were just refining their triplet flow. Travis Scott was developing his signature eerie atmosphere. We had a legendary, if unorthodox 2016 XXL class of 21 Savage, Lil Uzi Vert, Denzel Curry, Lil Yachty, Kodak Black, Anderson .Paak (and a few others); all of the names ones are either commercially dominant, critically acclaimed, or both. And, we had our resident alien translator and Pierre Bourne frontman, Playboi Carti. At this point in trap, I think it's an innovative subgenre breathing some fresh air into rap, alongside the traditional lane occupied by Kendrick, Kanye, JAY-Z, J. Cole, Eminem, Pusha T, etc.
+
+The problem, then, is that this new wave of rap is stagnant. The triplet flow is pretty commonplace, and *Culture II* beat it into the ground. Even though they've got some bangers, Lil Baby and Gunna sound like they're reusing the same beats that Metro, Murda, and Zaytoven used to get the Migos big. The soundscape that forms the basis for songs like *Blueberry Faygo* and *Ransom* is pretty catchy, but it seems very one-dimensional and not career defining. Travis Scott seems to have sold out (but honestly, get that bag). Lil Uzi and Yachty seem to have sunk back in slight mediocrity. *Whole Lotta Red* probably will never drop.
+
+That's not to say that there isn't innovation. I like that we're getting more dominant women in rap à la Megan, Cardi B, City Girls, and Rico Nasty - rap is still unfortunately a men's game, but things are looking better. I still think that 21 has carved a solid lane for himself, as has Aminé and Denzel. There's the insanely stacked Dreamville roster of JID, EARTHGANG, and Bas. And I've got high hopes for Roddy, Jack Harlow, Lil Baby, $NOT, Ski, Sheck Wes, and a plethora of other newcomers.
+
+But right now, we're in between big changes. As a young kid, I saw Kanye move us away from 50's gangsta rap with his opening trilogy. I saw 808's single-handedly revolutionize the genre, and bring rise to Drake-esque pop rap and open the curtain for Travis, Future, and Thugger (though shoutout T-Pain here too). I dove into rap as Kendrick and J. Cole reinvigorated lyricism along with Chance, Freddie Gibbs and the return of Pusha T. And, we just discussed the new wave of 21, Lil Uzi, Carti, and now - Lil Baby, Roddy, and Gunna.
+
+In other words, I think the next wave is due soon. What it'll be, I'm not so sure. One guess is this sleeper trend of overstimulated hyperpop, by way of PC Music, 100 gecs, JPEGMAFIA, Rico Nasty, Ashnikko, or parts of clipping (again, I haven't heard them yet). It might be trap beats over a nostalgic revival, similar to what pop has done with *After Hours* and *Future Nostalgia* - and if it gives us more songs like *a lot* with chopped synth or soul samples, I'm all for it. It may be a new take on rhythm - I'm keeping my eye on Channel Tres and his clean bass boosts. It might drawn on international talents, as Bad Bunny continues to dominate the charts and our friends across the pond in Skepta, Stormzy, slowthai, and co. continue pushing forward grime. And maybe, just maybe, this new Kendrick album will blow our minds and usher in an entirely new era of rap.
+
+Whatever it is, it can't come quickly enough for me.
+
+## Closing (and random) Thoughts
+
+That was a bit of a long rant, so I'll keep this conclusion short.
+
+In general, I am happy with where I am music-listening wise, but still want to expand a bit more. I'm trying to include a bit more hyperpop, alt-rock, and country/folk into my routine. Metal is probably still a no-go for me, for now. And of course, there's the perennial battle of getting myself into older music.
+
+I'd be remiss if I didn't thank all of my friends who've influenced my music taste. Adding on to last year's list, I'll also shout out Arjun, Sharvani, Maya, Zach, Eugene, Disha, Faiz, Mark, and Isabel!
+
+And, as is tradition - here's a playlist of my fave songs released in 2020. It took quite a bit of deliberation!
+
+<iframe src="https://open.spotify.com/embed/playlist/073GV2N0oJuaCJGkuYNWOG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" style="display:block;margin-left:auto;margin-right:auto;"></iframe>
+
+Until next time!
