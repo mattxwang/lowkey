@@ -12,6 +12,7 @@ collections:
     output: true
 specials_list:
   - "hindsight2018"
+  - "concise21"
 title_long: Lowkey | A blog by Matthew Wang
 email: matt@matthewwang.me
 author:
