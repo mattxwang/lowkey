@@ -55,7 +55,7 @@ Our team consisted of five people, who are all my close friends:
 Our project (which we named pop 'n lock at the last minute) was an RFID smart lock. Essentially, it's a lock that you can only unlock with a device that emits a certain radio signal, like a student card, a key fob, or a phone. Here's a brief video that shows it in action.
 <div markdown="0">
 	<div class="twitter-embed-container">
-		<blockquote class="twitter-tweet"><p lang="en" dir="ltr">life’s good <a href="https://twitter.com/hashtag/ideahacks?src=hash&amp;ref_src=twsrc%5Etfw">#ideahacks</a> <a href="https://t.co/5aWZD14Ejj">pic.twitter.com/5aWZD14Ejj</a></p>&mdash; Matthew Wang (@malsf21) <a href="https://twitter.com/malsf21/status/1086905494990540800?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<blockquote class="twitter-tweet"><p lang="en" dir="ltr">life’s good <a href="https://twitter.com/hashtag/ideahacks?src=hash&amp;ref_src=twsrc%5Etfw">#ideahacks</a> <a href="https://t.co/5aWZD14Ejj">pic.twitter.com/5aWZD14Ejj</a></p>&mdash; Matthew Wang (@welcomemattwang) <a href="https://twitter.com/welcomemattwang/status/1086905494990540800?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</div>
 </div>
 
@@ -120,7 +120,7 @@ And boy, did I sleep.
 
 ## Day 2: Prototype -> Product
 
-Since I wouldn't be technically "needed" to do any more work on the project for a while, I woke up at around noon - which left me comparatively well-rested. After getting a surprisingly healthy lunch from the hackathon organizers, I set on creating quality of life improvements: developing a mechanism to register new RFID cards, adding responsive LED feedback, creating utilities to help me load IDs on to the board, and [documenting all of my work on GitHub!](https://github.com/malsf21/ideahacks-2019)
+Since I wouldn't be technically "needed" to do any more work on the project for a while, I woke up at around noon - which left me comparatively well-rested. After getting a surprisingly healthy lunch from the hackathon organizers, I set on creating quality of life improvements: developing a mechanism to register new RFID cards, adding responsive LED feedback, creating utilities to help me load IDs on to the board, and [documenting all of my work on GitHub!](https://github.com/mattxwang/ideahacks-2019)
 
 During this, the rest of our team was working on more CAD - while they had printed the outer shell and some of the components of the lock, they were still busy coming up with other improvable iterations, including different lock mechanisms and housing.
 
@@ -134,7 +134,7 @@ By the evening, most of our components had been printed. All of our components f
 
 <div markdown="0">
 	<div class="twitter-embed-container">
-		<blockquote class="twitter-tweet"><p lang="en" dir="ltr">life’s good <a href="https://twitter.com/hashtag/ideahacks?src=hash&amp;ref_src=twsrc%5Etfw">#ideahacks</a> <a href="https://t.co/5aWZD14Ejj">pic.twitter.com/5aWZD14Ejj</a></p>&mdash; Matthew Wang (@malsf21) <a href="https://twitter.com/malsf21/status/1086905494990540800?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<blockquote class="twitter-tweet"><p lang="en" dir="ltr">life’s good <a href="https://twitter.com/hashtag/ideahacks?src=hash&amp;ref_src=twsrc%5Etfw">#ideahacks</a> <a href="https://t.co/5aWZD14Ejj">pic.twitter.com/5aWZD14Ejj</a></p>&mdash; Matthew Wang (@mattxwang) <a href="https://twitter.com/mattxwang/status/1086905494990540800?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</div>
 </div>
 
@@ -142,7 +142,7 @@ Here's an opened version of our lock.
 
 <div markdown="0">
 	<div class="twitter-embed-container">
-		<blockquote class="twitter-tweet" data-conversation="none"><p lang="und" dir="ltr"><a href="https://t.co/Q0lHsBHGeJ">pic.twitter.com/Q0lHsBHGeJ</a></p>&mdash; Matthew Wang (@malsf21) <a href="https://twitter.com/malsf21/status/1086906357003894784?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<blockquote class="twitter-tweet" data-conversation="none"><p lang="und" dir="ltr"><a href="https://t.co/Q0lHsBHGeJ">pic.twitter.com/Q0lHsBHGeJ</a></p>&mdash; Matthew Wang (@mattxwang) <a href="https://twitter.com/mattxwang/status/1086906357003894784?ref_src=twsrc%5Etfw">January 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</div>
 </div>
 

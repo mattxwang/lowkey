@@ -78,9 +78,9 @@ And now, let's get a bit narcissistic: let's talk about myself.
 
 ## Workshop 1: Intro to Web Development with React and Firebase
 
-I'm going to be quite honest with you, I'm a bit sick of typing about React and Firebase after running this workshop. In particular, it's because I typed out [14000+ words for the README of the workshop repo](https://github.com/malsf21/qwerhacks-web-dev-workshop). I'll give a quick flyover on what I talked about, but I'm more interested in discussing what could've gone better.
+I'm going to be quite honest with you, I'm a bit sick of typing about React and Firebase after running this workshop. In particular, it's because I typed out [14000+ words for the README of the workshop repo](https://github.com/mattxwang/qwerhacks-web-dev-workshop). I'll give a quick flyover on what I talked about, but I'm more interested in discussing what could've gone better.
 
-(if you don't know what React or Firebase are, this next bit is going to not make much sense. maybe you should... [read the brief for the workshop to learn more 👀](https://github.com/malsf21/qwerhacks-web-dev-workshop))
+(if you don't know what React or Firebase are, this next bit is going to not make much sense. maybe you should... [read the brief for the workshop to learn more 👀](https://github.com/mattxwang/qwerhacks-web-dev-workshop))
 
 ### Structure of the Workshop
 
@@ -92,7 +92,7 @@ But, uh, I ran into some problems.
 
 ### Planning & Writing
 
-I spent *a lot* of time planning this workshop. Over the winter break (and a bit of winter quarter), I wrote up the [script for this workshop on GitHub](https://github.com/malsf21/qwerhacks-web-dev-workshop/blob/master/README.md).
+I spent *a lot* of time planning this workshop. Over the winter break (and a bit of winter quarter), I wrote up the [script for this workshop on GitHub](https://github.com/mattxwang/qwerhacks-web-dev-workshop/blob/master/README.md).
 
 This thing is *huge*. It's **14603 words**, or **56 pages** in 10pt font.
 

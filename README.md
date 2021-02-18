@@ -1,12 +1,12 @@
 # Lowkey
 
-![Test Jekyll Build](https://github.com/malsf21/lowkey/workflows/Test%20Jekyll%20Build/badge.svg)
+![Test Jekyll Build](https://github.com/mattxwang/lowkey/workflows/Test%20Jekyll%20Build/badge.svg)
 
 > to keep something Lowkey: to not announce it;
 
 **Lowkey** is my blog. I have many opinions and thoughts, and these are the ones that are mildly interesting.
 
-It's built with [Jekyll](https://jekyllrb.com) and [Liteweight](https://malsf21.github.io/liteweight/).
+It's built with [Jekyll](https://jekyllrb.com) and [Liteweight](https://mattxwang.github.io/liteweight/).
 
 ## Setup
 
@@ -24,7 +24,7 @@ First things first, we need to install Jekyll. We assume that you have Git, Ruby
 First, clone the git repository and `cd` into it:
 
 ```
-$ git clone https://github.com/malsf21/lowkey.git
+$ git clone https://github.com/mattxwang/lowkey.git
 $ cd lowkey
 ```
 

@@ -6,6 +6,6 @@ categories:
 layout: post
 ---
 
-For a long time, this site used a Bootstrap theme from Creative Tim - and while that was great, it didn't feel original, and it made the page loading really, really slow. I've swapped it out with my own custom-made CSS Framework, [Liteweight](https://malsf21.github.io/liteweight/)! Now the blog feels a bit more barebones, but I think it also matches the visual of my [home website](https://matthewwang.me/) and I can now safely say I've written all the code that goes into making this website. Feels good, doesn't it?
+For a long time, this site used a Bootstrap theme from Creative Tim - and while that was great, it didn't feel original, and it made the page loading really, really slow. I've swapped it out with my own custom-made CSS Framework, [Liteweight](https://mattxwang.github.io/liteweight/)! Now the blog feels a bit more barebones, but I think it also matches the visual of my [home website](https://matthewwang.me/) and I can now safely say I've written all the code that goes into making this website. Feels good, doesn't it?
 
-Anyways, if you're reading and you have some feedback for this design, please send it my way. You can check out Liteweight's GitHub repo [here](https://github.com/malsf21/liteweight), if you have any feedback for the framework in general.
+Anyways, if you're reading and you have some feedback for this design, please send it my way. You can check out Liteweight's GitHub repo [here](https://github.com/mattxwang/liteweight), if you have any feedback for the framework in general.

@@ -25,8 +25,8 @@ baseurl: ''
 url: https://blog.matthewwang.me
 twitter:
   username: welcomemattwang
-github: malsf21
-repo: http://github.com/malsf21/lowkey
+github: mattxwang
+repo: http://github.com/mattxwang/lowkey
 website: https://matthewwang.me
 logo: "/img/logo.png"
 markdown: kramdown
