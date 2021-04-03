@@ -1159,7 +1159,7 @@ week116:
   blurb: >
     What a duo, smooth af. Don't want to get too hyped, but this could be AOTY ...
 week117:
-  week: "Week 116: March 19 - March 25"
+  week: "Week 117: March 19 - March 25"
   title: "Freeze Tag"
   artist: "Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington, Phoelix"
   album: "Dinner Party"
@@ -1168,3 +1168,13 @@ week117:
   year: 2020
   blurb: >
     Slow week, slow song. An amazing team creates an amazing blend of jazz, soul, r&b, and rap.
+week118:
+  week: "Week 118: March 26 - April 1"
+  title: "Don't Need You"
+  artist: "Genesis Owusu"
+  album: "Smiling with No Teeth"
+  album_art: "swnt.jpeg"
+  genre: "rap"
+  year: 2021
+  blurb: >
+    Quirky, but a vibe.
