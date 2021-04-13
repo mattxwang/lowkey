@@ -20,7 +20,7 @@ I started with [Kafka on the Shore](https://en.wikipedia.org/wiki/Kafka_on_the_S
 
 I then devoured all 1157 pages of *1Q84* in a couple of days. The book is far from perfect, but it really ignited a passion for Murakami within me. And, borrowing a goal from a friend, I decided. **I had to read all of his books.**
 
----
+_________________
 
 Murakami has a unique cocktail of narrative and style. He creates worlds grounded in reality, with a hint of the surreal and otherworldly. It satisfies my inner YA fantasy novel reader and gives him a catalysing vehicle, while simultaneously exploring problems that are fundamentally human.
 
