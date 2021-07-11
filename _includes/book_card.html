@@ -1,0 +1,23 @@
+{% comment %}
+  This include relies on {{book}} being a locally-scoped variable, modeled off of the data structure in books.yml.
+{% endcomment %}
+<div class="card border-primary"{% if include.html_id %} id="{{include.html_id}}"{% endif %}>
+  <h2 class="text-primary no-margin">
+    {{book.title}}
+  </h2>
+  <h3>
+    by <span class="text-primary">{{book.author}}</span>
+    {% if book.translator %} | translated by {{book.translator}}{% endif %}
+  </h3>
+  <div>
+    <span class="tag tag-rounded border-primary">genre: {{ book.genre }}</span>
+    <span class="tag tag-rounded border-primary">published: {{ book.year_published }}</span>
+    {% if book.year_translated %}
+    <span class="tag tag-rounded border-primary">translated: {{ book.year_translated }}</span>
+    {% endif %}
+    <span class="tag tag-rounded border-secondary">time read: {{ book.time_read }}</span>
+  </div>
+  <p>
+    {{book.thoughts | markdownify }}
+  </p>
+</div>

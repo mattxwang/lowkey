@@ -14,21 +14,5 @@ layout: page
 {% assign strong_books = site.data.books | where: "strong", "true" %}
 
 {% for book in strong_books reversed %}
-<div class="card border-primary">
-  <h2 class="text-primary no-margin">
-    {{book.title}}
-  </h2>
-  <h3>
-    by <span class="text-primary">{{book.author}}</span>
-    {% if book.translator %} | translated by {{book.translator}}{% endif %}
-  </h3>
-  <div>
-    <span class="tag tag-rounded border-primary">genre: {{ book.genre }}</span>
-    <span class="tag tag-rounded border-primary">published: {{ book.year_published }}</span>
-    <span class="tag tag-rounded border-secondary">time read: {{ book.time_read }}</span>
-  </div>
-  <p>
-    {{book.thoughts}}
-  </p>
-</div>
+  {% include book_card.html %}
 {% endfor %}
