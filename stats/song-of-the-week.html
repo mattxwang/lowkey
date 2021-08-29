@@ -22,7 +22,7 @@ layout: page
 		<div class="col-8">
 			<h4 style="margin-top:0.5em; margin-bottom: 0.5em">{{ item[1].week }}</h4>
 			<h2 style="margin-top:0; margin-bottom: 0"><span class="text-primary">{{ item[1].title }}</span> | {{ item[1].artist }}</h2>
-			<p>{{ item[1].blurb }}</p>
+			<p>{{ item[1].blurb | markdownify }}</p>
 			<p>
 				<span class="tag tag-rounded border-primary">{{ item[1].genre }}</span>
 				<span class="tag tag-rounded border-primary">{{ item[1].year }}</span>
