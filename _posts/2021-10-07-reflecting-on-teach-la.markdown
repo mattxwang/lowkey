@@ -35,7 +35,6 @@ Ready?
   * [Summer Quarter, 2020](#summer-quarter-2020)
     * [Learning Labs Crash Course](#learning-labs-crash-course)
     * [CityLab, Cipher Salad, and Passworks](#citylab-cipher-salad-and-passworks)
-    * [The Start of the Python Video Squad](#the-start-of-the-python-video-squad)
   * [Fall Quarter, 2020](#fall-quarter-2020)
     * [The Dev Team, Again](#the-dev-team-again)
     * [JEDI](#jedi)
@@ -48,6 +47,7 @@ Ready?
   * [On Pedagogy and Teaching](#on-pedagogy-and-teaching)
   * [On Recruitment and Community Building](#on-recruitment-and-community-building)
   * [On Burnout](#on-burnout)
+  * [On Doing What I Want](#on-doing-what-i-want)
   * [On Succession](#on-succession)
 * [Learned Lessons and Regrets](#learned-lessons-and-regrets)
 * [Closing Thoughts](#closing-thoughts)
@@ -67,6 +67,7 @@ I often speak from my little tech bubble, so I want to make sure I explain some 
 * **ACM Teach LA's Dev Team** is a part of ACM Teach LA that writes educational software. This was how I first joined Teach LA, and the focus of [my last reflection]({% post_url 2020-06-27-reflecting-on-tla-dev-team %}). I'll refer to this as the *Teach LA Dev Team* or the *Dev Team* for short.
 * A **director** or **officer** is someone in Teach LA who holds a leadership position. Most members in Teach LA - "**general members**" - can come and go as they please. More broadly, **officers** in ACM hold leadership positions, and are appointed or elected.
 * In our context, **interns** will refer to ACM's recruitment process. Interns are not paid.
+* **Learning Labs** (or LLs) are interactive web modules designed to teach complicated computer science topics in an experimental way. This was an idea I've always wanted to execute on, but never have fully realized.
 
 ### The Past, Abridged (2018-2020)
 
@@ -93,7 +94,9 @@ That's where we'll start the recap.
 
 ## The Play-by-Play
 
-I'll try to give a relatively objective review of my time as Presidet of Teach LA. If you want a real tl;dr, you can [read the blog post I wrote for Teach LA](https://teachla.uclaacm.com/blog/reflection/2021/03/28/board-reflections/#matt) instead.
+I'll try to give a relatively objective review of my time as President of Teach LA. If you want a real tl;dr, you can [read the blog post I wrote for Teach LA](https://teachla.uclaacm.com/blog/reflection/2021/03/28/board-reflections/#matt) instead.
+
+*I also think this is probably the ... least relevant part of this post? So [skip ahead to my reflections](#large-thoughts) if you'd like.
 
 ### Spring Quarter, 2020
 
@@ -171,15 +174,107 @@ Right?
 
 ### Summer Quarter, 2020
 
+Clubs typically go inactive over the summer, but I had a lot of work set out for me. I'll go over two pretty big chunks in-depth.
+
+*Other* than those chunks, I had my hands in a few, not-so stressful pots:
+
+* I did every single virtual New Student Orientation (NSO) tabling event. This definitely helped with advertising our club, but also brought me closer to ACM as a whole. Also panelled for a few other new student events (like Discover Engineering).
+* In anticipation of a likely virtual fall quarter, we kickstarted the "Python Video Squad", to develop a set of asynchronous Python video tutorials. Helia led this initiative!
+* Due to some logistical barriers, development on the React Native course stalled. This was not-so-great for a couple of reasons. Still, I started to architect out [the first few lessons](https://github.com/uclaacm/react-native-course-20-21)!
+* In the background, I added many more pages to our website to describe our dev team, how to join the club, and other important information - surprisingly something that not all clubs have!
+
+Okay, let's talk some dev team business.
+
 #### Learning Labs Crash Course
+
+I had high ambitions for learning labs. Part of that included creating a scalable training system; not only did I not enjoy the calibre of training I did last year, but it also took an *insane* amount of time for me.
+
+Beyond that, I also had a couple of ACM AI Outreach officers interested in developing a learning lab for our high school class; in particular, one to visualize convolutional neural networks (CNNs). We wanted to wrap up the learning lab over summer/fall, and the team didn't have much web dev experience; so, we needed to train them.
+
+I wanted to knock out these two birds with one stone, and my solution was the [Learning Labs Crash Course](https://github.com/uclaacm/learning-lab-crash-course-su20). Essentially, a set of videos that should teach an interested developer *all the skills* to work on most learning labs, assuming they have never done web development before. This meant I needed to cover:
+
+* HTML & CSS (and not just the basics)
+* JS, and ideally well
+* we chose to teach React, though this is not strictly necessary; this cemented us as a React shop
+* little bits of design, backend, testing, databases, devops, etc.
+
+In hindsight, I could've probably scraped together a training plan from existing online resources. At the time, I was hell-bent on doing things *my way*, and focusing on what I thought was important. Beyond that, I wanted to lean on the strengths of Leo, my dev team director, and some other collaborators - two designers to talk about Figma and web accessibility, respectively.
+
+And so, I did it. This was an arduous task. We easily hit over **20,000 words** of content (depending on how you count) and recorded **18 videos** over the span of two months. We built in two side-tasks, a personal portfolio and the classic to-do list, and ran office hours + consulted on the CNN learning lab.
+
+This effort completely drained me and all of my free time (I was working for AWS over the summer). I didn't realize it at the time, but this would be some of the most important work I had done at Teach LA. We proceeded to use it to train a revolving door of 50+ interested dev team members over the next two quarters; I got emails and tweets from people at BU, Waterloo, and UofT saying that they found the material helpful. And, it set a precedent for a very hands-on training and support system; something that still defines Teach LA to this day.
+
+If you're interested, you can view the [GitHub Repo](https://github.com/uclaacm/learning-lab-crash-course-su20), the [YouTube playlist](https://www.youtube.com/playlist?list=PLPO7_kXilXFa6YdXxn5oln1gagcqnFI4l), or the finalized [CNN Learning Lab](https://nofilter.uclaacm.com/).
 
 #### CityLab, Cipher Salad, and Passworks
 
-#### The Start of the Python Video Squad
+Simultaneously, the summer was also the first opportunity to put learning labs to the test on a larger scale.
+
+Rewinding a bit; in winter 2020, CityLab at UCLA (the biology outreach org, not the lab) reached out to us about running a collaborative event. The goal was to incorporate their style of teaching with our computer science curriculum. We initially planned it for the spring, but then COVID happened; so, we had to rapidly pivot.
+
+I pitched the idea of a "Cyber Day", where students would learn about cybersecurity from a technical (e.g., how does password-hacking work) and non-technical (e.g., what are the ethics behind cybersecurity laws) perspectives. We'd blend together CityLab's storytelling teaching style, Teach LA's CS knowledge, and crucially, Teach LA's learning labs.
+
+We agreed, and so we got to work. I wanted to complete two learning labs:
+
+1. Passworks, an exploration of password security, brute-force attacks, and social engineering;
+2. Cipher Salad, an explanation of historical cryptographic ciphers and their modern-day equivalents.
+
+Both of these were in part motivated by past experiences I had teaching, and in part from other driven team members. Each was ran by a small team; Alyssa, an original Teach LA dev team member soft-PM'd and created content for both projects; Jamie, another original dev team member took on Passworks by herself, while Cipher Salad was the project of Lisha, Janis, and Rachel (at the time, relatively new members).
+
+I'll be honest - I didn't get to provide as much support as I wanted to. I helped with administrative burdens, occasional content/pedagogy work, and wrote a couple of features for Passworks. But, I never dove deep into the design, did extensive user research, or architected some really good code.
+
+That being said, I'm incredibly proud of the teams, and they delivered. We wrapped up both learning labs the week before the event, and iterated with CityLab; on the day-of, I attended the entire 3-hour session and answered questions from the participating students.
+
+At the end of the day, gathering rigorous feedback was hard, but qualitatively we got some pretty great responses from students; several asked for more (which unfortunately, we didn't have). And, for a classroom experience that was typically just going through powerpoint slides and rigid learning modules, it was refreshing.
+
+There's much more to say about this event. I'd encourage you to check out both [Cipher Salad](https://ciphersalad.uclaacm.com) and [Passworks](https://passworks.uclaacm.com)! Beyond that, I also encouraged the teams to write about their process; check out posts written by [Jamie on Passworks](https://teachla.uclaacm.com/blog/dev/2020/09/23/the-making-of-passworks/) and by [Janis, Rachel, and Lisha on Cipher Salad](https://teachla.uclaacm.com/blog/dev/2020/10/13/ingredients-of-cipher-salad/). There's also an [event summary page](https://teachla.uclaacm.com/citylab-cyber) on our website.
 
 ### Fall Quarter, 2020
 
+**tl;dr: Teach LA became really popular, I had to become the interim dev team director, we placed a huge emphasis on diversity and inclusion, we recruited "interns" for the first time, and I failed to juggle everything.**
+
+And with that, I moved on to Fall Quarter. Fall is busy! Individually, students have to get back into their classes and start recruiting (if you're on a tech timeline). Clubs have to juggle many welcome events, dust off cobwebs from summer, and recruit first-years/new transfers.
+
+My primary (and in hindsight, somewhat naive) goal was to grow the club significantly. I thought that our biggest problems were a lack of personnel, and that we could fundamentally change the culture of CS clubs at UCLA. With that in mind, I doubled-down on my **no experience required** mantra and brought it to the entire club; after all, we should be good at teaching.
+
+I said "no experience required" so frequently in the [ACM General Meeting](https://www.youtube.com/watch?v=_HJA0QQP80I) and the [Teach LA General Meeting](https://www.youtube.com/watch?v=z1tfsmsVTH4) that people in our Discord started making memes about me. But, it worked; even with the "pandemic boost" of bored first-years looking for something to do, interest demolished any of our projections; we had over 100 GM attendees and 50 people interested in the dev team, both double of our attendance from our previous year.
+
+While that was going on in the background, we started teaching our classes. Like spring, they were fully virtual; but, we had a bit more time to adapt to online instruction, and tried to blend in videos (go Python video squad!), interactive lessons, quizzes, and discussions in-between our typical class content. I still supported our AI & ML course at North Hollywood High School, though I wanted to let our new officers shine. We definitely got better responses from students, but at the same time, everybody seemed burnt out.
+
+And then, ...
+
 #### The Dev Team, Again
+
+Due to some unforseen circumstances, Leo stepped down from his role as the Dev Team Director (to just running our editor project) after we had onboarded many of our members. Nobody else was interested in picking this up half-way through the quarter. So, I had to make a tough judgement call:
+
+1. scale-down the dev team to <10 people, who can run relatively autonomously; scrap all of our training plans, or
+2. run everything myself
+
+Now, every single person I knew was telling me to let the dev team scale-down. Running it myself would not be sustainable, it would stretch me thin, and I just wouldn't do a good job. Almost every single rational person would say to take option 1.
+
+And so, I took option 2.
+
+In my defense: I held the Teach LA Dev Team to heart, and I *really* wanted Learning Labs to kick off. I had thought, "I did a bunch of training videos, I'm sure it'd work out", and figured that I could work my way through things.
+
+But oh boy, was I wrong.
+
+I realized how nebulous this role was as I did it. Looking back, I had maybe 5 key responsibilities:
+
+1. Being the "face" of the dev team. This means running all of our meetings, doing fairs, and checking in on people frequently.
+2. Running training. Against advice, I did not just make people watch videos; I ran live training sessions, mini-trainings in meetings, office hours (in which people actually showed up), and onboarded new people!
+3. Managing our projects: coming up with ideas, recruiting team members, supporting PMs, etc.
+4. An insane amount of code review, since almost all of our team members were brand-new, and most of our returners didn't feel comfortable reviewing code
+5. Running our website, since we didn't have a defined person to do that
+
+Each of these easily took 4+ hours of my week. I'm not kidding when I say that I spent 20-30 hours a week, on average, for this club. It's insane doing all of this for 50+ people. It's even more insane considering that I was doing it mostly alone, with a couple of PMs to run projects. This one decision broke me as a person; more on that later.
+
+We did start three learning labs in fall quarter:
+
+* [Bias By Us](https://github.com/uclaacm/bias-by-us), an LL focused on bias in machine learning. This one is special because the three core members were all first-years who reached out to me about doing this independently.
+* [Cookie Jar](https://github.com/uclaacm/cookie-jar), an LL on how browser cookies work and how you can interact with them.
+* [Selector Safari](https://github.com/uclaacm/selector-safari), an LL inspired by [Flexbox Froggy](https://flexboxfroggy.com/) and the like to teach CSS selectors. I was *super* excited about this idea, and I think it's one of my best ones.
+
+None of those learning labs are complete as of writing (a year out), which was not the original intention. I'll spend a bit more time analyzing what went wrong and what went right - both in terms of the LLs, and the dev team as a whole, in the [Large Thoughts](#large-thoughts) section.
 
 #### JEDI
 
@@ -199,12 +294,24 @@ Right?
 
 ### On Recruitment and Community Building
 
+### On Writing
+
 ### On Burnout
+
+### On Doing What I Want
 
 ### On Succession
 
-## Learned Lessons and Regrets
+## Learned Lessons and Regrets (tl;dr)
+
+### Teaching
+
+### Dev
+
+### Everything Else
 
 ## Closing Thoughts
+
+### Learning Labs
 
 ### Where I Am Now
