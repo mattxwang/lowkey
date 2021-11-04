@@ -1444,7 +1444,37 @@ week145:
   artist: "Yenkee"
   album: "Lucy"
   album_art: "lucy.jpeg"
-  genre: "rap"
+  genre: "lo-fi pop"
   year: 2020
   blurb: >
     Something special!
+week146:
+  week: "Week 146: October 8 - October 14"
+  title: "Grade A"
+  artist: "spill tab, JAWNY"
+  album: "Grade A"
+  album_art: "grade-a.jpeg"
+  genre: "indie pop/rock"
+  year: 2021
+  blurb: >
+    Super excited to see spill tab soon!!
+week147:
+  week: "Week 147: October 15 - October 21"
+  title: "Diablo"
+  artist: "Mac Miller"
+  album: "Faces"
+  album_art: "faces.jpg"
+  genre: "rap"
+  year: 2014
+  blurb: >
+    This Faces re-release is absolutely nuts. Has made my week and will likely dominate my 2021 rotation. Diablo is so smooth.
+week148:
+  week: "Week 148: October 22 - October 28"
+  title: "get off my dick"
+  artist: "Zack Fox, Kenny Beats"
+  album: "shut the fuck up talking to me"
+  album_art: "stfuttm.jpeg"
+  genre: "rap"
+  year: 2021
+  blurb: >
+    It's times like these that I reconsider making this a public blog.
