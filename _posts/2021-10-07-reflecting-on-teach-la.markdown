@@ -278,7 +278,37 @@ None of those learning labs are complete as of writing (a year out), which was n
 
 #### JEDI
 
+We also joined JEDI, a new "moonshot" initiative within ACM. JEDI (Justice, Equity, Diversity, and Inclusion) was meant to make ACM more diverse and inclusive from the inside: ensuring that our events, recruitment, internal processes, and everything else was as fair and inclusive as it could be! I was (and still am) really excited for JEDI, so we joined in full force. It's a perfect mission fit for our goal of making computer science education more accessible. Plus, JEDI was led by our very own Arjun - how could we not get involved?
+
+In the fall iteration, we nominated four officers to be JEDIs; they identified sets of goals to work towards, and then supervised or led actionables to make them happen. I'm quite proud of the actions that our JEDIs took: they ranged from the little things, like creating a "small victories" slack channel to better celebrate our successes (and create a more welcoming community), to bigger efforts like redesigning all of our slides to be more accessible or pushing for all of our instructors to use inclusive language and examples.
+
+I won't touch on JEDI too much for the rest of this post, but there's some great information about it on [the current ACM website](https://uclaacm.com/jedi) (which I made!), including a set of blog posts Arjun wrote about the entire experience. All in all, I think JEDI was a net positive for Teach LA, and I'm glad we put justice, diversity, equity, and inclusion to the forefront of our mission.
+
 #### Internship Recruitment
+
+We also joined ACM's ["Internship Program"](https://uclaacm.com/internship). This is ACM's primary way of recruiting new members; after a set of written applications and interviews, prospective ACM officers join in the middle of fall quarter and onboard throughout winter. By spring, most committees "promote" their interns to be fully-fledged officers. Admittedly, "internship" is a bit of a weird name, since interns aren't paid, and we're a club.
+
+In the past, Teach LA did not (really) participate in the internship program; our model of "anybody can join" was enough of a recruitment drive, and growth wasn't necessarily part of our mission. However, I wanted to change things up - mainly for two reasons:
+
+1. I wanted to bring Teach LA closer to the rest of ACM, which includes the recruitment process
+2. I wanted to see if there was a way for us to "fast-track" leadership development, and spend more time diving into the "weeds" of pedagogy, software development, and management
+
+We'll touch on this later, but I never felt like I fully realized the second goal.
+
+Kicking off our internship drive was very challenging for me, since I was never an intern myself (ACM actually forgot to onboard me) and we had no materials prepped. Luckily, Bonnie was a huge help, and together we devised a complicated set of interview materials, including:
+
+1. A set of written application responses
+2. A (somewhat strict) rubric on grading applications, including a double-blind process
+3. A consistent set of interview questions
+4. A data pipeline to tie all of these together; a loose amalgamation of scripts and extensions
+
+We went hard at Fall GM and in marketing the internship program, and we got *way* more applicants than we anticipated. Originally, I was thinking that we'd cap out at 30 or 40 interested people; we got **71 applicants**! I decided to invidually review all of our applications (which was ... *very stressful*, to say the least), and deciding was **so hard** - I wanted to take everybody! Eventually, we had to narrow the field down to 21 candidates, and took 12 people. I really liked each of the interns that we took, and I'm so glad they joined our team. This was definitely one of the most fun highlights of the year, even if it was stressful. I do have some regrets on how we went about this - more on that later.
+
+There's a bit of a story involving negotiating ACM interns, but I'll keep that private for now ;)
+
+I'll also touch base on this more during the winter quarter section!
+
+If you're interested in a more unbiased summary of the internship process - including some statistics - I would check out the [blog post Bonnie, Sophie, and I co-wrote on it](https://teachla.uclaacm.com/blog/internship/2020/12/16/internship-retrospective/)!
 
 ### Winter Quarter, 2021
 
