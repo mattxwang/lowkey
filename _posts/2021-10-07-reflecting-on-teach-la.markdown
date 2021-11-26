@@ -312,6 +312,8 @@ If you're interested in a more unbiased summary of the internship process - incl
 
 ### Winter Quarter, 2021
 
+**tl;dr: our classes chugged along, though React Native faltered. I ran dev training for our dev interns, and continued juggling all the dev-related responsibilities.**
+
 #### Dev Intern Training
 
 #### Succession and the Wrap-up
