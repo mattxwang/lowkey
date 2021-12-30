@@ -1,0 +1,532 @@
+---
+title: 'My Music in 2021, A Glance'
+date: 2021-12-26 02:34:50 Z
+categories:
+- entertainment
+author: 'spotify wrapped stalker matt'
+layout: post
+---
+
+What a year. I need to get back to writing more. Let's talk some music.
+
+(a continuation of [My Music in 2020, A Glance]({% link _posts/2020-12-19-a-year-of-music-2020.markdown %}) and [My Music in 2019, A Glance]({% link _posts/2019-12-16-a-year-of-music-2019.markdown %}))
+
+## Table of Contents
+
+* Table of Contents
+{:toc}
+
+## Albums of the Year (5)
+
+Here are my 5 favourite albums released this year. I will be generous with the definition of "released" - primarily so I can include *Faces* on the list.
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![cinema album cover]({{site.baseurl}}/img/albums/cinema.png)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>Cinema</em> by The Marías</h3>
+    <p>
+      The Marías weave together a psychedelic, lush, and intimate atmosphere in a stellar debut album.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        The Marías are a unique find for me. Above all, their songs have an unmistakable groove, while maintaining a diverse set of instruments and soundscapes. On <em>CINEMA</em>, they continue to push the envelope. Their sound is more electronic than the <em>Superclean</em> EPs, filling out songs like <em>Calling U Back</em> and <em>Hush</em>. However, they don't lose the amazing synergy that María's voice has with the instrumentation - particularly exemplified by the effortless bilingual switching on <em>Little by Little</em>. As it stands, I see them as genre-definers.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Calling U Back, Hush, All I Really Want is You, Little by Little, Un Millón</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![faces album cover]({{site.baseurl}}/img/albums/faces.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>Faces</em> by Mac Miller (commercial re-release)</h3>
+    <p>
+      Mac Miller's magnum opus balances a dark psyche with killer bars and vibrant, jazzy, psychedelic production.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        I listened to Faces on DatPiff around when it first came out, but I don't think I truly understood the acclaim of this album until this year. Mac both raps and produces his ass off. The album sports faces of psychedelia and jazz with a tinge of lo-fi, creating an atmosphere that is as relaxing as it is melancholic. Mac's sample choices are top-notch; the Duke Ellington piano on <em>Diablo</em> is etched into my brain. Behind the pristine production is Mac at his most vulnerable. Listening to Mac fighting the demons of drug addiction and death is haunting. Mac hits the nail on the head with his fears, failures, and foresight - all of which unfortunately ring true. Faces is ultimately a tragedy, but it immortalizes Mac's legacy and showcases him at his best.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Here We Go, Therapy, Wedding, Diablo, Rain</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![ROADRUNNER: NEW LIGHT, NEW MACHINE album cover]({{site.baseurl}}/img/albums/roadrunner.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>ROADRUNNER: NEW LIGHT, NEW MACHINE</em> by BROCKHAMPTON</h3>
+    <p>
+      The BH boys give us another energetic but mature project.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        Erring on the side of caution, I'm not sure if BROCKHAMPTON is capable of making bad music. <em>ROADRUNNER</em> is another take on their core formula. Noisy bangers in <em>BUZZCUT</em>, <em>BANKROLL</em>, and <em>DON'T SHOOT UP THE PARTY</em>; a blend of melodic rap on <em>COUNT ON ME</em>, <em>I'LL TAKE YOU ON</em>, and <em>OLD NEWS</em>, laid-back lyrics on <em>CHAIN ON</em> and <em>WHEN I BALL</em>; and some mature introspection on both parts of <em>THE LIGHT</em> and <em>DEAR LORD</em>. I don't think this album will make you a BROCKHAMPTON fan, but it's another great step for their existing fanbase - which includes me.
+      </p>
+    </details>
+    <p>
+      Faves: <em>BUZZCUT, CHAIN ON, THE LIGHT, DON'T SHOOT UP THE PARTY</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![sometimes i might be introvert album cover]({{site.baseurl}}/img/albums/simbi.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>Sometimes I Might Be Introvert</em> by Little Simz</h3>
+    <p>
+      Little Simz pushes the envelope of rap with a concept album of theatrical and epic proportions.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        SIMBI is the rap AOTY, no doubt. Simz puts on the performance of a lifetime. Her flows are just as immaculate as they were on <em>GREY Area</em>, but this time they're backed by the physical manifestation of elegance. Producer Inflo effortlessly juggles a wide net of sounds, beyond the heavy soul and jazz influence: <em>Standing Ovation</em> has the backdrop of an epic orchestra, <em>Point and Kill</em> is modern afrobeat at its finest, and <em>Rollin Stone</em> sees Simz on another ruthless, spacey beat that puts her front and center. Throughout this soundscape, Simz tells a story of her introvertedness, weaving together stories of her time in the industry with  familial relationships, idols, romance, and trauma. At the end of the day, Simz has created an absolute masterpiece.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Woman, Two Worlds Apart, I Love You, I Hate You, Standing Ovation, Miss Understood</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![The Melodic Blue album cover]({{site.baseurl}}/img/albums/the-melodic-blue.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>The Melodic Blue</em> by Baby Keem</h3>
+    <p>
+      Keem breathes new life into trap with the most diverse and innovative production in the mainstream.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        <em>The Melodic Blue</em> was my most listened-to album this year, and <strong>it came out half way through the year</strong>. I have to credit this to Keem's left-field production and energy. For a genre that is often saturated with lifeless beats, Keem manages to bring something innovative to every single track. While not every idea sticks, he hits much more than he misses. The shining examples for me are the serpentwithfeet sample on <em>scapegoats</em>, the devastating hook on <em>south africa</em>, the rush of energy on <em>cocoa</em>, and the confidence of <em>booman</em>. Kendrick's involvement is a positive, if a bit reserved. Keem's unique flow and singing is good, if a bit underdeveloped. Still - this project is absolutely stellar debut album and one I would highly recommend to any rap fan.
+      </p>
+    </details>
+    <p>
+      Faves: <em>scapegoats, south africa, cocoa, family ties, durag activity</em>
+    </p>
+  </div>
+</div>
+
+## Other Albums I That I Liked
+
+There were quite a few albums that I enjoyed listening to this year, even if they weren't my favourites. Here are some other good releases in 2021, and other albums that I listened to for the first time this year.
+
+### Albums Released in 2021
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *An Evening With Silk Sonic* by Silk Sonic
+* *BELIEVE IN ME, WHO BELIEVES IN YOU* by Aries
+* *CALL ME IF YOU GET LOST* by Tyler, The Creator
+* *Collapsed in Sunbeams* by Arlo Parks
+* *Donda* by Kanye West
+* *Happier Than Ever* by Billie Eilish
+* *Jubilee* by Japanese Breakfast
+* *LP!* by JPEGMAFIA
+* *MONTERO* by Lil Nas X
+* *Nurture* by Porter Robinson
+* *Sling* by Clairo
+* *SOUR* by Olivia Rodrigo
+* *The Color Blu(e)* by Blu
+* *The House Is Burning* by Isaiah Rashad
+* *The Off-Season* by J. Cole
+* *Typhoons* by Royal Blood
+* *TYRON* by slowthai
+* *VINCE STAPLES* by Vince Staples
+* *Where Have All the Flowers Gone?* by Deb Never
+
+</details>
+
+A few quick highlights &amp; notes:
+
+* If I had to name one album here to be the runner-up, it'd probably be *Jubilee*.
+* Several commercial/critical darlings were on the cusp for AOTY: *CALL ME IF YOU GET LOST*, *DONDA*, *Jubilee*, *MONTERO*, *Silk Sonic*, and *SOUR* would have made it if they were in the rotation a bit more.
+* Particularly proud of the commercial success for Lil Nas X - he's proving that he's clearly not a one-hit wonder.
+* *LP!* is great, but I can't say I love peggy as much as Anthony Fantano. Still, one of the most innovative rappers there.
+* Arlo Parks is stellar! Check her out!
+* I think Aries' album was actually a mild disappointment, but I still enjoyed most of the singles! He's clearly on to something sonically.
+* *Sling*, *The House Is Burning*, and *VINCE STAPLES* all felt like *almost* their artists' best work, but each missed a bit of something - Vince especially on length.
+* *The Color Blu(e)* is a stellar concept album done right!
+
+### EPs Released in 2021
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *Blame Game* by Beach Bunny
+* *Bonnie* by spill tab
+* *bound by expectations* by jenny nuo
+* *Last Year Was Weird, Vol 3* by Tkay Maidza
+* *shut the fuck up talking to me* by Zack Fox
+* *THE DEPENDENCY PROJECT* by Tiffany Day
+* *to hell with it* by Pink Pantheress
+* *true colors* by mxmtoon
+* *Typical of Me* by Laufey
+
+</details>
+
+There were so many EPs, I wanted to give them some space. My favourites:
+
+* seeing spill tab live made *Bonnie* hit much harder!
+* shoutout jenny :)
+* Tkay is on fire - probably my artist to look out for next year. She's effortlessly blending rap, r&b, soul, and some amazingly innovative production into each of her EPs. Sad I didn't see her at UCLA.
+* I think Laufey is my favourite artist to blow up off of TikTok!
+
+*I've discounted EPs that have become major parts of albums, like Peggy's EP2!.*
+
+### Albums Released Before 2021
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *Black Pumas* by Black Pumas
+* *Fetch The Bolt Cutters* by Fiona Apple
+* *Last Year Was Weird, Vol. 2* by Tkay Maidza
+* *Lianne La Havas* by Lianne La Havas
+* *Nectar* by Joji
+
+</details>
+
+Intentionally a much shorter list, but I have something to say for each of these albums/EPs:
+
+* *Black Pumas* hits the same spot that most of Alabama Shakes does - an amazing take on modern soul! My favourite in this list.
+* As promised, I did listen to *Fetch The Bolt Cutters* - it was quite enjoyable!
+* See above Tkay Maidza comment!
+* Lianne La Havas' self-titled is really just so beautiful.
+* I was admittedly wary of Joji at first (especially due to his work as Pink Guy), but HITC really changed my mind - *Nectar* has some strong singles!
+
+### Albums I Will Get Around To Soon
+
+A new section I'm making mostly to keep myself accountable!
+
+* Quite a few albums were released at the end of the year that I haven't dived deep on - of which James Blake's *Friends That Break Your Heart* and Nas & Hit-Boy's *Magic* are next up.
+* I plan on seriously listening to more of the Griselda+ catalog - still haven't listened to either side of *Hitler Wears Hermes*, for example.
+* A hodgepodge of other albums:
+  * Crumb's *Ice Melt*
+  * Dave's *We're All Alone In This Together*
+  * IDK's *USEE4YOURSELF*
+  * Lake Street Dive's *Obviously*
+  * Nas' *King's Disease II*
+  * Parquet Courts' *Sympathy for Life*
+  * Remi Wolf's *Juno*
+  * Snail Mail's *Valentine*
+  * Spelling's *The Turning Wheel*
+  * Still Woozy's *If This Isn't Nice, I Don't Know What Is*
+  * Terrace Martin's *DRONES*
+* Still on the list from last year: *Chromatica*, the new **clipping** album and **Thundercat**'s *It Is What It Is*!
+* And, spilling over from 2020, Jessie Ware's *What's Your Pleasure?*, as well as a promise to listen to Caroline Polacheck's *Pang*!
+
+## Songs of the Year
+
+Splitting this section up a bit more this time!
+
+### Top 42
+
+My music rotation involves listening to 42 songs on repeat (in a playlist called [amperes](https://open.spotify.com/playlist/2cT6Y3KwCvep7JZE6OUMlj?si=afaccadeb99b42ae)). Fittingly, here's an (alphabetical, but otherwise unordered) list of my favourite 42 songs from 2021; I'll restrict this to one song per album.
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *ARE YOU WITH THAT?* by Vince Staples
+* *Best Friend* by Laufey
+* *Big Boss Rabbit* by Freddie Gibbs
+* *Blue Gatorade* by Dark Dazey
+* *Break It Off* by Pink Pantheress
+* *CALONE* by Tiffany Day
+* *CHAIN ON* by BROCKHAMPTON, JPEGMAFIA
+* *Close To You* by Dayglow
+* *CUTIE PIE* by JPEGMAFIA
+* *Diablo* by Mac Miller
+* *Don’t Need You* by Genesis Owusu
+* *edamame* by bbno$, Rich Brian
+* *Eugene* by Arlo Parks
+* *Every Summertime* by NIKI
+* *Far Away* by EASHA
+* *family ties* by Baby Keem, Kendrick Lamar
+* *FOOL'S GOLD* by Aries
+* *good 4 u* by Olivia Rodrigo
+* *Grade A* by spill tab, JAWNY
+* *Happier Than Ever* by Billie Eilish
+* *HEAVY METAL* by Paris, Texas
+* *Hypotheticals* by Lake Street Dive
+* *INDUSTRY BABY* by Lil Nas X, Jack Harlow
+* *JUGGERNAUT* by Tyler, The Creator, Lil Uzi Vert, Pharrell Williams
+* *Kim* by Tkay Maidza, Baby Tate
+* *Little By Little* by The Marías
+* *MAZZA* by slowthai, A$AP Rocky
+* *m y . l i f e* by J. Cole, 21 Savage, Morray
+* *Off The Grid* by Kanye West, Playboi Carti, Fivio Foreign
+* *Paprika* by Japanese Breakfast
+* *Renegade* by Kavinsky
+* *Say What You Will* by James Blake
+* *Skegee* by JID
+* *Smokin Out The Window* by Silk Sonic
+* *Someone Else* by Deb Never
+* *Thot Shit* by Megan Thee Stallion
+* *Typhoons* by Royal Blood
+* *Whats Next* by Drake
+* *Wii Date* by City Girl, Highvyn, tiffi
+* *Woman* by Little Simz
+* *You Don’t Do Laundry* by Dev Lemons
+* *Your Life Your Time* by Christian Leave
+
+</details>
+
+Some shoutouts:
+
+* *Hypotheticals* might be the song that was stuck in my head the most this year.
+* I cannot understate how much of a banger *INDUSTRY BABY* is; as is *family ties*, *HEAVY METAL*, *Kim*, and *Off The Grid*
+* Freddie Gibbs and JID both tease us with three stellar singles each; picking the best of either's trio was hard, but the flow on *Big Boss Rabbit* and *Skegee* is relentless; JID's social commentary on the latter is the cherry on top.
+* I have fallen in love with *Happier Than Ever*'s song progression!
+* *Blue Gatorade* is my most obscure / best find of the year. So serene!
+
+### Other Songs Released in 2021 (favourite albums non-inclusive)
+
+Otherwise, most of my songs of the year are already covered in the albums that I've mentioned, but there are a few others that are either standalone singles or come from albums that I didn't love front-to-back.
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *A Piper For Janet* by Cosmo Pyke
+* *All My Favorite Songs* by Weezer
+* *Ballads* by JID, Conway The Machine
+* *Can I* by Sanjana
+* *Charmander* by Aminé
+* *creep* (Cover) by mxmtoon
+* *Faster Please* by seeyousoon
+* *Feet Don't Fail Me Now* by Joy Crookes
+* *Gasoline* by HAIM, Taylor Swift
+* *Gang Signs* by Freddie Gibbs, Schoolboy Q
+* *Gravity* by Brent Faiyaz, DJ Dahi, Tyler, The Creator
+* *Happy Right Now* by Ethan Tasch
+* *idk shit but colors* by Keni Can Fly
+* *Kiss Me More* by Doja Cat, SZA
+* *Louie Bag* by Yebba, Smino
+* *lush* by boylife
+* *PRETEND* by Tiffany Day
+* *Price Tags* by Jazmine Sullivan, Anderson .Paak
+* *Rocky* by Still Woozy
+* *SHOOT MY SHOT* by IDK, Offset
+* *So.Incredible.pkg [Robert Glasper Version]* by Denzel Curry, Kenny Beats, Smino, Robert Glasper
+* *Split* by NIKI
+* *strawberry cheeks* by Ula
+* *THAT’S ON YOU* by REI AMI
+* *Yours* by maye
+
+</details>
+
+### Songs Released Before 2021
+
+For a song to qualify here, I listened to it (and added it to a playlist) for the first time this year.
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+* *Ambrosia* by AOBeats, Kiana V, SATICA
+* *aqui yo mando* by Kali Uchis, Rico Nasty
+* *astrid* by glaive
+* *blood on the pavement* by chemical club
+* *Cocaine Parties* by Freddie Gibbs, Madlib
+* *Cooler Than Me* (Cover) by Ethan Fields
+* *Fairy Tale* by Seori
+* *Freeze Tag* by Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington, Phoelix
+* *Futon* by Ula
+* *Here's to Coming Out* by Chloe Ho
+* *Jam & Butterfly* by DPR Live, Crush, Eaj
+* *Lucy* by Yenkee
+* *mango* by yung cxreal, Grant Landis, Annelisa Franklin
+* *muscles* by dvr
+* *Name* by spill tab
+* *Neon Guts* by Lil Uzi Vert, Pharrell Williams
+* *Nerves* by DPR IAN
+* *Numbers On The Boards* by Pusha T
+* *Punching Bag* by Wallice
+* *Rain* by Lucy Park
+* *Second Wind* by Healy
+* *see me on the outside!* by mmmonika
+* *Six Speed* by Current Blue
+* *So Long* by Fleece
+* *Sorbet* by Galdive
+* *Story 2* by clipping.
+* *Super Rich Kids* by Frank Ocean, Earl Sweatshirt
+* *Table for Two* by edbl, Tilly Valentine, Bran Mazz
+* *the sky is pink* by jenny nuo
+* *Too Late* by The Happy Fits
+* *Toronto* by Jamws
+* *Walking Away* by Nightshifts
+* *We’re All Gonna Be Killed* by Terrell Hines
+* *Zenith* by Denzel Curry, Joey Bada$$
+
+</details>
+
+Some quick tidbits:
+
+* my dominant picks are *astrid*, *Punching Bag*, and *Super Rich Kids* - each of these three defined my 2021
+* *Cocaine Parties* being removed from Spotify is criminal; Freddie bodies the beat, perhaps more than Kanye and Kendrick
+* shoutout to some songs that I loved at HITC: *Fairy Tale*, *Jam & Butterfly*, and *Nerves*
+* *Story 2*'s changing time signature is the most unique feature I've heard in any rap song to date
+* shoutout jenny! though it sounds like *the sky is pink* is leaving spotify :/
+
+## Stats et al
+
+### Spotify Wrapped
+
+![2021 wrapped]({{site.baseurl}}/img/2021-wrapped.jpg){: style="max-width: 500px"}
+
+This time, Monsune is only at 4/5 of my top songs (rather than 5 last year). Glaive takes the fifth spot with the hyperpop earworm *astrid*.
+
+This year, there's no overlap with top artists and songs - which is a fancy way of saying that Monsune didn't make the top 5. I'm a bit surprised with Freddie's #1, though Pinata, Bandana, and Alfredo have all been in rotation throughout the year for me. BH is the only artist that released a new album this year; Kendrick and Frank are only there through the strength of their discographies, and I'd wager that 21 is being carried by *Without Warning* and *a lot* (one of my favourite rap songs period).
+
+The number of minutes listened seems to go down every year. One correlation is that I worked two internships this quarter, and I don't tend to actively listen to music while coding.
+
+### Last.fm
+
+This is [year three of last.fm](https://www.last.fm/user/matthewxwang). You can visit my page to do a deep-dive of stalking, but some interesting tidbits. Anecdotally, last.fm suffered more service outages, so I have an inkling that these numbers are all undercounts.
+
+On artists:
+
+* I listened to 1184 unique artists this year, which is **exactly** 100 more than last year and puts me ~ 2019's stats.
+* BH returns as the number one artist, with 446 scrobbles - but with close competition (instead of dominating the list) and with > 200 less scrobbles than last year.
+* The top ten is:
+  1. BROCKHAMPTON
+  2. Freddie Gibbs
+  3. Frank Ocean
+  4. 21 Savage
+  5. The Avalanches
+  6. Drake
+  7. Kendrick Lamar
+  8. The Marías
+  9. Baby Keem
+  10. Kanye West
+* Unlike last year, I have quite a few new artists in the top 50. (i.e. artists I only started seriously listening to this year). They are Baby Keem (9), Black Pumas (21), Joji (25), Tkay Maidza (31), and Benny the Butcher (50)
+* Just about half (an estimate) of my top 50 artists didn't release a new album or EP this year!
+  * There's a couple of artists with new releases I actively avoided: namely, Drake's CLB and Logic's BT3.
+
+On songs:
+
+* The tracks scrobbled clocks in at 20410, compared to 24282 songs last year. This seems to pare up with the decline in Spotify time. I average 56 scrobbles a day.
+* My most-listened to month was November; my least was September (the same as last year).
+* Marginally better than last year, 6 songs from my top 25 (and 10 from the top 50) came out this year.
+* My top ten is no longer *just* Monsune; it is:
+  1. *OUTTA MY MIND* by Monsune
+  2. *CLOUD* by Monsune
+  3. *1998* by Monsune
+  4. *MOUNTAIN* by Monsune (tied 5th)
+  5. *scapegoats* by Baby Keem (tied 5th)
+  6. *JADE* by Monsune
+  7. *CONVERSATIONS* by Aries (tied 7th)
+  8. *Racecar* by Aries (tied 7th)
+  9. *Big Boss Rabbit* by Freddie Gibbs (tied 7th)
+  10. *astrid* by glaive (tied 7th)
+* I posit that *scapegoats* by Baby Keem is the highest impact song I've listened to, since it came out half-way through the year but has just as many streams as Monsune songs that are several years old.
+
+On albums:
+
+* My top ten is:
+  1. *The Melodic Blue* by Baby Keem
+  2. *To Pimp A Butterfly* by Kendrick Lamar
+  3. *Faces* by Mac Miller
+  4. *We Will Always Love You* by The Avalanches
+  5. *Tradition* by Monsune (with the caveat that OUTTA MY MIND is counted separately, and this should probably be at #2)
+  6. *Black Pumas* by Black Pumas
+  7. *Madvillainy* by Madvillain
+  8. *ROADRUNNER: NEW LIGHT, NEW MACHINE* by BROCKHAMPTON
+  9. *WELCOME HOME* by Aries
+  10. *Blonde* by Frank Ocean
+* unlike last year, representation for 2021 albums is exactly the same: 6 from the top 25, 10 from the top 50
+* the only albums in the top ten that carried over from last year were TPAB and *Tradition*
+
+## Other Thoughts on 2021 In Music
+
+Last year, I think I felt like a bit of an old grandpa - particularly in criticising rap. To end off on a more positive note, there are a ton of artists that I'm *really* excited for!
+
+* Tkay Maidza has shown that she has an insane amount of versatility; she's my artist to look out for in 2022.
+* I'm a big fan of the new guard that has been dominating pop this year: Lil Nas X, Olivia Rodrigo, Doja Cat, and to a lesser extent, Billie Eilish and Megan Thee Stallion. Each of them bring something new to the table, and I want them to push the boundary of pop (compared to the older vanguard of Justin Bieber, Ed Sheeran, Imagine Dragons, etc.)
+* I'm so happy that Arlo Parks is seeing more success, especially after Billie mentioned that she was a major inspiration for her.
+* Griselda is dropping so much music without a dip in quality. I'm curious if we'll see this trend continue in 2022.
+* I think I'm warming up more to hyperpop. Last year, I was really only listening to 100 gecs, but this year I've been enjoying glaive, midwxst, underscores, etc.!
+* I want to see more Baby Keem-style production! I think I also haven't been giving Lil Tecca enough credit, but I'm curious who the next Metro Boomin, Southside, TM88, etc. will be!
+* I'd be remiss if I didn't mention the rise of Asian representation - either because of, or in spite of 88rising. Bigger names names like NIKI, Joji, and Rina Sawayama (is she a big name?) are doing well, and blossoming are smaller acts like REI AMI, Tiffany Day, Easha, Sanjana, Priya Ragu, Wallice, or tiffi.
+* We're still owed quite a few albums from the missed rollouts in the pandemic. Kendrick please, we need something.
+
+### Wishlists and Predictions
+
+Something I've liked seeing on the internet is predictions and wishlists for genres. I'm relatively deep in pop and rap, so I'll do some predictions for both.
+
+For rap:
+
+* Almost certain: Kendrick drops his album. Right? Right??
+* Pretty likely: we get another big *Blueberry Faygo*-style hit, blowing up off of Lyrical Lemonade.
+* Likely: Doja Cat drops a rap album and features either Megan or Lil Nas X.
+* 50/50: we get another classic Madlib collab album; Gunnlib seems the most likely.
+* Unlikely: BROCKHAMPTON drop two albums in one year, fulfilling their label contract.
+* Pretty unlikely: JID drops a legendary album and sweeps the charts, critics, and award shows; the album features two of Drake, Kanye, Kendrick, and Cole.
+* Moonshot: Kanye and Taylor make up, and one features on another's single, which is co-produced by Jack Antonoff and Kanye. They host a joint concert.
+
+And for pop:
+
+* Almost certain: rap will continue to make its way into the mainstream; Post Malone is somehow involved.
+* Pretty likely: Elton John continues to release new music!
+* Likely: Megan will rack up another feature on a huge pop song, and it'll need to be censored/people will complain.
+* 50/50: We get a new Weeknd album.
+* Unlikely: After Olivia Rodrigo's success, we get yet *another* meteoric rise to fame from a previous child star. Happens more frequently than you think!
+* Pretty unlikely: Given Kavinsky's (and Swedish House Mafia's?!) return, I'd love to see more synthwave / synths make it way into pop. I could easily see Dua or Charli taking the reign here, as could The Weeknd. Calvin Harris would be a funny but welcome addition.
+* Moonshot: Kero Kero Bonito enters the mainstream with their next album, and Ed Sheeran brings them on to a song that also features 2 Chainz for some reason?
+
+### Disappointments
+
+While this was a big year for music, I also felt that there were quite a few disappointments. Without delving too deep:
+
+1. *Certified Lover Boy* by Drake. Just ... come on. I want Drake to start trying again; if *The Big Day* was a giant implosion, Drake's career is a slow death.
+2. *i like when you shine!*/*tape 001*/*tape 002* by BETWEEN FRIENDS. I'm not entirely sure what governed their change in sound (and I appreciate them taking risks!) but I just don't think this worked. Still would like to see more from them soon!
+3. *UNLOCKED 1.5* by Denzel Curry, Kenny Beats. Seems like a bit of a cash grab?
+4. *Bobby Tarantino III* by Logic. I don't think this even counts in his discography.
+
+### Honourable Mentions
+
+Artists/albums that did not technically release a new project this year, but deserve a shoutout:
+
+* **RIP to MF DOOM**. The loss of a legend.
+* The *Piñata* deluxe came out this year; I cannot stress enough how much I loved *Cocaine Parties*
+* While I didn't particularly love or hate the actual music, I'm super happy that Taylor Swift is regaining control of her "master's" via releasing the *Taylor's Version* albums. The 10-minute *All Too Well* (and the ensuing Jake Gyllenhaal slander) was a pivotal 2021 moment. Really want to hear *1989 (Taylor's Version)*!
+* *House of Balloons* got a streaming re-release, which was cool - especially given Abel's rise to superstardom last year!
+* The Avalanches has silently carried me throughout this quarter; between them, Fleet Foxes, and Against All Logic, I can switch between any ambient music setting I'd like!
+
+## Closing (and random) Thoughts
+
+It's always fun writing these.
+
+I think my big next steps for music next year are to:
+
+1. Set aside more time to listen to new music. The album backlog is piling up, and I think the way I discover new music is a bit mindless at times.
+2. Spend a bit more time exploring the Fleet Foxes/Alabama Shakes/Black Pumas side of me; I'm sure there's *quite* a bit of music that I'm missing.
+3. Time permitting, listen to a bit more classical music - it's not too late to start, isn't it?
+
+Adding on to last year's list, I have a few more people to thank for adding to my music taste this year: Austin, Christian, Emmy, Muthu, Nhi, Param, Sriram, and Zian. We got some fire blends!
+
+I've had quite a bit of fun making playlists this year: from narrowing down a variety of different rap genres, to playlists for certain people, to playlists about extremely particular elements of songs ([great producer tag placement](https://open.spotify.com/playlist/2lc4UspMk6RoK8YiPVBAJM?si=6d4a796108574f02) or [Pharrell's 4-count](https://open.spotify.com/playlist/2UsXblnUelngLs5Yq2gN9E?si=60596f835af8453c)). It's especially fun when people ask me confused questions about my playlists.
+
+Here's my top songs of 2021 (Matt's version) - i.e., mostly a summary of this blog post in playlist form.
+
+<iframe src="https://open.spotify.com/embed/playlist/0s4rOnwrXaMUMkL1lbcmRD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+Until next time!
