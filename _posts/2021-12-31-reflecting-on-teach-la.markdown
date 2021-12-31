@@ -1,6 +1,6 @@
 ---
 title: 'Reflecting on Teach LA: Unprecedented Times and the Dev Team, Again'
-date: 2021-12-30 02:34:50 Z
+date: 2021-12-31 02:34:50 Z
 categories:
 - impact
 author: 'association of computing matts, teach la'
@@ -54,10 +54,6 @@ Ready?
   * [On Burnout](#on-burnout)
   * [On Succession](#on-succession)
   * [On Doing What I Want](#on-doing-what-i-want)
-* [Learned Lessons and Regrets (tl;dr)](#learned-lessons-and-regrets-tldr)
-  * [Teaching](#teaching)
-  * [Dev](#dev)
-  * [Everything Else](#everything-else)
 * [Closing Thoughts](#closing-thoughts)
   * [Learning Labs](#learning-labs)
   * [Where I Am Now](#where-i-am-now)
@@ -71,7 +67,7 @@ I'll spend a bit of time summarizing what my previous two years at Teach LA look
 I often speak from my little tech bubble, so I want to make sure I explain some key notes:
 
 * [**ACM at UCLA**](https://uclaacm.com) is a large computer science club on campus at UCLA. It's the largest one by membership, and is split up into several "committees", each of which focuses on a specific topic. While not super relevant to this post, I'm currently the president of this club. I'll colloquially call this *ACM* from now on.
-* [**ACM Teach LA**](https://teachla.uclaacm.com) is a commitee of ACM @ UCLA specifically focused on computer science outreach. Its main focus is providing equitable access to computer science classes in the Los Angeles area. I ran this club from 2020-2021. I'll colloquially call this *Teach LA* from now on.
+* [**ACM Teach LA**](https://teachla.uclaacm.com) is a committee of ACM @ UCLA specifically focused on computer science outreach. Its main focus is providing equitable access to computer science classes in the Los Angeles area. I ran this club from 2020-2021. I'll colloquially call this *Teach LA* from now on.
 * **ACM Teach LA's Dev Team** is a part of ACM Teach LA that writes educational software. This was how I first joined Teach LA, and the focus of [my last reflection]({% post_url 2020-06-27-reflecting-on-tla-dev-team %}). I'll refer to this as the *Teach LA Dev Team* or the *Dev Team* for short.
 * A **director** or **officer** is someone in Teach LA who holds a leadership position. Most members in Teach LA - "**general members**" - can come and go as they please. More broadly, **officers** in ACM hold leadership positions, and are appointed or elected.
 * In our context, **interns** will refer to ACM's recruitment process. Interns are not paid.
@@ -89,7 +85,7 @@ Then, our director graduated, and someone needed to fill the void; I was volunto
 2. I kicked off our first non-editor project, the [Gradient Descent Visualiser](https://uclaacm.github.io/gradient-descent-visualiser/). This quick-and-dirty teaching tool became the first of many **Learning Labs**, which defined my next year running Teach LA's dev team.
 3. I started bridging the gap between our teaching and dev teams. At the time, that just meant having a few teachers join us every now and then. In addition, I taught a class, and was able to provide input in the opposite direction.
 
-At the time, I think I really enjoyed the position. It came with quite a few newfound stressors (in particular, teaching *a ton* of new people, and failing quite a few of them). I left the role a bit unsatisfied - in particular, with a few failures that I hyperfixated on - but still viewed it very positively. At the end, I was really happy with the potential for impact we had: our novel recruitment process and some of the code we were just getting started on had superstar potential.
+At the time, I think I really enjoyed the position. It came with quite a few newfound stressors (in particular, teaching *a ton* of new people, and failing quite a few of them). I left the role a bit unsatisfied - in particular, with a few failures that I hyper-fixated on - but still viewed it very positively. At the end, I was really happy with the potential for impact we had: our novel recruitment process and some of the code we were just getting started on had superstar potential.
 
 In particular, I'll talk about "no experience required" quite frequently.
 
@@ -163,7 +159,7 @@ In pursuit of this goal, I did some writeups:
 
 I think both of these are relatively uncommon for student organizations to do, but rather common for "real" nonprofits.
 
-I enjoyed writing these reports out, and I think they're pretty important - even if few people read them. Writing the EDI report gave our team quite a bit to reflect on, and set some sort of direction for next year. Financial accountability forced us to actually write down all of our financial documents (which is VERY uncommon with student orgs), and I hope levelled the playing field for other outreach orgs looking to learn more about what budgets should look like.
+I enjoyed writing these reports out, and I think they're pretty important - even if few people read them. Writing the EDI report gave our team quite a bit to reflect on, and set some sort of direction for next year. Financial accountability forced us to actually write down all of our financial documents (which is VERY uncommon with student orgs), and I hope leveled the playing field for other outreach orgs looking to learn more about what budgets should look like.
 
 #### React Native
 
@@ -172,7 +168,7 @@ Right before the pandemic, Facebook's Open-Source Advocacy/Education team reache
 This was *really* exciting:
 
 1. Mobile app development is a great topic to teach students, since the feedback loop is immediate and the impact/application is very clear.
-2. React Native is a new technology, and has very transferrable skills - particularly to general web development.
+2. React Native is a new technology, and has very transferable skills - particularly to general web development.
 3. React Native solves one of the largest gripes with teaching mobile development, which is relying on student equipment (ex you need a mac and an iPhone to teach iOS dev). You can run React Native in a browser.
 4. Facebook reached out to us! Isn't that big?
 
@@ -186,7 +182,7 @@ Clubs typically go inactive over the summer, but I had a lot of work set out for
 
 *Other* than those chunks, I had my hands in a few, not-so stressful pots:
 
-* I did every single virtual New Student Orientation (NSO) tabling event. This definitely helped with advertising our club, but also brought me closer to ACM as a whole. Also panelled for a few other new student events (like Discover Engineering).
+* I did every single virtual New Student Orientation (NSO) tabling event. This definitely helped with advertising our club, but also brought me closer to ACM as a whole. Also paneled for a few other new student events (like Discover Engineering).
 * In anticipation of a likely virtual fall quarter, we kickstarted the "Python Video Squad", to develop a set of asynchronous Python video tutorials. Helia led this initiative!
 * Due to some logistical barriers, development on the React Native course stalled. This was not-so-great for a couple of reasons. Still, I started to architect out [the first few lessons](https://github.com/uclaacm/react-native-course-20-21)!
 * In the background, I added many more pages to our website to describe our dev team, how to join the club, and other important information - surprisingly something that not all clubs have!
@@ -253,7 +249,7 @@ And then, ...
 
 #### The Dev Team, Again
 
-Due to some unforseen circumstances, Leo stepped down from his role as the Dev Team Director (to just running our editor project) after we had onboarded many of our members. Nobody else was interested in picking this up half-way through the quarter. So, I had to make a tough judgement call:
+Due to some unforeseen circumstances, Leo stepped down from his role as the Dev Team Director (to just running our editor project) after we had onboarded many of our members. Nobody else was interested in picking this up half-way through the quarter. So, I had to make a tough judgment call:
 
 1. scale-down the dev team to <10 people, who can run relatively autonomously; scrap all of our training plans, or
 2. run everything myself
@@ -294,7 +290,7 @@ I won't touch on JEDI too much for the rest of this post, but there's some great
 
 #### Internship Recruitment
 
-We also joined ACM's ["Internship Program"](https://uclaacm.com/internship). This is ACM's primary way of recruiting new members; after a set of written applications and interviews, prospective ACM officers join in the middle of fall quarter and onboard throughout winter. By spring, most committees "promote" their interns to be fully-fledged officers. Admittedly, "internship" is a bit of a weird name, since interns aren't paid, and we're a club.
+We also joined ACM's ["Internship Program"](https://uclaacm.com/internship). This is ACM's primary way of recruiting new members; after a set of written applications and interviews, prospective ACM officers join in the middle of fall quarter and onboard throughout winter. By spring, most committees "promote" their interns to be fully-fledged officers. Admittedly, "internship" is a bit of a weird name, since interns aren't paid, and we're a club.
 
 In the past, Teach LA did not (really) participate in the internship program; our model of "anybody can join" was enough of a recruitment drive, and growth wasn't necessarily part of our mission. However, I wanted to change things up - mainly for two reasons:
 
@@ -310,7 +306,7 @@ Kicking off our internship drive was very challenging for me, since I was never 
 3. A consistent set of interview questions
 4. A data pipeline to tie all of these together; a loose amalgamation of scripts and extensions
 
-We went hard at Fall GM and in marketing the internship program, and we got *way* more applicants than we anticipated. Originally, I was thinking that we'd cap out at 30 or 40 interested people; we got **71 applicants**! I decided to invidually review all of our applications (which was ... *very stressful*, to say the least), and deciding was **so hard** - I wanted to take everybody! Eventually, we had to narrow the field down to 21 candidates, and took 12 people. I really liked each of the interns that we took, and I'm so glad they joined our team. This was definitely one of the most fun highlights of the year, even if it was stressful. I do have some regrets on how we went about this - more on that later.
+We went hard at Fall GM and in marketing the internship program, and we got *way* more applicants than we anticipated. Originally, I was thinking that we'd cap out at 30 or 40 interested people; we got **71 applicants**! I decided to individually review all of our applications (which was ... *very stressful*, to say the least), and deciding was **so hard** - I wanted to take everybody! Eventually, we had to narrow the field down to 21 candidates, and took 12 people. I really liked each of the interns that we took, and I'm so glad they joined our team. This was definitely one of the most fun highlights of the year, even if it was stressful. I do have some regrets on how we went about this - more on that later.
 
 There's a bit of a story involving negotiating ACM interns, but I'll keep that private for now ;)
 
@@ -367,7 +363,7 @@ That year, I ran three sets of (virtual) workshops/programs (all on [GitHub](htt
 
 I took some advice and really broke up the workshops into smaller pieces, each one being a video of 5-10 minutes.
 
-I also went all-out with the effort, hammering these out over break. I recorded each workshop multiple times, and edited the takes with Premiere. I wrote a complete script for each video, created code checkpoints, and collated other relevant resouces. All in all, it took me easily over 50 hours to produce, at the end, about an hour and a half of video content and 10k words of writing.
+I also went all-out with the effort, hammering these out over break. I recorded each workshop multiple times, and edited the takes with Premiere. I wrote a complete script for each video, created code checkpoints, and collated other relevant resources. All in all, it took me easily over 50 hours to produce, at the end, about an hour and a half of video content and 10k words of writing.
 
 I'm pretty proud of this set of workshops, especially my attention to detail. I got a ton of positive feedback on the workshop track, and we've since then reused this open-source content in other training materials. It wasn't the same as running an in-person hackathon, but it was the best we could have done.
 
@@ -389,9 +385,9 @@ Secondly, I vastly underestimated how complicated succeeding me in the dev team 
 
 On paper, that sounds wonderful: splitting a gargantuan task into bite-sized pieces. But, I never really formally onboarded or trained people for this role, which by itself was already a problem! The creation of the dev board was a surprise to most, even though it was something on the back of my mind; I should have prepped more for it.
 
-But, beyond that, I took a huge competititve advantage I had for granted. When it's just me, there's no miscommunication, required sync meetings, or ideological tensions; inevitably, putting eight people to manage a system is going to create some overhead. I didn't realize this at all, and didn't mention the importance of syncing training and projects, creating a smooth onboarding flow, etc. While these things seem obvious now, they're easy to lose - especially when being hit with a new position! Because of this, a lot of initiatives and docs were lost, which is a bummer.
+But, beyond that, I took a huge competitive advantage I had for granted. When it's just me, there's no miscommunication, required sync meetings, or ideological tensions; inevitably, putting eight people to manage a system is going to create some overhead. I didn't realize this at all, and didn't mention the importance of syncing training and projects, creating a smooth onboarding flow, etc. While these things seem obvious now, they're easy to lose - especially when being hit with a new position! Because of this, a lot of initiatives and docs were lost, which is a bummer.
 
-And, I think I just underrated how hard everything was. I had a huge advantage in that I built all the systems we ised from scratch (except the editor), so it *all made sense to me*. I didn't ensure that other people had the requisite knowledge to succeed me, and in particular, that *multiple people* knew how to do it. Quite a few of our interns were only with us for a quarter, and expecting them to go from learning a system to managing it with little support is unfair. In some ways, I wish I could've stuck around and helped with the transition more.
+And, I think I just underrated how hard everything was. I had a huge advantage in that I built all the systems we used from scratch (except the editor), so it *all made sense to me*. I didn't ensure that other people had the requisite knowledge to succeed me, and in particular, that *multiple people* knew how to do it. Quite a few of our interns were only with us for a quarter, and expecting them to go from learning a system to managing it with little support is unfair. In some ways, I wish I could've stuck around and helped with the transition more.
 
 I also wish I created a "timeline" of responsibilities of sorts, explaining what I had to do **and when**. Vomiting a ton of information doesn't really stick, and time management is *hard*. I'll do that this year for the ACM president - stay tuned :)
 
@@ -421,11 +417,11 @@ Most of my regrets with the dev team come from improperly balancing these goals.
 
 #### Pushing People
 
-By far one of the hardest things to balance is not being a stressor. A weird consequence of student organizations is that for the vast majority of participants, **their role is not a top priority**; for most, it probably wouldn't be in their top three. This presents a conundrum: you may want more time or effort out of people to write good software, help them develop professionaly, or have them become leaders - but you can't force them without adverse effects. This is especially tough to work with if the student organization is your priority, like it was with me.
+By far one of the hardest things to balance is not being a stressor. A weird consequence of student organizations is that for the vast majority of participants, **their role is not a top priority**; for most, it probably wouldn't be in their top three. This presents a conundrum: you may want more time or effort out of people to write good software, help them develop professionally, or have them become leaders - but you can't force them without adverse effects. This is especially tough to work with if the student organization is your priority, like it was with me.
 
 There are several ways an organization can handle this. One popular way is to ruthlessly filter out people in the application process until you get *only* motivated people. Some clubs at UCLA, and many elsewhere, do do this. But, this can be very exclusive and biases towards those with prior experience, and that wasn't a compromise I felt like I could make.
 
-Another way is to just push people very hard until they quit. Many dev orgs at UCLA, and more at schools like Berkely, use this strategy. It sounds harsh, and it is - but it also works. People who stick through tend to get an insane amount of professional development and find it one of the most rewarding experiences in their college career. But, the people who don't stick through are underserved and are often put through a tough time.
+Another way is to just push people very hard until they quit. Many dev orgs at UCLA, and more at schools like Berkeley, use this strategy. It sounds harsh, and it is - but it also works. People who stick through tend to get an insane amount of professional development and find it one of the most rewarding experiences in their college career. But, the people who don't stick through are underserved and are often put through a tough time.
 
 I wanted to avoid that model, so I swung hard in the opposite direction. At Teach LA, I gave soft encouragement, but otherwise felt that I didn't push people at all. I was extremely flexible on deadlines (in most cases, letting people set them themselves); ran few mandatory meetings; let people take as much time off as needed, and make up for their time some other way (which often included me doing it).
 
@@ -447,7 +443,7 @@ In Fall 2020, I read Paulo Freire's [Pedagogy of the Oppressed](https://en.wikip
 
 Instead, he proposes critical pedagogy: the learner is a co-creator of knowledge, exploring the world *with* the teacher. Students are not passive listeners: their point of view drives how they learn, and the teacher's job is to support them in exploring relevant problems. At its theoretical form, it is a model for true liberation in education.
 
-I'm sure I did a poor job of explaining the book, but it really resonanted with me. And in some senses, it's extremely applicable to how I trained devs at Teach LA.
+I'm sure I did a poor job of explaining the book, but it really resonated with me. And in some senses, it's extremely applicable to how I trained devs at Teach LA.
 
 My training was almost entirely didactic, with a small blend of "hands-on" projects. Over three different corpuses (learning labs crash course, winter dev training, QWER Hacks workshops) my training materials were ~ 20000 words long, and about 25 hours total of video. Most of it was me trying to explain as much web development knowledge I had to everybody who participated. I also heavily relied on audience responses (when possible), and creating mini-projects for people to work on in parallel to the "course material".
 
@@ -474,25 +470,76 @@ A clear misstep I made was not running projects well. A couple of things at play
 
 This is an area in which I knew I did poorly in, but am not so sure what the resolution is - I've never actually worked within a long-standing project team! When I was a dev on the Teach LA dev team, we were mostly still in our infancy. In **every single internship that I have done**, I have functionally worked by myself - which is quite unlucky and a bit frustrating.
 
-There have been some improvements this year under the new dev board. Creating project design docs is a great move in providing more structure and breaking down the problem statement; it holds people accountable. They've treated PM / Design recruitment & growth more importantly, which is great to hear! And they also scoped down the aggressiveness of projects, which has been good for keeping projects realisitic.
+There have been some improvements this year under the new dev board. Creating project design docs is a great move in providing more structure and breaking down the problem statement; it holds people accountable. They've treated PM / Design recruitment & growth more importantly, which is great to hear! And they also scoped down the aggressiveness of projects, which has been good for keeping projects realistic.
 
-In hindsight, I wish I spent more time asking other dev teams - either ones on campus like [Creative Labs](https://www.creativelabsucla.com/) or [Nova](https://novaforgood.org/), or otherise - how they structured their project teams. Doing more research at that stage would have saved me a ton of pain, and would have created a much stronger foundation for the future.
+In hindsight, I wish I spent more time asking other dev teams - either ones on campus like [Creative Labs](https://www.creativelabsucla.com/) or [Nova](https://novaforgood.org/), or otherwise - how they structured their project teams. Doing more research at that stage would have saved me a ton of pain, and would have created a much stronger foundation for the future.
 
 ### On Pedagogy and Teaching
 
+I recognize I spend a lot of time talking about software development, but the core focus of ACM Teach LA is *teaching*. Fundamentally, we're a club about providing access to CS education, and that conversation should start with pedagogy and teaching.
+
+Something that has always irked me is that outreach organizations (at least, at the student level) rarely train their instructors. Most places I've been at do no training at all, or mainly focus on liability issues (ex, don't hug kids). Even in formal employment working with kids (working at, and eventually running a summer camp), I've never received any pedagogical training.
+
+The closest thing I have gotten is from BEAM; Lisa, a previous president, ran a class called MAE 195. We read a few papers on pedagogy - focused on teaching marginalized students - and then synthesized a lesson plan. I really enjoyed this class, but it wasn't a mandatory part of BEAM nor super fleshed out; it was just the passion project of a wonderful president.
+
+I took this and my personal interest in pedagogy to the Teach LA presidency; one project I wanted to start was instructor training! My original vision was quite ambitious; we could dedicate several curriculum meetings to *just* instructor training, juggling activities, readings, videos, and projects.
+
+Unfortunately, the pandemic made this quite hard. I'm convinced that many activities just *don't work* online, especially since quite a few of my favourite pedagogical activities involve observing non-verbal cues. And, given everybody's added stress from virtual school, I resolved to not give any of our teachers "homework" - which rules out things like paper reading.
+
+The revised plan was to run small, byte-sized activities at the beginning of each curriculum meeting; Sophie and I ran these in tandem. Examples include:
+
+1. Generating meaningful examples for abstract concepts
+2. Explaining abstractions in many different ways
+3. Providing multiple solutions to a simple problem
+4. Making slides more accessible
+5. Improving minor public speaking skills (ex reducing filler words, intentional pauses)
+6. Writing and teaching concisely
+7. Using inclusive language
+
+I think this was a great step in the right direction! Formalizing pedagogy as part of student outreach is really important in making it *effective*; and, as I've spent more time in student organizations, I spent a lot of time questioning the efficacy of our work. If you're reading this and do student outreach, I would highly recommend starting from a place like here.
+
+However, this is far from the end goal I envisioned. If I had four years and no pandemic, I would want to make Teach LA a leader in bringing pedagogy to students. A couple of ideas:
+
+1. As I've mentioned previously, I'm enamoured with critical pedagogy. How can we bring elements of it to what we do at Teach LA? For example, can we reframe how we teach the skill of problem solving (in my opinion, the most important lesson that we teach) to create a dialogue between the teacher and the student, and put the student's perspective first?
+2. Can we follow up more on the skills we practice in activities? For example, after talking about visual accessibility with slides, making slide review an integrated part of our curriculum development? Or, when debriefing after a lesson, looking at the examples that we used?
+3. Can we formalize processes like lesson plan development, post-lesson debriefs, quarter planning, and instructor onboarding? Granted, we're a student organization, but creating structure here is super helpful in the long-term!
+4. Can we put an extra emphasis on inclusivity and diversity as a teacher, particularly as our focus is on Title I schools? What assumptions to college students make about kids that tend to be wrong? What kinds of biases and worldviews are we projecting? Are we actively being inclusive in our lessons?
+5. Can we implement more tried-and-true teaching techniques? Scaffolding/laddering is one core example; are there other pedagogical concepts strongly tied to computer science or STEM that would serve us better?
+6. Can we properly open-source our curriculum, or tie it to an open standard (like Code.org's)? How can we track iterations to our curriculum?
+7. Can we better get student feedback: targeted form responses, comparing data over years, and follow up on feedback?
+8. Can we formally partner with other outfits on campus to get better perspectives? Perhaps the graduate school of education, or other outreach orgs, or professors? We had done this casually in the past, but never in an institutional way.
+9. Can we better partner with the current set of teachers *for* the students? Should we tailor our class content to how the class is doing in other courses, ask for feedback on helping specific students, etc.? Of course, the teachers we partner with are overworked - how can we do this without adding a larger burden?
+10. Can we better understand who else has succeeded and failed in our position? We are far from the only organization teaching computer science to K-12 students. Why are we trying to reinvent the wheel (ex making our own Python curriculum) when many others have tried and failed?
+
+Of course, I don't have four years, and as of time of writing, we are still in a pandemic. I may have to resign this to an imaginary wishlist, but I'm also excited for the future of student outreach. If the trend of UCLA student activism within the tech sphere continues in its exponential sense, I could see the tech outreach scene radically transforming in the next five to ten years.
+
 ### On Community Building
 
+I also heavily underrated how hard building community is. If you're active on tech Twitter, I'm sure you're rolling your eyes, but bear with me for a bit.
 
+To be upfront, I'm not good at running socials. When I ran the dev team last year, I didn't run one - partially because I didn't have any time, but also because I thought I'd run a bad social. I also didn't realize how integrated socials were into other dev teams (having not been in any). We did a couple of small ones at the end of my term, and they were nice - from a small boba run to ice-blocking (a UCLA tradition where you slide on a block of ice down a hill). At that point, I felt like I had to institutionalize running socials like these; when I became president, I made "Social Chair" a new board position.
+
+Of course, the pandemic makes things *extremely hard*. Anybody who's done school or worked remotely for a prolonged period of time knows that it's just *awkward*. Our social chairs really tried - doing movie nights, party games (Jackbox, Among Us, Codenames, etc.), or just chatting - but it was *really hard* to get engagement.
+
+I think part of this is on me; we could have done a better job of advertising and emphasizing the importance of socials in our general meetings, curriculum meetings, etc. I also think that our approach was flawed. Casting a wide net makes sense on the surface level, but meeting *everybody else* in a 100-person club sounds scary! Localizing them to small, familiar groups would have made more sense - organizing a social just for a group of ten that teaches a class, or a small dev team that works on a singular project. Those are more familiar, less daunting, and more likely to succeed.
+
+I do think some other communities - ACM Studio coming to mind - did a better job of running online socials than we did. Part of that comes from the above critiques, as do other things - from club culture, to better using Discord, to having some energetic and driven leads.
+
+Above all, this experience cemented to me the importance of building community and trust *through* community. Without the social aspects that I saw in other experiences I had (like BEAM or Teach LA when I was a dev), other things started to falter. This is compounded by several effects from the pandemic: deteriorated mental health, the inability to see the kids you teach (a big reason why people are in the club, for sure), and the constant Zoom fatigue. At the end of the day, Teach LA is a club where you volunteer your time - it should be fun! Clubs that aren't fun, enjoyable, or engaging are fundamentally flawed.
+
+I don't want to dig this hole too deep - I think most people still enjoyed the experience that Teach LA provided them, and I've seen some wonderful friendships and relationships blossom from their time in the club! For that, I'm quite proud; I just wish I could replicate that more, to a larger scale.
+
+I'm cheating a bit, but I'm realizing this lesson more and more as ACM president. More on that for our next blog post :)
 
 ### On Writing
 
-The issues with dev team succesion that I mentioned above really made me realize how much stuff I kept in my head. I wish I wrote things down more!
+The issues with dev team succession that I mentioned above really made me realize how much stuff I kept in my head. I wish I wrote things down more!
 
 On one hand, I tried pushing us in this direction. I established a [Blog](https://teachla.uclaacm.com/blog/) and [Reports](https://teachla.uclaacm.com/reports) section, and encouraged others to write down more about their processes (writing software, recruiting interns, etc.). Internally, I wrote a couple of docs that explained processes. And, I was super active on GitHub, with the big move being open-sourcing our training.
 
 That being said, this culture of writing didn't really continue after I left. Beyond that, there's a lot that I didn't write down - particularly things that only involved me - that then got lost to the ages. And I never was able to convince other people to do a lot of writing.
 
-Howevever, above all, I think that comes from these things *not being easy to read*. If you read my blog, you know I have a tendency to dump a ton of information; this post is no exception. This type of content, information-dense and often unedited, is hard to read. It doesn't matter how much you write, if people don't read it.
+However, above all, I think that comes from these things *not being easy to read*. If you read my blog, you know I have a tendency to dump a ton of information; this post is no exception. This type of content, information-dense and often unedited, is hard to read. It doesn't matter how much you write, if people don't read it.
 
 In that sense, I wish I spent more time creating concise, condensed documentation. One-pagers, infographics, and tight explainers instead of sprawling documents. Even the presentation - putting actionables or tl;drs at the top - goes a long way.
 
@@ -507,7 +554,7 @@ I'll be quick here: I was super burntout, as was quite a few people in Teach LA.
 I think there are three things I wish I did:
 
 1. Identify what people like to do, and especially what people hate doing. My theory is that burnout comes more from the "quality" of work (i.e. how annoying, non-impactful, frustrating it is) rather than the quantity. Focusing more on what makes people happy and fulfilled is especially important in student orgs, where there is no guarantee of involvement (and people are donating their free time). An example: using something like `prettier` so people aren't hit with formatting lint errors on their PRs, creating a slide template so instructors don't have to manually reset styles, or automating finance and/or marketing.
-2. Significantly cut down on the amount of work that we did. I contend that we probably could have taken all of spring quarter off, or reduced new endeavours (like the React Native class). Clubs don't always have to grow exponetially, and my obsession with doing so caused some problems.
+2. Significantly cut down on the amount of work that we did. I contend that we probably could have taken all of spring quarter off, or reduced new endeavours (like the React Native class). Clubs don't always have to grow exponentially, and my obsession with doing so caused some problems.
 3. Build healthy breaks into my schedule. There's a few benefits here other than the obvious one: it forces me to do less work (which is more sustainable succession-wise), it sets a better precedent for future leaders and current members, and it would have let me focus more on systems-issues rather than individual fixes, since I had less time.
 
 I've seen a negative ripple effects of the precedent that I've set, both in terms of the responsibilities denoted by the roles that I took on, and the psychological effects its had on people who worked with me. I deeply regret this, and it's one of my biggest failures - let alone the health complications I faced as I ran Teach LA.
@@ -538,16 +585,54 @@ I also had other things in life I wanted to do! Even from the ruthless lens of p
 
 All of these things, like others, have ripple effects and precedents. I wanted to set a precedent that Teach LA is a place where you can do what you want, and in most senses, I think I failed. Starting with me would've helped.
 
-## Learned Lessons and Regrets (tl;dr)
-
-### Teaching
-
-### Dev
-
-### Everything Else
-
 ## Closing Thoughts
+
+I know the tail end of this post is quite negative, but I really want to emphasize - I am proud of quite a bit of the work that I and others did at Teach LA. Regardless of the impact, I am so grateful to work with some wonderful people who are motivated to make the world a better place.
+
+Writing this has been cathartic. While I haven't codified it completely, I hope this is a better explanation of "why did you spend so much time on this club?" And, I hope this is useful for people in similar positions; either within Teach LA and ACM, others who are heavily involved in student orgs, or people who are just curious.
+
+There are a few large things that I've intentionally left out of this post. I'll bullet-point what they are, but will keep them private for the sake of professionalism, individual respect, and time:
+
+* the role of institutions (like UCLA) and unpaid labour; what institutional support should look like
+* the importance of "vibe checks" and intentionally building culture, opposed to the exclusivity of culture recruiting
+* balancing different approaches to social change and social justice
+* effective online education, meetings, and work
+* issues with UCLA's tech culture as a whole: drive, exclusivity, turf wars, and resume-building
+* extremely negative experiences I've had within UCLA's tech sphere
+
+On a more positive note, I want to thank some people who made my time in Teach LA particularly positive, in one way or another:
+
+* the old guard of Christina, Bonnie, Malak, and Pragathi - who welcomed me to Teach LA with warm arms
+* Arjun, for always fighting for what's right, and co-running my first class with Sharvani
+* Sharvani, for her countless hours spent making UCLA's tech community the best place it could be
+* Leo, for giving Teach LA his best and changing the dev culture for the better
+* for my wonderful officers: Sophie, Nikhil, Keertana, Regina, Nina, Kaitlyn, Chase, Helia, Ashley, and Chloe - each of whom made their mark on Teach LA and were stellar collaborators
+* to some familiar faces in the dev team, who took on leadership in their own way: Lisha, Aseem, Will, Matt
+* the wonderful dev interns we took on: Archie, Divya, Jiin, Vivian, and the honorary Matt
+* for the amazing team at BEAM, who were a big inspiration to my work: Lisa, Vivian, Aidan, Mark, and Laurel created my first home at UCLA
+* to everyone who is succeeding me - you are realizing my dream!
+* finally, to Alyssa and Jamie, my first-ever ACM friends, and Connor, my first director - all of whom stuck with me throughout a rocky time, and were the reason why I joined Teach LA in the first place
+
+I'll end with two small tirades on my mind.
 
 ### Learning Labs
 
+I'm still conflicted on Learning Labs.
+
+On one hand, I'm quite sad that I never got to realize my original vision. I truly do believe that interactive learning grounded in play and exploration can have massive effects on how people interact with education. To me, PhET and 3Blue1Brown are vanguards of an entirely new format of education. Giving up a shot to build something like that is quite frustrating.
+
+On the other hand, it's quite cocky for me to think I can solve such a large problem, and with just technology. As I've gotten older, I'm placing less and less faith in technology to solve all problems; the core problems with education in the United States (and arguably, the world) aren't technology issues. They're cultural, socioeconomic, political, humanist. Maybe my time would have been better devoted wholly focusing on pedagogy or advocacy.
+
+I do think that, inevitably, this is going to be one of those things I'll regret for a while. The only way to not do that is to make one kick-ass learning lab on my own accord. If I'm free, I just might.
+
 ### Where I Am Now
+
+I'm wrapping up this post on the last day of 2021. I really wish I wrote this earlier - codifying my reflections made me realize what mistakes I already repeated running ACM, and broadly in my life in general.
+
+This post is quite negative; I love criticizing myself. I do think I've learned a lot from my experience running Teach LA; it's impacted the work I've done in my last year of undergrad, mostly from the advocacy and people side of my role as ACM President. Beyond that, it's given me a bit of perspective on how to be a better person.
+
+Something that frustrates me now is that I still have no yardstick for my impact, and I likely never will. It leaves me in a bit of limbo that I'll have to resolve down the line, with imperfect information. I really do want to know - how good of a teacher was I? How many students did I help? How many did I hurt? Was Teach LA a truly positive experience for our teachers? Developers? The UCLA tech culture as a whole? Did I make any dent in the inequity of CS education and opportunity? Will people read and use my open-source work?
+
+If you know the answer to any of these questions, I'd much appreciate it. In the meantime, I hope you enjoyed reading this long rant. I'll be back with some more in a bit.
+
+Until next time.
