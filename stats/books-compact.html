@@ -1,0 +1,25 @@
+---
+title: "Books"
+permalink: "/stats/books/compact"
+layout: page
+---
+
+<p>
+  A compact list of all the books I've read since 2020. Click in for more information and my thoughts.
+</p>
+
+<p>
+  See: <a href="{{site.baseurl}}/stats/books/">expanded list</a>, <a href="{{site.baseurl}}/stats/books/best">favourites/strongest recommendations</a>, <a href="{{site.baseurl}}/stats/books/murakami">just Murakami books.</a>
+</p>
+
+{% comment %}
+  This one is a bit ~ quirky ~ because of how Ruby HashArrays are interpreted. At least, I think.
+{% endcomment %}
+
+{% assign books = site.data.books %}
+
+<ul class="list-unstyled">
+{% for book in books reversed %}
+  <li><a href="{{site.baseurl}}/stats/books/#{{book[0]}}">{{ book[1].title }}</a> by {{ book[1].author }} ({{ book[1].year_published }})</li>
+{% endfor %}
+</ul>
