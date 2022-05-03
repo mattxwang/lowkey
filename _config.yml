@@ -1,14 +1,12 @@
 ---
 title: Lowkey
-timezone: UTC
+timezone: America/Los_Angeles
 collections:
   category:
     output: true
   posts:
-    title: Posts
     output: true
   specials:
-    title: Specials
     output: true
 specials_list:
   - "hindsight2018"
@@ -18,9 +16,7 @@ email: matt@matthewwang.me
 author:
   name: Matthew Wang
   twitter: welcomemattwang
-description: "The blog of one of the more boring people named Matthew Wang.
-
-"
+description: "The blog of one of the more boring people named Matthew Wang."
 baseurl: ''
 url: https://blog.matthewwang.me
 twitter:
