@@ -43,6 +43,7 @@ exclude:
   - .gitignore
   - .sass-cache
   - .git
+  - .github
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
