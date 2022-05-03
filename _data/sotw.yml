@@ -3,6 +3,7 @@ week1:
   title: "Loving Is Easy"
   artists:
   - "Rex Orange County"
+  - "Benny Sings"
   album: "Loving Is Easy"
   album_art: "loving-is-easy.jpg"
   genre: "indie pop"
@@ -271,6 +272,7 @@ week25:
   title: "Feels Right"
   artists:
   - "Carly Rae Jepsen"
+  - "Electric Guest"
   album: "Dedicated"
   album_art: "dedicated.jpg"
   genre: "pop"
@@ -293,6 +295,8 @@ week27:
   title: "Cocoa Butter Kisses"
   artists:
   - "Chance the Rapper"
+  - "Vic Mensa"
+  - "Twista"
   album: "Acid Rap"
   album_art: "acid-rap.jpg"
   genre: "rap"
@@ -304,6 +308,7 @@ week28:
   title: "Selfish"
   artists:
   - "Little Simz"
+  - "Cleo Sol"
   album: "GREY Area"
   album_art: "grey-area.jpg"
   genre: "rap"
@@ -326,6 +331,7 @@ week30:
   title: "Are You Bored Yet?"
   artists:
   - "Wallows"
+  - "Clairo"
   album: "Nothing Happens"
   album_art: "nothing-happens.jpg"
   genre: "indie rock"
@@ -547,6 +553,7 @@ week50:
   artists:
   - "JAY-Z"
   - "Kanye West"
+  - "Otis Redding"
   album: "Watch The Throne"
   album_art: "wtt.jpg"
   genre: "rap"
@@ -636,6 +643,7 @@ week58:
   title: "Shoota"
   artists:
   - "Playboi Carti"
+  - "Lil Uzi Vert"
   album: "Die Lit"
   album_art: "die-lit.png"
   genre: "rap"
@@ -1175,6 +1183,8 @@ week105:
   title: "All Caps"
   artists:
   - "Madvillain"
+  - "MF DOOM"
+  - "Madlib"
   album: "Madvillainy"
   album_art: "madvillainy.jpg"
   genre: "rap"
@@ -1298,7 +1308,9 @@ week116:
   week: "Week 116: March 12 - March 18"
   title: "Leave The Door Open"
   artists:
-  - "Silk Sonic (Bruno Mars, Anderson .Paak)"
+  - "Silk Sonic"
+  - "Bruno Mars"
+  - "Anderson .Paak"
   album: "Leave The Door Open"
   album_art: "silk-sonic.jpeg"
   genre: "r&b"

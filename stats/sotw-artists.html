@@ -1,0 +1,46 @@
+---
+title: "Artist Breakdown - Song of the Week"
+permalink: "/stats/sotw-artists"
+layout: page
+---
+
+<p>
+  How many times does an artist show up in the <a href="{{site.baseurl}}/stats/song-of-the-week.html">Song of the Week</a>? Now you know*!
+</p>
+
+<p>
+  Total number of unique artists: {{page.num_artists}}
+</p>
+
+<p>
+  Artists that appear more than once:
+  <ul>
+  {% for counts in page.artist_count reversed %}
+    {% if counts[0] > 1 %}
+    <li>{{ counts[0] | | pluralize: 'time', 'times' }}: {{ counts[1] | sort_natural | join: ", " }}</li>
+    {% endif %}
+
+  {% endfor %}
+  </ul>
+</p>
+
+<details>
+  <summary>Artists that appear just once:</summary>
+  <ul>
+    {% assign ohws = page.artist_count | first %}
+    {% assign one_hit_wonders = ohws[1] | sort_natural %}
+    {% for artist in one_hit_wonders %}
+      <li>{{artist}}</li>
+    {% endfor %}
+  </ul>
+</details>
+
+<p>
+  *An astute observer might note that this is an undercount (with minor overcounts)! Good observation. I list artists generally based off of the Spotify listing when I add the song. Some notes on methodology:
+
+  <ul>
+    <li>Uncredited features are not counted, like Playboi Carti on EARFQUAKE.</li>
+    <li>I subjectively choose when a group versus individual members are credited. For example, I don't count 88rising as an artist, but I do for K/DA; I view 100 gecs as Dylan Brady and Laura Les, not different artists.</li>
+    <li>Producers are inconsistently undercounted. Generally, they're not credited, but they occasionally are. Madlib seems to be credited on all of his beats; Kenny isn't on ARE YOU WITH THAT?, but is on get off my dick. I'll try to explore producers another time!</li>
+  </ul>
+</p>
