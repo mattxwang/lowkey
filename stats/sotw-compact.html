@@ -1,0 +1,19 @@
+---
+title: "Song of the Week (compact)"
+permalink: "/stats/sotw-compact"
+layout: page
+---
+
+<p>
+  A compact list of my song of the week since 2019. Click in for more information and my thoughts.
+</p>
+
+<p>
+  See: <a href="{{site.baseurl}}/stats/song-of-the-week.html">expanded list</a>.
+</p>
+
+<ul class="list-unstyled">
+  {% for song in site.data.sotw reversed %}
+    <li><a href="{{site.baseurl}}/stats/songs#{{song[0]}}">{{ song[1].title }}</a> by {{ song[1].artist }} ({{ song[1].year }})</li>
+  {% endfor %}
+</ul>
