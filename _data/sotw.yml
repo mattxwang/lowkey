@@ -238,7 +238,7 @@ week22:
   week: "Week 22: May 24 - May 30"
   title: "EARFQUAKE"
   artists:
-  - "Tyler, the Creator"
+  - "Tyler, The Creator"
   album: "IGOR"
   album_art: "igor.jpg"
   genre: "rap"
@@ -2048,3 +2048,16 @@ week180:
   year: 2022
   blurb: >
     What an awful week to wrap up. This song was a highlight, though.
+week181:
+  week: "Week 181: June 11 - June 18"
+  title: "Cash In Cash Out"
+  artists:
+  - "Pharrell Williams"
+  - "21 Savage"
+  - "Tyler, The Creator"
+  album: "Cash In Cash Out"
+  album_art: "cico.jpeg"
+  genre: "rap"
+  year: 2022
+  blurb: >
+    Infectious hook, but the standout feature is [the music video](https://www.youtube.com/watch?v=cKEwnhc8ItY).
