@@ -14,7 +14,7 @@ layout: page
 </p>
 
 {% for item in site.data.sotw reversed %}
-<div class="card border-primary">
+<div class="card border-primary" id="{{item[0]}}">
 	<div class="row">
 		<div class="col-4">
 			<img src="{{site.baseurl}}/img/albums/{{item[1].album_art}}" alt="{{ item[1].album }} album cover" />
