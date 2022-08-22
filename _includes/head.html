@@ -4,13 +4,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title}} | {{site.title}}{% else %}{{ site.title_long | escape }}{% endif %}</title>
-  <link rel="icon" href="{{ "/img/logo.png" | prepend: site.baseurl }}">
+  <link rel="icon" href="{{site.baseurl}}/img/logo.png">
 
-  <link rel="stylesheet" href="{{ "/css/liteweight-duo.min.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/syntax-highlighting.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/liteweight-duo.min.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/style.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/syntax-highlighting.css">
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{site.url}}{{site.baseurl}}{{ page.url | replace:'index.html',''}}">
   {% seo title=false %}
   <meta property="og:image" content="{{site.url}}{{site.baseurl}}/img/lowkey-simple.png" />
   <meta property="twitter:image" content="{{site.url}}{{site.baseurl}}/img/lowkey-simple.png" />
