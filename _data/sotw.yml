@@ -2210,7 +2210,7 @@ week194:
   blurb: >
     huge weston estate week
 week195:
-  week: "Week 195: September 16 - September 24"
+  week: "Week 195: September 16 - September 22"
   title: "Forgot About"
   artists:
   - "Priya Ragu"
@@ -2220,3 +2220,14 @@ week195:
   year: 2021
   blurb: >
     how could
+week196:
+  week: "Week 196: September 23 - September 29"
+  title: "KAZINO"
+  artists:
+  - "BIBI"
+  album: "KAZINO"
+  album_art: "kazino.jpg"
+  genre: "pop"
+  year: 2020
+  blurb: >
+    How did I miss this when it came out?
