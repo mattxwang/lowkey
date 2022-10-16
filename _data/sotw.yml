@@ -2232,7 +2232,7 @@ week196:
   blurb: >
     How did I miss this when it came out?
 week197:
-  week: "Week 196: September 30 - October 6"
+  week: "Week 197: September 30 - October 6"
   title: "i tried"
   artists:
   - "slowthai"
@@ -2240,4 +2240,14 @@ week197:
   album_art: "tyron.jpeg"
   genre: "rap"
   year: 2021
+  blurb: ""
+week198:
+  week: "Week 198: October 7  - October 13"
+  title: "Heavenly Father"
+  artists:
+  - "Isaiah Rashad"
+  album: "Cilvia Demo"
+  album_art: "cilvia.jpeg"
+  genre: "rap"
+  year: 2014
   blurb: ""
