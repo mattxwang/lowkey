@@ -15,11 +15,8 @@ layout: page
 <p>
   Artists that appear more than once:
   <ul>
-  {% for counts in page.artist_count reversed %}
-    {% if counts[0] > 1 %}
-    <li>{{ counts[0] | pluralize: 'time', 'times' }}: {{ counts[1] | sort_natural | join: ", " }}</li>
-    {% endif %}
-
+  {% for i in (2..page.artist_count.size) reversed %}
+    <li>{{ i | pluralize: 'time', 'times' }}: {{ page.artist_count[i] | sort_natural | join: ", " }}</li>
   {% endfor %}
   </ul>
 </p>

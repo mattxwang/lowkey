@@ -2271,3 +2271,13 @@ week200:
   genre: "pop"
   year: 2022
   blurb: "crj crj crj"
+week201:
+  week: "Week 201: October 28  - November 3"
+  title: "patience interlude"
+  artists:
+  - "Baby Keem"
+  album: "The Melodic Blue (Deluxe)"
+  album_art: "the-melodic-blue.jpeg"
+  genre: "rap"
+  year: 2022
+  blurb: "a stellar deluxe"
