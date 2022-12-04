@@ -2301,3 +2301,23 @@ week203:
   genre: "pop"
   year: 2022
   blurb: And I hope it's true
+week204:
+  week: "Week 204: November 18 - November 24"
+  title: "First Time"
+  artists:
+  - "Nas"
+  album: "King's Disease III"
+  album_art: "kd3.jpeg"
+  genre: "rap"
+  year: 2022
+  blurb: Nas & Hit-Boy run it back on KD3 and the quality is still there. Unparalleled.
+week205:
+  week: "Week 205: November 25 - December 1"
+  title: "うっせぇわ"
+  artists:
+  - "Ado"
+  album: "うっせぇわ"
+  album_art: "うっせぇわ.jpg"
+  genre: "japanese electropop"
+  year: 2020
+  blurb: Absolutely out of this world vocal range and production! I'm much too late to this bandwagon.
