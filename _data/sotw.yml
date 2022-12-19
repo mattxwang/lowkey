@@ -2333,3 +2333,13 @@ week206:
   genre: "rap"
   year: 2022
   blurb: Stellar sample. Somber, neat alphabet verse from Takeoff. Album's not perfect, but Metro is definitely back.
+week207:
+  week: "Week 207: December 9 - December 15"
+  title: "Look Out!"
+  artists:
+  - "Peach Pit"
+  album: "From 2 to 3"
+  album_art: "from2to3.jpeg"
+  genre: "alt rock"
+  year: 2022
+  blurb: Smooth and serene for a sleep-filled Seattle.
