@@ -2343,3 +2343,13 @@ week207:
   genre: "alt rock"
   year: 2022
   blurb: Smooth and serene for a sleep-filled Seattle.
+week208:
+  week: "Week 208: December 16 - December 22"
+  title: "Kill Bill"
+  artists:
+  - "SZA"
+  album: "SOS"
+  album_art: "sos.jpg"
+  genre: "r&b"
+  year: 2022
+  blurb: Finally, new SZA - and it's stellar.
