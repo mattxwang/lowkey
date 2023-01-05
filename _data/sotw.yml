@@ -2321,3 +2321,55 @@ week205:
   genre: "japanese electropop"
   year: 2020
   blurb: Absolutely out of this world vocal range and production! I'm much too late to this bandwagon.
+week206:
+  week: "Week 206: December 2 - December 8"
+  title: "Feel The Fiyaaaah"
+  artists:
+  - "Metro Boomin"
+  - "A$AP Rocky"
+  - "Takeoff"
+  album: "HEROES & VILLAINS"
+  album_art: "heroes-villains.jpeg"
+  genre: "rap"
+  year: 2022
+  blurb: Stellar sample. Somber, neat alphabet verse from Takeoff. Album's not perfect, but Metro is definitely back.
+week207:
+  week: "Week 207: December 9 - December 15"
+  title: "Look Out!"
+  artists:
+  - "Peach Pit"
+  album: "From 2 to 3"
+  album_art: "from2to3.jpeg"
+  genre: "alt rock"
+  year: 2022
+  blurb: Smooth and serene for a sleep-filled Seattle.
+week208:
+  week: "Week 208: December 16 - December 22"
+  title: "Kill Bill"
+  artists:
+  - "SZA"
+  album: "SOS"
+  album_art: "sos.jpg"
+  genre: "r&b"
+  year: 2022
+  blurb: Finally, new SZA - and it's stellar.
+week209:
+  week: "Week 209: December 23 - December 29"
+  title: "Gorilla"
+  artists:
+  - "Little Simz"
+  album: "NO THANK YOU"
+  album_art: "no-thank-you.jpeg"
+  genre: "rap"
+  year: 2022
+  blurb: Will never say no thank you to more Little Simz.
+week210:
+  week: "Week 210: December 30 - January 5"
+  title: "King"
+  artists:
+  - "Florence + The Machine"
+  album: "Dance Fever"
+  album_art: "dance-fever.jpeg"
+  genre: "pop rock"
+  year: 2022
+  blurb: Can't believe I missed this!

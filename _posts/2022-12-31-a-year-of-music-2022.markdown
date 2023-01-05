@@ -1,0 +1,718 @@
+---
+title: 'My Music in 2022, A Glance'
+date: 2022-12-31 02:34:50 Z
+categories:
+- entertainment
+author: 'terminally online matt'
+layout: post
+---
+
+In many ways, this has been the worst year of my life by a mile. I'll write about that later; for now, it's music time.
+
+Note: this is one of those posts that I really just write for myself and for my friends to stalk. There's no continuity, you don't have to read all of this.
+
+(a successor to [My Music in 2021, A Glance]({% link _posts/2021-12-26-a-year-of-music-2021.markdown %}); [My Music in 2020, A Glance]({% link _posts/2020-12-19-a-year-of-music-2020.markdown %}); [My Music in 2019, A Glance]({% link _posts/2019-12-16-a-year-of-music-2019.markdown %}))
+
+## Table of Contents
+
+- Table of Contents
+{:toc}
+
+## Albums of the Year (7)
+
+This was just a stellar year of music (particularly for rap!), and it was hard to really zero in on a concise list.
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![after dinner we talk dreams album cover]({{site.baseurl}}/img/albums/adwtd.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>After Dinner We Talk Dreams</em> by MICHELLE</h3>
+    <p>
+      MICHELLE embody the vibes of best friends just having fun; the feeling is infectious.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        I've been in many friend groups that suddenly exclaim "let's start a band!". MICHELLE's second album is exactly what we're all romanticizing. You're whisked away to their little corner of the world, enveloped in their emotions and everyday problems - mostly about love. They bring an upbeat and slightly goofy energy to a soundscape that spans pop, alt-rock, r&b, modern soul, and a bit of rap. Beyond that, it's the type of music that actually makes me want to move after staring at a computer for hours. Isn't that what we all want?
+      </p>
+    </details>
+    <p>
+      Faves: <em>MESS U MADE, EXPIRATION DATE, POSE, SYNCOPATE, TALKING TO MYSELF, END OF THE WORLD</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![it's almost dry album cover]({{site.baseurl}}/img/albums/its-almost-dry.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>It's Almost Dry</em> by Pusha T</h3>
+    <p>
+      Push on Pharrell and Kanye beats is relentlessly exquisite: actual rap caviar, if you will.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        At this point, it's unfair. Kanye and Pharrell are indisputably the two most influential producers in mainstream rap over the past two decades. Push is one of few rappers that's worked with both for over a decade. You just can't compete! Kanye brings a stellar soul sample on <em>Dreamin Of The Past</em> that makes me miss the old Kanye. For any other rapper, Pharrell would steal the show with the beats on <em>Brambleton</em>, <em>Coupes</em>, or <em>Neck &amp; Wrist</em>. Push matches him with his nastiest coke bars. This is a three-chef, three-course meal in ruthlessness.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Brambleton, Let The Smokers Shine The Coupes, Dreamin Of The Past, Neck &amp; Wrist, Diet Coke, I Pray For You</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![LOUIE album cover]({{site.baseurl}}/img/albums/louie.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>LOUIE</em> by Kenny Beats</h3>
+    <p>
+      Kenny revives the emotional beat tape, and makes him your favourite producer in the process.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        It's rare that a beat tape makes me feel things. Kenny somehow pulls it off with a masterful and unique take on the producer classic. His beats have so much dynamism - when they're allowed to steal the show, they run away with it in a full sprint. <em>LOUIE</em> is a masterful balance of chopped soul, lazy sunday beats, jazzy motifs, and fresh takes on standards. His incorporation of family recordings - primarily of his dad - and vignettes from THE CAVE frequenters creates a unique personality but still puts the instrumentation front and center. I'm so so excited for Kenny to take off.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Parenthesis, Hold My Head, Family Tree, Still, Moire, Eternal, Last Words, Rotten</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![Melt My Eyez See Your Future album cover]({{site.baseurl}}/img/albums/mmesyf.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>Melt My Eyez See Your Future</em> by Denzel Curry</h3>
+    <p>
+      Denzel's foray into the mainstream sees him lose none of his flair.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        Fresh off of <em>UNLOCKED</em>, I was both excited and nervous to see Denzel over more upbeat, less noisy beats. After listening to <em>Walkin</em> and <em>Troubles</em>, I can't believe I was ever scared; those two singles are some of the best rap I've ever heard, period. Denzel still raps his ass off over a production ocean, mastering Robert Glasper's jazz beats, absolutely demolishing a slow-burn soul samples on <em>Walkin</em> and <em>Ain't No Way</em>, and bringing his signature energetic noisy flare on <em>Zaitoichi</em>. At this pace, Denzel's seriously challenging the very top of rap, and I'm all for it.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Melt Session #1, Walkin, John Wayne, Troubles, Ain't No Way, X-Wing, Sanjuro, Zaitoichi</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![mr morale and the big steppers album cover]({{site.baseurl}}/img/albums/mmtbs.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>Mr. Morale &amp; The Big Steppers</em> by Kendrick Lamar</h3>
+    <p>
+      Kendrick continues to cement himself as the best rapper alive.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        For anybody who knows me, this should come as no surprise. Kendrick has been my GOAT for years. I knew <em>The Heart Part 5</em> was coming. But I could not predict this level of sheer vulnerability from a pop culture icon. I love so much of this album. Kendrick sounds more natural over modern production here than on <em>DAMN</em>. His vocal manipulation is still a roundhouse kick. However, the absolute treat of this album is the risk-taking and novelty. <em>We Cry Together</em> teleports me straight into their argument; it's the most passionate performance I've heard in a rap conversation since <em>Stan</em> and <em>Guilty Conscience</em>. The trio of <em>Father Time</em>, <em>Auntie Diaries</em>, and <em>Mother I Sober</em> is an emotional sucker punch. Never have I seen a rapper (or singer!) so forward about daddy issues and generational trauma; nor explicitly dive deep into transphobia and personal reflection; or sex culture and <b>being</b> sexually assaulted. I don't think all the risks paid off - I'm critical of many of the features, and the standard of TPAB is almost impossible to meet. Yet, there's a reason why every reviewer's video or article on this album is twice its typical length. Kendrick has packed so much of himself into this album and tore down the myth of the perfect cultural icon. It's groundbreaking.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Die Hard, Father Time, Rich Spirit, We Cry Together, Count Me Out, Savior, Auntie Diaries, Mother I Sober</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![not tight album cover]({{site.baseurl}}/img/albums/take-a-chance.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>NOT TiGHT</em> by DOMi & JD BECK</h3>
+    <p>
+      My most listened-to album this year is a technical masterpiece filled to the brim with personality. And it's their first album.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        Sometimes, I think I could have gone farther with my piano education. I do a reality check by watching DOMi &amp; JD BECK perform. It's just mind-blowing? The way they pick up almost any style, any standard, any vibe. The way they improv and work together. And just the plain fun that they bring to their music? NOT TiGHT is all of that packed up in a concise album that doesn't wander: each track is absurdly catchy, punchy and fun, and leaves me wondering ... how did they do that? They're also blessed with a gauntlet of stellar features - from Anderson .Paak to Thundercat to Mac Demarco and even Herbie Hancock and Snoop? I'm baffled that this is somehow their first album (even if they've been playing music for over a decade). In particular, <em>TAKE A CHANCE</em> is probably the best song I've heard this year. I give this album rave reviews to everyone I meet; I'm not kidding that it can turn jazz haters into ardent fans. I cannot wait to see what they do in the future, and I'm rooting for the two of them.
+      </p>
+    </details>
+    <p>
+      Faves: <em>WHATUP, SMiLE, NOT TiGHT, TWO SHRiMPS, U DON'T HAVE TO ROB ME, TAKE A CHANCE, PiLOT</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![The Loneliest Time album cover]({{site.baseurl}}/img/albums/tlt.jpg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>The Loneliest Time</em> by Carly Rae Jepsen</h3>
+    <p>
+      It's CRJ time.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        I don't know she does it. Carly continues being the queen of pop. She's still full of playful emotion; powerful, pretty much perfect production; lyrics that are always about entering or leaving relationships, but never just happy. She gives a wonderful face-lift to her sound from <em>Emotion</em>, blending in some instrumental risks with classic synths and the occasional sax. She feels more aloof, joyful, and just going along for the ride. It's exactly what we need in 2022. My only critique? Beach House.
+      </p>
+    </details>
+    <p>
+      Faves: <em>Surrender My Heart, Joshua Tree, Sideways, Bends, Bad Thing Twice, The Loneliest Time, No Thinking Over The Weekend</em>
+    </p>
+  </div>
+</div>
+
+## Other Albums I That I Liked
+
+2022 was *such a good year* for music. It was hard to create a concise-ish list of my favourite albums, but here's the best I can do out of this year's releases:
+
+### Albums Released in 2022
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+- *2000* by Joey Bada$$
+- *Asha's Awakening* by Raveena
+- *Beatopia* by beabadoobee
+- *Being Funny In A Foreign Language* by The 1975
+- *Cheat Codes* by Black Thought, Danger Mouse
+- *CRASH* by Charli XCX
+- *Dawn FM* by The Weeknd
+- *DRILL MUSIC IN ZION* by Lupe Fiasco
+- *Duality* by Luna Li
+- *Epistle* by Jacob Chung - go JC!!
+- *Everything I Know About Love* by Laufey
+- *Flood* by Stella Donnelly
+- *GABRIEL* by keshi
+- *Harry's House* by Harry Styles
+- *HEROES & VILLAINS* by Metro Boomin
+- *King’s Disease III* by Nas
+- *Luv Is Rent* by Smino
+- *NO THANK YOU* by Little Simz
+- *Only Built For Infinity Links* by Quavo, Takeoff
+- *RAMONA PARK BROKE MY HEART* by Vince Staples
+- *RENAISSANCE* by Beyoncé
+- *SICK!* by Earl Sweatshirt
+- *SOS* by SZA
+- *Surrender* by Maggie Rogers
+- *The Forever Story* by JID
+- *Vinyl Days* by Logic
+- *Wet Leg* by Wet Leg
+
+</details>
+
+A few quick highlights &amp; notes:
+
+- if I had to pick one more album to enter AOTY contention, it would be *Surrender*. Love love love Maggie Rogers. *The Forever Story* is probably a close second.
+- my mainstream runner-ups are *CRASH*, *DAWN FM*, and *RENAISSANCE*; interestingly, all throwbacks in some sort of way!
+- if *SOS* came out earlier in the year, there's a very good chance it makes the AOTY list for me
+- *NO THANK YOU* sounds like Introvert loosies, which is amazing.
+- *Everything I Know About Love* was in constant apartment rotation; it's so danceable and just ... lovely!
+- I feel like we got many great mature and laid-back rap albums - *2000*, *DRILL MUSIC IN ZION*, *King's Disease III*, *RAMONA PARK BROKE MY HEART*, *The Forever Story* came to mind.
+- always love Metro; however, if he dropped the Chris Brown verse on Superhero and trimmed a few of the Travis tracks for something with the Migos / Gucci / James Blake, instant AOTY contention!
+
+### EPs Released in 2022
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+- *Brightside* by Rich Brian
+- *Hip Hop 50: Vol. 1* by DJ Premier
+- *jams 2* by Luna Li
+- *Maggie Valley* by Weston Estate
+- *Nisemono* by Ginger Root
+- *SMITHEREENS* by Joji
+- *THE RENEWAL PROJECT* by Tiffany Day
+- *wood tip* by Zack Fox
+
+
+</details>
+
+Honestly, I don't have too much to say here - other than I'm super super excited for Hip Hop 50, and *SMITHEREENS* is definitely an EP and not an album.
+
+### Albums Released Before 2022
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+- *Beware of the Dogs* by Stella Donnelly
+- *Friends That Break Your Heart* by James Blake
+- *King's Disease II* by Nas
+- *Magic* by Nas
+- *rapunzel* by dhruv
+- *Titanic Rising* by Weyes Blood
+- *Voyager* by Moonchild
+- *What's Your Pleasure?* by Jessie Ware
+
+</details>
+
+For this section, I have something to say for each item:
+
+- Stella Donnelly is one of my favourite finds this year, between *Beware of the Dogs* and *Flood*!
+- James Blake is absolutely killer; I was only a little late to including him on my AOTY for 2021!
+- Nas and Hit-Boy continue to blow me away on KD1, 2, 3, and *Magic*!
+- I love love love *dhruv*!
+- Weyes Blood, Moonchild, and Jessie Ware were all lovely genre benders in their own way; particularly excited for new Jessie!
+
+### Albums I Will Get Around To Soon
+
+I came up with this section last year. I ended up listening to about a third of the albums. Yikes.
+
+Since this was such a great year for music, the to-do list has ballooned. From this year:
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+- *10* by Westside Gunn
+- *Ants From Up There* by Black Country, New Road
+- *Blue Rev* by Alvvays
+- *Dirt Femme* by Tove Lo
+- *Every Shade of Blue* by The Head And The Heart
+- *God Don't Make Mistakes* by Conway the Machine
+- *HERBERT* by Ab-Soul
+- *HYPNOS* by Ravyn Lenae
+- *hypochondriac* by brakence
+- *Laurel Hell* by Mitski
+- *Natural Brown Prom Queen* by Sudan Archives
+- *Once Twice Melody* by Beach House
+- *Preacher's Daughter* by Ethel Cain
+- *rising* by mxmtoon (this is embarrassing given that I ... went to this concert)
+- *Simple.* by IDK
+- *The Elephant Man's Bones* by Roc Marciano, The Alchemist
+- *World Wide Pop* by Superorganism
+
+</details>
+
+Particularly excited for Alvvays, BNCR, and *The Elephant Man's Bones*!
+
+And the ones from last year's list:
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+- Caroline Polacheck's *Pang*
+- clipping.'s *Visions of Bodies Being Burned*
+- Dave's *We're All Alone In This Together*
+- IDK's *USEE4YOURSELF*
+- Lady Gaga's *Chromatica*
+- Lake Street Dive's *Obviously*
+- Remi Wolf's *Juno*
+- Snail Mail's *Valentine*
+- Spelling's *The Turning Wheel*
+- Still Woozy's *If This Isn't Nice, I Don't Know What Is*
+- Terrace Martin's *DRONES*
+- Thundercat's *It Is What It Is* (this is my most painful one!)
+
+</details>
+
+## Songs of the Year
+
+I quite liked doing this section, so continuing it from last year!
+
+### Top 42
+
+If you're not familiar: my music rotation involves listening to 42 songs on repeat in a playlist called [amperes](https://open.spotify.com/playlist/2cT6Y3KwCvep7JZE6OUMlj?si=afaccadeb99b42ae). Here is my "amperes for 2022", limited to one song per 2022 album. I've noted the songs *not* coming from a fave album/EP with (*).
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+- *Blur* by dhruv (*)
+- *BREAK MY SOUL* by Beyoncé
+- *Budget* by Megan Thee Stallion, Latto
+- *Cash In Cash Out* by Pharrell Williams, 21 Savage, Tyler, The Creator (*)
+- *Coast* by Hailee Steinfeld, Anderson .Paak (*)
+- *Coming Back Around* by MONEYPHONE, Monsune (*)
+- *Daisies* by Weston Estate
+- *Dreamin Of The Past* by Pusha T
+- *END OF THE WORLD* by MICHELLE
+- *Family Tree* by Kenny Beats
+- *Father Time* by Kendrick Lamar, Sampha
+- *Feel The Fiyaaaah* by Metro Boomin, A$AP Rocky, Takeoff
+- *First Time* by Nas
+- *Free Yourself* by Jessie Ware (*)
+- *Glimpse Of Us* by Joji
+- *HENTAI* by ROSALIA
+- *I'm In Love With You* by The 1975
+- *Just In Time* by JID, Kenny Mason, Lil Wayne
+- *Kill Bill* by SZA
+- *Look Out!* by Peach Pit (*)
+- *Magic* by Vince Staples, Mustard
+- *MS. MURAL* by Lupe Fiasco
+- *Music For a Sushi Restaurant* by Harry Styles
+- *One Mic, One Gun* by Nas, 21 Savage (*)
+- *Out of Time* by The Weeknd
+- *Persuasive* by Doechii (*)
+- *Piece Of Shit* by Wet Leg
+- *SAN FRANCISCO SIDEWALK* by Tiffany Day (*)
+- *Shatter* by Maggie Rogers
+- *Silver Into Rain* by Luna Li, beabadoobee
+- *Softly* by Arlo Parks (*)
+- *Surrender My Heart* by Carly Rae Jepsen
+- *Survivors Guilt* by Joey Bada$$
+- *TAKE A CHANCE* by DOMi & JD BECK, Anderson .Paak
+- *The Heart Part 5* by Kendrick Lamar (*)
+- *The Root of All* by DJ Premier, Slick Rick, Lil Wayne
+- *This Is Why* by Paramore (*)
+- *TV* by Billie Eilish (*)
+- *Walkin* by Denzel Curry
+- *You're here that's the thing* by beabadoobee
+- *Yuck* by Charli XCX
+- *90 Proof* by Smino, J. Cole
+
+
+</details>
+
+Some thoughts:
+
+- I actually feel like there's less bangers here?
+- SOTY is probably *TAKE A CHANCE*, with *The Heart Part 5*, *HENTAI*, *Free Yourself*, and *SAN FRANCISCO SIDEWALK* rounding out the top 5?
+- I think the most obscure song here is definitely *Coming Back Around*; I've always got to support my boy Monsune
+- *Cash In Cash Out* has the best [music video](https://www.youtube.com/watch?v=cKEwnhc8ItY) I've seen in years!
+- I felt like we were spoiled by power ballads from mainstream stars: Billie and Joji's are in this list, and The Weeknd, Harry, and SZA all also had solid ones!
+
+### Other Songs Released in 2022 (favourite albums non-inclusive)
+
+Most of my songs of the year are already covered in the albums that I've mentioned, but there are a few others that are either standalone singles or come from albums that I didn't love front-to-back (or hadn't listened to). This has duplicates with the 42 list.
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+- *<maybe> it's my fault* by WILLOW
+- *all i ever wanted (was you)* by mazie
+- *Anxiety* by Megan Thee Stallion
+- *BIBI Vengeance* by BIBI
+- *Big Steppa* by Flo Milli
+- *Blur* by dhruv
+- *Budget* by Megan Thee Stallion, Latto
+- *Car Crash* by eaJ
+- *Cash In Cash Out* by Pharrell Williams, 21 Savage, Tyler, The Creator
+- *CEO OF MY ASS* by Dev Lemons
+- *Coast* by Hailee Steinfeld, Anderson .Paak
+- *Come On, Let's Go* by Tyler, The Creator, Nigo
+- *Coming Back Around* by MONEYPHONE, Monsune
+- *Conceited* by Flo Milli
+- *Dat Way* by Barely Legal, Jay Browne
+- *DEAR MISS HOLLOWAY* by easy life, Kevin Abstract
+- *dirty dancer* by Orion Sun
+- *Do What I Want* by Kid Cudi
+- *DON’T SAY NOTHIN’* by Saweetie
+- *Drown* by Weston Estate
+- *Feelin' Sexy* by KenTheMan
+- *Free Yourself* by Jessie Ware
+- *Figure You Out* by Djo
+- *Gotsta Get Paid* by Rico Nasty
+- *Hard Drive Gold* by alt-J
+- *HENTAI* by ROSALIA
+- *hollaback bitch* by Mura Masa, Shygirl, Channel Tres
+- *Home Maker* by Sudan Archives
+- *I Fell in Love Again* by Kid Bloom
+- *Industry Baby (Cover)* by Noga Erez
+- *Johnny P's Caddy* by Benny The Butcher, J. Cole
+- *Look Out!* by Peach Pit
+- *LORD FORGIVE ME* by Tobe Nwigwe, Fat Nwigwe, Pharrell Williams, EARTHGANG
+- *Nights in December* by Tkay Maidza
+- *NO TRENDS* by Mike Dimes
+- *October Passed Me By* by girl in red
+- *One Mic, One Gun* by Was, 21 Savage
+- *Persuasive* by Doechii
+- *Picture in my mind* by PinkPantheress
+- *Power Power* by Duckwrth, Shaun Ross
+- *PUSSY* by Latto
+- *SAN FRANCISCO SIDEWALK* by Tiffany Day
+- *STAR WALKIN’* BY LIL NAS X
+- *Soccer Dad* by Schoolboy Q
+- *Softly* by Arlo Parks
+- *Stick* by JID, J. Cole, Kenny Mason, Sheck Wes
+- *Talk About Me* by Dot Da Genius, Denzel Curry, Kid Cudi, JID
+- *Timeless* by Ambar Lucid
+- *The Heart Part 5* by Kendrick Lamar
+- *This Is Why* by Paramore
+- *TV* by Billie Eilish
+- *Twin Flame* by KAYTRANDA, Anderson .Paak
+- *Wild Child* by The Black Keys
+
+</details>
+
+Thoughts:
+
+- some stellar smaller artists: dhruv, Dev Lemons, Orion Sun, Sudan Archives, Tkay, Ambar Lucid
+- I was pleasantly surprised by the prolific output from PinkPantheress, who definitely isn't a one-hit wonder!
+- I feel even more hooked by dhruv and Weston Estate
+- I love the new direction of Tiffany Day's single - I hope she can keep it up!
+- Anderson had a killer feature year?? (*Twin Flame*, *TAKE A CHANCE*, *Coast* in this list, plus others)
+- Noga Erez's *Industry Baby* cover is the best cover I've heard this year
+- *The Heart Part 5* is an absolutely nuts loosie
+
+### Songs Released Before 2022
+
+For a song to qualify here, I listened to it (and added it to a playlist) for the first time this year. These ones tend to be *slightly* more notable, or the list would be a bit too long!
+
+<details>
+<summary markdown="span">click to expand</summary>
+
+- うっせぇわ by Ado
+- *CAN’T TOUCH THIS* by BIA
+- *could you love me while I hate myself* by Zeph
+- *Final Form* by Sampa the Great
+- *In Camera* by Yumi Zouma
+- *Instant Crush* by Daft Punk, Julian Casablancas
+- *KAZINO* BY BIBI
+- *Keep Livin* by Jean Grae
+- *Listening to Me Sing* by Jacklen Ro
+- *Mad* by Solange, Lil Wayne
+- *racecar* by Imani
+- *Rom-Com Gone Wrong* by Matt Maltese
+- *Running Up That Hill* by Kate Bush
+- *Romeo* by Jungle, Bas
+- *Sweat* by BAD
+- *You're Kinda Perfect* by FIG
+
+</details>
+
+Some quick tidbits:
+
+- holy, Ado's vocal range and production energy is nuts. Can't believe she's so young
+- BIA has perfected the lazy flow
+- Zeph has perfected internet simping
+- I fell in love with *Instant Crush* after listening to RAM like 20 times. How had I not loved this before?
+- *racecar* is stellar bedroom pop
+- *Mad* is a sleeper emotional hit
+- shoutout to some of the live music I saw this year (Jacklen Ro, FIG!)
+
+## Stats et al
+
+### Spotify Wrapped
+
+![2022 wrapped]({{site.baseurl}}/img/2022-wrapped.jpg){: style="max-width: 500px"}
+
+Monsune has been ousted! He surprisingly doesn't make an appearance here. Kendrick's dominance makes perfect sense for me. The Avalanches' *Since I Left You* has been on constant repeat in my new apartment, so that's no surprise either. slowthai and Vince are carried by their songs (see the next paragraph). Kanye is ... tough. As much as I've loved and continued to love his older music, it's just so hard to like him now. More on that in a bit.
+
+As for the songs, there's no easy way to say this: each of the top 5 are songs about suicide. In particular, I listened to *i tried* over 200 times in the past 3 months. It's been a rough year.
+
+The minutes listened continues its downward trend. Maybe life is just getting busy?
+
+### Last.fm
+
+This is [year four of last.fm](https://www.last.fm/user/matthewxwang). Most of this section is me adding some context on the data that's publicly available (give it a look!).
+
+On artists:
+
+- I listened to 1345 unique artists this year, which is about 150 more than last year - nice!
+- Kendrick overtakes the BROCKHAMPTON boys as my most-listened to artist, with 622 scrobbles; this is both ~ 200 more than BH last year, and the runner-up (The Avalanches with ~ 445).
+- The top ten is:
+  1. Kendrick Lamar
+  2. The Avalanches
+  3. Vince Staples
+  4. DOMi & JD BECK
+  5. BROCKHAMPTON
+  6. slowthai
+  7. Pusha T
+  8. Baby Keem
+  9. Kenny Beats
+  10. Little Simz
+- 4 of the top 10 (Kendrick, The Avalanches, BROCKHAMPTON, Baby Keem) retained a spot from last year.
+- Technically, 7 artists dropped new albums (Kendrick, Vince, DOMi & JD BECK, BROCKHAMPTON, Push, Kenny, Little Simz); but, I didn't listen to either BH tape more than once, and Simz's record was too late in the year to make a big dent.
+- Few artists in the top 50 are new to me this year. They are MICHELLE (24), Luna Li (28), and Stella Donnelly (44)
+- About a quarter of my top 50 didn't release projects this year. It was both a big year in music, and also I'm sure new releases influenced my patterns more this year (compared to last year)
+  * I did actively avoid *Honestly, Nevermind*, *Her Loss*, both BH Tapes, and haven't listened to *Donda 2*
+
+On songs:
+
+- The tracks scrobbled clocks in at 18435, compared to 20410 songs last year. I average 51 scrobbles a day.
+- I listened to 5335 unique songs.
+- My most-listened to month was September (the lowest last year!); my least was December (makes sense given my travel issues).
+- The top ten:
+  1. *i tried* by slowthai
+  2. *Jump Off The Roof* by slowthai
+  3. *u* by Kendrick Lamar
+  4. *Suicidal Thoughts* by The Notorious B.I.B.
+  5. *Heavenly Father* by Isaiah Rashad
+  6. *a lot* by 21 Savage
+  7. *Going Bad* by Meek Mill, Drake
+  8. *Dreamin Of The Past* by Pusha T, Kanye West
+  9. *TAKE A CHANCE* by DOMi & JD Beck, Anderson .Paak
+  10. *The Games We Play* by Pusha T
+- *Dreamin Of The Past* and *TAKE A CHANCE* are the only songs that came out this year in the top 10. In the top 50, they are joined by *Walkin*, *NOT TiGHT*, *PiLOT*, *WHATUP*, *Father Time*, *Let The Smokers Shine The Coupes*, *Come On, Let's Go*, and *BOWLiNG*. Both ratios are 20%, which seems too consistent!
+- In contrast, only two songs were released before I was born: *Suicidal Thoughts* and *N.Y. State of Mind*. *Since I Left You* was released the day after I was born!
+- No song carries over from last year.
+- There's probably some weird undercounting with duplicate albums, but I couldn't see any in the top 50.
+
+On albums:
+
+- My top ten is:
+  1. *NOT TiGHT* by DOMi & JD Beck
+  2. *TYRON* by slowthai
+  3. *The Melodic Blue* by Baby Keem (note: undercounted because of the deluxe, which is a "separate album")
+  4. *To Pimp a Butterfly* by Kendrick Lamar
+  5. *LOUIE* by Kenny Beats
+  6. *Since I Left You* by The Avalanches (note: undercounted because of the anniversary edition, which is a "separate album")
+  7. *Mr. Morale & The Big Steppers* by Kendrick Lamar
+  8. *Nectar* by Joji
+  9. *It's Almost Dry* by Pusha T
+  10. (tied 10th) *Sometimes I Might Be Introvert* by Little Simz
+  11. (tied 10th) *After Dinner We Talk Dreams* by MICHELLE
+- *TYRON* is carried by *i tried*, which comprises about 75% of its streams.
+- I think *Since I Left You* is being undercounted? I've definitely listened to it front to back at least 30 times.
+- 12 albums in the top 50 came out this year, which is only slightly more than last year (10).
+- Carry overs from last year are the cousins: *To Pimp A Butterfly* and *The Melodic Blue*.
+- SZA's *SOS* remarkably breaks the top 50 even though I only had 20 days to listen to it. Partially because the album is so long!
+
+## Other Thoughts on 2022 In Music
+
+I did really like this year in music. I felt that the return of touring brought out so many albums that we were waiting for *so long*: TDE's crown jewels of Kendrick and SZA; rap darlings Denzel and JID; beat tapes from Kenny and DOMi & JD BECK; mainstream powerhouses like Beyoncé and Harry; and so much more that I could just keep going.
+
+### Looking Forward to...
+
+Similar to last year, let me shout out some things I'm really excited about - and people you should definitely check out if you haven't already heard of!
+
+- Despite the controversy, I think this was a stellar year for women in rap. Megan had some absolutely killer cuts on her album (the trifecta of *Plan B*, *Budget*, *Anxiety*), and I'm excited to see her mature. Flo Milli, BIA, Latto, KenTheMan, Rico Nasty, and Chlöe all made their mark with club bangers. And I can't overstate just how great Little Simz is. Doechii may be my one to look out for next year, but I'm just generally more excited for more!
+- I'm definitely in an English speaking bubble. I want to spend more time listening to multilingual songs; some highlights from this year are Ado, BIBI, Stromae (ofc),
+- Seeing Arlo Parks live was definitely a concert highlight. *Softly* (and so many others) hit so different, and I think she can't do any wrong.
+- Even though we didn't get a big project from Tkay Maidza, *Nights In December* is absolutely stellar. Need more!
+- I'm a bit surprised that *Coast* didn't absolutely blow up; to me, it'd be one of the songs of the summer. I think Hailee is actually still really underrated!
+- If Nas follows up with yet another stellar album, I think he has a serious claim to being a dominant four-decade GOAT. Unheard of (Eminem and Jay are close).
+- More broadly, I'm curious if we'll see a returning trend to more introspective rap - I do feel like Travis and Migos are on their way out, and I don't think anybody has really replaced their dominance. I've loved so much of what I've heard in this domain though!
+- On the indie/alt-ish side of things, there's so much to look forward to after some great teasers (in various levels of popularity): Men I Trust, Sudan Archives, PinkPantheress, U.S. Girls
+- I am so so so excited for new Paramore :))
+
+### 2022 Wishlists and Predictions
+
+Let's see how I did!
+
+For rap:
+
+> Almost certain: Kendrick drops his album. Right? Right??
+
+nice :)
+
+> Pretty likely: we get another big *Blueberry Faygo*-style hit, blowing up off of Lyrical Lemonade.
+
+I think Central Cee's [Doja](https://www.youtube.com/watch?v=_VuJA-VQRcY) technically fits the bill here, but it's not the same level of success. Surprised that Bieber is getting eclipsed by BabyTron.
+
+> Likely: Doja Cat drops a rap album and features either Megan or Lil Nas X.
+
+Surprised that she didn't release, tbh!
+
+> 50/50: we get another classic Madlib collab album; Gunnlib seems the most likely.
+
+nope on Gunnlib :(
+
+> Unlikely: BROCKHAMPTON drop two albums in one year, fulfilling their label contract.
+
+I guess this did *technically* happen?
+
+> Pretty unlikely: JID drops a legendary album and sweeps the charts, critics, and award shows; the album features two of Drake, Kanye, Kendrick, and Cole.
+
+None of the features ended up happening :(
+
+> Moonshot: Kanye and Taylor make up, and one features on another's single, which is co-produced by Jack Antonoff and Kanye. They host a joint concert.
+
+Well ... Kanye definitely isn't doing great.
+
+And for pop:
+
+> Almost certain: rap will continue to make its way into the mainstream; Post Malone is somehow involved.
+
+We did get *Twelve Carat Toothache*!
+
+> Pretty likely: Elton John continues to release new music!
+
+*Hold Me Closer* with Britney racked up numbers!
+
+> Likely: Megan will rack up another feature on a huge pop song, and it'll need to be censored/people will complain.
+
+*Sweetest Pie* ended up being on her album, not Dua's. Absolutely feel for her given all this Tory Lanez drama :(
+
+> 50/50: We get a new Weeknd album.
+
+Apparently I wasn't online enough to realize it'd happen within two weeks of me writing my post!
+
+> Unlikely: After Olivia Rodrigo's success, we get yet *another* meteoric rise to fame from a previous child star. Happens more frequently than you think!
+
+Alas, I think it's a no on this one.
+
+> Pretty unlikely: Given Kavinsky's (and Swedish House Mafia's?!) return, I'd love to see more synthwave / synths make it way into pop. I could easily see Dua or Charli taking the reign here, as could The Weeknd. Calvin Harris would be a funny but welcome addition.
+
+We did get Vol 2 of *Funk Wav Bounces*, but I don't think it was enough.
+
+> Moonshot: Kero Kero Bonito enters the mainstream with their next album, and Ed Sheeran brings them on to a song that also features 2 Chainz for some reason?
+
+Next year, KKB fans. Next year.
+
+### 2023 Wishlists and Predictions
+
+Same idea, but hopefully a better success rate.
+
+Rap:
+
+- Almost certain: Megan drops another banger that drags her haters.
+- Pretty likely: another famous rapper's estate releases loosies that harm their image :(
+- Likely: Baby Keem drops another album and becomes pgLang's front-and-center!
+- 50/50: one of the BROCKHAMPTON boys drops an album that's an "instant classic" for BH fans but is critically panned.
+- Unlikely: one of Griselda reaches further commercial success with a Grammy nom and crossover feature.
+- Pretty unlikely: Jack Harlow wins the Grammy for Rap Album of the Year, causing a rapper to announce that they'll retire.
+- Moonshot: season 4 of [The Cave](https://www.youtube.com/playlist?list=PLOa7rvaTYe0Y0PR-agSDLG8XfldqZVVQj) has Kenny mediate Kanye (or a Kanye beef).
+
+Pop:
+
+- Almost certain: at least 20% of the Billboard Hot 100 has trended on TikTok.
+- Pretty likely: Zendaya hops on another song for Euphoria S3 with an indie darling and it does numbers.
+- Likely: Paramore's return gives them another #1.
+- 50/50: PinkPantheress continues to dominate and gets a main-mainstream feature.
+- Unlikely: we get a successful pop supergroup/duo (think Silk Sonic, LSD, or Boygenius).
+- Pretty unlikely: French pop starts to see the same American success as Spanish pop; Stromae racks up even more streams.
+- Moonshot: Kero Kero Bonito enters the mainstream with their next album, and Ed Sheeran brings them on to a song that also features 2 Chainz for some reason? (I like this one quite a bit).
+
+### Disappointments
+
+This year felt like lots of artists throwing shit at the wall and seeing what sticks. I think most of the experimentation was good, but there were some misses - perhaps more than normal.
+
+This time, I want to separate them into two categories.
+
+The first are when I'm whelmed. These weren't bad - they just weren't as good as I was hoping. I still enjoyed each of these albums in some way or the other, and I'll certainly be listening to their next project!
+
+- *chump change* by AUDREY NUNA, Deb Never
+- *Funk Wave Bounces Vol. 2* by Calvin Harris
+- *Hold The Girl* by Rina Sawayama
+- *Nicole* by NIKI
+- *$oul $old $eparately* by Freddie Gibbs
+- *The Car* by the Arctic Monkeys
+
+In contrast, there were just a few albums where ... I think something went catastrophically wrong.
+
+- I still think Drake is coasting, and *Honestly, Nevermind* and *Her Loss* are in the same boat as CLB, Views, Scorpion, etc. I hope we see a hungrier Drake in 2023, though I doubt it.
+- DJ Khaled continues to produce nothing and also somehow waste an absurd amount of talent? *GOD DID* feels like a Drake album in the worst way possible.
+- all the songs promoting crypto. very disappointing.
+- *Donda 2*. Just ... come on.
+
+I don't really have a strong enough of an opinion on Taylor to put *Midnights* in either of these buckets.
+
+### Honourable Mentions
+
+Artists/albums that did not technically release a new project this year, but deserve a shoutout:
+
+- Mac Miller's estate continues to be a shining example. The *I Love Life, Thank You*'s remaster is great!
+- The Baby Keem deluxe was *stellar*. Also huge huge shoutout to the [hooligan music video](https://www.youtube.com/watch?v=UOrv5ZSbTIY).
+
+## Closing (and random) Thoughts
+
+I wished I didn't procrastinate these!
+
+In reflection, I think I did accomplish some of my listening goals. Some things I want to try for this year:
+
+1. Above all, I want to listen to more non-English music. This is getting much *easier*, particularly due to the global success of Spanish music + Asian pop. I feel like I've only been impressed so far, so I should keep digging!
+2. DOMi & JD BECK and Laufey are really motivating me to listen to more jazz-adjacent music. Makes me wish I did this more when I was younger.
+3. I did set aside more time to listening to music, but I feel like I'm not digesting dense works as much as I should. So, I want to listen to more new music - interruption free.
+
+This year's list of new new (not a typo) music recommenders is a bit smaller than last year. Nevertheless, shoutout to Christine, Diantha, Edmond, Hannah, Lee, Sav, Shanley, and Youngbo! At this point, the entire circle is > 50 people. Lovely :)
+
+I'm a bit burned out on playlists right now. I might make 2022 (Matt's version) eventually, but not today.
+
+Until next time!
