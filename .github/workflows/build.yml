@@ -11,10 +11,10 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        ruby: [3.1.0]
+        ruby: [3.2.0]
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     # caches and runs bundle automatically - see
     # https://github.com/ruby/setup-ruby#caching-bundle-install-automatically
     - uses: ruby/setup-ruby@v1
