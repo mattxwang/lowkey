@@ -2373,3 +2373,14 @@ week210:
   genre: "pop rock"
   year: 2022
   blurb: Can't believe I missed this!
+week211:
+  week: "Week 211: January 6 - January 12"
+  title: "One Mic One Gun"
+  artists:
+  - "Nas"
+  - "21 Savage"
+  album: "One Mic One Gun"
+  album_art: "one-mic-one-gun.jpeg"
+  genre: "rap"
+  year: 2022
+  blurb: Been bumping this for the past month. What a great way to squash a beef!
