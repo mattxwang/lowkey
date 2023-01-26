@@ -2384,3 +2384,24 @@ week211:
   genre: "rap"
   year: 2022
   blurb: Been bumping this for the past month. What a great way to squash a beef!
+week212:
+  week: "Week 212: January 13 - January 19"
+  title: "Shinunoga E-Wa / 死ぬのがいいわ"
+  artists:
+  - "Fuji Kaze / 藤井風"
+  album: "HELP EVER HURT NEVER"
+  album_art: "hehn.jpeg"
+  genre: "jpop"
+  year: 2020
+  blurb: So late to the trend, but what a medley of pop, jazz, and rap production.
+week213:
+  week: "Week 213: January 20 - January 26"
+  title: "GOATED."
+  artists:
+  - "Armani White"
+  - "Denzel Curry"
+  album: "GOATED"
+  album_art: "goated.jpeg"
+  genre: "rap"
+  year: 2023
+  blurb: Denzel imbues a simple beat and chorus with inventive wordplay, effortlessly switches flows, and that signature Denzel energy.
