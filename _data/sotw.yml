@@ -2405,3 +2405,14 @@ week213:
   genre: "rap"
   year: 2023
   blurb: Denzel imbues a simple beat and chorus with inventive wordplay, effortlessly switches flows, and that signature Denzel energy.
+week214:
+  week: "Week 214: January 27 - February 2"
+  title: "Two Tens"
+  artists:
+  - "Cordae"
+  - "Anderson .Paak"
+  album: "Two Tens"
+  album_art: "two-tens.jpeg"
+  genre: "rap"
+  year: 2023
+  blurb: It's not RNP, but it shouldn't be. Smooth!
