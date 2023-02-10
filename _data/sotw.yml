@@ -2416,3 +2416,13 @@ week214:
   genre: "rap"
   year: 2023
   blurb: It's not RNP, but it shouldn't be. Smooth!
+week215:
+  week: "Week 215: February 3 - February 9"
+  title: "CUFF IT"
+  artists:
+  - "Beyoncé"
+  album: "Renaissance"
+  album_art: "renaissance.jpeg"
+  genre: "dance"
+  year: 2022
+  blurb: Shoutout Beyoncé for nabbing the most Grammys ever.
