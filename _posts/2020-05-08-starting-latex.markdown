@@ -5,6 +5,7 @@ categories:
 - dev
 author: '$matt$'
 layout: post
+published: false
 ---
 
 Wow, life has been really hectic for me for the past few weeks, and I never got around to finishing that CS 131 reflection. In fact, there are quite a few things that I'm not getting around to finishing; I'd say that quarantine is hitting me pretty hard.
@@ -31,7 +32,7 @@ A block of LaTeX might look like this:
   \begin{proof}
     We can take a similar approach to Question 2!
 
-    Recall that if $x_j$ a Cauchy sequence, then for any $\varepsilon_x \in \mathbb{R} > 0$, there is some $N_x$ such that for all $m,n \in \mathbb{N} \geq N_x$, $|x_m - x_n| < \varepsilon_x$. 
+    Recall that if $x_j$ a Cauchy sequence, then for any $\varepsilon_x \in \mathbb{R} > 0$, there is some $N_x$ such that for all $m,n \in \mathbb{N} \geq N_x$, $|x_m - x_n| < \varepsilon_x$.
 
     Similarly, for $y_j$, for any $\varepsilon_y \in \mathbb{R} > 0$, there is some $N_y$ such that for all $m,n \in \mathbb{N} \geq N_y$, $|y_m - y_n| < \varepsilon_y$.
 

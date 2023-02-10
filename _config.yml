@@ -43,6 +43,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
-paginate: 10
+paginate: 5
 
 words_read_per_minute: 180

@@ -5,6 +5,7 @@ categories:
 - life
 author: 'matt'
 layout: post
+published: false
 ---
 
 Wow, it's been a long time since I've really sat down and written something. As per usual, it's because I'm busy - but it's not the same kind of busy that I was in high school.
@@ -47,7 +48,7 @@ What I do lose sleep over is my general lack of reading. I'm not happy to report
 
 Next year, my ambitions are mostly ... not grand. I'm getting more involved in everything I do, which is natural, and I'm taking harder classes, which is natural. By itself, I think I can mostly juggle that - I've been getting a bit burnt out lately, but with some rejigging, it's definitely doable.
 
-I do also want to join a lab though, and that's a bit of spice that I'm unsure of how to handle. Maybe something to think about later. 
+I do also want to join a lab though, and that's a bit of spice that I'm unsure of how to handle. Maybe something to think about later.
 
 For now, I'm mostly just concerned with getting through these last few weeks, doing well on finals, and spending quality time with friends before they all head home for the summer. Then, it's internship szn - and I'll have some (hopefully) exciting thoughts on that soon too.
 
