@@ -5,6 +5,7 @@ categories:
 - entertainment
 author: "slightly more burnt out matt wang"
 layout: post
+published: false
 ---
 
 One of my great friends (the great Malcolm Risk) nominated me to write about my top ten albums on Facebook. I spent way too much time writing this, but I think that it deserves to be on here - I've posted much worse writing. I'll copy-paste verbatim what I posted on Facebook. While this is a bit repetitive with the 15at15 series, I focus more on the objective side of music (rather than focusing mostly on nostalgia and developing my taste in 15at15) - and hopefully that makes the reviews better to read.
@@ -57,7 +58,7 @@ Faves: Mess Around, Too Late To Say Goodbye, Cold Cold Cold, Trouble, How Are Yo
 
 ![Logic's Under Pressure]({{site.baseurl}}/img/albums/under-pressure.jpg)
 
-For a brief period in my life, Under Pressure was actually my favourite album of all time - I thought that Logic was going to be the leader of the new wave of rap, the saviour of the genre after the greats (Eminem and Jay-Z) had a dip in quality. Clearly, I was wrong in many ways, but I was accidentally correct in one: Logic’s Everybody (and more specifically, “1-800-273-8255”) became a chart-topper, and Logic is now a household name in North America. He’s now a lot of people’s favourite rapper, even though he is no longer mine.  
+For a brief period in my life, Under Pressure was actually my favourite album of all time - I thought that Logic was going to be the leader of the new wave of rap, the saviour of the genre after the greats (Eminem and Jay-Z) had a dip in quality. Clearly, I was wrong in many ways, but I was accidentally correct in one: Logic’s Everybody (and more specifically, “1-800-273-8255”) became a chart-topper, and Logic is now a household name in North America. He’s now a lot of people’s favourite rapper, even though he is no longer mine.
 
 He was, though, when he released Under Pressure.
 
@@ -318,7 +319,7 @@ P.S. This one is kinda disjointed because I wrote it over a few days and the ide
 
 Bruno Mars does not make bad music. In fact, I don’t think that Bruno Mars has made a bad song. To me, he’s the undisputed king of pop music - someone who I think will go down in history as the Michael Jackson or Elvis Presley of our time. I have a few reasons to back up my claim: Bruno is an amazingly talented singer and performer, has a great range of emotion in both his voice and his lyrics, and is a meticulous perfectionist. It’s no wonder that he has such broad appeal and commercial success: it’s because he’s a genuinely great artist.
 
-In words, it’s quite hard to explain exactly what makes someone an exceptionally talented singer (compared to someone who is just very talented), even more so when pop music is filled with people who have amazing vocal ranges (and can abuse auto-tune if needed). However, Bruno definitely has an exceptional voice: he has a nuts vocal range (3 octaves according to Wikipedia), his voice fits in many different types of songs (from slow ballads to high-energy bangers), and it’s just very pleasant to listen to. Doo-Wops & Hooligans lets Bruno show off his beautiful voice: his emotion and range on “Talking To The Moon”, his sexy playfulness on “Runaway Baby”, his pain on “Grenade”, it all blows me away.  
+In words, it’s quite hard to explain exactly what makes someone an exceptionally talented singer (compared to someone who is just very talented), even more so when pop music is filled with people who have amazing vocal ranges (and can abuse auto-tune if needed). However, Bruno definitely has an exceptional voice: he has a nuts vocal range (3 octaves according to Wikipedia), his voice fits in many different types of songs (from slow ballads to high-energy bangers), and it’s just very pleasant to listen to. Doo-Wops & Hooligans lets Bruno show off his beautiful voice: his emotion and range on “Talking To The Moon”, his sexy playfulness on “Runaway Baby”, his pain on “Grenade”, it all blows me away.
 
 I actually do want to hone in on the emotional range in his voice - it’s a characteristic that’s often underrated in pop music. Especially with the advent of electronic production, I find that often times pop artists have a lack of emotional flair in their songs; it’s almost as if the songs aren’t personal to them and instead were written by Max Martin (yes this is a Taylor Swift callout). Bruno doesn’t have that problem. Each song sounds personal - you can really feel the joy on “The Lazy Song”, the love in “Just The Way You Are”, and the sadness in “Liquor Store Blues”. You can feel the emotion on every song - there’s no filler song where Bruno calls it in (though I think he’s maybe a bit too lustful on “Our First Time”).
 

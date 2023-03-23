@@ -7,6 +7,7 @@ categories:
 - entertainment
 author: 'matt on the shore'
 layout: post
+published: true
 ---
 
 For a while (something around 6 years), I haven't read a fiction book for pleasure.
@@ -39,7 +40,7 @@ This past break, I had a friend give me a book for my birthday: *Bleeding Edge* 
 
 In fact, it moved me enough to push me to make a resolution: I need to read more fiction, for the sake of fiction.
 
-I will admit, I actually haven't read the book yet. But it's not because I've been flaky on this resolution. 
+I will admit, I actually haven't read the book yet. But it's not because I've been flaky on this resolution.
 
 ## kafka on the shore (no spoilers)
 

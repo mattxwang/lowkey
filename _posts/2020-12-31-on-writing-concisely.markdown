@@ -22,7 +22,7 @@ Unfortunately, writing concisely is a pretty important skill. People don't like 
 
 This blog is a perfect place to start. I have no external restrictions. I pick the topic and the depth. And, it keeps me (slightly) publicly accountable.
 
-So here's the deal. In 2021, I'll write a series of posts in the category of [On Conciseness]({{site.baseurl}}/specials/concise21/). Each post is limited to 500 words. The catch: I'm not going to change the ideas I want to write about. Every post will touch on something that I could easily write [2000]({% post_url 2018-09-09-hindsight-robotics %}), [8000]({% post_url 2020-06-27-reflecting-on-tla-dev-team %}), or even [13418 words]({% post_url 2018-07-16-top-ten-(facebook) %}) on.
+So here's the deal. In 2021, I'll write a series of posts in the category of [On Conciseness]({{site.baseurl}}/specials/concise21/). Each post is limited to 500 words. The catch: I'm not going to change the ideas I want to write about. Every post will touch on something that I could easily write [2000]({% post_url 2018-09-09-hindsight-robotics %}), [8000]({% post_url 2020-06-27-reflecting-on-tla-dev-team %}), or even 13418 words (I've since deleted this post) on.
 
 Packing my disjoint thoughts into 500 words is already tricky. But furthermore, I need to do the topic justice. I've struggled with writing posts like in the past; there's a plethora of forever-draft posts on social issues, current affairs, or reflections. I plan on reviving a few of these for this special. Nothing like extra restrictions to make you work harder.
 
