@@ -2502,7 +2502,7 @@ week222:
   year: 2023
   blurb: I have never cackled so much while being thoroughly amazed by a project's production. This one is closer to easy listening compared to ... some of the other songs. Those scare me.
 week223:
-  week: "Week 223: March 31 - Apr 6"
+  week: "Week 223: March 31 - April 6"
   title: "SORRY NOT SORRY"
   artists:
   - "Tyler, The Creator"
@@ -2511,3 +2511,23 @@ week223:
   genre: "rap"
   year: 2023
   blurb: "[Beautiful music video](https://www.youtube.com/watch?v=LSIOcCcEVaE) for a beautiful era of rap."
+week224:
+  week: "Week 224: April 7 - April 13"
+  title: "pg baby"
+  artists:
+  - "redveil"
+  album: "Learn 2 Swim"
+  album_art: "learn-2-swim.jpeg"
+  genre: "rap"
+  year: 2022
+  blurb: On a redveil grind.
+week225:
+  week: "Week 225: April 14 - April 20"
+  title: "Prom Night"
+  artists:
+  - "Chance the Rapper"
+  album: "10 Day"
+  album_art: "10-day.jpeg"
+  genre: "rap"
+  year: 2012
+  blurb: This for everybody's fucking prom night.
