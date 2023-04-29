@@ -2531,3 +2531,13 @@ week225:
   genre: "rap"
   year: 2012
   blurb: This for everybody's fucking prom night.
+week226:
+  week: "Week 226: April 21 - April 27"
+  title: "For DOOM"
+  artists:
+  - "Open Mike Eagle"
+  album: "Component System with the Auto Reverse"
+  album_art: "cswtar.jpeg"
+  genre: "rap"
+  year: 2022
+  blurb: On a massive rap binge recently, and so naturally tending towards OME!
