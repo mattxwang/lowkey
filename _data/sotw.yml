@@ -2541,3 +2541,23 @@ week226:
   genre: "rap"
   year: 2022
   blurb: On a massive rap binge recently, and so naturally tending towards OME!
+week227:
+  week: "Week 227: April 28 - May 4"
+  title: "Gang Gang Gang"
+  artists:
+  - "Jack Harlow"
+  album: "Jackman."
+  album_art: "jackman.jpeg"
+  genre: "rap"
+  year: 2023
+  blurb: "It surprises me just how many people (including Fantano!) are missing what this song is about: a critique of \"brotherhood\" and its lack of accountability. Coming from an all-boys school that was hyperfixated on brotherhood above all else, this song hits too close to home. Really wasn't expecting this from Jack Harlow!"
+week228:
+  week: "Week 228: May 5 - May 11"
+  title: "Love, Try Not To Let Go"
+  artists:
+  - "Julia Jacklin"
+  album: "PRE PLEASURE"
+  album_art: "jackman.jpeg"
+  genre: "indie rock"
+  year: 2022
+  blurb: Breaking a too-long streak of rap with a punchy, powerful, and almost overwhelming moden power ballad.
