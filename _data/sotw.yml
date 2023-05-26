@@ -2572,3 +2572,15 @@ week229:
   genre: "rap"
   year: 2023
   blurb: Painful, but also great timing.
+week230:
+  week: "Week 230: May 19 - May 25"
+  title: "Master P"
+  artists:
+  - "KAYTRANADA"
+  - "Aminé"
+  - "Big Sean"
+  album: "KAYTRAMINÉ"
+  album_art: "kaytramine.jpeg"
+  genre: "rap"
+  year: 2023
+  blurb: bop bop bop
