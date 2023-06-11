@@ -2584,3 +2584,26 @@ week230:
   genre: "rap"
   year: 2023
   blurb: bop bop bop
+week231:
+  week: "Week 231: May 26 - June 1"
+  title: "Daydreaming"
+  artists:
+  - "NxWorries"
+  - "Anderson .Paak"
+  - "Knxwledge"
+  album: "Daydreaming"
+  album_art: "daydreaming.jpeg"
+  genre: "r&b"
+  year: 2023
+  blurb: Quite excited for this album, it's another win for .Paak!
+week232:
+  week: "Week 232: June 1 - June 7"
+  title: "The Hillbillies"
+  artists:
+  - "Baby Keem"
+  - "Kendrick Lamar"
+  album: "Hillbillies"
+  album_art: "hillbillies.jpeg"
+  genre: "rap"
+  year: 2023
+  blurb: Glad to see the pgLang boys having fun.
