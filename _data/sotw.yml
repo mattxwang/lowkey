@@ -2597,7 +2597,7 @@ week231:
   year: 2023
   blurb: Quite excited for this album, it's another win for .Paak!
 week232:
-  week: "Week 232: June 1 - June 7"
+  week: "Week 232: June 2 - June 8"
   title: "The Hillbillies"
   artists:
   - "Baby Keem"
@@ -2607,3 +2607,23 @@ week232:
   genre: "rap"
   year: 2023
   blurb: Glad to see the pgLang boys having fun.
+week233:
+  week: "Week 233: June 9 - June 15"
+  title: "From The Start"
+  artists:
+  - "Laufey"
+  album: "From The Start"
+  album_art: "from-the-start.jpeg"
+  genre: "jazz pop"
+  year: 2023
+  blurb: I cannot underscore how amazing Laufey is. Elegant, charming, beautiful.
+week234:
+  week: "Week 234: June 16 - June 22"
+  title: "All I Wanted"
+  artists:
+  - "Paramore"
+  album: "Brand New Eyes"
+  album_art: "brand-new-eyes.jpg"
+  genre: "emo rock"
+  year: 2009
+  blurb: Ugh, this emo rock era was a time. Love Paramore.
