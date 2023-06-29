@@ -2627,3 +2627,13 @@ week234:
   genre: "emo rock"
   year: 2009
   blurb: Ugh, this emo rock era was a time. Love Paramore.
+week235:
+  week: "Week 235: June 23 - June 29"
+  title: "Nails"
+  artists:
+  - "Saint Levant"
+  album: "Nails"
+  album_art: "nails.jpeg"
+  genre: "rap"
+  year: 2023
+  blurb: Saint Levant's genre-bending trilingual rap is smooth as butter. [The music video](https://www.youtube.com/watch?v=J7e70aw_x_E) definitely made me chuckle.
