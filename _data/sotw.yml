@@ -2663,6 +2663,17 @@ week238:
   artists:
   - "Tanukichan"
   album: "Sundays"
-  album_art: "indie rock"
+  album_art: "sundays.jpeg"
+  genre: "indie rock"
   year: 2018
   blurb: Laid-back, relaxing, and chill rock - perfect for a hot summer.
+week239:
+  week: "Week 239: July 21 - 27"
+  title: "Rush"
+  artists:
+  - "Troye Sivan"
+  album: "Rush"
+  album_art: "rush.jpeg"
+  genre: "pop"
+  year: 2023
+  blurb: Absolute bop.
