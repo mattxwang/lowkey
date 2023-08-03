@@ -2677,3 +2677,13 @@ week239:
   genre: "pop"
   year: 2023
   blurb: Absolute bop.
+week240:
+  week: "Week 240: July 28 - August 3"
+  title: "Come Over"
+  artists:
+  - "Carly Rae Jepsen"
+  album: "The Loveliest Time"
+  album_art: "the-loveliest-time.jpeg"
+  genre: "pop"
+  year: 2023
+  blurb: She's back :)
