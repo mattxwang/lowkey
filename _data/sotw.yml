@@ -2699,3 +2699,14 @@ week241:
   genre: "pop"
   year: 2022
   blurb: The City Girl x tiffi combination is elite.
+week242:
+  week: "Week 242: August 11 - August 17"
+  title: "ABC"
+  artists:
+  - "Polyphia"
+  - "Sophia Black"
+  album: "Remember That You Will Die"
+  album_art: "remember-that-you-will-die.jpeg"
+  genre: "prog rock"
+  year: 2022
+  blurb: "This song is *such* an earworm: the perfect balance of Polyphia's insane technical skill and a piece that doesn't take itself too seriously."
