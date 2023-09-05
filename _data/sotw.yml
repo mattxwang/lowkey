@@ -2711,12 +2711,22 @@ week242:
   year: 2022
   blurb: "This song is *such* an earworm: the perfect balance of Polyphia's insane technical skill and a piece that doesn't take itself too seriously."
 week243:
-  week: "Week 243: August 18 - August 14"
+  week: "Week 243: August 18 - August 24"
   title: "Oh No Darling!"
   artists:
   - "Sarah Kinsley"
   album: "Ascension"
-  album_art: "ascension.jpeg"
+  album_art: "ascension.jpg"
   genre: "alt rock"
   year: 2023
   blurb: As my summer winds down, gotta give it to one of my songs of the summer. Shoutout Becky!
+week244:
+  week: "Week 244: August 24 - August 30"
+  title: "踊り子"
+  artists:
+  - "Vaundy"
+  album: "踊り子"
+  album_art: "踊り子.jpeg"
+  genre: "jpop"
+  year: 2023
+  blurb: Bye Boston (and the work bestie)! What a smooth, danceable song.
