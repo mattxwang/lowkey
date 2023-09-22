@@ -2750,3 +2750,14 @@ week246:
   genre: "jazz pop"
   year: 2023
   blurb: Of course she's done it again. Jealous of my friends who saw her live in LA!
+week247:
+  week: "Week 247: September 15th - September 21st"
+  title: "1-800-Nas&Hit"
+  artists:
+  - "Nas"
+  - "Hit-Boy"
+  album: "Magic 3"
+  album_art: "magic-3.jpeg"
+  genre: "rap"
+  year: 2023
+  blurb: The end (?) of a mind-blowing era. I don't think we'll see a six album run like this any time soon.
