@@ -2792,3 +2792,13 @@ week250:
   genre: "alt rock"
   year: 2020
   blurb: rt
+week251:
+  week: "Week 251: October 13th - October 20th"
+  title: "What's The Time Where You Are"
+  artists:
+  - "Troye Sivan"
+  album: "Something To Give Each Other"
+  album_art: "stgeo.jpeg"
+  genre: "pop"
+  year: 2023
+  blurb: Just another ~~straight~~ bop.
