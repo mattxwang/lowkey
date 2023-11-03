@@ -2793,7 +2793,7 @@ week250:
   year: 2020
   blurb: rt
 week251:
-  week: "Week 251: October 13th - October 20th"
+  week: "Week 251: October 13th - October 19th"
   title: "What's The Time Where You Are"
   artists:
   - "Troye Sivan"
@@ -2802,3 +2802,24 @@ week251:
   genre: "pop"
   year: 2023
   blurb: Just another ~~straight~~ bop.
+week252:
+  week: "Week 252: October 20th - October 26th"
+  title: "A Night To Remember"
+  artists:
+  - "beabadoobee"
+  - "Laufey"
+  album: "A Night To Remember"
+  album_art: "a-night-to-remember.jpeg"
+  genre: "alt pop"
+  year: 2023
+  blurb: The duo I never knew I needed? And excited for Laufey's potential feature run.
+week253:
+  week: "Week 253: October 27th - November 2nd"
+  title: "But Not For Me"
+  artists:
+  - "Chet Baker"
+  album: "Chet Baker Sings"
+  album_art: "chet-baker-sings.jpg"
+  genre: "vocal jazz"
+  year: 1954
+  blurb: Been on a massive Chet Baker binge this week!
