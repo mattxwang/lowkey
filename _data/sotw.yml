@@ -2823,3 +2823,33 @@ week253:
   genre: "vocal jazz"
   year: 1954
   blurb: Been on a massive Chet Baker binge this week!
+week254:
+  week: "Week 254: November 3rd - November 9th"
+  title: "To Summer, From Cole - Audio Hug"
+  artists:
+  - "J. Cole"
+  album: "CLEAR 2: SOFT LIFE EP"
+  album_art: "c2sle.jpeg"
+  genre: "rap"
+  year: 2023
+  blurb: Maybe one of the sweetest rap songs I've ever heard?
+week255:
+  week: "Week 255: November 10th - November 16th"
+  title: "Cobra"
+  artists:
+  - "Megan Thee Stallion"
+  album: "Cobra"
+  album_art: "cobra.jpeg"
+  genre: "rap"
+  year: 2023
+  blurb: Megan continues to kill the sad and introspective hot girl music from Traumazine.
+week256:
+  week: "Week 256: November 17th - November 23th"
+  title: "Don't Know How To Keep Loving You"
+  artists:
+  - "Julia Jacklin"
+  album: "Crushing"
+  album_art: "crushing.jpeg"
+  genre: "indie pop"
+  year: 2019
+  blurb: Truly crushing.
