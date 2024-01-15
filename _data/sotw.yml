@@ -2894,3 +2894,33 @@ week260:
   genre: "latin pop"
   year: 2022
   blurb: Never gave this song its flowers when it first came out, but better late than never! Feels like a Marías featuring Bad Bunny in my favourite way.
+week261:
+  week: "Week 261: December 22nd - December 28th"
+  title: "Vampire Empire"
+  artists:
+  - "Big Thief"
+  album: "Vampire Empire"
+  album_art: "vampire-empire.jpeg"
+  genre: "indie folk"
+  year: 2023
+  blurb: Such a powerful earworm with an eclectic chorus. Can't believe this isn't attached to an album (yet?).
+week262:
+  week: "Week 262: December 29th - January 4th"
+  title: "Night Shift"
+  artists:
+  - "Lucy Dacus"
+  album: "Historian"
+  album_art: "historian.jpeg"
+  genre: "indie rock"
+  year: 2018
+  blurb: A sombering and belt out crying song to end 2023.
+week263:
+  week: "Week 263: January 5th - January 11th"
+  title: "Every Day Is The Worst Day Of My Life"
+  artists:
+  - "The Lemon Twigs"
+  album: "Everything Harmony"
+  album_art: "everything-harmony.jpeg"
+  genre: "soft rock"
+  year: 2023
+  blurb: Facts.
