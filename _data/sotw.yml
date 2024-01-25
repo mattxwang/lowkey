@@ -2924,3 +2924,26 @@ week263:
   genre: "soft rock"
   year: 2023
   blurb: Facts.
+week264:
+  week: "Week 264: January 12th - January 18th"
+  title: "Not My Fault"
+  artists:
+  - "Reneé Rapp"
+  - "Megan Thee Stallion"
+  album: "Not My Fault"
+  album_art: "not-my-fault.jpeg"
+  genre: "pop"
+  year: 2023
+  blurb: Another absolute bop. I'm not sure why Reneé seems to have a grip on online music discourse right now, but I'm all for it!
+week265:
+  week: "Week 265: January 19th - January 25th"
+  title: "née-nah"
+  artists:
+  - "21 Savage"
+  - "Travis Scott"
+  - "Metro Boomin"
+  album: "american dream"
+  album_art: "american-dream.jpeg"
+  genre: "rap"
+  year: 2024
+  blurb: In an era where each of these artists are slightly off their peak, this song is an absolute pleasure, a return to form.
