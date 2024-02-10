@@ -2947,3 +2947,23 @@ week265:
   genre: "rap"
   year: 2024
   blurb: In an era where each of these artists are slightly off their peak, this song is an absolute pleasure, a return to form.
+week266:
+  week: "Week 266: January 26th - February 1st"
+  title: "whiplash"
+  artists:
+  - "2hollis"
+  album: "whiplash / cliche"
+  album_art: "whiplash.jpeg"
+  genre: "alt electronic"
+  year: 2023
+  blurb: Another brain-tickler!
+week267:
+  week: "Week 267: February 2nd - February 8th"
+  title: "Despair, Hangover & Ecstasy"
+  artists:
+  - "The Dø"
+  album: "Shake, Shook, Shaken"
+  album_art: "shake-shook-shaken.jpeg"
+  genre: "electropop"
+  year: 2014
+  blurb: Can you believe that this song is almost a decade old? I can't.
