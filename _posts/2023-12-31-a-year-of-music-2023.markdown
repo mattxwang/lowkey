@@ -1,0 +1,626 @@
+---
+title: 'My Music in 2023, A Glance'
+date: 2023-12-31 12:34:50 Z
+categories:
+- entertainment
+author: 'please call me matt'
+layout: post
+---
+
+(this post languished in my working directory for a month and a half. But I really did finish writing it in 2023...)
+
+This year has probably been the biggest material change to my life so far. But, it all still feels the same. Hm...
+
+Let's not be sad though, this is about music :)
+
+Note: this is one of those posts that I really just write for myself and for my friends to stalk. There's no continuity, you don't have to read all of this.
+
+(continuing on from [My Music in 2022, A Glance]({% link _posts/2022-12-31-a-year-of-music-2022.markdown %}); [My Music in 2021, A Glance]({% link _posts/2021-12-26-a-year-of-music-2021.markdown %}); [My Music in 2020, A Glance]({% link _posts/2020-12-19-a-year-of-music-2020.markdown %}); [My Music in 2019, A Glance]({% link _posts/2019-12-16-a-year-of-music-2019.markdown %}))
+
+## Table of Contents
+
+- Table of Contents
+{:toc}
+
+## Albums of the Year (4)
+
+I thought this was a particularly solid year for indie-ish artists, especially after 2022 saw almost all the big names drop! In fact, there's *a ton* of stellar albums that I didn't really hunker down and listen to (more on that later). It's not my fault that so many good albums came out after I started work!
+
+This is a long way of saying that I have a very short, sweet, and somewhat incomplete AOTY list:
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![bewitched album cover]({{site.baseurl}}/img/albums/bewitched.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>Bewitched</em> by Laufey</h3>
+    <p>
+      Laufey's bringing vocal jazz back!
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        Seeing Laufey's rise to stardom from <em>Typical of Me</em> has been an absolute treat. I am certainly no jazz aficionado — but like many other listeners in her (remarkably young for any jazz) fanbase, I'm entranced by her modern pop take on a classic genre. There's so much I adore about this album: the sprinklings of LA in <em>California and Me</em> and <em>Must Be Love</em>; the one-two punch of <em>While You Were Sleeping</em>'s softness and the power in <em>Lovesick</em>; the "blah blah blah" in <em>From The Start</em>! This album has been one of my easiest recommendations to almost everybody I know; there's something in it for everyone.
+      </p>
+      <p>
+        I will say, I'm a bit surprised at how heated the online discussion about her can be. I agree that most of her fans aren't jazz experts and probably haven't heard much vocal jazz. I certainly didn't grow up listening to it! But, that doesn't invalidate Laufey's work. To me, artists like her are wonderful for the genre. Many of her fans - including me - are going to wade a bit deeper in the ocean of jazz. She's constantly shouting out Ella Fitzgerald and Chet Baker (among others); sprinkling in <em>Misty</em> (and her many other studio recordings of jazz standards) certainly doesn't hurt! All in all, I am so delighted to see so many people into jazz!
+      </p>
+    </details>
+    <p>
+      Faves: <em>Second Best, While You Were Sleeping, Lovesick, California and Me, From The Start, Misty</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![guts album cover]({{site.baseurl}}/img/albums/guts.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>GUTS</em> by Olivia Rodrigo</h3>
+    <p>
+      Olivia defies the sophomore slump and brings us <em>SOUR</em> on steroids.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        The younger Paramore fan in me loved <em>SOUR</em> and wanted to hear more; Olivia does not disappoint. <em>GUTS</em> displays stellar range for a concise, sub 40-minute album: Olivia and Daniel Nigro effortlessly switch from pop-punk anthem to power ballad to heartfelt acoustic in a three-song run (<em>bad idea right?</em> to <em>vampire</em> to <em>lacy</em>), and then proceed to do it again on the back half of the album! Beyond that, I just love how much fun this album is (and that it doesn't take itself too seriously)! All in all, just a really fun listen :)
+      </p>
+    </details>
+    <p>
+      Faves: <em>all-american bitch, bad idea right?, vampire, lacy, get him back!, love is embarassing</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![i was mature for my age, but i was still a child album cover]({{site.baseurl}}/img/albums/iwmfmabiwsac.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>i was mature for my age, but i was still a child</em> by grouptherapy.</h3>
+    <p>
+      This trio reminds me of BROCKHAMPTON for all the right reasons.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        I don't love directly comparing artists to each other, but I can't help it: this album gives me the same giddy feeling as the original <em>SATURATION</em> run. The bones of this album are so sonically diverse! There isn't one core base genre, and no two songs sound alike: there's a grab bag of not only various modern rap subgenres, but elements of alt and pop-punk rock and a plethora of dance! Their lyrics are slightly unhinged, but the singing and flow is buttery smooth. It's an extraordinarily dynamic and fun record that's hard to capture elsewhere. If you've missed BROCKHAMPTON at all, I cannot recommend this album enough!
+      </p>
+    </details>
+    <p>
+      Faves: <em>American Psycho, how i'm feeling, Nasty, HOT!, FUNKFEST, DYSBF!</em>
+    </p>
+  </div>
+</div>
+
+<div class="row" markdown="0">
+  <div class="col-4" markdown="span">
+    ![the record album cover]({{site.baseurl}}/img/albums/the-record.jpeg)
+  </div>
+  <div class="col-8" markdown="0">
+    <h3 class="no-margin" ><em>the record</em> by boygenius</h3>
+    <p>
+      What a pristine album from the avengers of sad indie rock.
+    </p>
+    <details>
+      <summary markdown="span">a few more thoughts...</summary>
+      <p>
+        I don't have too much to say other than that this album is truly beautiful. I originally wrote off the 2018 EP as a one-time collaboration, but I'm so glad that it's not: this album sees Julien, Lucy, and Phoebe in perfect form after some absolutely stellar solo work from each of them in-between. I'm pleasantly surprised at how much identity this album has, even with three drivers (which is often challenging for super-duos - let alone trios)! If you haven't given this a listen, you absolutely should.
+      </p>
+    </details>
+    <p>
+      Faves: <em>$20, Emily I'm Sorry, Cool About It, Not Strong Enough, Satanist, Letter To An Old Poet</em>
+    </p>
+  </div>
+</div>
+
+## Other Albums That I Liked
+
+There were quite a few other albums that I rocked for a while - most of which coming from smaller artists!
+
+### Albums Released in 2023
+
+<details>
+<summary markdown="span">expand albums released in 2023</summary>
+
+- *10,000 gecs* by 100 gecs
+- *character development* by Zeph
+- *Chronicles of a Diamond* by Black Pumas
+- *Cracker Island* by Gorillaz
+- *GIZMO* by Tanukichan
+- *Grapes Upon the Vine* by TV Girl
+- *Heaven knows* by PinkPantheress
+- *Let's Start Here* by Lil Yachty
+- *KAYTRAMINÉ* by KAYTRAMINÉ, Aminé, KAYTRANADA
+- *Magic 2* by Nas
+- *Magic 3* by Nas
+- *MICHAEL* by Killer Mike
+- *SCARING THE HOES* by JPEGMAFIA, Danny Brown
+- *Something To Give Each Other* by Troye Sivan
+- *STRUGGLER* by Genesis Owusu
+- *Sweet Justice* by Tkay Maidza
+- *That! Feels Good!* by Jessie Ware
+- *The Great Escape* by Larry June, The Alchemist
+- *The Loveliest Time* by Carly Rae Jepsen
+- *This Is Why* by Paramore
+- *to love in the 21st century* by Lyn Lapid
+
+</details>
+
+A few quick highlights &amp; notes:
+
+- I think the smallest artists here are Zeph, Tanukichan, and Lyn Lapid - but they each deserve quite a bit more attention (except ... maybe Zeph's online presence).
+- while I'm sad to see the end of the Nas & Hit-Boy run, I'm still in such awe of their output: six high-quality albums in the span of a bit over 2 years is absolutely nuts!
+- *Let's Start Here* was so out of left field, and I loved it!
+- interestingly, a few of these albums are *heavily* carried by the singles for me; examples include *Cracker Island*, *Something To Give Each Other*, and *Sweet Justice*. An absolute godlike top 4/5 songs!
+- even though they're on this list, I was still a teensy bit disappointed by the three I just mentioned, plus *KAYTRAMINÉ* and *This Is Why*: I was thinking that most would be guaranteed AOTY this year!
+- I know *SCARING THE HOES* was on many top ten lists. I've never been as big of a fan of this style as people like Fantano, but I can't deny that peggy has done a stellar job with its production - and on an analog no less!
+
+### EPs Released in 2023
+
+<details>
+<summary markdown="span">expand favourite EPs in 2023</summary>
+
+- *BB/ANG3L* by Tinashe
+- *Drama* by aespa
+- *playpen* by Juliet Ivy
+- *Split Decision* by Dave, Central Cee
+- *THE GRATITUDE PROJECT* by Tiffany Day
+- *We Go Again* by ENNY
+- *WE'RE ALL BRODIES* by AG Club
+
+</details>
+
+Like last year, not too much to say. ENNY is probably the standout EP for me this year!
+
+### Albums Released Before 2023
+
+<details>
+<summary markdown="span">expand albums released before 2023</summary>
+
+- *10* by Westside Gunn
+- *Blue Rev* by Alvvays
+- *BUBBA* by KAYTRANADA
+- *Chet Baker Sings* by Chet Baker
+- *HYPNOS* by Ravyn Lenae
+
+</details>
+
+I went through quite a bit of my backlog, but these five stood out:
+
+- *10* has Westside Gunn playing a caricature of himself, in a way that I can't help but chuckle about.
+- *Blue Rev* is so smooth and serene, with just the right hint of quirk!
+- *BUBBA* is insanely danceable. It's one of those "got me walking weird in public" albums!
+- I've listened to *Chet Baker Sings* before, but Laufey blowing up had me going through this album with a reinvigorated passion. Just a genre-definer!
+- *HYPNOS* is easily one of the most unique and well-executed R&B albums I've heard in the past ten years. Kind of can't believe that this is a debut studio album!
+
+### Albums I Will Get Around To Soon
+
+Continuing from last year: there were *so many* albums and songs that I listened to only once or twice that I really wish I had more time to dig into! If I had more time, I'm pretty certain that they'd make the good album/song list - and perhaps, even some AOTYs!
+
+Some albums that seem pretty great (and hopefully will enter the rotation next year):
+
+<details>
+<summary markdown="span">expand the 2023 album to-do list</summary>
+
+- *14K Figaro* by Wiki and Tony Seltzer
+- *3D Country* by Geese
+- *Burning Desire* by MIKE
+- *Desire, I Want To Turn Into You* by Caroline Polacheck
+- *Did you know that there's a tunnel under Ocean Blvd* by Lana Del Rey
+- *Everything Harmony* by The Lemon Twigs
+- *HELLMODE* by Jeff Rosenstock
+- *Javelin* by Sufjan Stevens
+- *Lahai* by Sampha
+- *Playing Robots Into Heaven* by James Blake
+- *Quaranta* by Danny Brown
+- *The Land Is Inhospitable And So Are We* by Mitski
+- *The Patience* by Mick Jenkins
+- *VOIR DIRE* by Earl Sweatshirt and The Alchemist
+
+For what it's worth, I've listened to a few of these albums (14K, Lana, Mitski, VOIR DIRE) a couple of times - but not enough to get a confident "AOTY" opinion on them.
+
+</details>
+
+Ones I didn't get around to from last year's list:
+
+<details>
+<summary markdown="span">expand the songs from last year's list</summary>
+
+- *Chromatica* by Lady Gaga
+- *Dirt Femme* by Tove Lo
+- *Every Shade of Blue* by The Head And The Heart
+- *God Don't Make Mistakes* by Conway the Machine
+- *hypochondriac* by brakence
+- *If This Isn't Nice, I Don't Know What Is* by Still Woozy
+- *It Is What It Is* by Thundercat
+- *Juno* by Remi Wolf
+- *Laurel Hell* by Mitski
+- *Natural Brown Prom Queen* by Sudan Archives
+- *Once Twice Melody* by Beach House
+- *Pang* by Caroline Polacheck
+- *Preacher's Daughter* by Ethel Cain
+- *rising* by mxmtoon
+- *The Elephant Man's Bones* by Roc Marciano, The Alchemist
+- *The Turning Wheel* by Spelling
+- *Valentine* by Snail Mail
+- *Visions of Bodies Being Burned* by clipping.
+- *We're All Alone In This Together* by Dave
+- *World Wide Pop* by Superorganism
+
+</details>
+
+## Songs of the Year
+
+This section was so fun to put together - just some absolutely stellar singles on top of albums!
+
+### Top 42
+
+My "[amperes](https://open.spotify.com/playlist/2cT6Y3KwCvep7JZE6OUMlj?si=afaccadeb99b42ae) for 2023", limited to one song per 2023 album. I've noted the songs *not* coming from a fave album/EP with (*).
+
+<details>
+<summary markdown="span">the top 42 songs of my year!</summary>
+
+- *A Night To Remember* by beabadoobee, Laufey (*)
+- *Agora Hills* by Doja Cat (*)
+- *AMERICA HAS A PROBLEM* (remix) by Beyoncé, Kendrick Lamar (*)
+- *bad idea right?* by Olivia Rodrigo
+- *Barry* by AG Club
+- *Capable of love* by PinkPantheress
+- *Charge It* by ENNY
+- *Crave* by Paramore
+- *cross ur mind* by Lyn Lapid
+- *Cobra* by Megan Thee Stallion
+- *Dance The Night* by Dua Lipa
+- *DYSBF!* by grouptherapy.
+- *Enjoy Your Life* by Romy (*)
+- *EVERYTHING IS RED* by Koven Wei (*)
+- *F Taste* by Yoshi T. (*)
+- *Frog On The Floor* by 100 gecs
+- *From The Start* by Laufey
+- *GOATED* by Armani White, Denzel Curry (*)
+- *Hello Love* by Jessie Ware
+- *Hot Air Balloon* by aespa
+- *Kingdom Hearts Key* by JPEGMAFIA, Danny Brown, redveil\
+- *Leaving The Light* by Genesis Owusu
+- *Master P* by KAYTRAMINÉ, Big Sean
+- *More Than a Love Song* by Black Pumas
+- *MOTHERLESS* by Killer Mike, Eryn Allen Kane
+- *Nachts wach* by Miksu / Macloud, makko (*)
+- *Needs* by Tinashe
+- *Not Strong Enough* by boygenius
+- *Oh No Darling!* by Sarah Kinsley (*)
+- *Pistols On Your Album Cover* by Nas
+- *Psychedelic Switch* by Carly Rae Jepsen
+- *Run, Run, Run* by McKinley Dixon (*)
+- *Rush* by Troye Sivan
+- *SHOOTING STAR* by XG (*)
+- *sorry i'm not* by Zeph
+- *Tally* by midwxst, Denzel Curry (*)
+- *The Hillbillies* by Baby Keem, Kendrick Lamar
+- *The Tide* by Hit-Boy, Nas (*)
+- *Two Tens* by Cordae, Anderson .Paak (*)
+- *Wana* by nour (*)
+- *we're all eating each other* by Juliet Ivy
+- *Won One* by Tkay Maidza
+
+</details>
+
+If I had to pick one: *Rush* would probably be my favourite song this year, with *Oh No Darling!*, *From The Start*, *Nachts wach*, and *bad idea right!* trailing close by.
+
+### Other Songs Released in 2023 (favourite albums non-inclusive)
+
+This year, I felt like a particularly sizeable chunk of my favourite songs didn't come from albums!
+
+<details>
+<summary markdown="span">expand my other favourite 2023 songs</summary>
+
+- *アイドル* by YOASOBI
+- *A Night To Remember* by beabadoobee, Laufey
+- *Agora Hills* by Doja Cat
+- *All My Life* by Lil Durk, J. Cole
+- *AMERICA HAS A PROBLEM* (remix) by Beyoncé, Kendrick Lamar
+- *Average Guy (Blame)* by TV Girl, Monster Rally
+- *Back On 74* by Jungle
+- *Be Somebody* by Emotional Oranges, Tkay Maidza
+- *Chameleon* by Dark Dazey
+- *Cobra* by Megan Thee Stallion
+- *Crushxd* by Crumb
+- *Dance The Night* by Dua Lipa
+- *Daydreaming* by NxWorries, Anderson .Paak, Knxwldge
+- *delulu* by Lexie Liu
+- *Dizzy Vision* by Dev Lemons
+- *Doomsday* by Lyrical Lemonade, Juice WRLD, Cordae
+- *Enjoy Your Life* by Romy
+- *EVERYTHING IS RED* by Koven Wei
+- *Eye For An Eye* by Rina Sawayama
+- *F Taste* by Yoshi T.
+- *Flow* by Jourden
+- *Flowers* by TOBi, MAVI
+- *Gang Gang Gang* by Jack Harlow
+- *Girl Like Me* by Slayyyter
+- *Glue song* by beabadoobee
+- *GOATED* by Armani White, Denzel Curry
+- *Greatness* by Quavo
+- *Love is Beautiful* by Rei, Ginger Root
+- *Nachts wach* by Miksu / Macloud, makko
+- *Oh No Darling!* by Sarah Kinsley
+- *Outta This World* by Harrison, TOBi
+- *Red Wine Supernova* by Chappel Roan
+- *Run, Run, Run* by McKinley Dixon
+- *Sci-Fi* by Tainy, Rauw Alejandro
+- *SHOOTING STAR* by XG
+- *shy girl* by wilo wilde
+- *So Fly* by Chinatown Slalom
+- *Sometimes...* by Snakehips, Daya, EARTHGANG
+- *Tally* by midwxst, Denzel Curry
+- *The Hillbillies* by Baby Keem, Kendrick Lamar
+- *The Tide* by Hit-Boy, Nas
+- *the way things go* by beabadoobee
+- *Two Tens* by Cordae, Anderson .Paak
+- *Vampire Empire* by Big Thief
+- *VORTEX* by JAWS
+- *Wana* by nour
+
+</details>
+
+Thoughts:
+
+- *Nachts wach* is one of my favourite finds! Maybe I should be listening to more German music...
+- I felt like there was some absolutely stellar art - *Run, Run, Run* and *Oh No Darling!* are some of the most special songs I've heard in their respective genres!
+- *VORTEX* is a really neat song (there's a portion of the song that rewinds, and it just works!)
+- I can't believe we got baited with just *The Hillbillies* and not anything else, *even with* the Flog Gnaw headline!
+- an interesting note is how broad the language spectrum is here: *アイドル*, *Nachts wach*, *Sci-Fi*, *SOOTING STAR*, and *Wana*!!
+- bea is (in my opinion) having an absolutely amazing single run. I am so excited for what she drops next!
+- unironically, the Barbie soundtrack is kind of a bop?
+- I can't believe I'm saying this, but I actually think that *Gang Gang Gang* was misunderstood by most critics; it's clearly a *criticism* of "brotherhood", not an endorsement. Reminds me quite a bit of my high school.
+- shoutout Koven, who I went to middle school with :)
+
+### Songs Released Before 2023
+
+For a song to qualify here, I listened to it (and added it to a playlist) for the first time this year. These ones tend to be *slightly* more notable, or the list would be a bit too long!
+
+<details>
+<summary markdown="span">expand some the great non-2023 songs I heard</summary>
+
+- *5g* by brakence
+- *ABC* by Polyphia, Sophia Black
+- *Armed And Dangerous* by Juice WRLD
+- *Bang My Line* by Cosmo’s Midnight, Tkay Maidza
+- *Cheating is a crime* by takayan
+- *De todas las flores* by Natalia Lafourcade
+- *Déjenme Llorar* by Carla Morrison
+- *Do Not Disturb* by Smokepurpp, Murda Beatz, Lil Yachty, Offset
+- *Don't Know How To Keep Loving You* by Julia Jacklin
+- *Get Away* by BIG K.R.I.T.
+- *HEARTBREAKER CLUB* by City Girl, tiffi, Highvyn
+- *Hunned Bandz* by Tanukichan
+- *I Think I Like When It Rains* by WILLIS
+- *Love, Try Not To Let Go* by Julia Jacklin
+- *Morning Sex* by Joey Purp
+- *Notion* by The Rare Occasions
+- *running down* by juhye, melatonin boy
+- *死ぬのがいいわ* by Fuji Kaze
+- *Still Got Time* by dexter in the newsagent
+- *UNE MAIN LAVE L’AUTRE* by Alpha Wann
+- *Why Do You Feel So Down* by Declan McKenna
+- *踊り子* by Vaundy
+
+</details>
+
+Some quick tidbits:
+
+- *踊り子* is potentially my favourite song of this year. Shoutout Sydney!
+- I really appreciated Polyphia and Julia Jacklin more this year!
+- beyond that, the big takeaway is again more non-English music - from Japanese (*Cheating is a crime*, *死ぬのがいいわ*, and *踊り子*) to Spanish (*De todas las flores* and *Déjenme Llorar*) to French (*UNE MAIN LAVE L’AUTRE*)
+- I think the most out of character pick for me is *Armed And Dangerous* - why am I only getting around to this now, especially as I listen to *less* trap and melodic rap? We'll never know!
+
+## Stats et al
+
+### Spotify Wrapped
+
+![2023 wrapped]({{site.baseurl}}/img/2023-wrapped.jpg){: style="max-width: 500px"}
+
+Laufey really dominates! Kendrick and The Avalanches return from last year. I don't think I've listened to more 21 & Metro than normal; rather, I think I've been listening to more artists in general. All of these are "album" artists for me, while all of the songs are basically singles to me. But, I think the more interesting bit is...
+
+### Last.fm
+
+This is [year five of last.fm](https://www.last.fm/user/matthewxwang). I also started paying for it (now that I have a full-time job). Like before, this is just me transcribing publicly available data.
+
+On artists:
+
+- I listened to 1616 unique artists this year, which is about 250 more than last year (1345). I think I put more effort into artist discovery, which definitely shows!
+- The top ten (with position changes) is:
+  1. Laufey (+29)
+  2. The Avalanches (+0)
+  3. Kendrick Lamar (-2)
+  4. Baby Keem (+4)
+  5. Mac Miller (+11)
+  6. Nas (+11)
+  7. Chet Baker (+>200)
+  8. 21 Savage (+4)
+  9. Metro Boomin (+33)
+  10. Little Simz (+0)
+- exactly like last year, 4 of the top 10 (Kendrick, The Avalanches, Baby Keem, and Little Simz) retained a spot from last year. Surprisingly, The Avalanches and Simz are in the same spots
+- unlike last year, only two of these artists dropped new projects: *Bewitched* and Metro's Spiderverse album (which was meh)
+- even less than years' past, grouptherapy. (44) is the **only** new artist for me in the top 50! (treating groups as the intersection of their aritsts)
+- and, a good chunk (probably over half) of my top 50 didn't release a new project this year. I guess I've been sticking to the classics!
+
+On songs:
+
+- The tracks scrobbled clocks in at 19491, a bit higher than 18435 songs last year! I average 53 scrobbles a day.
+- I listened to 6492 unique songs (quite a bit more than last year's 5335).
+- My most-listened to month was July, which tracks with my (very long) Malden-Boston commute; my lowest was in January.
+- The top ten was *very* close!
+  - there was a five-way tie for first place (35): Laufey's *California and Me*, *From The Start*, *Lovesick*, Polyphia and Sophia Black's *ABC*, and Young Thug and Drake's *Oh U Went*!
+  - the next five are Baby Keem's *scapegoats*, Laufey's *Must Be Love*, her *While You Were Sleeping* and Mac Miller's *Diablo* (tied for 8th), and Armani White &amp; Denzel Curry's *GOATED* and Laufey's *Haunted* (tied for 10th)
+- Unlike the other years, this year's top 10 is dominanted by 2023 songs: Laufey's five (!!) plus *Oh U Went* and *GOATED*.
+- In the top 50, the other 2023 songs are
+  - Hit-Boy and Nas's *The Tide*, and the reverse's *Pistols On Your Album Cover*
+  - Dave and Central Cee's *Sprinter*
+  - Tainy, Young Miko, and the Marías *mañana*
+  - Tainy and Rauw Alejandro's *Sci-Fi*
+  - Black Pumas's *More Than A Love Song*
+  - boygenius's *Not Strong Enough*
+  - Laufey's *Dreamer*, *Nocturne (Interlude)*, *Second Best*, and *Misty*
+- More songs are from before I was born than ever before: De La Soul's *Eye Know* and Chet Baker's *Like Someone In Love*, *I've Never Been In Love Before*, *It's Always You*, *My Ideal*, and *That Old Feeling*
+- None of the suicide songs carried over (nice!); sticking around from last year are *scapegoats*, *Diablo*, *a lot*, *Modern Slavery*, *Since I Left You*, *TAKE A CHANCE*, *Alright*, *family ties*, *hooligan*, and *Ric Flair Drip*
+
+On albums:
+
+- *3196* unique albums - quite a bit more than *2684* from last year!
+- My top ten is:
+  1. *Bewiched* by Laufey
+  2. *Faces* by Mac Miller
+  3. *The Melodic Blue* by Baby Keem
+  4. *Chet Baker Sings* by Chet Baker
+  5. *NOT TiGHT* by DOMi & JD Beck
+  6. *Since I Left You* by The Avalanches
+  7. *HEROES & VILLAINS* by Metro Boomin
+  8. *To Pimp a Butterfly* by Kendrick Lamar
+  9. *LOUIE* by Kenny Beats
+  10. *Everything I Know About Love* by Laufey
+- half of the top ten are carry-overs from last year: *The Melodic Blue*, *NOT TiGHT*, *Since I Left You*, *To Pimp a Butterfly*, and *LOUIE*
+- out of the top 50, more are from 2023 than normal: *Bewitched*, *the record*, *Something to Give Each Other* (which might be carried by *Rush*), *i was mature for my age, but i was still a child*, *to love in the 21st century*, *The Great Escape*, *The Loveliest Time*, and *SCARING THE HOES*
+
+## Other Thoughts on 2023 In Music
+
+Like I mentioned in the intro, I think 2023 was a huge win for smaller and newer artists. This is reflected both in the music that I listened to, and what's popular now. This has me quite hopeful for 2024: both for even more new music from these artists, and hopefully that it's given the old guard reason for competition.
+
+### Looking Forward to...
+
+I'll be brief, but here are some quick thoughts on what I'm most looking forward to, with a focus on smaller artists:
+
+- Laufey has to be a big "I called it!" moment for me. Gonna be loving what she does next!
+- the other AOTYs are stellar too, but I'm especially excited for new grouptherapy.
+- beabadoobee is on an insane single run, and I'm hoping that this new album brings her to the mainstream!
+- Dev Lemons has an unmatched online persona, but I've also been loving some of her music - I'd love to get more Dev music content (songs or otherwise!)
+- in the jazz rap scene, McKinley Dixon seems like a diamond in the rough. Going to be eagerly awaiting what's next!
+- Yoshi T and nour have been getting some online buzz recently - I'm hoping this rides into a big EP (and LP!?) for them next! Both have a very dynamic take on their respective genres!
+- I'm so surprised that The Alchemist is still producing gold after all these years, even with multiple collab albums a year. How does he do it? And who will be next?
+- similarly, PinkPantheress has been on an output grind recently; I'd be more than happy if she kept pace next year.
+
+I'm anticipating a packed mainstream, but I've got to be the most excited for new Megan (!) and maybe, just maybe, The Hillbillies.
+
+### 2023 Wishlists and Predictions
+
+Let's see how well I did from last year!
+
+For rap,
+
+> Almost certain: Megan drops another banger that drags her haters.
+
+*Cobra* was amazing :)
+
+> Pretty likely: another famous rapper's estate releases loosies that harm their image :(
+
+I'm not sure if I can really qualitatively judge this. I am pleasantly surprised that Juice WRLD's releases this year have been (imo) quite solid; loved the [Doomsday Video](https://www.youtube.com/watch?v=JdXubSf5YUc).
+
+> Likely: Baby Keem drops another album and becomes pgLang's front-and-center!
+
+We got baited >:(
+
+> 50/50: one of the BROCKHAMPTON boys drops an album that's an "instant classic" for BH fans but is critically panned.
+
+*Blanket* was a bit polarizing, but I think this counts!
+
+> Unlikely: one of Griselda reaches further commercial success with a Grammy nom and crossover feature.
+
+No grammy nods, and I'm not aware of any big crossovers.
+
+> Pretty unlikely: Jack Harlow wins the Grammy for Rap Album of the Year, causing a rapper to announce that they'll retire.
+
+LOL. Shoutout Kendrick.
+
+> Moonshot: season 4 of [The Cave](https://www.youtube.com/playlist?list=PLOa7rvaTYe0Y0PR-agSDLG8XfldqZVVQj) has Kenny mediate Kanye (or a Kanye beef).
+
+S4 of the Cave has been really fun though!!
+
+Pop:
+
+> Almost certain: at least 20% of the Billboard Hot 100 has trended on TikTok.
+
+I realized this is an ill-formed question, but, let's proxy this by looking at the [Hot 100 No. 1's of 2023](https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2023) or [the Year-End Hot 100 singles of 2023](https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2023). I am really surprised that Last Night by Morgan Wallen is *so* popular (maybe I'm out of touch). With a very quick glance, I'm almost certainly right!
+
+> Pretty likely: Zendaya hops on another song for Euphoria S3 with an indie darling and it does numbers.
+
+Clearly I don't know how Euphoria's release schedule works!
+
+> Likely: Paramore's return gives them another #1.
+
+*This Is Why* debuted at No. 2 on the Billboard 200, but did hit No. 1 on Rock & Alternative! So I'll call it a win.
+
+> 50/50: PinkPantheress continues to dominate and gets a main-mainstream feature.
+
+Right on the money!! Shoutout Boy's a liar pt 2 :)
+
+> Unlikely: we get a successful pop supergroup/duo (think Silk Sonic, LSD, or Boygenius).
+
+I don't *think* this happened :/
+
+> Pretty unlikely: French pop starts to see the same American success as Spanish pop; Stromae racks up even more streams.
+
+Drats, we'll have to get them l'année prochaine.
+
+> Moonshot: Kero Kero Bonito enters the mainstream with their next album, and Ed Sheeran brings them on to a song that also features 2 Chainz for some reason? (I like this one quite a bit).
+
+I'm *sure* that 2024 is the year!
+
+### 2024 Wishlists and Predictions
+
+Same idea, but hopefully a better success rate.
+
+Rap:
+
+- Almost certain: Drake racks up another Billboard No. 1 feature
+- Pretty likely: Rogét Chahayed racks up at least two Billboard No. 1 producer credits (maybe one from Jack Harlow's new album?)
+- Likely: J. Cole does release *The Fall Off* with an absolutely dominant lead single
+- 50/50: The Hillbillies album drops. Right? RIGHT??
+- Unlikely: we see midwxst or glaive-like alt-rap enter the mainstream more, in part thanks to a big artist (Drake?) biting the vibe.
+- Pretty unlikely: next year's XXL class has the same magic as [the 2016 cypher](https://www.youtube.com/watch?v=U_IbIMUbh-k)
+- Moonshot: Kendrick drops a surprise album that affects the 2024 election in some way
+
+Pop:
+
+- Almost certain: Jack Antonoff is still around ... scheming...
+- Pretty likely: another solo kpop artist from a former boy band drops a massively-successful charting song
+- Likely: we get a main pop crossover with Sexxy Red à la Boys a liar Pt. 2 and/or Karma
+- 50/50: we get another multi-week chart topping pop-country album (Kacey Musgraves hasn't dropped in a bit...)
+- Unlikely: we get a successful pop supergroup/duo (think Silk Sonic, LSD, or Boygenius). (I liked this from last year)
+- Pretty unlikely: blues makes a chart revival similar to vocal jazz and Laufey
+- Moonshot: once again, Kero Kero Bonito enters the mainstream with their next album, and Ed Sheeran brings them on to a song that also features 2 Chainz for some reason?
+
+### Disappointments
+
+I'm trying to be a bit less of a hater this year. So really, I only have a small handful of things on my list (excluding albums that I still enjoyed, but just were missing something):
+
+- Drake continues to be Drake and drop these massive albums with little quality control and mostly the same bars. *For All The Dogs* is a slight step up from CLB (low bar), but I really do want to see Drake hungry!
+- Logic, what in the world is this [review video](https://www.youtube.com/watch?v=HQdkzimX8n8). Come on man. I will say, it led to one of my [new favourite videos of all time](https://www.youtube.com/watch?v=uk2-NQFqpBQ).
+- Kanye ... just ... come on ...
+
+More broadly, I was a bit disappointed by the mainstream rap scene, but I think this is a function of 2022 being an absolutely stellar year and me becoming a "get off my lawn" listener.
+
+### Honourable Mentions
+
+Quick shoutout to De La Soul's *3 Feet High and Rising* making it back on streaming. I was *so delighted*: a few songs here were some of my very first rap songs I ever listened to!
+
+Also, shoutout to the CALL ME IF YOU GET LOST deluxe - one of the best deluxes I've heard in a while, with an [absolutely stellar music video](https://www.youtube.com/watch?v=LSIOcCcEVaE).
+
+## Closing (and random) Thoughts
+
+I (still) wished I didn't procrastinate these!
+
+Overall, I'm relatively proud of listening to more music that's not in English - special thanks to Karen for encouraging quite a bit of this. I still have many, many more languages and genres to discover! Similarly, I did fulfill a previous goal of listening to more jazz - both Laufey and some of the classics (like Chet Baker, Ella Fitzgerald, Herbie Hancock).
+
+Interestingly, I feel like I'm creeping back to EDM. Let's see how this goes.
+
+This year, I think my big goal will be to dedicate more time to listening to albums in full (look how big the backlog is!) while working full-time. I really didn't do this in the last half of the year, and it showed.
+
+Because of various circumstances (mostly lots of moving), the new people in the music recommendation circle are few and far between. Shoutout to the Boston besties of Sydney, Becky, and Jade! And of course, continued shoutouts to the people from years past.
+
+Here's a "year in review" playlist from me, if you're curious - or want something to play in the background. Just make sure to skip the 100 gecs and JPEGMAFIA songs if necessary :)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7tO96pMBvEYsIEE6C1nLHr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Until next time!
