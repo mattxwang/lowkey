@@ -2967,3 +2967,23 @@ week267:
   genre: "electropop"
   year: 2014
   blurb: Can you believe that this song is almost a decade old? I can't.
+week268:
+  week: "Week 268: February 9th - February 15th"
+  title: "Tragedy"
+  artists:
+  - "dhruv"
+  album: "Tragedy"
+  album_art: "tragedy.jpeg"
+  genre: "pop"
+  year: 2024
+  blurb: How does this man never miss??
+week269:
+  week: "Week 269: February 16th - February 22nd"
+  title: "Marigold"
+  artists:
+  - "Mia Day"
+  album: "Marigold"
+  album_art: "marigold.jpeg"
+  genre: "indie rock"
+  year: 2023
+  blurb: Shoutout Mia!
