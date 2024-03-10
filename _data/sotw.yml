@@ -2987,3 +2987,23 @@ week269:
   genre: "indie rock"
   year: 2023
   blurb: Shoutout Mia!
+week270:
+  week: "Week 270: February 23rd - February 29th"
+  title: "OMG"
+  artists:
+  - "Suki Waterhouse"
+  album: "OMG"
+  album_art: "omg.jpeg"
+  genre: "indie rock"
+  year: 2024
+  blurb: Earworm chorus and the right balance of grunge - excited for this album!
+week271:
+  week: "Week 271: March 1st - March 7th"
+  title: "Von dutch"
+  artists:
+  - "Charli XCX"
+  album: "Von dutch"
+  album_art: "von-dutch.jpeg"
+  genre: "electropop"
+  year: 2024
+  blurb: It's Charli, baby...
