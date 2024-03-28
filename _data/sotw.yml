@@ -3007,3 +3007,35 @@ week271:
   genre: "electropop"
   year: 2024
   blurb: It's Charli, baby...
+week272:
+  week: "Week 272: March 8th - March 14th"
+  title: "Goddess"
+  artists:
+  - "Laufey"
+  album: "Goddess"
+  album_art: "goddess.png"
+  genre: "jazz pop"
+  year: 2024
+  blurb: You already know...
+week273:
+  week: "Week 273: March 15th - March 21st"
+  title: "violet"
+  artists:
+  - "Marianne Ross"
+  album: "violet"
+  album_art: "violet.jpg"
+  genre: "indie pop"
+  year: 2023
+  blurb: This is very Mitski/boygenius/beabadoobee/Laufey-core... I've been played...
+week274:
+  week: "Week 274: March 22nd - March 28th"
+  title: "Like That"
+  artists:
+  - "Future"
+  - "Metro Boomin"
+  - "Kendrick Lamar"
+  album: "WE DON'T TRUST YOU"
+  album_art: "we-dont-trust-you.jpg"
+  genre: "rap"
+  year: 2024
+  blurb: How could I avoid this? Kendrick is hungry - there is no big three. Metro brings a surprising flip on a generally overplayed sample.
