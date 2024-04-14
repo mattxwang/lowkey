@@ -3039,3 +3039,23 @@ week274:
   genre: "rap"
   year: 2024
   blurb: How could I avoid this? Kendrick is hungry - there is no big three. Metro brings a surprising flip on a generally overplayed sample.
+week275:
+  week: "Week 275: March 29th - April 4th"
+  title: "16 CARRIAGES"
+  artists:
+  - "Beyoncé"
+  album: "COWBOY CARTER"
+  album_art: "cowboy-carter.jpeg"
+  genre: "country"
+  year: 2024
+  blurb: Album is a great balance of vulnerability and absolute bops!
+week276:
+  week: "Week 276: April 5th - April 11th"
+  title: "No Machine"
+  artists:
+  - "Adrianne Lenker"
+  album: "Bright Future"
+  album_art: "bright-future.jpeg"
+  genre: "indie folk"
+  year: 2024
+  blurb: Serene, beautiful, and a tinge of sadness - exactly what I expected.
