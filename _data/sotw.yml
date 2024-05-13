@@ -3059,3 +3059,53 @@ week276:
   genre: "indie folk"
   year: 2024
   blurb: Serene, beautiful, and a tinge of sadness - exactly what I expected.
+week277:
+  week: "Week 277: April 12th - April 18th"
+  title: "R&B"
+  artists:
+  - "English Teacher"
+  album: "R&B"
+  album_art: "randb.jpeg"
+  genre: "alt rock"
+  year: 2024
+  blurb: Reminds me of Wet Leg in the best way possible!
+week278:
+  week: "Week 278: April 19th - April 25th"
+  title: "Walkman"
+  artists:
+  - "Bad Bad Hats"
+  album: "Bright Future"
+  album_art: "walkman.jpeg"
+  genre: "indie pop"
+  year: 2021
+  blurb: Such an earworm - even if Walkmans have faded from my mind.
+week279:
+  week: "Week 279: April 19th - April 25th"
+  title: "dancinwithsomebawdy"
+  artists:
+  - "ericdoa"
+  album: "DOA"
+  album_art: "doa.jpeg"
+  genre: "dance"
+  year: 2024
+  blurb: Did not expect this out of Eric at all, but this is an absolute bop - we'll take those.
+week280:
+  week: "Week 280: April 26th - May 2nd"
+  title: "Jokes On Me"
+  artists:
+  - "Audrey Nuna"
+  album: "Jokes On Me"
+  album_art: "jokes-on-me.jpeg"
+  genre: "rap"
+  year: 2024
+  blurb: Brilliant execution of what I think is a pretty crowded sound.
+week281:
+  week: "Week 281: May 3rd - May 9th"
+  title: "Not Like Us"
+  artists:
+  - "Kendrick Lamar"
+  album: "Not Like Us"
+  album_art: "not-like-us.jpeg"
+  genre: "rap"
+  year: 2024
+  blurb: Absolutely devastating; I can't believe I'm here for this pop culture moment. So many thoughts, but I'll omit them for now.
