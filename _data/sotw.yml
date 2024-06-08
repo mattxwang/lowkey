@@ -3109,3 +3109,44 @@ week281:
   genre: "rap"
   year: 2024
   blurb: Absolutely devastating; I can't believe I'm here for this pop culture moment. So many thoughts, but I'll omit them for now.
+week282:
+  week: "Week 282: May 10th - May 16th"
+  title: "Steel"
+  artists:
+  - "Matt Champion"
+  - "Dora Jar"
+  album: "Mika's Laundry"
+  album_art: "mikas-laundry.jpeg"
+  genre: "alt pop"
+  year: 2024
+  blurb: Out of left field, but probably my favourite post-BROCKHAMPTON album from the boys so far!
+week283:
+  week: "Week 283: May 17th - May 23rd"
+  title: "LUNCH"
+  artists:
+  - "Billie Eilish"
+  album: "HIT ME HARD AND SOFT"
+  album_art: "hit-me-hard-and-soft.jpeg"
+  genre: "pop"
+  year: 2024
+  blurb: Surprise bop? Hard and soft?
+week284:
+  week: "Week 284: May 24th - May 30th"
+  title: "Étouffée"
+  artists:
+  - "Vince Staples"
+  album: "Dark Times"
+  album_art: "dark-times.jpeg"
+  genre: "rap"
+  year: 2024
+  blurb: Vince yet again is in his pocket - buttery smooth flows and laid-back beats with his own flavour of social commentary.
+week285:
+  week: "Week 285: May 31st - June 6th"
+  title: "Sexy to Someone"
+  artists:
+  - "Clairo"
+  album: "Sexy to Someone"
+  album_art: "sexy-to-someone.jpg"
+  genre: "alt pop"
+  year: 2024
+  blurb: Me too, Clairo, me too.
