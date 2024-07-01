@@ -13,6 +13,7 @@ module ArtistCounterPlugin
       sotw_artists.data['num_artists'] = cnt.size
       # 'safe-invert' on a hash; see https://stackoverflow.com/questions/10989259/how-to-swap-keys-and-values-in-a-hash
       sotw_artists.data['artist_count'] = cnt.each_with_object({}){|(k,v),o|(o[v]||=[])<<k}
+      sotw_artists.data['top_artist'] = sotw_artists.data['artist_count'].keys.max
     end
   end
 end

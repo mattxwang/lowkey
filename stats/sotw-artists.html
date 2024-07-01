@@ -15,7 +15,7 @@ layout: page
 <p>
   Artists that appear more than once:
   <ul>
-  {% for i in (2..page.artist_count.size) reversed %}
+  {% for i in (2..page.top_artist) reversed %}
     <li>{{ i | pluralize: 'time', 'times' }}: {{ page.artist_count[i] | sort_natural | join: ", " }}</li>
   {% endfor %}
   </ul>
