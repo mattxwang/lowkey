@@ -3147,7 +3147,7 @@ week285:
   - "Clairo"
   album: "Sexy to Someone"
   album_art: "sexy-to-someone.jpg"
-  genre: "alt pop"
+  genre: "indie pop"
   year: 2024
   blurb: Me too, Clairo, me too.
 week286:
@@ -3160,3 +3160,24 @@ week286:
   genre: "pop"
   year: 2024
   blurb: I originally slightly doubted this single, but it really grew on me - dhruv (and his production taste) really doesn't miss.
+week287:
+  week: "Week 287: June 14th - 20th"
+  title: "Forbidden Feelingz"
+  artists:
+  - "Nia Archives"
+  album: "Silence Is Loud"
+  album_art: "silence-is-loud.jpeg"
+  genre: "dance"
+  year: 2024
+  blurb: Went on a massive Boiler Room binge this week, and it shows.
+week288:
+  week: "Week 288: June 21st - 28th"
+  title: "The girl, so confusing version with lorde"
+  artists:
+  - "Charli XCX"
+  - "Lorde"
+  album: "The girl, so confusing version with lorde"
+  album_art: "tgscvwl.jpeg"
+  genre: "alt pop"
+  year: 2024
+  blurb: She's back, and she's back! Surprised (and hooked) by the vulnerability.
