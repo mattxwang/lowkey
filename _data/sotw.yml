@@ -3146,7 +3146,7 @@ week285:
   artists:
   - "Clairo"
   album: "Sexy to Someone"
-  album_art: "sexy-to-someone.jpg"
+  album_art: "charm.jpg"
   genre: "indie pop"
   year: 2024
   blurb: Me too, Clairo, me too.
@@ -3181,3 +3181,35 @@ week288:
   genre: "alt pop"
   year: 2024
   blurb: She's back, and she's back! Surprised (and hooked) by the vulnerability.
+week289:
+  week: "Week 289: June 30th - July 4th"
+  title: "Any Way"
+  artists:
+  - "L'Impératrice"
+  - "Maggie Rogers"
+  album: "Pulsar"
+  album_art: "pulsar.jpeg"
+  genre: "dance pop"
+  year: 2024
+  blurb: Fastueux, superbe, luxueux.
+week290:
+  week: "Week 290: July 5th - July 11th"
+  title: "Black Cherri"
+  artists:
+  - "Suzi Wu"
+  - "Zac Carper"
+  album: "Black Cherri"
+  album_art: "black-cherri.jpeg"
+  genre: "indie/noise rock"
+  year: 2022
+  blurb: Another brain-tickler à la upbeat 100 gecs and burbank house.
+week291:
+  week: "Week 291: July 12th - 18th"
+  title: "Add Up My Love"
+  artists:
+  - "Clairo"
+  album: "Charm"
+  album_art: "charm.jpg"
+  genre: "indie pop"
+  year: 2024
+  blurb: Holy shit, this Clairo album is so good. The perfect instrumentals for her vibe.
