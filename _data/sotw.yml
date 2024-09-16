@@ -2,8 +2,8 @@ week1:
   week: "Week 1: Jan 1 - Jan 4"
   title: "Loving Is Easy"
   artists:
-  - "Rex Orange County"
-  - "Benny Sings"
+    - "Rex Orange County"
+    - "Benny Sings"
   album: "Loving Is Easy"
   album_art: "loving-is-easy.jpg"
   genre: "indie pop"
@@ -14,7 +14,7 @@ week2:
   week: "Week 2: Jan 4 - Jan 10"
   title: "Crush"
   artists:
-  - "Tessa Violet"
+    - "Tessa Violet"
   album: "Crush"
   album_art: "crush.png"
   genre: "indie pop"
@@ -25,7 +25,7 @@ week3:
   week: "Week 3: Jan 11 - Jan 17"
   title: "Ruin Your Night"
   artists:
-  - "Sorcha Richardson"
+    - "Sorcha Richardson"
   album: "Ruin Your Night"
   album_art: "ruin-your-night.jpg"
   genre: "indie pop"
@@ -36,7 +36,7 @@ week4:
   week: "Week 4: Jan 18 - Jan 24"
   title: "Lovers Rock"
   artists:
-  - "TV Girl"
+    - "TV Girl"
   album: "French Exit"
   album_art: "french-exit.jpg"
   genre: "indie pop"
@@ -47,7 +47,7 @@ week5:
   week: "Week 5: Jan 25 - Jan 31"
   title: "Rivers and Roads"
   artists:
-  - "The Head and the Heart"
+    - "The Head and the Heart"
   album: "The Head and the Heart"
   album_art: "the-head-and-the-heart.jpg"
   genre: "indie folk"
@@ -58,7 +58,7 @@ week6:
   week: "Week 6: Feb 1 - Feb 7"
   title: "You Only Like Me With The Lights Out"
   artists:
-  - "Avid Dancer"
+    - "Avid Dancer"
   album: "You Only Like Me With The Lights Out"
   album_art: "yolmwtlo.jpg"
   genre: "alt rock"
@@ -69,7 +69,7 @@ week7:
   week: "Week 7: Feb 8 - Feb 14"
   title: "5% TINT"
   artists:
-  - "Travis Scott"
+    - "Travis Scott"
   album: "Astroworld"
   album_art: "astroworld.jpg"
   genre: "rap"
@@ -80,7 +80,7 @@ week8:
   week: "Week 8: Feb 15 - Feb 21"
   title: "Gimme The Loot"
   artists:
-  - "The Notorious B.I.G"
+    - "The Notorious B.I.G"
   album: "Ready To Die"
   album_art: "ready-to-die.jpg"
   genre: "rap"
@@ -91,11 +91,11 @@ week9:
   week: "Week 9: Feb 22 - Feb 28"
   title: "Forever Always"
   artists:
-  - "Peter Cottontale"
-  - "Chance the Rapper"
-  - "Daniel Caesar"
-  - "Madison Ryann Ward"
-  - "YEBBA"
+    - "Peter Cottontale"
+    - "Chance the Rapper"
+    - "Daniel Caesar"
+    - "Madison Ryann Ward"
+    - "YEBBA"
   album: "Forever Always"
   album_art: "forever-always.jpg"
   genre: "indie pop"
@@ -106,7 +106,7 @@ week10:
   week: "Week 10: Mar 1 - Mar 7"
   title: "Locket"
   artists:
-  - "Crumb"
+    - "Crumb"
   album: "Locket"
   album_art: "locket.jpg"
   genre: "indie rock"
@@ -117,7 +117,7 @@ week11:
   week: "Week 11: Mar 8 - Mar 14"
   title: "No Drug Like Me"
   artists:
-  - "Carly Rae Jepsen"
+    - "Carly Rae Jepsen"
   album: "Now That I Found You / No Drug Like Me"
   album_art: "crj-3ep.jpg"
   genre: "pop"
@@ -128,7 +128,7 @@ week12:
   week: "Week 12: Mar 15 - Mar 21"
   title: "Pristine"
   artists:
-  - "Snail Mail"
+    - "Snail Mail"
   album: "Lush"
   album_art: "lush.png"
   genre: "indie rock"
@@ -139,7 +139,7 @@ week13:
   week: "Week 13: Mar 22 - Mar 28"
   title: "Upside Down"
   artists:
-  - "Jack Johnson and Friends"
+    - "Jack Johnson and Friends"
   album: "Sing-A-Longs And Lullabies For The Film Curious George"
   album_art: "curious-george.jpg"
   genre: "pop"
@@ -150,7 +150,7 @@ week14:
   week: "Week 14: Mar 29 - Apr 4"
   title: "bad guy"
   artists:
-  - "Billie Eilish"
+    - "Billie Eilish"
   album: "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"
   album_art: "wwafawdwg.jpg"
   genre: "pop"
@@ -161,7 +161,7 @@ week15:
   week: "Week 15: Apr 5 - Apr 11"
   title: "Butterflies"
   artists:
-  - "Kacey Musgraves"
+    - "Kacey Musgraves"
   album: "Golden Hour"
   album_art: "golden-hour.jpg"
   genre: "country"
@@ -172,7 +172,7 @@ week16:
   week: "Week 16: Apr 12 - Apr 18"
   title: "Hookers"
   artists:
-  - "Tierra Whack"
+    - "Tierra Whack"
   album: "Whack World"
   album_art: "whack-world.jpg"
   genre: "rap"
@@ -183,7 +183,7 @@ week17:
   week: "Week 17: Apr 19 - Apr 25"
   title: "Distant"
   artists:
-  - "Wayllo"
+    - "Wayllo"
   album: "Distant"
   album_art: "distant.jpg"
   genre: "electro pop"
@@ -194,7 +194,7 @@ week18:
   week: "Week 18: Apr 26 - May 2"
   title: "Boyer"
   artists:
-  - "Kevin Abstract"
+    - "Kevin Abstract"
   album: "ARIZONA BABY"
   album_art: "arizona-baby.jpg"
   genre: "rap"
@@ -205,7 +205,7 @@ week19:
   week: "Week 19: May 3 - May 9"
   title: "prom dress"
   artists:
-  - "mxmtoon"
+    - "mxmtoon"
   album: "the masquerade"
   album_art: "the-masquerade.jpg"
   genre: "bedroom pop"
@@ -216,7 +216,7 @@ week20:
   week: "Week 20: May 10 - May 16"
   title: "I Like (the idea of) You"
   artists:
-  - "Tessa Violet"
+    - "Tessa Violet"
   album: "I Like (the idea of) You"
   album_art: "iltioy.jpg"
   genre: "indie pop"
@@ -227,7 +227,7 @@ week21:
   week: "Week 21: May 17 - May 23"
   title: "Grilled Cheese"
   artists:
-  - "Peach Face"
+    - "Peach Face"
   album: "Grilled Cheese"
   album_art: "grilled-cheese.jpg"
   genre: "bedroom pop"
@@ -238,7 +238,7 @@ week22:
   week: "Week 22: May 24 - May 30"
   title: "EARFQUAKE"
   artists:
-  - "Tyler, The Creator"
+    - "Tyler, The Creator"
   album: "IGOR"
   album_art: "igor.jpg"
   genre: "rap"
@@ -249,7 +249,7 @@ week23:
   week: "Week 23: May 31 - June 6"
   title: "Oom Sha La La"
   artists:
-  - "Haley Heynderickx"
+    - "Haley Heynderickx"
   album: "I Need to Start a Garden"
   album_art: "i-need-to-start-a-garden.jpg"
   genre: "indie folk"
@@ -260,7 +260,7 @@ week24:
   week: "Week 24: June 7 - June 13"
   title: "3 Nights"
   artists:
-  - "Dominic Fike"
+    - "Dominic Fike"
   album: "Don't Forget About Me, Demos"
   album_art: "dfamd.jpg"
   genre: "alt pop"
@@ -271,8 +271,8 @@ week25:
   week: "Week 25: June 14 - June 20"
   title: "Feels Right"
   artists:
-  - "Carly Rae Jepsen"
-  - "Electric Guest"
+    - "Carly Rae Jepsen"
+    - "Electric Guest"
   album: "Dedicated"
   album_art: "dedicated.jpg"
   genre: "pop"
@@ -283,7 +283,7 @@ week26:
   week: "Week 26: June 21 - June 27"
   title: "Chinese New Year"
   artists:
-  - "SALES"
+    - "SALES"
   album: "SALES - EP"
   album_art: "sales.jpg"
   genre: "pop"
@@ -294,9 +294,9 @@ week27:
   week: "Week 27: June 28 - July 4"
   title: "Cocoa Butter Kisses"
   artists:
-  - "Chance the Rapper"
-  - "Vic Mensa"
-  - "Twista"
+    - "Chance the Rapper"
+    - "Vic Mensa"
+    - "Twista"
   album: "Acid Rap"
   album_art: "acid-rap.jpg"
   genre: "rap"
@@ -307,8 +307,8 @@ week28:
   week: "Week 28: July 5 - July 11"
   title: "Selfish"
   artists:
-  - "Little Simz"
-  - "Cleo Sol"
+    - "Little Simz"
+    - "Cleo Sol"
   album: "GREY Area"
   album_art: "grey-area.jpg"
   genre: "rap"
@@ -319,7 +319,7 @@ week29:
   week: "Week 29: July 12 - July 18"
   title: "Hands Down (Reprise)"
   artists:
-  - "The Greeting Committee"
+    - "The Greeting Committee"
   album: "Hands Down (Reprise)"
   album_art: "hands-down-reprise.jpg"
   genre: "indie pop"
@@ -330,8 +330,8 @@ week30:
   week: "Week 30: July 19 - July 25"
   title: "Are You Bored Yet?"
   artists:
-  - "Wallows"
-  - "Clairo"
+    - "Wallows"
+    - "Clairo"
   album: "Nothing Happens"
   album_art: "nothing-happens.jpg"
   genre: "indie rock"
@@ -342,7 +342,7 @@ week31:
   week: "Week 31: July 26 - August 1"
   title: "4EVER"
   artists:
-  - "Clairo"
+    - "Clairo"
   album: "diary 001"
   album_art: "diary-001.jpg"
   genre: "indie pop"
@@ -353,7 +353,7 @@ week32:
   week: "Week 32: August 2 - August 8"
   title: "Sunday Best"
   artists:
-  - "Surfaces"
+    - "Surfaces"
   album: "Where The Light Is"
   album_art: "where-the-light-is.jpg"
   genre: "r&b"
@@ -364,7 +364,7 @@ week33:
   week: "Week 33: August 9 - August 15"
   title: "Closer To You"
   artists:
-  - "Clairo"
+    - "Clairo"
   album: "Immunity"
   album_art: "immunity.jpg"
   genre: "indie pop"
@@ -375,7 +375,7 @@ week34:
   week: "Week 34: August 16 - August 22"
   title: "suburban wonderland"
   artists:
-  - "BETWEEN FRIENDS"
+    - "BETWEEN FRIENDS"
   album: "suburban wonderland"
   album_art: "suburban-wonderland.jpg"
   genre: "indie pop"
@@ -386,7 +386,7 @@ week35:
   week: "Week 35: August 23 - August 29"
   title: "SUGAR"
   artists:
-  - "BROCKHAMPTON"
+    - "BROCKHAMPTON"
   album: "GINGER"
   album_art: "ginger.jpg"
   genre: "pop rap"
@@ -397,7 +397,7 @@ week36:
   week: "Week 36: August 30 - September 5"
   title: "dream of you"
   artists:
-  - "mxmtoon"
+    - "mxmtoon"
   album: "the masquerade"
   album_art: "the-masquerade.jpg"
   genre: "bedroom pop"
@@ -408,7 +408,7 @@ week37:
   week: "Week 37: September 6 - September 12"
   title: "Indigo"
   artists:
-  - "NIKI"
+    - "NIKI"
   album: "Indigo"
   album_art: "indigo.jpg"
   genre: "pop"
@@ -419,7 +419,7 @@ week38:
   week: "Week 38: September 13 - September 19"
   title: "Tenderness"
   artists:
-  - "Jay Som"
+    - "Jay Som"
   album: "Anak Ko"
   album_art: "anak-ko.jpg"
   genre: "indie rock"
@@ -430,7 +430,7 @@ week39:
   week: "Week 39: September 20 - September 26"
   title: "White Mercedes"
   artists:
-  - "Charli XCX"
+    - "Charli XCX"
   album: "Charli"
   album_art: "charli.jpg"
   genre: "pop"
@@ -441,7 +441,7 @@ week40:
   week: "Week 40: September 27 - October 3"
   title: "Vossi Bop"
   artists:
-  - "Stormzy"
+    - "Stormzy"
   album: "Vossi Bop"
   album_art: "vossi-bop.jpg"
   genre: "rap"
@@ -452,7 +452,7 @@ week41:
   week: "Week 41: October 4 - October 10"
   title: "For Real"
   artists:
-  - "Mallrat"
+    - "Mallrat"
   album: "Uninvited"
   album_art: "uninvited.jpg"
   genre: "pop"
@@ -463,7 +463,7 @@ week42:
   week: "Week 42: October 11 - October 17"
   title: "La La Lost You"
   artists:
-  - "NIKI"
+    - "NIKI"
   album: "Head In The Clouds II"
   album_art: "hitc2.jpg"
   genre: "pop"
@@ -474,7 +474,7 @@ week43:
   week: "Week 43: October 18 - October 24"
   title: "I Don't Miss You At All"
   artists:
-  - "FINNEAS"
+    - "FINNEAS"
   album: "BLOOD HARMONY"
   album_art: "blood-harmony.jpg"
   genre: "pop"
@@ -485,7 +485,7 @@ week44:
   week: "Week 44: October 25 - October 31"
   title: "ringtone"
   artists:
-  - "100 gecs"
+    - "100 gecs"
   album: "1000 gecs"
   album_art: "1000gecs.jpg"
   genre: "gec"
@@ -496,7 +496,7 @@ week45:
   week: "Week 45: November 1 - November 7"
   title: "The Games We Play"
   artists:
-  - "Pusha T"
+    - "Pusha T"
   album: "DAYTONA"
   album_art: "daytona.jpg"
   genre: "rap"
@@ -507,7 +507,7 @@ week46:
   week: "Week 46: November 8 - November 14"
   title: "COMMA$"
   artists:
-  - "LORD$OFDOGTOWN"
+    - "LORD$OFDOGTOWN"
   album: "LORD$OFDOGTOWN"
   album_art: "lord$ofdogtown.jpg"
   genre: "rap"
@@ -518,7 +518,7 @@ week47:
   week: "Week 47: November 15 - November 21"
   title: "Alaska"
   artists:
-  - "Maggie Rogers"
+    - "Maggie Rogers"
   album: "Heard It In A Past Life"
   album_art: "hiiapl.jpg"
   genre: "art pop"
@@ -529,7 +529,7 @@ week48:
   week: "Week 48: November 22 - November 28"
   title: "OUTTA MY MIND"
   artists:
-  - "Monsune"
+    - "Monsune"
   album: "OUTTA MY MIND"
   album_art: "outta-my-mind.jpg"
   genre: "alt pop"
@@ -540,7 +540,7 @@ week49:
   week: "Week 49: November 29 - December 5"
   title: "Blinding Lights"
   artists:
-  - "The Weeknd"
+    - "The Weeknd"
   album: "Blinding Lights - Single"
   album_art: "blinding-lights.jpg"
   genre: "pop"
@@ -551,9 +551,9 @@ week50:
   week: "Week 50: December 6 - December 12"
   title: "Otis"
   artists:
-  - "JAY-Z"
-  - "Kanye West"
-  - "Otis Redding"
+    - "JAY-Z"
+    - "Kanye West"
+    - "Otis Redding"
   album: "Watch The Throne"
   album_art: "wtt.jpg"
   genre: "rap"
@@ -564,7 +564,7 @@ week51:
   week: "Week 51: December 13 - December 19"
   title: "Sugarplum Elegy"
   artists:
-  - "NIKI"
+    - "NIKI"
   album: "Sugarplum Elegy"
   album_art: "sugarplum-elegy.png"
   genre: "pop"
@@ -575,7 +575,7 @@ week52:
   week: "Week 52: December 20 - December 26"
   title: "Toronto"
   artists:
-  - "Snoh Aalegra"
+    - "Snoh Aalegra"
   album: "- Ugh, those feels again"
   album_art: "utfa.jpg"
   genre: "r&b"
@@ -586,7 +586,7 @@ week53:
   week: "Week 53: December 27 - January 2"
   title: "Digital"
   artists:
-  - "IDK"
+    - "IDK"
   album: "Is He Real?"
   album_art: "is-he-real.jpg"
   genre: "rap"
@@ -597,7 +597,7 @@ week54:
   week: "Week 54: January 3 - January 9"
   title: "Dreams Tonite"
   artists:
-  - "Alvvays"
+    - "Alvvays"
   album: "Antisocialites"
   album_art: "antisocialites.jpg"
   genre: "indie pop"
@@ -608,7 +608,7 @@ week55:
   week: "Week 55: January 10 - January 16"
   title: "Lost In Yesterday"
   artists:
-  - "Tame Impala"
+    - "Tame Impala"
   album: "Lost In Yesterday (single)"
   album_art: "lost-in-yesterday.jpg"
   genre: "psychedelic rock"
@@ -619,7 +619,7 @@ week56:
   week: "Week 56: January 17 - January 23"
   title: "Blue World"
   artists:
-  - "Mac Miller"
+    - "Mac Miller"
   album: "Circles"
   album_art: "circles.jpg"
   genre: "rap"
@@ -630,8 +630,8 @@ week57:
   week: "Week 57: January 24 - January 30"
   title: "Gotta Have It"
   artists:
-  - "JAY-Z"
-  - "Kanye West"
+    - "JAY-Z"
+    - "Kanye West"
   album: "Watch The Throne"
   album_art: "wtt.jpg"
   genre: "rap"
@@ -642,8 +642,8 @@ week58:
   week: "Week 58: January 31 - February 6"
   title: "Shoota"
   artists:
-  - "Playboi Carti"
-  - "Lil Uzi Vert"
+    - "Playboi Carti"
+    - "Lil Uzi Vert"
   album: "Die Lit"
   album_art: "die-lit.png"
   genre: "rap"
@@ -654,7 +654,7 @@ week59:
   week: "Week 59: February 7 - February 13"
   title: "I Would Do Anything For You"
   artists:
-  - "Foster The People"
+    - "Foster The People"
   album: "Torches"
   album_art: "torches.jpg"
   genre: "indie pop"
@@ -665,7 +665,7 @@ week60:
   week: "Week 60: February 14 - February 20"
   title: "Nothing in Return"
   artists:
-  - "Monsune"
+    - "Monsune"
   album: "Nothing in Return"
   album_art: "nothing-in-return.jpg"
   genre: "alt pop"
@@ -676,8 +676,8 @@ week61:
   week: "Week 61: February 21 - February 27"
   title: "death bed"
   artists:
-  - "Powfu"
-  - "beabadoobee"
+    - "Powfu"
+    - "beabadoobee"
   album: "death bed"
   album_art: "death-bed.jpg"
   genre: "alt rap"
@@ -688,10 +688,10 @@ week62:
   week: "Week 62: February 28 - March 5"
   title: "ringtone (remix)"
   artists:
-  - "100 gecs"
-  - "Charli XCX"
-  - "Rico Nasty"
-  - "Kero Kero Bonito"
+    - "100 gecs"
+    - "Charli XCX"
+    - "Rico Nasty"
+    - "Kero Kero Bonito"
   album: "ringtone (remix)"
   album_art: "ringtone-remix.jpg"
   genre: "gec"
@@ -702,7 +702,7 @@ week63:
   week: "Week 63: March 6 - March 12"
   title: "Dragonball Durag"
   artists:
-  - "Thundercat"
+    - "Thundercat"
   album: "Dragonball Durag"
   album_art: "dragonball-durag.jpg"
   genre: "funk"
@@ -713,7 +713,7 @@ week64:
   week: "Week 64: March 13 - March 19"
   title: "Talk Is Cheap"
   artists:
-  - "Chet Faker"
+    - "Chet Faker"
   album: "Built On Glass"
   album_art: "built-on-glass.jpg"
   genre: "electronica"
@@ -724,7 +724,7 @@ week65:
   week: "Week 65: March 20 - March 26"
   title: "XS"
   artists:
-  - "Rina Sawayama"
+    - "Rina Sawayama"
   album: "XS"
   album_art: "xs.jpg"
   genre: "electropop"
@@ -735,7 +735,7 @@ week66:
   week: "Week 66: March 27 - April 2"
   title: "Faith"
   artists:
-  - "The Weeknd"
+    - "The Weeknd"
   album: "After Hours"
   album_art: "after-hours.jpg"
   genre: "r&b"
@@ -746,7 +746,7 @@ week67:
   week: "Week 67: April 3 - April 9"
   title: "Animal Spirits"
   artists:
-  - "Vulfpeck"
+    - "Vulfpeck"
   album: "The Beautiful Game"
   album_art: "the-beautiful-game.jpg"
   genre: "funk pop"
@@ -757,7 +757,7 @@ week68:
   week: "Week 68: April 10 - April 16"
   title: "My Love"
   artists:
-  - "Anna of the North"
+    - "Anna of the North"
   album: "Dream Girl"
   album_art: "dream-girl.jpg"
   genre: "pop"
@@ -768,7 +768,7 @@ week69:
   week: "Week 69: April 17 - April 23"
   title: "Gimme Love"
   artists:
-  - "Joji"
+    - "Joji"
   album: "Gimme Love"
   album_art: "gimme-love.jpg"
   genre: "pop"
@@ -779,7 +779,7 @@ week70:
   week: "Week 70: April 24 - April 30"
   title: "Tokyo Love Hotel"
   artists:
-  - "Rina Sawayama"
+    - "Rina Sawayama"
   album: "SAWAYAMA"
   album_art: "sawayama.png"
   genre: "pop"
@@ -790,7 +790,7 @@ week71:
   week: "Week 71: May 1 - May 7"
   title: "with you"
   artists:
-  - "seth arlan"
+    - "seth arlan"
   album: "with you"
   album_art: "with-you.jpg"
   genre: "indie pop"
@@ -801,7 +801,7 @@ week72:
   week: "Week 72: May 8 - May 14"
   title: "goodnight n go"
   artists:
-  - "Ariana Grande"
+    - "Ariana Grande"
   album: "Sweetener"
   album_art: "sweetener.jpg"
   genre: "pop"
@@ -812,7 +812,7 @@ week73:
   week: "Week 73: May 15 - May 21"
   title: "If Only"
   artists:
-  - "Raveena"
+    - "Raveena"
   album: "Shanti"
   album_art: "shanti.jpg"
   genre: "r&b"
@@ -823,7 +823,7 @@ week74:
   week: "Week 74: May 22 - May 28"
   title: "damn right"
   artists:
-  - "Little Simz"
+    - "Little Simz"
   album: "Drop 6"
   album_art: "drop-6.jpg"
   genre: "rap"
@@ -834,7 +834,7 @@ week75:
   week: "Week 75: May 29 - June 4"
   title: "Fuck Tha Police"
   artists:
-  - "N.W.A."
+    - "N.W.A."
   album: "Straight Outta Compton"
   album_art: "straight-outta-compton.jpg"
   genre: "rap"
@@ -845,10 +845,10 @@ week76:
   week: "Week 76: June 5 - June 11"
   title: "Institutionalized"
   artists:
-  - "Kendrick Lamar"
-  - "Bilal"
-  - "Anna Wise"
-  - "Snoop Dogg"
+    - "Kendrick Lamar"
+    - "Bilal"
+    - "Anna Wise"
+    - "Snoop Dogg"
   album: "To Pimp A Butterfly"
   album_art: "to-pimp-a-butterfly.jpg"
   genre: "rap"
@@ -859,7 +859,7 @@ week77:
   week: "Week 77: June 12 - June 18"
   title: "Song 33"
   artists:
-  - "Noname"
+    - "Noname"
   album: "Song 33"
   album_art: "song33.jpg"
   genre: "rap"
@@ -870,7 +870,7 @@ week78:
   week: "Week 78: June 19 - June 25"
   title: "Lockdown"
   artists:
-  - "Anderson .Paak"
+    - "Anderson .Paak"
   album: "Lockdown"
   album_art: "lockdown.jpg"
   genre: "rap"
@@ -881,7 +881,7 @@ week79:
   week: "Week 79: June 26 - July 2"
   title: "North Pole"
   artists:
-  - "Injury Reserve"
+    - "Injury Reserve"
   album: "Drive Like It's Stolen"
   album_art: "drive-like-its-stolen.jpg"
   genre: "alt rap"
@@ -892,7 +892,7 @@ week80:
   week: "Week 80: July 3 - July 9"
   title: "Heat Waves"
   artists:
-  - "Glass Animals"
+    - "Glass Animals"
   album: "Heat Waves"
   album_art: "heat-waves.jpg"
   genre: "alternative"
@@ -903,7 +903,7 @@ week81:
   week: "Week 81: July 10 - July 16"
   title: "Politics & Violence"
   artists:
-  - "Dominic Fike"
+    - "Dominic Fike"
   album: "Politics & Violence"
   album_art: "what-could-possibly-go-wrong.jpg"
   genre: "pop rap"
@@ -914,7 +914,7 @@ week82:
   week: "Week 82: July 17 - July 23"
   title: "Shine"
   artists:
-  - "Joey Bada$$"
+    - "Joey Bada$$"
   album: "The Light Pack"
   album_art: "the-light-pack.jpg"
   genre: "rap"
@@ -925,8 +925,8 @@ week83:
   week: "Week 83: July 24 - July 30"
   title: "exile"
   artists:
-  - "Taylor Swift"
-  - "Bon Iver"
+    - "Taylor Swift"
+    - "Bon Iver"
   album: "folklore"
   album_art: "folklore.jpg"
   genre: "pop"
@@ -937,7 +937,7 @@ week84:
   week: "Week 84: July 31 - August 6"
   title: "ROYL"
   artists:
-  - "Chloe x Halle"
+    - "Chloe x Halle"
   album: "Ungodly Hour"
   album_art: "ungodly-hour.jpg"
   genre: "r&b"
@@ -948,7 +948,7 @@ week85:
   week: "Week 85: August 7 - August 13"
   title: "Soul Food II"
   artists:
-  - "Logic"
+    - "Logic"
   album: "No Pressure"
   album_art: "no-pressure.jpg"
   genre: "rap"
@@ -959,8 +959,8 @@ week86:
   week: "Week 86: August 14 - August 20"
   title: "CUT EM IN"
   artists:
-  - "Anderson .Paak"
-  - "Rick Ross"
+    - "Anderson .Paak"
+    - "Rick Ross"
   album: "CUT EM IN"
   album_art: "cut-em-in.jpg"
   genre: "rap"
@@ -971,7 +971,7 @@ week87:
   week: "Week 87: August 21 - August 27"
   title: "Woodlawn"
   artists:
-  - "Aminé"
+    - "Aminé"
   album: "Limbo"
   album_art: "limbo.jpg"
   genre: "rap"
@@ -982,10 +982,10 @@ week88:
   week: "Week 88: August 28 - September 3"
   title: "THE BADDEST"
   artists:
-  - "K/DA"
-  - "(G)I-DLE"
-  - "Bea Miller"
-  - "Wolftyla"
+    - "K/DA"
+    - "(G)I-DLE"
+    - "Bea Miller"
+    - "Wolftyla"
   album: "THE BADDEST"
   album_art: "the-baddest.jpg"
   genre: "kpop"
@@ -996,8 +996,8 @@ week89:
   week: "Week 89: September 4 - September 10"
   title: "ok on your own"
   artists:
-  - "mxmtoon"
-  - "Carly Rae Jepsen"
+    - "mxmtoon"
+    - "Carly Rae Jepsen"
   album: "dusk"
   album_art: "ok-on-your-own.jpg"
   genre: "pop"
@@ -1008,7 +1008,7 @@ week90:
   week: "Week 90: September 11 - September 17"
   title: "You Can Get It"
   artists:
-  - "BUMPER"
+    - "BUMPER"
   album: "pop songs 2020"
   album_art: "pop-songs-2020.jpg"
   genre: "electropop"
@@ -1019,7 +1019,7 @@ week91:
   week: "Week 91: September 18 - September 24"
   title: "Don't Wanna"
   artists:
-  - "HAIM"
+    - "HAIM"
   album: "Women In Music Pt. III"
   album_art: "wimpiii.jpg"
   genre: "indie rock"
@@ -1030,8 +1030,8 @@ week92:
   week: "Week 92: September 25 - October 1"
   title: "Scholarships"
   artists:
-  - "Drake"
-  - "Future"
+    - "Drake"
+    - "Future"
   album: "What a Time to Be Alive"
   album_art: "wattba.jpg"
   genre: "rap"
@@ -1042,8 +1042,8 @@ week93:
   week: "Week 93: October 2 - October 8"
   title: "Runnin"
   artists:
-  - "21 Savage"
-  - "Metro Boomin"
+    - "21 Savage"
+    - "Metro Boomin"
   album: "SAVAGE MODE II"
   album_art: "savagemode2.png"
   genre: "rap"
@@ -1054,7 +1054,7 @@ week94:
   week: "Week 94: October 9 - October 15"
   title: "LAX"
   artists:
-  - "Vulfpeck"
+    - "Vulfpeck"
   album: "LAX"
   album_art: "lax.jpeg"
   genre: "funk"
@@ -1065,7 +1065,7 @@ week95:
   week: "Week 95: October 16 - October 22"
   title: "I Keep Calling"
   artists:
-  - "James Blake"
+    - "James Blake"
   album: "Before"
   album_art: "before.png"
   genre: "alt pop"
@@ -1076,7 +1076,7 @@ week96:
   week: "Week 96: October 23 - October 29"
   title: "positions"
   artists:
-  - "Ariana Grande"
+    - "Ariana Grande"
   album: "Positions"
   album_art: "positions.jpg"
   genre: "pop"
@@ -1087,11 +1087,11 @@ week97:
   week: "Week 97: October 30 - November 5"
   title: "MORE"
   artists:
-  - "K/DA"
-  - "Madison Beer"
-  - "(G)I-DLE"
-  - "Lexie Liu"
-  - "Jaira Burns"
+    - "K/DA"
+    - "Madison Beer"
+    - "(G)I-DLE"
+    - "Lexie Liu"
+    - "Jaira Burns"
   album: "ALL OUT"
   album_art: "allout.jpg"
   genre: "kpop"
@@ -1102,8 +1102,8 @@ week98:
   week: "Week 98: November 6 - November 12"
   title: "Sangria"
   artists:
-  - "$NOT"
-  - "Denzel Curry"
+    - "$NOT"
+    - "Denzel Curry"
   album: "Beautiful Havoc"
   album_art: "beautiful-havoc.jpg"
   genre: "rap"
@@ -1114,7 +1114,7 @@ week99:
   week: "Week 99: November 13 - November 19"
   title: "FOOL'S GOLD"
   artists:
-  - "Aries"
+    - "Aries"
   album: "FOOL'S GOLD"
   album_art: "fools-gold.png"
   genre: "pop"
@@ -1125,7 +1125,7 @@ week100:
   week: "Week 100: November 20 - November 26"
   title: "真夜中のドア〜Stay With Me"
   artists:
-  - "Miki Matsubara"
+    - "Miki Matsubara"
   album: "Pocket Park"
   album_art: "pocket-park.jpg"
   genre: "jpop"
@@ -1136,7 +1136,7 @@ week101:
   week: "Week 101: November 27 - December 3"
   title: "YOU'RE SO FUCKING MEAN TO ME"
   artists:
-  - "Tiffany Day"
+    - "Tiffany Day"
   album: "OVERDRAMATIC"
   album_art: "overdramatic.jpeg"
   genre: "pop"
@@ -1147,9 +1147,9 @@ week102:
   week: "Week 102: December 4 - December 10"
   title: "82 92"
   artists:
-  - "Statik Selektah"
-  - "Termanology"
-  - "Mac Miller"
+    - "Statik Selektah"
+    - "Termanology"
+    - "Mac Miller"
   album: "82 92"
   album_art: "8292.jpg"
   genre: "rap"
@@ -1160,7 +1160,7 @@ week103:
   week: "Week 103: December 11 - December 17"
   title: "Don't Get Chipped"
   artists:
-  - "Vince Staples"
+    - "Vince Staples"
   album: "FM!"
   album_art: "fm.jpg"
   genre: "rap"
@@ -1171,7 +1171,7 @@ week104:
   week: "Week 104: December 18 - December 24"
   title: "80's makeout session"
   artists:
-  - "dacelynn"
+    - "dacelynn"
   album: "80's makeout session"
   album_art: "80s-makeout-session.jpg"
   genre: "bedroom pop"
@@ -1182,9 +1182,9 @@ week105:
   week: "Week 105: December 25 - December 31"
   title: "All Caps"
   artists:
-  - "Madvillain"
-  - "MF DOOM"
-  - "Madlib"
+    - "Madvillain"
+    - "MF DOOM"
+    - "Madlib"
   album: "Madvillainy"
   album_art: "madvillainy.jpg"
   genre: "rap"
@@ -1195,7 +1195,7 @@ week106:
   week: "Week 106: January 1 - January 7"
   title: "Crush"
   artists:
-  - "Duckwrth"
+    - "Duckwrth"
   album: "Crush"
   album_art: "crush.jpg"
   genre: "rap"
@@ -1206,7 +1206,7 @@ week107:
   week: "Week 107: January 8 - January 14"
   title: "Marinate"
   artists:
-  - "Zack Fox"
+    - "Zack Fox"
   album: "Marinate"
   album_art: "marinate.jpg"
   genre: "rap"
@@ -1217,8 +1217,8 @@ week108:
   week: "Week 108: January 15 - January 21"
   title: "Super Rich Kids"
   artists:
-  - "Frank Ocean"
-  - "Earl Sweatshirt"
+    - "Frank Ocean"
+    - "Earl Sweatshirt"
   album: "channel ORANGE"
   album_art: "channel-orange.jpg"
   genre: "alt r&b"
@@ -1229,7 +1229,7 @@ week109:
   week: "Week 109: January 22 - January 28"
   title: "Punching Bag"
   artists:
-  - "Wallice"
+    - "Wallice"
   album: "Punching Bag"
   album_art: "punching-bag.jpg"
   genre: "bedroom pop"
@@ -1240,7 +1240,7 @@ week110:
   week: "Week 110: January 29 - February 4"
   title: "Colors"
   artists:
-  - "Black Pumas"
+    - "Black Pumas"
   album: "Black Pumas"
   album_art: "black-pumas.jpg"
   genre: "soul"
@@ -1251,8 +1251,8 @@ week111:
   week: "Week 111: February 5 - February 11"
   title: "Morning Coffee"
   artists:
-  - "Chevy"
-  - "Nalba"
+    - "Chevy"
+    - "Nalba"
   album: "Morning Coffee"
   album_art: "morning-coffee.jpg"
   genre: "bedroom pop"
@@ -1263,7 +1263,7 @@ week112:
   week: "Week 112: February 12 - February 18"
   title: "Is It Any Wonder?"
   artists:
-  - "Durand Jones & The Indications"
+    - "Durand Jones & The Indications"
   album: "Durand Jones & The Indications"
   album_art: "djti.jpg"
   genre: "neo-soul"
@@ -1274,7 +1274,7 @@ week113:
   week: "Week 113: February 19 - February 25"
   title: "Skegee"
   artists:
-  - "JID"
+    - "JID"
   album: "Skegee"
   album_art: "skegee.png"
   genre: "rap"
@@ -1285,8 +1285,8 @@ week114:
   week: "Week 114: February 26 - March 4"
   title: "Cocaine Parties"
   artists:
-  - "Freddie Gibbs"
-  - "Madlib"
+    - "Freddie Gibbs"
+    - "Madlib"
   album: "Piñata (Deluxe)"
   album_art: "pinata.jpeg"
   genre: "rap"
@@ -1297,7 +1297,7 @@ week115:
   week: "Week 115: March 5 - March 11"
   title: "Whats Next"
   artists:
-  - "Drake"
+    - "Drake"
   album: "Scary Hours II"
   album_art: "scaryhoursii.png"
   genre: "rap"
@@ -1308,9 +1308,9 @@ week116:
   week: "Week 116: March 12 - March 18"
   title: "Leave The Door Open"
   artists:
-  - "Silk Sonic"
-  - "Bruno Mars"
-  - "Anderson .Paak"
+    - "Silk Sonic"
+    - "Bruno Mars"
+    - "Anderson .Paak"
   album: "Leave The Door Open"
   album_art: "silk-sonic.jpeg"
   genre: "r&b"
@@ -1321,11 +1321,11 @@ week117:
   week: "Week 117: March 19 - March 25"
   title: "Freeze Tag"
   artists:
-  - "Terrace Martin"
-  - "Robert Glasper"
-  - "9th Wonder"
-  - "Kamasi Washington"
-  - "Phoelix"
+    - "Terrace Martin"
+    - "Robert Glasper"
+    - "9th Wonder"
+    - "Kamasi Washington"
+    - "Phoelix"
   album: "Dinner Party"
   album_art: "dinner-party.jpeg"
   genre: "soul"
@@ -1336,7 +1336,7 @@ week118:
   week: "Week 118: March 26 - April 1"
   title: "Don't Need You"
   artists:
-  - "Genesis Owusu"
+    - "Genesis Owusu"
   album: "Smiling with No Teeth"
   album_art: "swnt.jpeg"
   genre: "rap"
@@ -1347,7 +1347,7 @@ week119:
   week: "Week 119: April 2 - April 8"
   title: "Big Boss Rabbit"
   artists:
-  - "Freddie Gibbs"
+    - "Freddie Gibbs"
   album: "Big Boss Rabbit"
   album_art: "big-boss-rabbit.jpeg"
   genre: "rap"
@@ -1358,8 +1358,8 @@ week120:
   week: "Week 120: April 9 - April 15"
   title: "CHAIN ON"
   artists:
-  - "BROCKHAMPTON"
-  - "JPEGMAFIA"
+    - "BROCKHAMPTON"
+    - "JPEGMAFIA"
   album: "ROADRUNNER: NEW LIGHT, NEW MACHINE"
   album_art: "roadrunner.jpg"
   genre: "rap"
@@ -1370,8 +1370,8 @@ week121:
   week: "Week 121: April 16 - April 22"
   title: "waves - Tame Impala Remix"
   artists:
-  - "Miguel"
-  - "Tame Impala"
+    - "Miguel"
+    - "Tame Impala"
   album: "Rogue Waves"
   album_art: "waves.jpeg"
   genre: "psychedelic r&b"
@@ -1382,7 +1382,7 @@ week122:
   week: "Week 122: April 23 - April 29"
   title: "OK"
   artists:
-  - "6 Dogs"
+    - "6 Dogs"
   album: "OK"
   album_art: "ok.jpg"
   genre: "rap"
@@ -1393,9 +1393,9 @@ week123:
   week: "Week 123: April 30 - May 6"
   title: "Shot You Down"
   artists:
-  - "Isaiah Rashad"
-  - "Jay Rock"
-  - "ScHoolboy Q"
+    - "Isaiah Rashad"
+    - "Jay Rock"
+    - "ScHoolboy Q"
   album: "Cilvia Demo"
   album_art: "cilvia.jpeg"
   genre: "rap"
@@ -1406,8 +1406,8 @@ week124:
   week: "Week 124: May 7 - May 13"
   title: "Durag Activity"
   artists:
-  - "Baby Keem"
-  - "Travis Scott"
+    - "Baby Keem"
+    - "Travis Scott"
   album: "durag activity"
   album_art: "durag-activity.png"
   genre: "rap"
@@ -1418,8 +1418,8 @@ week125:
   week: "Week 125: May 14 - May 20"
   title: "Runnin Runnin Runnin"
   artists:
-  - "Biskwiq"
-  - "YBN Nahmir"
+    - "Biskwiq"
+    - "YBN Nahmir"
   album: "Good Morning Say It Back"
   album_art: "gmsib.jpeg"
   genre: "rap"
@@ -1430,7 +1430,7 @@ week126:
   week: "Week 126: May 21 - May 27"
   title: "good 4 u"
   artists:
-  - "Olivia Rodrigo"
+    - "Olivia Rodrigo"
   album: "SOUR"
   album_art: "sour.jpeg"
   genre: "pop"
@@ -1441,7 +1441,7 @@ week127:
   week: "Week 127: May 28 - June 3"
   title: "astrid"
   artists:
-  - "glaive"
+    - "glaive"
   album: "cypress grove"
   album_art: "cypress-grove.jpg"
   genre: "hyperpop"
@@ -1452,7 +1452,7 @@ week128:
   week: "Week 128: June 4 - June 10"
   title: "CALONE"
   artists:
-  - "Tiffany Day"
+    - "Tiffany Day"
   album: "CALONE"
   album_art: "calone.jpg"
   genre: "pop"
@@ -1463,7 +1463,7 @@ week129:
   week: "Week 129: June 11 - June 17"
   title: "Far Away"
   artists:
-  - "EASHA"
+    - "EASHA"
   album: "Far Away"
   album_art: "far-away.jpeg"
   genre: "pop"
@@ -1474,7 +1474,7 @@ week130:
   week: "Week 130: June 18 - June 24"
   title: "HEAVY METAL"
   artists:
-  - "Paris Texas"
+    - "Paris Texas"
   album: "BOY ANONYMOUS"
   album_art: "boy-anonymous.jpeg"
   genre: "rap"
@@ -1485,7 +1485,7 @@ week131:
   week: "Week 131: June 25 - July 1"
   title: "Metropolis"
   artists:
-  - "Logic"
+    - "Logic"
   album: "Under Pressure"
   album_art: "under-pressure.jpg"
   genre: "rap"
@@ -1496,7 +1496,7 @@ week132:
   week: "Week 132: July 2 - July 8"
   title: "Little by Little"
   artists:
-  - "The Marías"
+    - "The Marías"
   album: "CINEMA"
   album_art: "cinema.png"
   genre: "psychedelic soul"
@@ -1507,7 +1507,7 @@ week133:
   week: "Week 133: July 9 - July 15"
   title: "ARE YOU WITH THAT?"
   artists:
-  - "Vince Staples"
+    - "Vince Staples"
   album: "Vince Staples"
   album_art: "vince-staples.jpeg"
   genre: "rap"
@@ -1518,7 +1518,7 @@ week134:
   week: "Week 134: July 16 - July 22"
   title: "High Beams"
   artists:
-  - "Tkay Maidza"
+    - "Tkay Maidza"
   album: "Last Year Was Weird, Vol. 3"
   album_art: "lywwv3.jpeg"
   genre: "rap"
@@ -1529,7 +1529,7 @@ week135:
   week: "Week 135: July 23 - July 29"
   title: "Hypotheticals"
   artists:
-  - "Lake Street Dive"
+    - "Lake Street Dive"
   album: "Obviously"
   album_art: "obviously.jpg"
   genre: "indie pop"
@@ -1540,7 +1540,7 @@ week136:
   week: "Week 136: July 30 - August 5"
   title: "Break It Off"
   artists:
-  - "PinkPantheress"
+    - "PinkPantheress"
   album: "Break It Off"
   album_art: "break-it-off.jpg"
   genre: "drum and bass"
@@ -1551,7 +1551,7 @@ week137:
   week: "Week 137: August 6 - August 12"
   title: "Where'd All the Time Go?"
   artists:
-  - "Dr. Dog"
+    - "Dr. Dog"
   album: "Shame, Shame"
   album_art: "shame-shame.jpeg"
   genre: "psychedelic rock"
@@ -1562,7 +1562,7 @@ week138:
   week: "Week 138: August 13 - August 19"
   title: "Every Summertime"
   artists:
-  - "NIKI"
+    - "NIKI"
   album: "Every Summertime"
   album_art: "every-summertime.jpeg"
   genre: "pop"
@@ -1573,19 +1573,19 @@ week139:
   week: "Week 139: August 20 - August 26"
   title: "the sky is pink"
   artists:
-  - "jenny nuo"
+    - "jenny nuo"
   album: "the sky is pink"
   album_art: "the-sky-is-pink.jpg"
   genre: "bedroom pop"
   year: 2019
   blurb: >
-    it's been a slow music week for me, so i'll join the [http://jennyfan.club](http://jennyfan.club)
+    it's been a slow music week for me, so i'll give a shoutout :)
 week140:
   week: "Week 140: August 27 - September 2"
   title: "family ties"
   artists:
-  - "Baby Keem"
-  - "Kendrick Lamar"
+    - "Baby Keem"
+    - "Kendrick Lamar"
   album: "family ties"
   album_art: "family-ties.jpeg"
   genre: "rap"
@@ -1596,7 +1596,7 @@ week141:
   week: "Week 141: September 3 - September 9"
   title: "Story 2"
   artists:
-  - "clipping."
+    - "clipping."
   album: "CLPPNG"
   album_art: "clppng.jpeg"
   genre: "experimental rap"
@@ -1607,7 +1607,7 @@ week142:
   week: "Week 142: September 10 - September 16"
   title: "Miss Understood"
   artists:
-  - "Little Simz"
+    - "Little Simz"
   album: "Sometimes I Might Be Introvert"
   album_art: "simbi.jpeg"
   genre: "rap"
@@ -1618,7 +1618,7 @@ week143:
   week: "Week 143: September 17 - September 23"
   title: "scapegoats"
   artists:
-  - "Baby Keem"
+    - "Baby Keem"
   album: "The Melodic Blue"
   album_art: "the-melodic-blue.jpeg"
   genre: "rap"
@@ -1629,8 +1629,8 @@ week144:
   week: "Week 144: September 24 - September 30"
   title: "DOLLA SIGN SLIME"
   artists:
-  - "Lil Nas X"
-  - "Megan Thee Stallion"
+    - "Lil Nas X"
+    - "Megan Thee Stallion"
   album: "MONTERO"
   album_art: "montero.jpg"
   genre: "rap"
@@ -1641,7 +1641,7 @@ week145:
   week: "Week 145: October 1 - October 7"
   title: "Lucy"
   artists:
-  - "Yenkee"
+    - "Yenkee"
   album: "Lucy"
   album_art: "lucy.jpeg"
   genre: "lo-fi pop"
@@ -1652,8 +1652,8 @@ week146:
   week: "Week 146: October 8 - October 14"
   title: "Grade A"
   artists:
-  - "spill tab"
-  - "JAWNY"
+    - "spill tab"
+    - "JAWNY"
   album: "Grade A"
   album_art: "grade-a.jpeg"
   genre: "indie pop/rock"
@@ -1664,7 +1664,7 @@ week147:
   week: "Week 147: October 15 - October 21"
   title: "Diablo"
   artists:
-  - "Mac Miller"
+    - "Mac Miller"
   album: "Faces"
   album_art: "faces.jpg"
   genre: "rap"
@@ -1675,8 +1675,8 @@ week148:
   week: "Week 148: October 22 - October 28"
   title: "get off my dick"
   artists:
-  - "Zack Fox"
-  - "Kenny Beats"
+    - "Zack Fox"
+    - "Kenny Beats"
   album: "shut the fuck up talking to me"
   album_art: "stfuttm.jpeg"
   genre: "rap"
@@ -1687,7 +1687,7 @@ week149:
   week: "Week 149: October 29 - November 4"
   title: "Charmander"
   artists:
-  - "Aminé"
+    - "Aminé"
   album: "TWOPOINTFIVE"
   album_art: "twopointfive.jpeg"
   genre: "rap"
@@ -1698,7 +1698,7 @@ week150:
   week: "Week 150: November 5 - November 11"
   title: "Fairy Tale"
   artists:
-  - "Seori"
+    - "Seori"
   album: "?depacse owh"
   album_art: "who-escaped.jpg"
   genre: "k-r&b"
@@ -1709,9 +1709,9 @@ week151:
   week: "Week 151: November 12 - November 18"
   title: "Jam & Butterfly"
   artists:
-  - "DPR LIVE"
-  - "Crush"
-  - "eaJ"
+    - "DPR LIVE"
+    - "Crush"
+    - "eaJ"
   album: "Jam & Butterfly"
   album_art: "jam-and-butterfly.png"
   genre: "k-r&b"
@@ -1722,7 +1722,7 @@ week152:
   week: "Week 152: November 19 - November 25"
   title: "PISTOLWHIP"
   artists:
-  - "spill tab"
+    - "spill tab"
   album: "PISTOLWHIP"
   album_art: "pistolwhip.png"
   genre: "indie rock"
@@ -1733,7 +1733,7 @@ week153:
   week: "Week 153: November 26 - December 2"
   title: "Blue Gatorade"
   artists:
-  - "Dark Dazey"
+    - "Dark Dazey"
   album: "Howdy Blue"
   album_art: "howdy-blue.jpeg"
   genre: "psychedelic rock"
@@ -1744,7 +1744,7 @@ week154:
   week: "Week 154: December 3 - December 9"
   title: "Futon"
   artists:
-  - "Ūla"
+    - "Ūla"
   album: "Futon"
   album_art: "futon.jpeg"
   genre: "bedroom pop"
@@ -1755,7 +1755,7 @@ week155:
   week: "Week 155: December 10 - December 16"
   title: "burbank house"
   artists:
-  - "tsubi club"
+    - "tsubi club"
   album: "burbank house"
   album_art: "burbank-house.jpg"
   genre: "indie/noise rock?"
@@ -1766,8 +1766,8 @@ week156:
   week: "Week 156: December 17 - December 23"
   title: "Neon Guts"
   artists:
-  - "Lil Uzi Vert"
-  - "Pharrell Williams"
+    - "Lil Uzi Vert"
+    - "Pharrell Williams"
   album: "Luv is Rage 2"
   album_art: "luv-is-rage-2.jpeg"
   genre: "rap"
@@ -1778,7 +1778,7 @@ week157:
   week: "Week 157: December 24 - December 30"
   title: "Happier Than Ever"
   artists:
-  - "Billie Eilish"
+    - "Billie Eilish"
   album: "Happier Than Ever"
   album_art: "happier-than-ever.jpeg"
   genre: "alt pop"
@@ -1789,7 +1789,7 @@ week158:
   week: "Week 158: December 31 - January 5"
   title: "Go Away"
   artists:
-  - "Omar Apollo"
+    - "Omar Apollo"
   album: "Go Away"
   album_art: "go-away.png"
   genre: "r&b"
@@ -1800,7 +1800,7 @@ week159:
   week: "Week 159: January 6 - January 12"
   title: "Chaise Longue"
   artists:
-  - "Wet Leg"
+    - "Wet Leg"
   album: "Chaise Longue"
   album_art: "wet-leg.jpeg"
   genre: "alt rock"
@@ -1811,9 +1811,9 @@ week160:
   week: "Week 160: January 13 - January 19"
   title: "Surround Sound"
   artists:
-  - "JID"
-  - "21 Savage"
-  - "Baby Tate"
+    - "JID"
+    - "21 Savage"
+    - "Baby Tate"
   album: "Surround Sound"
   album_art: "surround-sound.png"
   genre: "rap"
@@ -1824,7 +1824,7 @@ week161:
   week: "Week 161: January 20 - January 26"
   title: "Walkin"
   artists:
-  - "Denzel Curry"
+    - "Denzel Curry"
   album: "Walkin"
   album_art: "walkin.jpeg"
   genre: "rap"
@@ -1835,8 +1835,8 @@ week162:
   week: "Week 162: January 27 - February 3"
   title: "Going Bad"
   artists:
-  - "Meek Mill"
-  - "Drake"
+    - "Meek Mill"
+    - "Drake"
   album: "Championships"
   album_art: "championships.jpeg"
   genre: "rap"
@@ -1847,8 +1847,8 @@ week163:
   week: "Week 163: February 4 - February 10"
   title: "Silver into Rain"
   artists:
-  - "Luna Li"
-  - "beabadoobee"
+    - "Luna Li"
+    - "beabadoobee"
   album: "Silver Into Rain"
   album_art: "silver-into-rain.jpeg"
   genre: "dream pop/rock"
@@ -1859,8 +1859,8 @@ week164:
   week: "Week 164: February 11 - February 17"
   title: "MAGIC"
   artists:
-  - "Vince Staples"
-  - "Mustard"
+    - "Vince Staples"
+    - "Mustard"
   album: "Magic"
   album_art: "magic.jpeg"
   genre: "rap"
@@ -1871,9 +1871,9 @@ week165:
   week: "Week 165: February 18 - February 24"
   title: "Life's a Bitch"
   artists:
-  - "Nas"
-  - "AZ"
-  - "Olu Dara"
+    - "Nas"
+    - "AZ"
+    - "Olu Dara"
   album: "Illmatic"
   album_art: "illmatic.jpeg"
   genre: "rap"
@@ -1884,7 +1884,7 @@ week166:
   week: "Week 166: February 25 - March 3"
   title: "HAZARD DUTY PAY!"
   artists:
-  - "JPEGMAFIA"
+    - "JPEGMAFIA"
   album: "HAZARD DUTY PAY!"
   album_art: "hazard-duty-pay.jpeg"
   genre: "rap"
@@ -1895,7 +1895,7 @@ week167:
   week: "Week 167: March 4 - March 10"
   title: "Your Type"
   artists:
-  - "Alvvays"
+    - "Alvvays"
   album: "Antisocialites"
   album_art: "antisocialites.jpg"
   genre: "indie pop"
@@ -1906,7 +1906,7 @@ week168:
   week: "Week 168: March 11 - March 17"
   title: "Since I Left You"
   artists:
-  - "The Avalanches"
+    - "The Avalanches"
   album: "Since I Left You"
   album_art: "since-i-left-you.jpeg"
   genre: "dance"
@@ -1917,7 +1917,7 @@ week169:
   week: "Week 169: March 18 - March 24"
   title: "Close Your Eyes"
   artists:
-  - "Kim Petras"
+    - "Kim Petras"
   album: "TURN OFF THE LIGHT"
   album_art: "turn-off-the-light.png"
   genre: "electronic pop"
@@ -1928,8 +1928,8 @@ week170:
   week: "Week 170: March 25 - March 31"
   title: "Instant Crush"
   artists:
-  - "Daft Punk"
-  - "Julian Casablanca"
+    - "Daft Punk"
+    - "Julian Casablanca"
   album: "Random Access Memories"
   album_art: "ram.jpeg"
   genre: "electronic"
@@ -1940,7 +1940,7 @@ week171:
   week: "Week 171: April 1 - April 7"
   title: "BROKEN PLATES"
   artists:
-  - "Tiffany Day"
+    - "Tiffany Day"
   album: "THE RENEWAL PROJECT"
   album_art: "trp.jpeg"
   genre: "pop"
@@ -1951,7 +1951,7 @@ week172:
   week: "Week 172: April 8 - April 14"
   title: "Love It If We Made It"
   artists:
-  - "Rina Sawayama"
+    - "Rina Sawayama"
   album: "SAWAYAMA"
   album_art: "sawayama.png"
   genre: "alt pop"
@@ -1962,7 +1962,7 @@ week173:
   week: "Week 173: April 15 - April 21"
   title: "END OF THE WORLD"
   artists:
-  - "MICHELLE"
+    - "MICHELLE"
   album: "AFTER DINNER WE TALK DREAMS"
   album_art: "adwtd.jpeg"
   genre: "indie pop"
@@ -1973,8 +1973,8 @@ week174:
   week: "Week 174: April 22 - April 28"
   title: "Dreamin Of The Past"
   artists:
-  - "Pusha T"
-  - "Kanye West"
+    - "Pusha T"
+    - "Kanye West"
   album: "It's Almost Dry"
   album_art: "its-almost-dry.jpeg"
   genre: "coke rap"
@@ -1985,7 +1985,7 @@ week175:
   week: "Week 175: April 29 - May 5"
   title: "Forever"
   artists:
-  - "HAIM"
+    - "HAIM"
   album: "Days Are Gone"
   album_art: "days-are-gone.jpeg"
   genre: "indie rock/pop"
@@ -1996,7 +1996,7 @@ week176:
   week: "Week 176: May 6 - May 12"
   title: "The Heart Part 5"
   artists:
-  - "Kendrick Lamar"
+    - "Kendrick Lamar"
   album: "The Heart Part 5"
   album_art: "the-heart-part-5.jpeg"
   genre: "rap"
@@ -2007,8 +2007,8 @@ week177:
   week: "Week 177: May 13 - May 19"
   title: "Father Time"
   artists:
-  - "Kendrick Lamar"
-  - "Sampha"
+    - "Kendrick Lamar"
+    - "Sampha"
   album: "Mr. Morale & The Big Steppers"
   album_art: "mmtbs.jpeg"
   genre: "rap"
@@ -2019,7 +2019,7 @@ week178:
   week: "Week 178: May 20 - May 26"
   title: "Auntie Diaries"
   artists:
-  - "Kendrick Lamar"
+    - "Kendrick Lamar"
   album: "Mr. Morale & The Big Steppers"
   album_art: "mmtbs.jpeg"
   genre: "rap"
@@ -2030,7 +2030,7 @@ week179:
   week: "Week 179: May 27 - June 2"
   title: "Listening To Me Sing"
   artists:
-  - "Jacklen Ro"
+    - "Jacklen Ro"
   album: "Love Junkies"
   album_art: "love-junkies.jpeg"
   genre: "alt rock"
@@ -2041,7 +2041,7 @@ week180:
   week: "Week 180: June 3 - June 9"
   title: "Music For A Sushi Restaurant"
   artists:
-  - "Harry Styles"
+    - "Harry Styles"
   album: "Harry's House"
   album_art: "harrys-house.webp"
   genre: "pop"
@@ -2052,9 +2052,9 @@ week181:
   week: "Week 181: June 10 - June 16"
   title: "Cash In Cash Out"
   artists:
-  - "Pharrell Williams"
-  - "21 Savage"
-  - "Tyler, The Creator"
+    - "Pharrell Williams"
+    - "21 Savage"
+    - "Tyler, The Creator"
   album: "Cash In Cash Out"
   album_art: "cico.jpeg"
   genre: "rap"
@@ -2065,7 +2065,7 @@ week182:
   week: "Week 182: June 17 - June 23"
   title: "Glimpse of Us"
   artists:
-  - "Joji"
+    - "Joji"
   album: "Glimpse of Us"
   album_art: "glimpse-of-us.jpeg"
   genre: "ballad"
@@ -2076,7 +2076,7 @@ week183:
   week: "Week 183: June 24 - June 30"
   title: "Sorry"
   artists:
-  - "Deb Never"
+    - "Deb Never"
   album: "Where Have All the Flowers Gone?"
   album_art: "whatfg.jpeg"
   genre: "alt rock"
@@ -2087,9 +2087,9 @@ week184:
   week: "Week 184: July 1 - July 7"
   title: "hollaback bitch"
   artists:
-  - "Mura Masa"
-  - "Shygirl"
-  - "Channel Tres"
+    - "Mura Masa"
+    - "Shygirl"
+    - "Channel Tres"
   album: "hollaback bitch"
   album_art: "hollaback-bitch.jpeg"
   genre: "alt r&b"
@@ -2100,8 +2100,8 @@ week185:
   week: "Week 185: July 8 - July 14"
   title: "TAKE A CHANCE"
   artists:
-  - "DOMi & JD BECK"
-  - "Anderson .Paak"
+    - "DOMi & JD BECK"
+    - "Anderson .Paak"
   album: "TAKE A CHANCE"
   album_art: "take-a-chance.jpeg"
   genre: "jazz r&b"
@@ -2112,7 +2112,7 @@ week186:
   week: "Week 186: July 15 - July 21"
   title: "Beware of the Dogs"
   artists:
-  - "Stella Donnelly"
+    - "Stella Donnelly"
   album: "Beware of the Dogs"
   album_art: "beware-of-the-dogs.jpeg"
   genre: "indie pop-rock"
@@ -2123,7 +2123,7 @@ week187:
   week: "Week 187: July 22 - July 28"
   title: "Timeless"
   artists:
-  - "Ambar Lucid"
+    - "Ambar Lucid"
   album: "Timeless"
   album_art: "timeless.jpeg"
   genre: "alt pop"
@@ -2134,7 +2134,7 @@ week188:
   week: "Week 188: July 29 - August 4"
   title: "Shatter"
   artists:
-  - "Maggie Rogers"
+    - "Maggie Rogers"
   album: "Surrender"
   album_art: "surrender.jpeg"
   genre: "alt pop"
@@ -2145,8 +2145,8 @@ week189:
   week: "Week 189: August 5 - August 11"
   title: "ENERGY"
   artists:
-  - "Beyoncé"
-  - "Beam"
+    - "Beyoncé"
+    - "Beam"
   album: "Renaissance"
   album_art: "renaissance.jpg"
   genre: "dance pop"
@@ -2157,7 +2157,7 @@ week190:
   week: "Week 190: August 12 - August 18"
   title: "SAN FRANCISCO SIDEWALK"
   artists:
-  - "Tiffany Day"
+    - "Tiffany Day"
   album: "SAN FRANCISCO SIDEWALK"
   album_art: "san-francisco-sidewalk.jpeg"
   genre: "pop"
@@ -2168,8 +2168,8 @@ week191:
   week: "Week 191: August 19 - August 25"
   title: "Budget"
   artists:
-  - "Megan Thee Stallion"
-  - "Latto"
+    - "Megan Thee Stallion"
+    - "Latto"
   album: "Traumazine"
   album_art: "traumazine.jpg"
   genre: "rap"
@@ -2180,7 +2180,7 @@ week192:
   week: "Week 192: August 26 - September 1"
   title: "Crack Sandwich"
   artists:
-  - "JID"
+    - "JID"
   album: "The Forever Story"
   album_art: "the-forever-story.jpg"
   genre: "rap"
@@ -2191,7 +2191,7 @@ week193:
   week: "Week 193: September 2 - September 8"
   title: "Still"
   artists:
-  - "Kenny Beats"
+    - "Kenny Beats"
   album: "LOUIE"
   album_art: "louie.jpg"
   genre: "instrumental hip-hop"
@@ -2202,7 +2202,7 @@ week194:
   week: "Week 194: September 9 - September 15"
   title: "Stoked"
   artists:
-  - "Weston Estate"
+    - "Weston Estate"
   album: "Maggie Valley"
   album_art: "maggie-valley.jpeg"
   genre: "indie pop"
@@ -2213,7 +2213,7 @@ week195:
   week: "Week 195: September 16 - September 22"
   title: "Forgot About"
   artists:
-  - "Priya Ragu"
+    - "Priya Ragu"
   album: "damnshestamil"
   album_art: "damnshestamil.jpg"
   genre: "pop"
@@ -2224,7 +2224,7 @@ week196:
   week: "Week 196: September 23 - September 29"
   title: "KAZINO"
   artists:
-  - "BIBI"
+    - "BIBI"
   album: "KAZINO"
   album_art: "kazino.jpg"
   genre: "pop"
@@ -2235,7 +2235,7 @@ week197:
   week: "Week 197: September 30 - October 6"
   title: "i tried"
   artists:
-  - "slowthai"
+    - "slowthai"
   album: "Tyron"
   album_art: "tyron.jpeg"
   genre: "rap"
@@ -2245,7 +2245,7 @@ week198:
   week: "Week 198: October 7  - October 13"
   title: "Heavenly Father"
   artists:
-  - "Isaiah Rashad"
+    - "Isaiah Rashad"
   album: "Cilvia Demo"
   album_art: "cilvia.jpeg"
   genre: "rap"
@@ -2255,7 +2255,7 @@ week199:
   week: "Week 199: October 14  - October 20"
   title: "HEAD"
   artists:
-  - "Devon Again"
+    - "Devon Again"
   album: "HEAD"
   album_art: "head.jpeg"
   genre: "pop"
@@ -2265,7 +2265,7 @@ week200:
   week: "Week 200: October 21  - October 27"
   title: "Sideways"
   artists:
-  - "Carly Rae Jepsen"
+    - "Carly Rae Jepsen"
   album: "The Loneliest Time"
   album_art: "tlt.jpg"
   genre: "pop"
@@ -2275,7 +2275,7 @@ week201:
   week: "Week 201: October 28  - November 3"
   title: "patience interlude"
   artists:
-  - "Baby Keem"
+    - "Baby Keem"
   album: "The Melodic Blue (Deluxe)"
   album_art: "the-melodic-blue.jpeg"
   genre: "rap"
@@ -2285,7 +2285,7 @@ week202:
   week: "Week 202: November 4 - November 10"
   title: "As The World Caves In"
   artists:
-  - "Matt Maltese"
+    - "Matt Maltese"
   album: "Bad Contestant"
   album_art: "bad-contestant.jpeg"
   genre: "pop"
@@ -2295,7 +2295,7 @@ week203:
   week: "Week 203: November 11 - November 17"
   title: "Die For You"
   artists:
-  - "Joji"
+    - "Joji"
   album: "SMITHEREENS"
   album_art: "smithereens.jpeg"
   genre: "pop"
@@ -2305,7 +2305,7 @@ week204:
   week: "Week 204: November 18 - November 24"
   title: "First Time"
   artists:
-  - "Nas"
+    - "Nas"
   album: "King's Disease III"
   album_art: "kd3.jpeg"
   genre: "rap"
@@ -2315,7 +2315,7 @@ week205:
   week: "Week 205: November 25 - December 1"
   title: "うっせぇわ"
   artists:
-  - "Ado"
+    - "Ado"
   album: "うっせぇわ"
   album_art: "うっせぇわ.jpg"
   genre: "japanese electropop"
@@ -2325,9 +2325,9 @@ week206:
   week: "Week 206: December 2 - December 8"
   title: "Feel The Fiyaaaah"
   artists:
-  - "Metro Boomin"
-  - "A$AP Rocky"
-  - "Takeoff"
+    - "Metro Boomin"
+    - "A$AP Rocky"
+    - "Takeoff"
   album: "HEROES & VILLAINS"
   album_art: "heroes-villains.jpeg"
   genre: "rap"
@@ -2337,7 +2337,7 @@ week207:
   week: "Week 207: December 9 - December 15"
   title: "Look Out!"
   artists:
-  - "Peach Pit"
+    - "Peach Pit"
   album: "From 2 to 3"
   album_art: "from2to3.jpeg"
   genre: "alt rock"
@@ -2347,7 +2347,7 @@ week208:
   week: "Week 208: December 16 - December 22"
   title: "Kill Bill"
   artists:
-  - "SZA"
+    - "SZA"
   album: "SOS"
   album_art: "sos.jpg"
   genre: "r&b"
@@ -2357,7 +2357,7 @@ week209:
   week: "Week 209: December 23 - December 29"
   title: "Gorilla"
   artists:
-  - "Little Simz"
+    - "Little Simz"
   album: "NO THANK YOU"
   album_art: "no-thank-you.jpeg"
   genre: "rap"
@@ -2367,7 +2367,7 @@ week210:
   week: "Week 210: December 30 - January 5"
   title: "King"
   artists:
-  - "Florence + The Machine"
+    - "Florence + The Machine"
   album: "Dance Fever"
   album_art: "dance-fever.jpeg"
   genre: "pop rock"
@@ -2377,8 +2377,8 @@ week211:
   week: "Week 211: January 6 - January 12"
   title: "One Mic One Gun"
   artists:
-  - "Nas"
-  - "21 Savage"
+    - "Nas"
+    - "21 Savage"
   album: "One Mic One Gun"
   album_art: "one-mic-one-gun.jpeg"
   genre: "rap"
@@ -2388,7 +2388,7 @@ week212:
   week: "Week 212: January 13 - January 19"
   title: "Shinunoga E-Wa / 死ぬのがいいわ"
   artists:
-  - "Fuji Kaze / 藤井風"
+    - "Fuji Kaze / 藤井風"
   album: "HELP EVER HURT NEVER"
   album_art: "hehn.jpeg"
   genre: "jpop"
@@ -2398,8 +2398,8 @@ week213:
   week: "Week 213: January 20 - January 26"
   title: "GOATED."
   artists:
-  - "Armani White"
-  - "Denzel Curry"
+    - "Armani White"
+    - "Denzel Curry"
   album: "GOATED"
   album_art: "goated.jpeg"
   genre: "rap"
@@ -2409,8 +2409,8 @@ week214:
   week: "Week 214: January 27 - February 2"
   title: "Two Tens"
   artists:
-  - "Cordae"
-  - "Anderson .Paak"
+    - "Cordae"
+    - "Anderson .Paak"
   album: "Two Tens"
   album_art: "two-tens.jpeg"
   genre: "rap"
@@ -2420,7 +2420,7 @@ week215:
   week: "Week 215: February 3 - February 9"
   title: "CUFF IT"
   artists:
-  - "Beyoncé"
+    - "Beyoncé"
   album: "Renaissance"
   album_art: "renaissance.jpeg"
   genre: "dance"
@@ -2430,7 +2430,7 @@ week216:
   week: "Week 216: February 10 - February 16"
   title: "OutRight"
   artists:
-  - "Wild Party"
+    - "Wild Party"
   album: "Phantom Pop"
   album_art: "phantom-pop.jpeg"
   genre: "indie rock"
@@ -2440,7 +2440,7 @@ week217:
   week: "Week 217: February 17 - February 23"
   title: "Chameleon"
   artists:
-  - "Dark Dazey"
+    - "Dark Dazey"
   album: "Chameleon"
   album_art: "chameleon.jpeg"
   genre: "indie rock"
@@ -2450,8 +2450,8 @@ week218:
   week: "Week 218: February 24 - March 2"
   title: "Tally"
   artists:
-  - "midwxst"
-  - "Denzel Curry"
+    - "midwxst"
+    - "Denzel Curry"
   album: "Tally"
   album_art: "tally.jpg"
   genre: "rap"
@@ -2461,8 +2461,8 @@ week219:
   week: "Week 219: March 3 - March 9"
   title: "Eye Know"
   artists:
-  - "De La Soul"
-  - "Otis Redding"
+    - "De La Soul"
+    - "Otis Redding"
   album: "3 Feet High and Rising"
   album_art: "3-feet.jpeg"
   genre: "rap"
@@ -2472,7 +2472,7 @@ week220:
   week: "Week 220: March 10 - March 16"
   title: "Weight"
   artists:
-  - "redveil"
+    - "redveil"
   album: "Niagara"
   album_art: "niagara.jpeg"
   genre: "rap"
@@ -2482,8 +2482,8 @@ week221:
   week: "Week 221: March 17 - March 23"
   title: "Slipping Into Darkness"
   artists:
-  - "Hit-Boy"
-  - "The Alchemist"
+    - "Hit-Boy"
+    - "The Alchemist"
   album: "Slipping Into Darkness"
   album_art: "slipping-into-darkness.jpeg"
   genre: "rap"
@@ -2493,9 +2493,9 @@ week222:
   week: "Week 222: March 24 - March 30"
   title: "Kingdom Hearts Key"
   artists:
-  - "JPEGMAFIA"
-  - "Danny Brown"
-  - "redveil"
+    - "JPEGMAFIA"
+    - "Danny Brown"
+    - "redveil"
   album: "SCARING THE HOES"
   album_art: "sth.jpeg"
   genre: "rap"
@@ -2505,7 +2505,7 @@ week223:
   week: "Week 223: March 31 - April 6"
   title: "SORRY NOT SORRY"
   artists:
-  - "Tyler, The Creator"
+    - "Tyler, The Creator"
   album: "CALL ME IF YOU GET LOST: The Estate Sale"
   album_art: "cmiygl-tes.jpeg"
   genre: "rap"
@@ -2515,7 +2515,7 @@ week224:
   week: "Week 224: April 7 - April 13"
   title: "pg baby"
   artists:
-  - "redveil"
+    - "redveil"
   album: "Learn 2 Swim"
   album_art: "learn-2-swim.jpeg"
   genre: "rap"
@@ -2525,7 +2525,7 @@ week225:
   week: "Week 225: April 14 - April 20"
   title: "Prom Night"
   artists:
-  - "Chance the Rapper"
+    - "Chance the Rapper"
   album: "10 Day"
   album_art: "10-day.jpeg"
   genre: "rap"
@@ -2535,7 +2535,7 @@ week226:
   week: "Week 226: April 21 - April 27"
   title: "For DOOM"
   artists:
-  - "Open Mike Eagle"
+    - "Open Mike Eagle"
   album: "Component System with the Auto Reverse"
   album_art: "cswtar.jpeg"
   genre: "rap"
@@ -2545,17 +2545,17 @@ week227:
   week: "Week 227: April 28 - May 4"
   title: "Gang Gang Gang"
   artists:
-  - "Jack Harlow"
+    - "Jack Harlow"
   album: "Jackman."
   album_art: "jackman.jpeg"
   genre: "rap"
   year: 2023
-  blurb: "It surprises me just how many people (including Fantano!) are missing what this song is about: a critique of \"brotherhood\" and its lack of accountability. Coming from an all-boys school that was hyperfixated on brotherhood above all else, this song hits too close to home. Really wasn't expecting this from Jack Harlow!"
+  blurb: 'It surprises me just how many people (including Fantano!) are missing what this song is about: a critique of "brotherhood" and its lack of accountability. Coming from an all-boys school that was hyperfixated on brotherhood above all else, this song hits too close to home. Really wasn''t expecting this from Jack Harlow!'
 week228:
   week: "Week 228: May 5 - May 11"
   title: "Love, Try Not To Let Go"
   artists:
-  - "Julia Jacklin"
+    - "Julia Jacklin"
   album: "PRE PLEASURE"
   album_art: "pre-pleasure.jpeg"
   genre: "indie rock"
@@ -2565,8 +2565,8 @@ week229:
   week: "Week 229: May 12 - May 18"
   title: "MOTHERLESS"
   artists:
-  - "Killer Mike"
-  - "Eryn Allen Kane"
+    - "Killer Mike"
+    - "Eryn Allen Kane"
   album: "MICHAEL"
   album_art: "michael.jpeg"
   genre: "rap"
@@ -2576,9 +2576,9 @@ week230:
   week: "Week 230: May 19 - May 25"
   title: "Master P"
   artists:
-  - "KAYTRANADA"
-  - "Aminé"
-  - "Big Sean"
+    - "KAYTRANADA"
+    - "Aminé"
+    - "Big Sean"
   album: "KAYTRAMINÉ"
   album_art: "kaytramine.jpeg"
   genre: "rap"
@@ -2588,9 +2588,9 @@ week231:
   week: "Week 231: May 26 - June 1"
   title: "Daydreaming"
   artists:
-  - "NxWorries"
-  - "Anderson .Paak"
-  - "Knxwledge"
+    - "NxWorries"
+    - "Anderson .Paak"
+    - "Knxwledge"
   album: "Daydreaming"
   album_art: "daydreaming.jpeg"
   genre: "r&b"
@@ -2600,8 +2600,8 @@ week232:
   week: "Week 232: June 2 - June 8"
   title: "The Hillbillies"
   artists:
-  - "Baby Keem"
-  - "Kendrick Lamar"
+    - "Baby Keem"
+    - "Kendrick Lamar"
   album: "Hillbillies"
   album_art: "hillbillies.jpeg"
   genre: "rap"
@@ -2611,7 +2611,7 @@ week233:
   week: "Week 233: June 9 - June 15"
   title: "From The Start"
   artists:
-  - "Laufey"
+    - "Laufey"
   album: "From The Start"
   album_art: "from-the-start.jpeg"
   genre: "jazz pop"
@@ -2621,7 +2621,7 @@ week234:
   week: "Week 234: June 16 - June 22"
   title: "All I Wanted"
   artists:
-  - "Paramore"
+    - "Paramore"
   album: "Brand New Eyes"
   album_art: "brand-new-eyes.jpg"
   genre: "emo rock"
@@ -2631,7 +2631,7 @@ week235:
   week: "Week 235: June 23 - June 29"
   title: "Nails"
   artists:
-  - "Saint Levant"
+    - "Saint Levant"
   album: "Nails"
   album_art: "nails.jpeg"
   genre: "rap"
@@ -2641,7 +2641,7 @@ week236:
   week: "Week 236: June 30 - July 6"
   title: "Professor X"
   artists:
-  - "Dave"
+    - "Dave"
   album: "Top Boy"
   album_art: "top-boy.jpeg"
   genre: "rap"
@@ -2651,7 +2651,7 @@ week237:
   week: "Week 237: July 7 - 13"
   title: "FUNKFEST"
   artists:
-  - "grouptherapy."
+    - "grouptherapy."
   album: "i was mature for my age, but i was still a child"
   album_art: "iwmfmabiwsac.jpeg"
   genre: "alt rap"
@@ -2661,7 +2661,7 @@ week238:
   week: "Week 238: July 14 - 20"
   title: "Hunned Bandz"
   artists:
-  - "Tanukichan"
+    - "Tanukichan"
   album: "Sundays"
   album_art: "sundays.jpeg"
   genre: "indie rock"
@@ -2671,7 +2671,7 @@ week239:
   week: "Week 239: July 21 - 27"
   title: "Rush"
   artists:
-  - "Troye Sivan"
+    - "Troye Sivan"
   album: "Rush"
   album_art: "rush.jpeg"
   genre: "pop"
@@ -2681,7 +2681,7 @@ week240:
   week: "Week 240: July 28 - August 3"
   title: "Come Over"
   artists:
-  - "Carly Rae Jepsen"
+    - "Carly Rae Jepsen"
   album: "The Loveliest Time"
   album_art: "the-loveliest-time.jpeg"
   genre: "pop"
@@ -2691,9 +2691,9 @@ week241:
   week: "Week 241: August 4 - August 10"
   title: "HEARTBREAKER CLUB"
   artists:
-  - "City Girl"
-  - "tiffi"
-  - "Highvyn"
+    - "City Girl"
+    - "tiffi"
+    - "Highvyn"
   album: "HEARTBREAKER CLUB"
   album_art: "heartbreaker-club.jpeg"
   genre: "pop"
@@ -2703,8 +2703,8 @@ week242:
   week: "Week 242: August 11 - August 17"
   title: "ABC"
   artists:
-  - "Polyphia"
-  - "Sophia Black"
+    - "Polyphia"
+    - "Sophia Black"
   album: "Remember That You Will Die"
   album_art: "remember-that-you-will-die.jpeg"
   genre: "prog rock"
@@ -2714,7 +2714,7 @@ week243:
   week: "Week 243: August 18 - August 24"
   title: "Oh No Darling!"
   artists:
-  - "Sarah Kinsley"
+    - "Sarah Kinsley"
   album: "Ascension"
   album_art: "ascension.jpg"
   genre: "alt rock"
@@ -2724,7 +2724,7 @@ week244:
   week: "Week 244: August 25 - August 31"
   title: "踊り子"
   artists:
-  - "Vaundy"
+    - "Vaundy"
   album: "踊り子"
   album_art: "踊り子.jpeg"
   genre: "jpop"
@@ -2734,7 +2734,7 @@ week245:
   week: "Week 245: September 1st - September 7th"
   title: "Charge It"
   artists:
-  - "ENNY"
+    - "ENNY"
   album: "We Go Again"
   album_art: "we-go-again.jpg"
   genre: "rap"
@@ -2744,7 +2744,7 @@ week246:
   week: "Week 246: September 8th - September 14th"
   title: "While You Were Sleeping"
   artists:
-  - "Laufey"
+    - "Laufey"
   album: "Bewitched"
   album_art: "bewitched.jpeg"
   genre: "jazz pop"
@@ -2754,8 +2754,8 @@ week247:
   week: "Week 247: September 15th - September 21st"
   title: "1-800-Nas&Hit"
   artists:
-  - "Nas"
-  - "Hit-Boy"
+    - "Nas"
+    - "Hit-Boy"
   album: "Magic 3"
   album_art: "magic-3.jpeg"
   genre: "rap"
@@ -2765,8 +2765,8 @@ week248:
   week: "Week 248: September 22nd - September 28th"
   title: "Nachts wach"
   artists:
-  - "Miksu / Macloud"
-  - "makko"
+    - "Miksu / Macloud"
+    - "makko"
   album: "Nachts wach"
   album_art: "nachts-wach.jpeg"
   genre: "german dance-rap?"
@@ -2776,7 +2776,7 @@ week249:
   week: "Week 249: September 29th - October 5th"
   title: "EVERYTHING IS RED"
   artists:
-  - "Koven Wei"
+    - "Koven Wei"
   album: "EVERYTHING IS RED"
   album_art: "everything-is-red.jpeg"
   genre: "alt rock"
@@ -2786,7 +2786,7 @@ week250:
   week: "Week 250: October 6th - October 12th"
   title: "Fucking Depressed"
   artists:
-  - "Bad Daughter"
+    - "Bad Daughter"
   album: "Fucking Depressed"
   album_art: "fucking-depressed.jpeg"
   genre: "alt rock"
@@ -2796,7 +2796,7 @@ week251:
   week: "Week 251: October 13th - October 19th"
   title: "What's The Time Where You Are"
   artists:
-  - "Troye Sivan"
+    - "Troye Sivan"
   album: "Something To Give Each Other"
   album_art: "stgeo.jpeg"
   genre: "pop"
@@ -2806,8 +2806,8 @@ week252:
   week: "Week 252: October 20th - October 26th"
   title: "A Night To Remember"
   artists:
-  - "beabadoobee"
-  - "Laufey"
+    - "beabadoobee"
+    - "Laufey"
   album: "A Night To Remember"
   album_art: "a-night-to-remember.jpeg"
   genre: "alt pop"
@@ -2817,7 +2817,7 @@ week253:
   week: "Week 253: October 27th - November 2nd"
   title: "But Not For Me"
   artists:
-  - "Chet Baker"
+    - "Chet Baker"
   album: "Chet Baker Sings"
   album_art: "chet-baker-sings.jpg"
   genre: "vocal jazz"
@@ -2827,7 +2827,7 @@ week254:
   week: "Week 254: November 3rd - November 9th"
   title: "To Summer, From Cole - Audio Hug"
   artists:
-  - "J. Cole"
+    - "J. Cole"
   album: "CLEAR 2: SOFT LIFE EP"
   album_art: "c2sle.jpeg"
   genre: "rap"
@@ -2837,7 +2837,7 @@ week255:
   week: "Week 255: November 10th - November 16th"
   title: "Cobra"
   artists:
-  - "Megan Thee Stallion"
+    - "Megan Thee Stallion"
   album: "Cobra"
   album_art: "cobra.jpeg"
   genre: "rap"
@@ -2847,7 +2847,7 @@ week256:
   week: "Week 256: November 17th - November 23th"
   title: "Don't Know How To Keep Loving You"
   artists:
-  - "Julia Jacklin"
+    - "Julia Jacklin"
   album: "Crushing"
   album_art: "crushing.jpeg"
   genre: "indie pop"
@@ -2857,7 +2857,7 @@ week257:
   week: "Week 257: November 24th - November 30th"
   title: "bloom"
   artists:
-  - "ネクライトーキー"
+    - "ネクライトーキー"
   album: "bloom"
   album_art: "bloom.jpeg"
   genre: "jrock"
@@ -2867,7 +2867,7 @@ week258:
   week: "Week 258: December 1st - December 7th"
   title: "Not Strong Enough"
   artists:
-  - "boygenius"
+    - "boygenius"
   album: "the record"
   album_art: "the-record.jpeg"
   genre: "indie rock"
@@ -2877,7 +2877,7 @@ week259:
   week: "Week 259: December 8th - December 14th"
   title: "we're all eating each other"
   artists:
-  - "Juliet Ivy"
+    - "Juliet Ivy"
   album: "playpen"
   album_art: "playpen.jpeg"
   genre: "indie pop"
@@ -2887,8 +2887,8 @@ week260:
   week: "Week 260: December 15th - December 21st"
   title: "Otro Atardecer"
   artists:
-  - "Bad Bunny"
-  - "The Marías"
+    - "Bad Bunny"
+    - "The Marías"
   album: "Un Verano Sin Ti"
   album_art: "un-verano-sin-ti.jpeg"
   genre: "latin pop"
@@ -2898,7 +2898,7 @@ week261:
   week: "Week 261: December 22nd - December 28th"
   title: "Vampire Empire"
   artists:
-  - "Big Thief"
+    - "Big Thief"
   album: "Vampire Empire"
   album_art: "vampire-empire.jpeg"
   genre: "indie folk"
@@ -2908,7 +2908,7 @@ week262:
   week: "Week 262: December 29th - January 4th"
   title: "Night Shift"
   artists:
-  - "Lucy Dacus"
+    - "Lucy Dacus"
   album: "Historian"
   album_art: "historian.jpeg"
   genre: "indie rock"
@@ -2918,7 +2918,7 @@ week263:
   week: "Week 263: January 5th - January 11th"
   title: "Every Day Is The Worst Day Of My Life"
   artists:
-  - "The Lemon Twigs"
+    - "The Lemon Twigs"
   album: "Everything Harmony"
   album_art: "everything-harmony.jpeg"
   genre: "soft rock"
@@ -2928,8 +2928,8 @@ week264:
   week: "Week 264: January 12th - January 18th"
   title: "Not My Fault"
   artists:
-  - "Reneé Rapp"
-  - "Megan Thee Stallion"
+    - "Reneé Rapp"
+    - "Megan Thee Stallion"
   album: "Not My Fault"
   album_art: "not-my-fault.jpeg"
   genre: "pop"
@@ -2939,9 +2939,9 @@ week265:
   week: "Week 265: January 19th - January 25th"
   title: "née-nah"
   artists:
-  - "21 Savage"
-  - "Travis Scott"
-  - "Metro Boomin"
+    - "21 Savage"
+    - "Travis Scott"
+    - "Metro Boomin"
   album: "american dream"
   album_art: "american-dream.jpeg"
   genre: "rap"
@@ -2951,7 +2951,7 @@ week266:
   week: "Week 266: January 26th - February 1st"
   title: "whiplash"
   artists:
-  - "2hollis"
+    - "2hollis"
   album: "whiplash / cliche"
   album_art: "whiplash.jpeg"
   genre: "alt electronic"
@@ -2961,7 +2961,7 @@ week267:
   week: "Week 267: February 2nd - February 8th"
   title: "Despair, Hangover & Ecstasy"
   artists:
-  - "The Dø"
+    - "The Dø"
   album: "Shake, Shook, Shaken"
   album_art: "shake-shook-shaken.jpeg"
   genre: "electropop"
@@ -2971,7 +2971,7 @@ week268:
   week: "Week 268: February 9th - February 15th"
   title: "Tragedy"
   artists:
-  - "dhruv"
+    - "dhruv"
   album: "Tragedy"
   album_art: "tragedy.jpeg"
   genre: "pop"
@@ -2981,7 +2981,7 @@ week269:
   week: "Week 269: February 16th - February 22nd"
   title: "Marigold"
   artists:
-  - "Mia Day"
+    - "Mia Day"
   album: "Marigold"
   album_art: "marigold.jpeg"
   genre: "indie rock"
@@ -2991,7 +2991,7 @@ week270:
   week: "Week 270: February 23rd - February 29th"
   title: "OMG"
   artists:
-  - "Suki Waterhouse"
+    - "Suki Waterhouse"
   album: "OMG"
   album_art: "omg.jpeg"
   genre: "indie rock"
@@ -3001,7 +3001,7 @@ week271:
   week: "Week 271: March 1st - March 7th"
   title: "Von dutch"
   artists:
-  - "Charli XCX"
+    - "Charli XCX"
   album: "Von dutch"
   album_art: "von-dutch.jpeg"
   genre: "electropop"
@@ -3011,7 +3011,7 @@ week272:
   week: "Week 272: March 8th - March 14th"
   title: "Goddess"
   artists:
-  - "Laufey"
+    - "Laufey"
   album: "Goddess"
   album_art: "goddess.png"
   genre: "jazz pop"
@@ -3021,7 +3021,7 @@ week273:
   week: "Week 273: March 15th - March 21st"
   title: "violet"
   artists:
-  - "Marianne Ross"
+    - "Marianne Ross"
   album: "violet"
   album_art: "violet.jpg"
   genre: "indie pop"
@@ -3031,9 +3031,9 @@ week274:
   week: "Week 274: March 22nd - March 28th"
   title: "Like That"
   artists:
-  - "Future"
-  - "Metro Boomin"
-  - "Kendrick Lamar"
+    - "Future"
+    - "Metro Boomin"
+    - "Kendrick Lamar"
   album: "WE DON'T TRUST YOU"
   album_art: "we-dont-trust-you.jpg"
   genre: "rap"
@@ -3043,7 +3043,7 @@ week275:
   week: "Week 275: March 29th - April 4th"
   title: "16 CARRIAGES"
   artists:
-  - "Beyoncé"
+    - "Beyoncé"
   album: "COWBOY CARTER"
   album_art: "cowboy-carter.jpeg"
   genre: "country"
@@ -3053,7 +3053,7 @@ week276:
   week: "Week 276: April 5th - April 11th"
   title: "No Machine"
   artists:
-  - "Adrianne Lenker"
+    - "Adrianne Lenker"
   album: "Bright Future"
   album_art: "bright-future.jpeg"
   genre: "indie folk"
@@ -3063,7 +3063,7 @@ week277:
   week: "Week 277: April 12th - April 18th"
   title: "R&B"
   artists:
-  - "English Teacher"
+    - "English Teacher"
   album: "R&B"
   album_art: "randb.jpeg"
   genre: "alt rock"
@@ -3073,7 +3073,7 @@ week278:
   week: "Week 278: April 19th - April 25th"
   title: "Walkman"
   artists:
-  - "Bad Bad Hats"
+    - "Bad Bad Hats"
   album: "Bright Future"
   album_art: "walkman.jpeg"
   genre: "indie pop"
@@ -3083,7 +3083,7 @@ week279:
   week: "Week 279: April 19th - April 25th"
   title: "dancinwithsomebawdy"
   artists:
-  - "ericdoa"
+    - "ericdoa"
   album: "DOA"
   album_art: "doa.jpeg"
   genre: "dance"
@@ -3093,7 +3093,7 @@ week280:
   week: "Week 280: April 26th - May 2nd"
   title: "Jokes On Me"
   artists:
-  - "Audrey Nuna"
+    - "Audrey Nuna"
   album: "Jokes On Me"
   album_art: "jokes-on-me.jpeg"
   genre: "rap"
@@ -3103,18 +3103,18 @@ week281:
   week: "Week 281: May 3rd - May 9th"
   title: "Not Like Us"
   artists:
-  - "Kendrick Lamar"
+    - "Kendrick Lamar"
   album: "Not Like Us"
   album_art: "not-like-us.jpeg"
   genre: "rap"
   year: 2024
-  blurb: Absolutely devastating; I can't believe I'm here for this pop culture moment. So many thoughts, but I'll omit them for now.
+  blurb: Absolutely devastating; I can't believe I'm here for this pop culture moment. So many thoughts.
 week282:
   week: "Week 282: May 10th - May 16th"
   title: "Steel"
   artists:
-  - "Matt Champion"
-  - "Dora Jar"
+    - "Matt Champion"
+    - "Dora Jar"
   album: "Mika's Laundry"
   album_art: "mikas-laundry.jpeg"
   genre: "alt pop"
@@ -3124,7 +3124,7 @@ week283:
   week: "Week 283: May 17th - May 23rd"
   title: "LUNCH"
   artists:
-  - "Billie Eilish"
+    - "Billie Eilish"
   album: "HIT ME HARD AND SOFT"
   album_art: "hit-me-hard-and-soft.jpeg"
   genre: "pop"
@@ -3134,7 +3134,7 @@ week284:
   week: "Week 284: May 24th - May 30th"
   title: "Étouffée"
   artists:
-  - "Vince Staples"
+    - "Vince Staples"
   album: "Dark Times"
   album_art: "dark-times.jpeg"
   genre: "rap"
@@ -3144,7 +3144,7 @@ week285:
   week: "Week 285: May 31st - June 6th"
   title: "Sexy to Someone"
   artists:
-  - "Clairo"
+    - "Clairo"
   album: "Sexy to Someone"
   album_art: "charm.jpg"
   genre: "indie pop"
@@ -3154,7 +3154,7 @@ week286:
   week: "Week 286: June 7th - 13th"
   title: "Speed of Light"
   artists:
-  - "dhruv"
+    - "dhruv"
   album: "Speed of Light"
   album_art: "speed-of-light.jpeg"
   genre: "pop"
@@ -3164,7 +3164,7 @@ week287:
   week: "Week 287: June 14th - 20th"
   title: "Forbidden Feelingz"
   artists:
-  - "Nia Archives"
+    - "Nia Archives"
   album: "Silence Is Loud"
   album_art: "silence-is-loud.jpeg"
   genre: "dance"
@@ -3174,8 +3174,8 @@ week288:
   week: "Week 288: June 21st - 28th"
   title: "The girl, so confusing version with lorde"
   artists:
-  - "Charli XCX"
-  - "Lorde"
+    - "Charli XCX"
+    - "Lorde"
   album: "The girl, so confusing version with lorde"
   album_art: "tgscvwl.jpeg"
   genre: "alt pop"
@@ -3185,8 +3185,8 @@ week289:
   week: "Week 289: June 30th - July 4th"
   title: "Any Way"
   artists:
-  - "L'Impératrice"
-  - "Maggie Rogers"
+    - "L'Impératrice"
+    - "Maggie Rogers"
   album: "Pulsar"
   album_art: "pulsar.jpeg"
   genre: "dance pop"
@@ -3196,8 +3196,8 @@ week290:
   week: "Week 290: July 5th - July 11th"
   title: "Black Cherri"
   artists:
-  - "Suzi Wu"
-  - "Zac Carper"
+    - "Suzi Wu"
+    - "Zac Carper"
   album: "Black Cherri"
   album_art: "black-cherri.jpeg"
   genre: "indie/noise rock"
@@ -3207,7 +3207,7 @@ week291:
   week: "Week 291: July 12th - 18th"
   title: "Add Up My Love"
   artists:
-  - "Clairo"
+    - "Clairo"
   album: "Charm"
   album_art: "charm.jpg"
   genre: "indie pop"
@@ -3217,7 +3217,7 @@ week292:
   week: "Week 292: July 19th - July 25th"
   title: "No Problems"
   artists:
-  - "Ginger Root"
+    - "Ginger Root"
   album: "No Problems"
   album_art: "no-problems.jpg"
   genre: "indie pop"
@@ -3227,7 +3227,7 @@ week293:
   week: "Week 293: July 26th - August 1st"
   title: "Where Them Girls At"
   artists:
-  - "Megan Thee Stallion"
+    - "Megan Thee Stallion"
   album: "MEGAN"
   album_art: "megan.jpeg"
   genre: "rap"
@@ -3237,7 +3237,7 @@ week294:
   week: "Week 294: August 2nd - August 8th"
   title: "either on or off the drugs"
   artists:
-  - "JPEGMAFIA"
+    - "JPEGMAFIA"
   album: "I LAY DOWN MY LIFE FOR YOU"
   album_art: "ildmlfy.jpeg"
   genre: "rap"
@@ -3247,9 +3247,49 @@ week295:
   week: "Week 295: August 9th - August 15th"
   title: "NISSAN ALTIMA"
   artists:
-  - "Doechii"
+    - "Doechii"
   album: "NISSAN ALTIMA"
   album_art: "nissan-altima.jpeg"
   genre: "rap"
   year: 2024
   blurb: These swamp sessions are a treat - lethal tempo, beat, and flow.
+week296:
+  week: "Week 296: August 16th - August 22nd"
+  title: "Beaches"
+  artists:
+    - "beabadoobee"
+  album: "This Is How Tomorrow Moves"
+  album_art: "tihtm.jpeg"
+  genre: "alt rock"
+  year: 2024
+  blurb: Album is filled with absolute earworms - perhaps her best yet!
+week297:
+  week: "Week 297: August 23rd - August 29th"
+  title: "Fantasy"
+  artists:
+    - "Luna Li"
+  album: "When a Thought Grows Wings"
+  album_art: "watgw.jpeg"
+  genre: "dream pop"
+  year: 2024
+  blurb: Serene and ethereal. And produced by Scott Zhang!! Thank you Muthu :)
+week298:
+  week: "Week 298: August 30th - September 5th"
+  title: "No Broke Boys"
+  artists:
+    - "Tinashe"
+  album: "Quantum Baby"
+  album_art: "quantum-baby.jpeg"
+  genre: "r&b"
+  year: 2024
+  blurb: Tinashe has just been so fun lately!
+week299:
+  week: "Week 299: September 6th - September 12th"
+  title: "CRAZY"
+  artists:
+    - "LE SSERAFIM"
+  album: "Private Blizzard"
+  album_art: "crazy.jpeg"
+  genre: "kpop"
+  year: 2024
+  blurb: Absolute house bop.
