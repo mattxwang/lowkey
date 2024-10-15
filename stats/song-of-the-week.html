@@ -19,21 +19,24 @@ layout: page
 </p>
 
 {% for song in site.data.sotw reversed %}
-<div class="card border-primary" id="week-{{ song.index | plus: 1 }}">
+<div class="card border-primary" id="week-{{ song.index | plus: 1 }}" style="padding: 0.5rem;">
 	<div class="row">
 		<div class="col-4">
 			<img src="{{site.baseurl}}/img/albums/{{ song.album_art }}" alt="">
 		</div>
 		<div class="col-8">
-			<span style="display: block; margin-top:0.5em; margin-bottom: 0.5em; font-weight: bold;">
-				Week {{ song.index | plus: 1 }}: {{ song.start_date | date: "%B" }} {{ song.start_date | date: "%e" | ordinalize
-				}} - {{ song.end_date | date: "%B" }} {{ song.end_date | date: "%e" | ordinalize }}
-			</span>
-			<h2 style="margin-top:0; margin-bottom: 0"><span class="text-primary">{{ song.title }}</span> | {{
-				song.artists | join: ", " }}</h2>
-			<p>{{ song.blurb | markdownify }}</p>
-			<hr class="border-top-primary">
-			<p style="margin-top: 0.5rem;">
+			<div style="display: flex; flex-direction: column; justify-content: center; min-height: 200px;">
+				<span style="display: block; margin-top:0.5em; margin-bottom: 0.5em; font-weight: bold;">
+					Week {{ song.index | plus: 1 }}: {{ song.start_date | date: "%B" }} {{ song.start_date | date: "%e" |
+					ordinalize
+					}} - {{ song.end_date | date: "%B" }} {{ song.end_date | date: "%e" | ordinalize }}
+				</span>
+				<h2 style="margin-top:0; margin-bottom: 0"><span class="text-primary">{{ song.title }}</span> | {{
+					song.artists | join: ", " }}</h2>
+
+				{{ song.blurb | markdownify }}
+			</div>
+			<p style="margin: 0; padding: 0; font-size: 0.9em; text-align: right;">
 				{{ song.genre }} // {{ song.year }}
 			</p>
 		</div>
