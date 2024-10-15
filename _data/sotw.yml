@@ -1,6 +1,4 @@
-week1:
-  week: "Week 1: Jan 1 - Jan 4"
-  title: "Loving Is Easy"
+- title: "Loving Is Easy"
   artists:
     - "Rex Orange County"
     - "Benny Sings"
@@ -10,9 +8,7 @@ week1:
   year: 2017
   blurb: >
     Rex Orange County makes another catchy and relatable love ballad.
-week2:
-  week: "Week 2: Jan 4 - Jan 10"
-  title: "Crush"
+- title: "Crush"
   artists:
     - "Tessa Violet"
   album: "Crush"
@@ -21,9 +17,7 @@ week2:
   year: 2018
   blurb: >
     Crush is what I love about modern pop: innovative and flashy production backed by simple but effective lyrics.
-week3:
-  week: "Week 3: Jan 11 - Jan 17"
-  title: "Ruin Your Night"
+- title: "Ruin Your Night"
   artists:
     - "Sorcha Richardson"
   album: "Ruin Your Night"
@@ -32,9 +26,7 @@ week3:
   year: 2016
   blurb: >
     This is the catchiest sanger (sad banger) I've heard so far. The lyrics are so simple, yet so depressing.
-week4:
-  week: "Week 4: Jan 18 - Jan 24"
-  title: "Lovers Rock"
+- title: "Lovers Rock"
   artists:
     - "TV Girl"
   album: "French Exit"
@@ -43,9 +35,7 @@ week4:
   year: 2014
   blurb: >
     Lovers Rock is entrancing, smooth pop at its best - something I imagine in the background of an upscale restaurant.
-week5:
-  week: "Week 5: Jan 25 - Jan 31"
-  title: "Rivers and Roads"
+- title: "Rivers and Roads"
   artists:
     - "The Head and the Heart"
   album: "The Head and the Heart"
@@ -54,9 +44,7 @@ week5:
   year: 2011
   blurb: >
     A much-too-relatable emotional ballad about missed friends and love songs - bread and butter for any university student.
-week6:
-  week: "Week 6: Feb 1 - Feb 7"
-  title: "You Only Like Me With The Lights Out"
+- title: "You Only Like Me With The Lights Out"
   artists:
     - "Avid Dancer"
   album: "You Only Like Me With The Lights Out"
@@ -65,9 +53,7 @@ week6:
   year: 2016
   blurb: >
     Strong, raw guitars and an equally raw voice addictingly convey a truth that nobody wants to hear.
-week7:
-  week: "Week 7: Feb 8 - Feb 14"
-  title: "5% TINT"
+- title: "5% TINT"
   artists:
     - "Travis Scott"
   album: "Astroworld"
@@ -76,9 +62,7 @@ week7:
   year: 2018
   blurb: >
     Travis weaves together a spooky vibe with a haunting piano chord, barebones beats, and his signature eerie autotune.
-week8:
-  week: "Week 8: Feb 15 - Feb 21"
-  title: "Gimme The Loot"
+- title: "Gimme The Loot"
   artists:
     - "The Notorious B.I.G"
   album: "Ready To Die"
@@ -87,9 +71,7 @@ week8:
   year: 1994
   blurb: >
     Considering the prominence of "Gimme The Loot" as a producer tag and adlib, I thought it'd be nice to take it back to the OG. Biggie is just a straight killer on this track.
-week9:
-  week: "Week 9: Feb 22 - Feb 28"
-  title: "Forever Always"
+- title: "Forever Always"
   artists:
     - "Peter Cottontale"
     - "Chance the Rapper"
@@ -102,9 +84,7 @@ week9:
   year: 2018
   blurb: >
     A surprisingly star-studded feel-good song - something that definitely helps with a rough week of work.
-week10:
-  week: "Week 10: Mar 1 - Mar 7"
-  title: "Locket"
+- title: "Locket"
   artists:
     - "Crumb"
   album: "Locket"
@@ -113,9 +93,7 @@ week10:
   year: 2017
   blurb: >
     Locket is a tantalizing earworm, a combination of smooth rock and jazz-like elements that's been stuck in my head for the past few weeks.
-week11:
-  week: "Week 11: Mar 8 - Mar 14"
-  title: "No Drug Like Me"
+- title: "No Drug Like Me"
   artists:
     - "Carly Rae Jepsen"
   album: "Now That I Found You / No Drug Like Me"
@@ -124,9 +102,7 @@ week11:
   year: 2019
   blurb: >
     Carly's back with more bops. What else can I say.
-week12:
-  week: "Week 12: Mar 15 - Mar 21"
-  title: "Pristine"
+- title: "Pristine"
   artists:
     - "Snail Mail"
   album: "Lush"
@@ -135,9 +111,7 @@ week12:
   year: 2018
   blurb: >
     Pristine is yet another addition to simp session bedroom pop and indie rock - as cliché as it sounds, you really do feel her pain.
-week13:
-  week: "Week 13: Mar 22 - Mar 28"
-  title: "Upside Down"
+- title: "Upside Down"
   artists:
     - "Jack Johnson and Friends"
   album: "Sing-A-Longs And Lullabies For The Film Curious George"
@@ -146,9 +120,7 @@ week13:
   year: 2006
   blurb: >
     Was surprised that this wasn't a Metro Boomin' collab, because this shit slaps.
-week14:
-  week: "Week 14: Mar 29 - Apr 4"
-  title: "bad guy"
+- title: "bad guy"
   artists:
     - "Billie Eilish"
   album: "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"
@@ -157,9 +129,7 @@ week14:
   year: 2019
   blurb: >
     Billie brings a unique, consistent, and pretty spooky sound: a welcome addition to a pop scene filled with bland mediocrity, and from a 17 year-old no less.
-week15:
-  week: "Week 15: Apr 5 - Apr 11"
-  title: "Butterflies"
+- title: "Butterflies"
   artists:
     - "Kacey Musgraves"
   album: "Golden Hour"
@@ -168,9 +138,7 @@ week15:
   year: 2018
   blurb: >
     I'm a bit late to the party, but Kacey Musgraves weaves together a beautifully melancholic pop-country album - chock full of tearjerkers and "aww" moments.
-week16:
-  week: "Week 16: Apr 12 - Apr 18"
-  title: "Hookers"
+- title: "Hookers"
   artists:
     - "Tierra Whack"
   album: "Whack World"
@@ -179,9 +147,7 @@ week16:
   year: 2018
   blurb: >
     Tierra brings a refreshing and whacky take on contemporary rap, delivering a deeply emotional and passionate performance in just one minute.
-week17:
-  week: "Week 17: Apr 19 - Apr 25"
-  title: "Distant"
+- title: "Distant"
   artists:
     - "Wayllo"
   album: "Distant"
@@ -190,9 +156,7 @@ week17:
   year: 2019
   blurb: >
     Someone I went to high school with dropped a single, and it's fire. Reminds me of Snakehips, Major Lazer, and Louis the Child, in the best way possible.
-week18:
-  week: "Week 18: Apr 26 - May 2"
-  title: "Boyer"
+- title: "Boyer"
   artists:
     - "Kevin Abstract"
   album: "ARIZONA BABY"
@@ -201,9 +165,7 @@ week18:
   year: 2019
   blurb: >
     The BROCKHAMPTON boys do it again. Energetic production, vibrant vocals, and personal slices of Kevin's life.
-week19:
-  week: "Week 19: May 3 - May 9"
-  title: "prom dress"
+- title: "prom dress"
   artists:
     - "mxmtoon"
   album: "the masquerade"
@@ -212,9 +174,7 @@ week19:
   year: 2019
   blurb: >
     New mxmtoon? Emotional vulnerability? Minimal production? Beautiful vocals? Instant banger.
-week20:
-  week: "Week 20: May 10 - May 16"
-  title: "I Like (the idea of) You"
+- title: "I Like (the idea of) You"
   artists:
     - "Tessa Violet"
   album: "I Like (the idea of) You"
@@ -223,9 +183,7 @@ week20:
   year: 2019
   blurb: >
     Tessa Violet drops another summer bop, filled with lovesick lyrics and production that makes you wanna dance.
-week21:
-  week: "Week 21: May 17 - May 23"
-  title: "Grilled Cheese"
+- title: "Grilled Cheese"
   artists:
     - "Peach Face"
   album: "Grilled Cheese"
@@ -234,9 +192,7 @@ week21:
   year: 2018
   blurb: >
     Grilled Cheese is an absolute earworm; I'm surprised that this is Peach Face's only song on Spotify, 'cause it's so damn catchy.
-week22:
-  week: "Week 22: May 24 - May 30"
-  title: "EARFQUAKE"
+- title: "EARFQUAKE"
   artists:
     - "Tyler, The Creator"
   album: "IGOR"
@@ -245,9 +201,7 @@ week22:
   year: 2019
   blurb: >
     IGOR is unabashedly raw, emotional, and personal. Tyler presents a fresh take in an oversaturated rap scene, and a possible AOTY.
-week23:
-  week: "Week 23: May 31 - June 6"
-  title: "Oom Sha La La"
+- title: "Oom Sha La La"
   artists:
     - "Haley Heynderickx"
   album: "I Need to Start a Garden"
@@ -256,9 +210,7 @@ week23:
   year: 2018
   blurb: >
     I Need to Start a Garden.
-week24:
-  week: "Week 24: June 7 - June 13"
-  title: "3 Nights"
+- title: "3 Nights"
   artists:
     - "Dominic Fike"
   album: "Don't Forget About Me, Demos"
@@ -267,9 +219,7 @@ week24:
   year: 2018
   blurb: >
     I'd be remiss if I didn't mention this absolute earworm. I want more Dominic x BROCKHAMPTON.
-week25:
-  week: "Week 25: June 14 - June 20"
-  title: "Feels Right"
+- title: "Feels Right"
   artists:
     - "Carly Rae Jepsen"
     - "Electric Guest"
@@ -279,9 +229,7 @@ week25:
   year: 2019
   blurb: >
     You thought I wouldn't be rocking new Carly? She doesn't stop embracing core elements of electro pop to keep on making bops.
-week26:
-  week: "Week 26: June 21 - June 27"
-  title: "Chinese New Year"
+- title: "Chinese New Year"
   artists:
     - "SALES"
   album: "SALES - EP"
@@ -290,9 +238,7 @@ week26:
   year: 2014
   blurb: >
     Chinese New Year was a long time ago, but I'm still down. SALES sells me on an amazing hook and a raw sound.
-week27:
-  week: "Week 27: June 28 - July 4"
-  title: "Cocoa Butter Kisses"
+- title: "Cocoa Butter Kisses"
   artists:
     - "Chance the Rapper"
     - "Vic Mensa"
@@ -303,9 +249,7 @@ week27:
   year: 2013
   blurb: >
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">i think my quality of life has significantly improved now that acid rap is back on spotify</p>&mdash; matt wang (@welcomemattwang) <a href="https://twitter.com/welcomemattwang/status/1145177933448749056?ref_src=twsrc%5Etfw">June 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-week28:
-  week: "Week 28: July 5 - July 11"
-  title: "Selfish"
+- title: "Selfish"
   artists:
     - "Little Simz"
     - "Cleo Sol"
@@ -315,9 +259,7 @@ week28:
   year: 2019
   blurb: >
     GREY Area is one of the only rap albums where I've added every single song to my playlist. Little Simz hits hard, but most importantly, she hits consistently.
-week29:
-  week: "Week 29: July 12 - July 18"
-  title: "Hands Down (Reprise)"
+- title: "Hands Down (Reprise)"
   artists:
     - "The Greeting Committee"
   album: "Hands Down (Reprise)"
@@ -326,9 +268,7 @@ week29:
   year: 2017
   blurb: >
     The original is one of my favourite songs, so I can't believe that I discovered the reprise so late. Hands down my favourite cute song.
-week30:
-  week: "Week 30: July 19 - July 25"
-  title: "Are You Bored Yet?"
+- title: "Are You Bored Yet?"
   artists:
     - "Wallows"
     - "Clairo"
@@ -338,9 +278,7 @@ week30:
   year: 2019
   blurb: >
     Wallows x Clairo is like the Ed Sheeran collab album for softbois. I can't believe I just typed that sentence.
-week31:
-  week: "Week 31: July 26 - August 1"
-  title: "4EVER"
+- title: "4EVER"
   artists:
     - "Clairo"
   album: "diary 001"
@@ -349,9 +287,7 @@ week31:
   year: 2018
   blurb: >
     I've fully become a Wallows and Clairo addict at this point. 4EVER will tide me over until I listen to Immunity.
-week32:
-  week: "Week 32: August 2 - August 8"
-  title: "Sunday Best"
+- title: "Sunday Best"
   artists:
     - "Surfaces"
   album: "Where The Light Is"
@@ -360,9 +296,7 @@ week32:
   year: 2019
   blurb: >
     This is just such a feel good song. It's got me feeling blessed, never stressed. And you bet it's got me on my sunday best.
-week33:
-  week: "Week 33: August 9 - August 15"
-  title: "Closer To You"
+- title: "Closer To You"
   artists:
     - "Clairo"
   album: "Immunity"
@@ -371,9 +305,7 @@ week33:
   year: 2019
   blurb: >
     Some of this album is just... so sad. Clairo rips out emotions with minimal production and vocals.
-week34:
-  week: "Week 34: August 16 - August 22"
-  title: "suburban wonderland"
+- title: "suburban wonderland"
   artists:
     - "BETWEEN FRIENDS"
   album: "suburban wonderland"
@@ -382,9 +314,7 @@ week34:
   year: 2017
   blurb: >
     I'm glad that I've left the 'burbs, but there is something special about it that I miss.
-week35:
-  week: "Week 35: August 23 - August 29"
-  title: "SUGAR"
+- title: "SUGAR"
   artists:
     - "BROCKHAMPTON"
   album: "GINGER"
@@ -393,9 +323,7 @@ week35:
   year: 2019
   blurb: >
     The BROCKHAMPTON boys are back, and they're sad.
-week36:
-  week: "Week 36: August 30 - September 5"
-  title: "dream of you"
+- title: "dream of you"
   artists:
     - "mxmtoon"
   album: "the masquerade"
@@ -404,9 +332,7 @@ week36:
   year: 2019
   blurb: >
     I am unbearbly excited for the masquerade. maia hasn't disappointed yet!
-week37:
-  week: "Week 37: September 6 - September 12"
-  title: "Indigo"
+- title: "Indigo"
   artists:
     - "NIKI"
   album: "Indigo"
@@ -415,9 +341,7 @@ week37:
   year: 2019
   blurb: >
     Wow, I'm just addicted to this song. Love the sugary-sweet synths and the colourful chorus.
-week38:
-  week: "Week 38: September 13 - September 19"
-  title: "Tenderness"
+- title: "Tenderness"
   artists:
     - "Jay Som"
   album: "Anak Ko"
@@ -426,9 +350,7 @@ week38:
   year: 2019
   blurb: >
     Anak Ko has been on repeat for me this past month. Jay Som is definitely an underrated gem, and I'm excited to hear more and more from her!!!
-week39:
-  week: "Week 39: September 20 - September 26"
-  title: "White Mercedes"
+- title: "White Mercedes"
   artists:
     - "Charli XCX"
   album: "Charli"
@@ -437,9 +359,7 @@ week39:
   year: 2019
   blurb: >
     Charli's back baby.
-week40:
-  week: "Week 40: September 27 - October 3"
-  title: "Vossi Bop"
+- title: "Vossi Bop"
   artists:
     - "Stormzy"
   album: "Vossi Bop"
@@ -448,9 +368,7 @@ week40:
   year: 2019
   blurb: >
     Punchy one-liners, solid flow, and a very catchy beat. Stormzy brings the bread and butter of a chart-topping rap song.
-week41:
-  week: "Week 41: October 4 - October 10"
-  title: "For Real"
+- title: "For Real"
   artists:
     - "Mallrat"
   album: "Uninvited"
@@ -459,9 +377,7 @@ week41:
   year: 2016
   blurb: >
     An adorably cute, positive song. "And you didn't even wanna die once this week" is a strange but graceful hook.
-week42:
-  week: "Week 42: October 11 - October 17"
-  title: "La La Lost You"
+- title: "La La Lost You"
   artists:
     - "NIKI"
   album: "Head In The Clouds II"
@@ -470,9 +386,7 @@ week42:
   year: 2019
   blurb: >
     NIKI is absolutely killing it.
-week43:
-  week: "Week 43: October 18 - October 24"
-  title: "I Don't Miss You At All"
+- title: "I Don't Miss You At All"
   artists:
     - "FINNEAS"
   album: "BLOOD HARMONY"
@@ -481,9 +395,7 @@ week43:
   year: 2019
   blurb: >
     Maybe the most unconvincing song of all time. Kinda nuts how much young talent this family has, between FINNEAS and Billie - it's almost unfair.
-week44:
-  week: "Week 44: October 25 - October 31"
-  title: "ringtone"
+- title: "ringtone"
   artists:
     - "100 gecs"
   album: "1000 gecs"
@@ -492,9 +404,7 @@ week44:
   year: 2019
   blurb: >
     I really can't explain why I like 100 gecs, but they've been stuck in my head this past week. Probably the weirdest music I've heard this year. gecgecgec.
-week45:
-  week: "Week 45: November 1 - November 7"
-  title: "The Games We Play"
+- title: "The Games We Play"
   artists:
     - "Pusha T"
   album: "DAYTONA"
@@ -503,9 +413,7 @@ week45:
   year: 2018
   blurb: >
     After a disappointing Kanye release, I needed to be reminded that Kanye still could make good music. Pusha T's solid-as-always lines never hurt.
-week46:
-  week: "Week 46: November 8 - November 14"
-  title: "COMMA$"
+- title: "COMMA$"
   artists:
     - "LORD$OFDOGTOWN"
   album: "LORD$OFDOGTOWN"
@@ -514,9 +422,7 @@ week46:
   year: 2019
   blurb: >
     A posse cut with an infectious flow and beat. Reminds me of SWEET in the best way possible.
-week47:
-  week: "Week 47: November 15 - November 21"
-  title: "Alaska"
+- title: "Alaska"
   artists:
     - "Maggie Rogers"
   album: "Heard It In A Past Life"
@@ -525,9 +431,7 @@ week47:
   year: 2019
   blurb: >
     This week has been a Maggie Rogers kinda week.
-week48:
-  week: "Week 48: November 22 - November 28"
-  title: "OUTTA MY MIND"
+- title: "OUTTA MY MIND"
   artists:
     - "Monsune"
   album: "OUTTA MY MIND"
@@ -536,9 +440,7 @@ week48:
   year: 2019
   blurb: >
     I can't get this melody outta my mind. Absolutely infectious, smooth & sweet.
-week49:
-  week: "Week 49: November 29 - December 5"
-  title: "Blinding Lights"
+- title: "Blinding Lights"
   artists:
     - "The Weeknd"
   album: "Blinding Lights - Single"
@@ -547,9 +449,7 @@ week49:
   year: 2019
   blurb: >
     Excited for our resident Toronto sadboi to be back!
-week50:
-  week: "Week 50: December 6 - December 12"
-  title: "Otis"
+- title: "Otis"
   artists:
     - "JAY-Z"
     - "Kanye West"
@@ -560,9 +460,7 @@ week50:
   year: 2011
   blurb: >
     JAY-Z is back on Spotify - <a href='https://genius.com/287428' target='_blank' rel='noopener noreferrer'>what more can I say.</a>
-week51:
-  week: "Week 51: December 13 - December 19"
-  title: "Sugarplum Elegy"
+- title: "Sugarplum Elegy"
   artists:
     - "NIKI"
   album: "Sugarplum Elegy"
@@ -571,9 +469,7 @@ week51:
   year: 2019
   blurb: >
     Just, wow. NIKI keeps on blowing my mind. Super happy this finally got released to Spotify, just in time for the holiday season.
-week52:
-  week: "Week 52: December 20 - December 26"
-  title: "Toronto"
+- title: "Toronto"
   artists:
     - "Snoh Aalegra"
   album: "- Ugh, those feels again"
@@ -582,9 +478,7 @@ week52:
   year: 2019
   blurb: >
     It's good to be back.
-week53:
-  week: "Week 53: December 27 - January 2"
-  title: "Digital"
+- title: "Digital"
   artists:
     - "IDK"
   album: "Is He Real?"
@@ -593,9 +487,7 @@ week53:
   year: 2019
   blurb: >
     Shit slaps. Entire album seamlessly alternates between banger and introspection.
-week54:
-  week: "Week 54: January 3 - January 9"
-  title: "Dreams Tonite"
+- title: "Dreams Tonite"
   artists:
     - "Alvvays"
   album: "Antisocialites"
@@ -604,9 +496,7 @@ week54:
   year: 2017
   blurb: >
     I don't think I've gotten tired of the "saw you in a dream" trope yet, and Alvvays makes one of the best of the genre.
-week55:
-  week: "Week 55: January 10 - January 16"
-  title: "Lost In Yesterday"
+- title: "Lost In Yesterday"
   artists:
     - "Tame Impala"
   album: "Lost In Yesterday (single)"
@@ -615,9 +505,7 @@ week55:
   year: 2020
   blurb: >
     Have you ever heard of Tame Impala? They have this one song, "The Less I Know The Better", but you probably haven't heard of it.
-week56:
-  week: "Week 56: January 17 - January 23"
-  title: "Blue World"
+- title: "Blue World"
   artists:
     - "Mac Miller"
   album: "Circles"
@@ -626,9 +514,7 @@ week56:
   year: 2020
   blurb: >
     A painful, but well-deserved sendoff. Cements Mac's legacy. RIP.
-week57:
-  week: "Week 57: January 24 - January 30"
-  title: "Gotta Have It"
+- title: "Gotta Have It"
   artists:
     - "JAY-Z"
     - "Kanye West"
@@ -638,9 +524,7 @@ week57:
   year: 2011
   blurb: >
     Kanye chops up this sample beautifully and absolutely kills his first verse. WTT is slowly moving up my Kanye rankings.
-week58:
-  week: "Week 58: January 31 - February 6"
-  title: "Shoota"
+- title: "Shoota"
   artists:
     - "Playboi Carti"
     - "Lil Uzi Vert"
@@ -650,9 +534,7 @@ week58:
   year: 2018
   blurb: >
     I've listened to this song more than 20 times in the past two weeks. It's mind-numbingly infectious.
-week59:
-  week: "Week 59: February 7 - February 13"
-  title: "I Would Do Anything For You"
+- title: "I Would Do Anything For You"
   artists:
     - "Foster The People"
   album: "Torches"
@@ -661,9 +543,7 @@ week59:
   year: 2011
   blurb: >
     A catchy, danceable, feel-good bop. Classic Foster The People, but without the dark undertones.
-week60:
-  week: "Week 60: February 14 - February 20"
-  title: "Nothing in Return"
+- title: "Nothing in Return"
   artists:
     - "Monsune"
   album: "Nothing in Return"
@@ -672,9 +552,7 @@ week60:
   year: 2017
   blurb: >
     I've been on a Monsune binge this week! Definitely looking forward to his concert this spring break!!!
-week61:
-  week: "Week 61: February 21 - February 27"
-  title: "death bed"
+- title: "death bed"
   artists:
     - "Powfu"
     - "beabadoobee"
@@ -684,9 +562,7 @@ week61:
   year: 2020
   blurb: >
     A pretty creative spin on Coffee that's been stuck in my head for the past two weeks. Lyrics are a melancholy kind of sad.
-week62:
-  week: "Week 62: February 28 - March 5"
-  title: "ringtone (remix)"
+- title: "ringtone (remix)"
   artists:
     - "100 gecs"
     - "Charli XCX"
@@ -698,9 +574,7 @@ week62:
   year: 2020
   blurb: >
     This is peak internet.
-week63:
-  week: "Week 63: March 6 - March 12"
-  title: "Dragonball Durag"
+- title: "Dragonball Durag"
   artists:
     - "Thundercat"
   album: "Dragonball Durag"
@@ -709,9 +583,7 @@ week63:
   year: 2020
   blurb: >
     Thundercat is an amazing bassist. This song just has good vibes, and that's something I think we all need right now.
-week64:
-  week: "Week 64: March 13 - March 19"
-  title: "Talk Is Cheap"
+- title: "Talk Is Cheap"
   artists:
     - "Chet Faker"
   album: "Built On Glass"
@@ -720,9 +592,7 @@ week64:
   year: 2014
   blurb: >
     One of the best songs of the past decade, and written/performed/produced by only one person. Nick Murphy is a polygot with his vocal range, serene and gripping production, and impactful lyricism.
-week65:
-  week: "Week 65: March 20 - March 26"
-  title: "XS"
+- title: "XS"
   artists:
     - "Rina Sawayama"
   album: "XS"
@@ -731,9 +601,7 @@ week65:
   year: 2020
   blurb: >
     Another bop from Rina, no surprise here.
-week66:
-  week: "Week 66: March 27 - April 2"
-  title: "Faith"
+- title: "Faith"
   artists:
     - "The Weeknd"
   album: "After Hours"
@@ -742,9 +610,7 @@ week66:
   year: 2020
   blurb: >
     I've been on a Weeknd binge all week (and Weeknd); After Hours is like a perfect period piece.
-week67:
-  week: "Week 67: April 3 - April 9"
-  title: "Animal Spirits"
+- title: "Animal Spirits"
   artists:
     - "Vulfpeck"
   album: "The Beautiful Game"
@@ -753,9 +619,7 @@ week67:
   year: 2016
   blurb: >
     The Beautiful Song. Reminds me of going outside with people, which is something I miss.
-week68:
-  week: "Week 68: April 10 - April 16"
-  title: "My Love"
+- title: "My Love"
   artists:
     - "Anna of the North"
   album: "Dream Girl"
@@ -764,9 +628,7 @@ week68:
   year: 2019
   blurb: >
     A super uplifting, danceable, all-around feel-good song. Shoutout to Jessica for the rec!
-week69:
-  week: "Week 69: April 17 - April 23"
-  title: "Gimme Love"
+- title: "Gimme Love"
   artists:
     - "Joji"
   album: "Gimme Love"
@@ -775,9 +637,7 @@ week69:
   year: 2020
   blurb: >
     Joji's very hit-or-miss for me, but this one is definitely a hit. An absolutely infectious nighttime hook.
-week70:
-  week: "Week 70: April 24 - April 30"
-  title: "Tokyo Love Hotel"
+- title: "Tokyo Love Hotel"
   artists:
     - "Rina Sawayama"
   album: "SAWAYAMA"
@@ -786,9 +646,7 @@ week70:
   year: 2020
   blurb: >
     Rina's new album is superb, a debut that she's definitely deserving of. A solid AOTY contender for me!
-week71:
-  week: "Week 71: May 1 - May 7"
-  title: "with you"
+- title: "with you"
   artists:
     - "seth arlan"
   album: "with you"
@@ -797,9 +655,7 @@ week71:
   year: 2018
   blurb: >
     This song hits harder than I expected it. Nice summer vibes, laid-back instrumentals, and cute lyrics.
-week72:
-  week: "Week 72: May 8 - May 14"
-  title: "goodnight n go"
+- title: "goodnight n go"
   artists:
     - "Ariana Grande"
   album: "Sweetener"
@@ -808,9 +664,7 @@ week72:
   year: 2018
   blurb: >
     It's funny, because I haven't had a good night's sleep, and I can't go anywhere. Still, a dreamy song - if too dreamy.
-week73:
-  week: "Week 73: May 15 - May 21"
-  title: "If Only"
+- title: "If Only"
   artists:
     - "Raveena"
   album: "Shanti"
@@ -819,9 +673,7 @@ week73:
   year: 2017
   blurb: >
     If silk had a voice, Raveena has it. Absolutely absurd.
-week74:
-  week: "Week 74: May 22 - May 28"
-  title: "damn right"
+- title: "damn right"
   artists:
     - "Little Simz"
   album: "Drop 6"
@@ -830,9 +682,7 @@ week74:
   year: 2020
   blurb: >
     Little Simz never ceases to drop quality track after quality track. One of the few rappers that I'm still excited about.
-week75:
-  week: "Week 75: May 29 - June 4"
-  title: "Fuck Tha Police"
+- title: "Fuck Tha Police"
   artists:
     - "N.W.A."
   album: "Straight Outta Compton"
@@ -841,9 +691,7 @@ week75:
   year: 1988
   blurb: >
     Seems topical. Black Lives Matter.
-week76:
-  week: "Week 76: June 5 - June 11"
-  title: "Institutionalized"
+- title: "Institutionalized"
   artists:
     - "Kendrick Lamar"
     - "Bilal"
@@ -855,9 +703,7 @@ week76:
   year: 2015
   blurb: >
     Still topical, still relevant.
-week77:
-  week: "Week 77: June 12 - June 18"
-  title: "Song 33"
+- title: "Song 33"
   artists:
     - "Noname"
   album: "Song 33"
@@ -866,9 +712,7 @@ week77:
   year: 2020
   blurb: >
     Noname x Madlib is insane, and this is by far the smoothest, chillest call-out I've ever heard. Still topical, still relevant.
-week78:
-  week: "Week 78: June 19 - June 25"
-  title: "Lockdown"
+- title: "Lockdown"
   artists:
     - "Anderson .Paak"
   album: "Lockdown"
@@ -877,9 +721,7 @@ week78:
   year: 2020
   blurb: >
     Still topical. Still relevant. .Paak is back.
-week79:
-  week: "Week 79: June 26 - July 2"
-  title: "North Pole"
+- title: "North Pole"
   artists:
     - "Injury Reserve"
   album: "Drive Like It's Stolen"
@@ -888,9 +730,7 @@ week79:
   year: 2017
   blurb: >
     RIP Groggs.
-week80:
-  week: "Week 80: July 3 - July 9"
-  title: "Heat Waves"
+- title: "Heat Waves"
   artists:
     - "Glass Animals"
   album: "Heat Waves"
@@ -899,9 +739,7 @@ week80:
   year: 2020
   blurb: >
     Late nights in the middle of June.
-week81:
-  week: "Week 81: July 10 - July 16"
-  title: "Politics & Violence"
+- title: "Politics & Violence"
   artists:
     - "Dominic Fike"
   album: "Politics & Violence"
@@ -910,9 +748,7 @@ week81:
   year: 2020
   blurb: >
     At this point, they seem to be one and the same. Smooth AF song though.
-week82:
-  week: "Week 82: July 17 - July 23"
-  title: "Shine"
+- title: "Shine"
   artists:
     - "Joey Bada$$"
   album: "The Light Pack"
@@ -921,9 +757,7 @@ week82:
   year: 2020
   blurb: >
     Need some Shine. Joey is back.
-week83:
-  week: "Week 83: July 24 - July 30"
-  title: "exile"
+- title: "exile"
   artists:
     - "Taylor Swift"
     - "Bon Iver"
@@ -933,9 +767,7 @@ week83:
   year: 2020
   blurb: >
     This song is by two undergound indie artists, Taylor Swift and Bon Iver. You probably haven't heard of them, I can't blame you.
-week84:
-  week: "Week 84: July 31 - August 6"
-  title: "ROYL"
+- title: "ROYL"
   artists:
     - "Chloe x Halle"
   album: "Ungodly Hour"
@@ -944,9 +776,7 @@ week84:
   year: 2020
   blurb: >
     This album is just straight bangers and anthems from front to back. Absolutely nuts for a sophomore album with this much creative control; definitely want to hear more.
-week85:
-  week: "Week 85: August 7 - August 13"
-  title: "Soul Food II"
+- title: "Soul Food II"
   artists:
     - "Logic"
   album: "No Pressure"
@@ -955,9 +785,7 @@ week85:
   year: 2020
   blurb: >
     I can't believe I actually enjoyed a new Logic release. A fitting end to his career, though I doubt he's done for good.
-week86:
-  week: "Week 86: August 14 - August 20"
-  title: "CUT EM IN"
+- title: "CUT EM IN"
   artists:
     - "Anderson .Paak"
     - "Rick Ross"
@@ -967,9 +795,7 @@ week86:
   year: 2020
   blurb: >
     Paak just ... doesn't miss. Running circles on the game.
-week87:
-  week: "Week 87: August 21 - August 27"
-  title: "Woodlawn"
+- title: "Woodlawn"
   artists:
     - "Aminé"
   album: "Limbo"
@@ -978,9 +804,7 @@ week87:
   year: 2020
   blurb: >
     Aminé continues being an interesting and unique voice in the rap game. Great confident banger.
-week88:
-  week: "Week 88: August 28 - September 3"
-  title: "THE BADDEST"
+- title: "THE BADDEST"
   artists:
     - "K/DA"
     - "(G)I-DLE"
@@ -992,9 +816,7 @@ week88:
   year: 2020
   blurb: >
     Hm, this is awkward. Am I ashamed? Maybe. Am I really ashamed? Absolutely not. Love the addition of Bea Miller too!
-week89:
-  week: "Week 89: September 4 - September 10"
-  title: "ok on your own"
+- title: "ok on your own"
   artists:
     - "mxmtoon"
     - "Carly Rae Jepsen"
@@ -1004,9 +826,7 @@ week89:
   year: 2020
   blurb: >
     Two pop queens absolutely kill it. Song has only been out for a day or so, and it's already dominated my week.
-week90:
-  week: "Week 90: September 11 - September 17"
-  title: "You Can Get It"
+- title: "You Can Get It"
   artists:
     - "BUMPER"
   album: "pop songs 2020"
@@ -1015,9 +835,7 @@ week90:
   year: 2020
   blurb: >
     This is something that I never knew I wanted but absolutely blew me away: Japanese Breakfast with happy-go-lucky production and vocals makes my day.
-week91:
-  week: "Week 91: September 18 - September 24"
-  title: "Don't Wanna"
+- title: "Don't Wanna"
   artists:
     - "HAIM"
   album: "Women In Music Pt. III"
@@ -1026,9 +844,7 @@ week91:
   year: 2020
   blurb: >
     Damn. This album is awesome. HAIM maintains catchy pop bops (like Don't Wanna) but also playfully explore their boundaries.
-week92:
-  week: "Week 92: September 25 - October 1"
-  title: "Scholarships"
+- title: "Scholarships"
   artists:
     - "Drake"
     - "Future"
@@ -1038,9 +854,7 @@ week92:
   year: 2015
   blurb: >
     What a Time to Be Alive. 5 years!
-week93:
-  week: "Week 93: October 2 - October 8"
-  title: "Runnin"
+- title: "Runnin"
   artists:
     - "21 Savage"
     - "Metro Boomin"
@@ -1050,9 +864,7 @@ week93:
   year: 2020
   blurb: >
     This album? Absolutely nuts. Best trap release front-to-back this year, and 21 + Metro is always a lethal combination. Love the innovation here.
-week94:
-  week: "Week 94: October 9 - October 15"
-  title: "LAX"
+- title: "LAX"
   artists:
     - "Vulfpeck"
   album: "LAX"
@@ -1061,9 +873,7 @@ week94:
   year: 2020
   blurb: >
     Oh my, this song is just so catchy and danceable. Joey Dosik brings some great vocals to an immaculate bassline.
-week95:
-  week: "Week 95: October 16 - October 22"
-  title: "I Keep Calling"
+- title: "I Keep Calling"
   artists:
     - "James Blake"
   album: "Before"
@@ -1072,9 +882,7 @@ week95:
   year: 2020
   blurb: >
     A new type of serene.
-week96:
-  week: "Week 96: October 23 - October 29"
-  title: "positions"
+- title: "positions"
   artists:
     - "Ariana Grande"
   album: "Positions"
@@ -1083,9 +891,7 @@ week96:
   year: 2020
   blurb: >
     stream positions
-week97:
-  week: "Week 97: October 30 - November 5"
-  title: "MORE"
+- title: "MORE"
   artists:
     - "K/DA"
     - "Madison Beer"
@@ -1098,9 +904,7 @@ week97:
   year: 2020
   blurb: >
     I can't believe it, but I'm actually stanning a virtual kpop group from Riot Games. What a time to be alive.
-week98:
-  week: "Week 98: November 6 - November 12"
-  title: "Sangria"
+- title: "Sangria"
   artists:
     - "$NOT"
     - "Denzel Curry"
@@ -1110,9 +914,7 @@ week98:
   year: 2020
   blurb: >
     Production is absolutely insane, $NOT definitely punches above his weight, and Denzel absolutely kills his verse. Amazing flute sample.
-week99:
-  week: "Week 99: November 13 - November 19"
-  title: "FOOL'S GOLD"
+- title: "FOOL'S GOLD"
   artists:
     - "Aries"
   album: "FOOL'S GOLD"
@@ -1121,9 +923,7 @@ week99:
   year: 2020
   blurb: >
     Aries is my guilty pleasure, and FOOL'S GOLD is my pyrite. The pieces just come together so well on this song.
-week100:
-  week: "Week 100: November 20 - November 26"
-  title: "真夜中のドア〜Stay With Me"
+- title: "真夜中のドア〜Stay With Me"
   artists:
     - "Miki Matsubara"
   album: "Pocket Park"
@@ -1132,9 +932,7 @@ week100:
   year: 1980
   blurb: >
     A fitting 100th song. A bubbly, danceable, melodic voice and groove. A perfect example of jazz-infused city pop. A reminder of my (artificial) Japanese roots.
-week101:
-  week: "Week 101: November 27 - December 3"
-  title: "YOU'RE SO FUCKING MEAN TO ME"
+- title: "YOU'RE SO FUCKING MEAN TO ME"
   artists:
     - "Tiffany Day"
   album: "OVERDRAMATIC"
@@ -1143,9 +941,7 @@ week101:
   year: 2020
   blurb: >
     Is Tiffany Day OVERDRAMATIC? Maybe. Is this song a bop? Yup.
-week102:
-  week: "Week 102: December 4 - December 10"
-  title: "82 92"
+- title: "82 92"
   artists:
     - "Statik Selektah"
     - "Termanology"
@@ -1156,9 +952,7 @@ week102:
   year: 2011
   blurb: >
     Can't believe I hadn't heard of this song before! Vintage Mac, Statik Selektah brings his best. And look at that album cover.
-week103:
-  week: "Week 103: December 11 - December 17"
-  title: "Don't Get Chipped"
+- title: "Don't Get Chipped"
   artists:
     - "Vince Staples"
   album: "FM!"
@@ -1167,9 +961,7 @@ week103:
   year: 2018
   blurb: >
     Finals gave me little time to listen to new music, and I ended up leaning back on some Kenny Beats production. Giving FM! the shoutout it deserves!
-week104:
-  week: "Week 104: December 18 - December 24"
-  title: "80's makeout session"
+- title: "80's makeout session"
   artists:
     - "dacelynn"
   album: "80's makeout session"
@@ -1178,9 +970,7 @@ week104:
   year: 2019
   blurb: >
     It's been a slow-ish week, so here's a slow-ish bedroom pop song.
-week105:
-  week: "Week 105: December 25 - December 31"
-  title: "All Caps"
+- title: "All Caps"
   artists:
     - "Madvillain"
     - "MF DOOM"
@@ -1191,9 +981,7 @@ week105:
   year: 2004
   blurb: >
     RIP to a legend. All Caps when you spell the man name.
-week106:
-  week: "Week 106: January 1 - January 7"
-  title: "Crush"
+- title: "Crush"
   artists:
     - "Duckwrth"
   album: "Crush"
@@ -1202,9 +990,7 @@ week106:
   year: 2019
   blurb: >
     The groove and bassline for this song is just so danceable. I know I've said this a lot, but I really mean it.
-week107:
-  week: "Week 107: January 8 - January 14"
-  title: "Marinate"
+- title: "Marinate"
   artists:
     - "Zack Fox"
   album: "Marinate"
@@ -1213,9 +999,7 @@ week107:
   year: 2020
   blurb: >
     I have no justification. This song is just hilarious.
-week108:
-  week: "Week 108: January 15 - January 21"
-  title: "Super Rich Kids"
+- title: "Super Rich Kids"
   artists:
     - "Frank Ocean"
     - "Earl Sweatshirt"
@@ -1225,9 +1009,7 @@ week108:
   year: 2012
   blurb: >
     It's been a huge Frank Ocean kinda week for me.
-week109:
-  week: "Week 109: January 22 - January 28"
-  title: "Punching Bag"
+- title: "Punching Bag"
   artists:
     - "Wallice"
   album: "Punching Bag"
@@ -1236,9 +1018,7 @@ week109:
   year: 2020
   blurb: >
     I use this word a lot, but this song is really an earworm. Super excited to see their second song!
-week110:
-  week: "Week 110: January 29 - February 4"
-  title: "Colors"
+- title: "Colors"
   artists:
     - "Black Pumas"
   album: "Black Pumas"
@@ -1247,9 +1027,7 @@ week110:
   year: 2019
   blurb: >
     Black Pumas is a huge find for me; along with the Alabama Shakes, they have this entrancing approach to modern soul, blues, and rock that's rare to find.
-week111:
-  week: "Week 111: February 5 - February 11"
-  title: "Morning Coffee"
+- title: "Morning Coffee"
   artists:
     - "Chevy"
     - "Nalba"
@@ -1259,9 +1037,7 @@ week111:
   year: 2020
   blurb: >
     A bright-ish song for a not-so-bright-ish week.
-week112:
-  week: "Week 112: February 12 - February 18"
-  title: "Is It Any Wonder?"
+- title: "Is It Any Wonder?"
   artists:
     - "Durand Jones & The Indications"
   album: "Durand Jones & The Indications"
@@ -1270,9 +1046,7 @@ week112:
   year: 2016
   blurb: >
     Continuing the Black Pumas-adjacent trend. Serene.
-week113:
-  week: "Week 113: February 19 - February 25"
-  title: "Skegee"
+- title: "Skegee"
   artists:
     - "JID"
   album: "Skegee"
@@ -1281,9 +1055,7 @@ week113:
   year: 2021
   blurb: >
     JID cements himself as one of the best of the new wave: conscious lyrics, buttery smooth flow, and unique production.
-week114:
-  week: "Week 114: February 26 - March 4"
-  title: "Cocaine Parties"
+- title: "Cocaine Parties"
   artists:
     - "Freddie Gibbs"
     - "Madlib"
@@ -1293,9 +1065,7 @@ week114:
   year: 2021
   blurb: >
     Freddie absolutely bodies one of Madlib's best beats. If only we got Madlib, Freddie, and Kendrick ... (note: this song was taken off of Spotify shortly after, presumably from sample clearing issues)
-week115:
-  week: "Week 115: March 5 - March 11"
-  title: "Whats Next"
+- title: "Whats Next"
   artists:
     - "Drake"
   album: "Scary Hours II"
@@ -1304,9 +1074,7 @@ week115:
   year: 2021
   blurb: >
     It's like clockwork. The culture vulture drops another banger, and I begrudingly put it into the playlist.
-week116:
-  week: "Week 116: March 12 - March 18"
-  title: "Leave The Door Open"
+- title: "Leave The Door Open"
   artists:
     - "Silk Sonic"
     - "Bruno Mars"
@@ -1317,9 +1085,7 @@ week116:
   year: 2021
   blurb: >
     What a duo, smooth af. Don't want to get too hyped, but this could be AOTY ...
-week117:
-  week: "Week 117: March 19 - March 25"
-  title: "Freeze Tag"
+- title: "Freeze Tag"
   artists:
     - "Terrace Martin"
     - "Robert Glasper"
@@ -1332,9 +1098,7 @@ week117:
   year: 2020
   blurb: >
     Slow week, slow song. An amazing team creates an amazing blend of jazz, soul, r&b, and rap.
-week118:
-  week: "Week 118: March 26 - April 1"
-  title: "Don't Need You"
+- title: "Don't Need You"
   artists:
     - "Genesis Owusu"
   album: "Smiling with No Teeth"
@@ -1343,9 +1107,7 @@ week118:
   year: 2021
   blurb: >
     Quirky, but a vibe.
-week119:
-  week: "Week 119: April 2 - April 8"
-  title: "Big Boss Rabbit"
+- title: "Big Boss Rabbit"
   artists:
     - "Freddie Gibbs"
   album: "Big Boss Rabbit"
@@ -1354,9 +1116,7 @@ week119:
   year: 2021
   blurb: >
     I've been on an absolute Gibbs binge these past few weeks; his flow is speedy but buttery smooth in this song.
-week120:
-  week: "Week 120: April 9 - April 15"
-  title: "CHAIN ON"
+- title: "CHAIN ON"
   artists:
     - "BROCKHAMPTON"
     - "JPEGMAFIA"
@@ -1366,9 +1126,7 @@ week120:
   year: 2021
   blurb: >
     I'm not entirely sure if we're at SATURATION levels, but I am never one to complain for more BROCKHAMPTON. Peggy is a great addition too!
-week121:
-  week: "Week 121: April 16 - April 22"
-  title: "waves - Tame Impala Remix"
+- title: "waves - Tame Impala Remix"
   artists:
     - "Miguel"
     - "Tame Impala"
@@ -1378,9 +1136,7 @@ week121:
   year: 2016
   blurb: >
     Something about this remix just sticks.
-week122:
-  week: "Week 122: April 23 - April 29"
-  title: "OK"
+- title: "OK"
   artists:
     - "6 Dogs"
   album: "OK"
@@ -1389,9 +1145,7 @@ week122:
   year: 2018
   blurb: >
     I'm not sure exactly why, but after watching <a href="https://www.youtube.com/watch?v=NCbp0eTxV5U" target="_blank" rel="noopener noreferrer">this Lyrical Lemonade video</a> this song played on repeat in my head. RIP.
-week123:
-  week: "Week 123: April 30 - May 6"
-  title: "Shot You Down"
+- title: "Shot You Down"
   artists:
     - "Isaiah Rashad"
     - "Jay Rock"
@@ -1402,9 +1156,7 @@ week123:
   year: 2014
   blurb: >
     One of my friends says that this song makes them feel invincible, and I can't disagree.
-week124:
-  week: "Week 124: May 7 - May 13"
-  title: "Durag Activity"
+- title: "Durag Activity"
   artists:
     - "Baby Keem"
     - "Travis Scott"
@@ -1414,9 +1166,7 @@ week124:
   year: 2021
   blurb: >
     durag activity
-week125:
-  week: "Week 125: May 14 - May 20"
-  title: "Runnin Runnin Runnin"
+- title: "Runnin Runnin Runnin"
   artists:
     - "Biskwiq"
     - "YBN Nahmir"
@@ -1426,9 +1176,7 @@ week125:
   year: 2018
   blurb: >
     Biskwiq has one of the best trap-to-lo-fi flips that I've heard in a while!
-week126:
-  week: "Week 126: May 21 - May 27"
-  title: "good 4 u"
+- title: "good 4 u"
   artists:
     - "Olivia Rodrigo"
   album: "SOUR"
@@ -1437,9 +1185,7 @@ week126:
   year: 2021
   blurb: >
     Officially joining the Olivia Rodrigo hype train. SOUR is joining AOTY contention for me.
-week127:
-  week: "Week 127: May 28 - June 3"
-  title: "astrid"
+- title: "astrid"
   artists:
     - "glaive"
   album: "cypress grove"
@@ -1448,9 +1194,7 @@ week127:
   year: 2020
   blurb: >
     I think I've played this song over 30 times in the past two weeks?
-week128:
-  week: "Week 128: June 4 - June 10"
-  title: "CALONE"
+- title: "CALONE"
   artists:
     - "Tiffany Day"
   album: "CALONE"
@@ -1459,9 +1203,7 @@ week128:
   year: 2021
   blurb: >
     Tiffany Day is just so catchy. Bop after bop after bop.
-week129:
-  week: "Week 129: June 11 - June 17"
-  title: "Far Away"
+- title: "Far Away"
   artists:
     - "EASHA"
   album: "Far Away"
@@ -1470,9 +1212,7 @@ week129:
   year: 2021
   blurb: >
     I did end up going Far Away! But beyond that, EASHA is definitely someone to look out for - her groove is so springly and joyful.
-week130:
-  week: "Week 130: June 18 - June 24"
-  title: "HEAVY METAL"
+- title: "HEAVY METAL"
   artists:
     - "Paris Texas"
   album: "BOY ANONYMOUS"
@@ -1481,9 +1221,7 @@ week130:
   year: 2021
   blurb: >
     A late shoutout, but HEAVY METAL deserves it and more. Paris Texas tie up noise rap in an aggressive yet palatable package.
-week131:
-  week: "Week 131: June 25 - July 1"
-  title: "Metropolis"
+- title: "Metropolis"
   artists:
     - "Logic"
   album: "Under Pressure"
@@ -1492,9 +1230,7 @@ week131:
   year: 2014
   blurb: >
     A friend reminded me of this song, and other than the slightly-cringe outro on Tarantino movies, the flow is still as smooth as it was seven years ago.
-week132:
-  week: "Week 132: July 2 - July 8"
-  title: "Little by Little"
+- title: "Little by Little"
   artists:
     - "The Marías"
   album: "CINEMA"
@@ -1503,9 +1239,7 @@ week132:
   year: 2021
   blurb: >
     The Marías knock it out of the park with their debut studio album. They blend together dreamy synths, a powerful but mesmerizing bass, and María's hypnotizing voice to paint their signature sound.
-week133:
-  week: "Week 133: July 9 - July 15"
-  title: "ARE YOU WITH THAT?"
+- title: "ARE YOU WITH THAT?"
   artists:
     - "Vince Staples"
   album: "Vince Staples"
@@ -1514,9 +1248,7 @@ week133:
   year: 2021
   blurb: >
     I have enjoyed streaming VINCE STAPLES by VINCE STAPLES. Truly, VINCE STAPLES by VINCE STAPLES has been one of my favourite Vince Staples projects.
-week134:
-  week: "Week 134: July 16 - July 22"
-  title: "High Beams"
+- title: "High Beams"
   artists:
     - "Tkay Maidza"
   album: "Last Year Was Weird, Vol. 3"
@@ -1525,9 +1257,7 @@ week134:
   year: 2021
   blurb: >
     Tkay is absolutely killing it (and one of my fave rising stars) - she effortlessly blends innovative beats, graceful singing, and absolute bars. Can't wait for a full album.
-week135:
-  week: "Week 135: July 23 - July 29"
-  title: "Hypotheticals"
+- title: "Hypotheticals"
   artists:
     - "Lake Street Dive"
   album: "Obviously"
@@ -1536,9 +1266,7 @@ week135:
   year: 2021
   blurb: >
     Hypotheticals is insanely catchy. Rachael Price's voice layers over a beautiful medley of keyboards and strings. The bassline is so groovy. And, above all, the song's progression is perfectly timed. Immaculate.
-week136:
-  week: "Week 136: July 30 - August 5"
-  title: "Break It Off"
+- title: "Break It Off"
   artists:
     - "PinkPantheress"
   album: "Break It Off"
@@ -1547,9 +1275,7 @@ week136:
   year: 2021
   blurb: >
     something something too much time on music note app
-week137:
-  week: "Week 137: August 6 - August 12"
-  title: "Where'd All the Time Go?"
+- title: "Where'd All the Time Go?"
   artists:
     - "Dr. Dog"
   album: "Shame, Shame"
@@ -1558,9 +1284,7 @@ week137:
   year: 2010
   blurb: >
     Reminded of this song by a friend. Title's true!
-week138:
-  week: "Week 138: August 13 - August 19"
-  title: "Every Summertime"
+- title: "Every Summertime"
   artists:
     - "NIKI"
   album: "Every Summertime"
@@ -1569,9 +1293,7 @@ week138:
   year: 2021
   blurb: >
     Did I impulse buy Head in the Clouds tickets? Mayhaps.
-week139:
-  week: "Week 139: August 20 - August 26"
-  title: "the sky is pink"
+- title: "the sky is pink"
   artists:
     - "jenny nuo"
   album: "the sky is pink"
@@ -1580,9 +1302,7 @@ week139:
   year: 2019
   blurb: >
     it's been a slow music week for me, so i'll give a shoutout :)
-week140:
-  week: "Week 140: August 27 - September 2"
-  title: "family ties"
+- title: "family ties"
   artists:
     - "Baby Keem"
     - "Kendrick Lamar"
@@ -1592,9 +1312,7 @@ week140:
   year: 2021
   blurb: >
     > Smokin' on top fives, stop playin', I'm that guy
-week141:
-  week: "Week 141: September 3 - September 9"
-  title: "Story 2"
+- title: "Story 2"
   artists:
     - "clipping."
   album: "CLPPNG"
@@ -1603,9 +1321,7 @@ week141:
   year: 2014
   blurb: >
     The changing time signature on this song is so nuts.
-week142:
-  week: "Week 142: September 10 - September 16"
-  title: "Miss Understood"
+- title: "Miss Understood"
   artists:
     - "Little Simz"
   album: "Sometimes I Might Be Introvert"
@@ -1614,9 +1330,7 @@ week142:
   year: 2021
   blurb: >
     Easily AOTY material for me. Little Simz cements herself as the best of the best, no contest.
-week143:
-  week: "Week 143: September 17 - September 23"
-  title: "scapegoats"
+- title: "scapegoats"
   artists:
     - "Baby Keem"
   album: "The Melodic Blue"
@@ -1625,9 +1339,7 @@ week143:
   year: 2021
   blurb: >
     Album has surprisingly been in heavy rotation for me. Keem is such a breath of fresh air for this new age of rap.
-week144:
-  week: "Week 144: September 24 - September 30"
-  title: "DOLLA SIGN SLIME"
+- title: "DOLLA SIGN SLIME"
   artists:
     - "Lil Nas X"
     - "Megan Thee Stallion"
@@ -1637,9 +1349,7 @@ week144:
   year: 2021
   blurb: >
     Lil Nas X is on a roll, and he deserves every single bit of it.
-week145:
-  week: "Week 145: October 1 - October 7"
-  title: "Lucy"
+- title: "Lucy"
   artists:
     - "Yenkee"
   album: "Lucy"
@@ -1648,9 +1358,7 @@ week145:
   year: 2020
   blurb: >
     Something special!
-week146:
-  week: "Week 146: October 8 - October 14"
-  title: "Grade A"
+- title: "Grade A"
   artists:
     - "spill tab"
     - "JAWNY"
@@ -1660,9 +1368,7 @@ week146:
   year: 2021
   blurb: >
     Super excited to see spill tab soon!!
-week147:
-  week: "Week 147: October 15 - October 21"
-  title: "Diablo"
+- title: "Diablo"
   artists:
     - "Mac Miller"
   album: "Faces"
@@ -1671,9 +1377,7 @@ week147:
   year: 2014
   blurb: >
     This Faces re-release is absolutely nuts. Has made my week and will likely dominate my 2021 rotation. Diablo is so smooth.
-week148:
-  week: "Week 148: October 22 - October 28"
-  title: "get off my dick"
+- title: "get off my dick"
   artists:
     - "Zack Fox"
     - "Kenny Beats"
@@ -1683,9 +1387,7 @@ week148:
   year: 2021
   blurb: >
     It's times like these that I reconsider making this a public blog.
-week149:
-  week: "Week 149: October 29 - November 4"
-  title: "Charmander"
+- title: "Charmander"
   artists:
     - "Aminé"
   album: "TWOPOINTFIVE"
@@ -1694,9 +1396,7 @@ week149:
   year: 2021
   blurb: >
     I'm down for hyperpop Aminé.
-week150:
-  week: "Week 150: November 5 - November 11"
-  title: "Fairy Tale"
+- title: "Fairy Tale"
   artists:
     - "Seori"
   album: "?depacse owh"
@@ -1705,9 +1405,7 @@ week150:
   year: 2020
   blurb: >
     Hearing this live (or even on a loud speaker) is absolutely insane. Prob my fave find from HITC!
-week151:
-  week: "Week 151: November 12 - November 18"
-  title: "Jam & Butterfly"
+- title: "Jam & Butterfly"
   artists:
     - "DPR LIVE"
     - "Crush"
@@ -1718,9 +1416,7 @@ week151:
   year: 2020
   blurb: >
     Haven't gotten around to really listening to Silk Sonic or Red; still riding the HITC high.
-week152:
-  week: "Week 152: November 19 - November 25"
-  title: "PISTOLWHIP"
+- title: "PISTOLWHIP"
   artists:
     - "spill tab"
   album: "PISTOLWHIP"
@@ -1729,9 +1425,7 @@ week152:
   year: 2021
   blurb: >
     Live spill tab was stellar, as was this song. Love Claire!
-week153:
-  week: "Week 153: November 26 - December 2"
-  title: "Blue Gatorade"
+- title: "Blue Gatorade"
   artists:
     - "Dark Dazey"
   album: "Howdy Blue"
@@ -1740,9 +1434,7 @@ week153:
   year: 2021
   blurb: >
     This is my "other people's Spotify Wrappeds" find of the year. This song is so serene and beautiful.
-week154:
-  week: "Week 154: December 3 - December 9"
-  title: "Futon"
+- title: "Futon"
   artists:
     - "Ūla"
   album: "Futon"
@@ -1751,9 +1443,7 @@ week154:
   year: 2020
   blurb: >
     How can you make a futon cute?
-week155:
-  week: "Week 155: December 10 - December 16"
-  title: "burbank house"
+- title: "burbank house"
   artists:
     - "tsubi club"
   album: "burbank house"
@@ -1762,9 +1452,7 @@ week155:
   year: 2021
   blurb: >
     Brain tickling.
-week156:
-  week: "Week 156: December 17 - December 23"
-  title: "Neon Guts"
+- title: "Neon Guts"
   artists:
     - "Lil Uzi Vert"
     - "Pharrell Williams"
@@ -1774,9 +1462,7 @@ week156:
   year: 2017
   blurb: >
     I've been obsessed with [Pharrell's 4-count](https://open.spotify.com/playlist/2UsXblnUelngLs5Yq2gN9E?si=862ee64db3194e30) recently, and this song is a prime example.
-week157:
-  week: "Week 157: December 24 - December 30"
-  title: "Happier Than Ever"
+- title: "Happier Than Ever"
   artists:
     - "Billie Eilish"
   album: "Happier Than Ever"
@@ -1785,9 +1471,7 @@ week157:
   year: 2021
   blurb: >
     In love with the mood and build-up of this song. The "that shit's embarassing" hits *different*.
-week158:
-  week: "Week 158: December 31 - January 5"
-  title: "Go Away"
+- title: "Go Away"
   artists:
     - "Omar Apollo"
   album: "Go Away"
@@ -1796,9 +1480,7 @@ week158:
   year: 2021
   blurb: >
     Chromeo and Omar Apollo is an absolutely stellar production collab, and it shows.
-week159:
-  week: "Week 159: January 6 - January 12"
-  title: "Chaise Longue"
+- title: "Chaise Longue"
   artists:
     - "Wet Leg"
   album: "Chaise Longue"
@@ -1807,9 +1489,7 @@ week159:
   year: 2021
   blurb: >
     What a song!
-week160:
-  week: "Week 160: January 13 - January 19"
-  title: "Surround Sound"
+- title: "Surround Sound"
   artists:
     - "JID"
     - "21 Savage"
@@ -1820,9 +1500,7 @@ week160:
   year: 2022
   blurb: >
     Please give us the new JID album!!
-week161:
-  week: "Week 161: January 20 - January 26"
-  title: "Walkin"
+- title: "Walkin"
   artists:
     - "Denzel Curry"
   album: "Walkin"
@@ -1831,9 +1509,7 @@ week161:
   year: 2022
   blurb: >
     Denzel murders a stellar sample.
-week162:
-  week: "Week 162: January 27 - February 3"
-  title: "Going Bad"
+- title: "Going Bad"
   artists:
     - "Meek Mill"
     - "Drake"
@@ -1843,9 +1519,7 @@ week162:
   year: 2018
   blurb: >
     Been saying "lot of Murakami in the hallway" too frequently as of late.
-week163:
-  week: "Week 163: February 4 - February 10"
-  title: "Silver into Rain"
+- title: "Silver into Rain"
   artists:
     - "Luna Li"
     - "beabadoobee"
@@ -1855,9 +1529,7 @@ week163:
   year: 2022
   blurb: >
     Stellar combo.
-week164:
-  week: "Week 164: February 11 - February 17"
-  title: "MAGIC"
+- title: "MAGIC"
   artists:
     - "Vince Staples"
     - "Mustard"
@@ -1867,9 +1539,7 @@ week164:
   year: 2022
   blurb: >
     Beat and flow feeling like magic.
-week165:
-  week: "Week 165: February 18 - February 24"
-  title: "Life's a Bitch"
+- title: "Life's a Bitch"
   artists:
     - "Nas"
     - "AZ"
@@ -1880,9 +1550,7 @@ week165:
   year: 1994
   blurb: >
     title
-week166:
-  week: "Week 166: February 25 - March 3"
-  title: "HAZARD DUTY PAY!"
+- title: "HAZARD DUTY PAY!"
   artists:
     - "JPEGMAFIA"
   album: "HAZARD DUTY PAY!"
@@ -1891,9 +1559,7 @@ week166:
   year: 2022
   blurb: >
     I'm so glad this song is finally on streaming; Peggy weaves his flow through a stunning sample.
-week167:
-  week: "Week 167: March 4 - March 10"
-  title: "Your Type"
+- title: "Your Type"
   artists:
     - "Alvvays"
   album: "Antisocialites"
@@ -1902,9 +1568,7 @@ week167:
   year: 2017
   blurb: >
     Antisocialites returns to SOTW in great fashion!
-week168:
-  week: "Week 168: March 11 - March 17"
-  title: "Since I Left You"
+- title: "Since I Left You"
   artists:
     - "The Avalanches"
   album: "Since I Left You"
@@ -1913,9 +1577,7 @@ week168:
   year: 2000
   blurb: >
     Since I Left You was on constant rotation during an otherwise terrible finals week.
-week169:
-  week: "Week 169: March 18 - March 24"
-  title: "Close Your Eyes"
+- title: "Close Your Eyes"
   artists:
     - "Kim Petras"
   album: "TURN OFF THE LIGHT"
@@ -1924,9 +1586,7 @@ week169:
   year: 2019
   blurb: >
     Cursed song enters the rotation.
-week170:
-  week: "Week 170: March 25 - March 31"
-  title: "Instant Crush"
+- title: "Instant Crush"
   artists:
     - "Daft Punk"
     - "Julian Casablanca"
@@ -1936,9 +1596,7 @@ week170:
   year: 2013
   blurb: >
     Wow, I've forgotten just how stellar this album is. Daft Punk really are legends.
-week171:
-  week: "Week 171: April 1 - April 7"
-  title: "BROKEN PLATES"
+- title: "BROKEN PLATES"
   artists:
     - "Tiffany Day"
   album: "THE RENEWAL PROJECT"
@@ -1947,9 +1605,7 @@ week171:
   year: 2022
   blurb: >
     "LOVE. *LOVE!* SICK. **SICK!**" hits different live.
-week172:
-  week: "Week 172: April 8 - April 14"
-  title: "Love It If We Made It"
+- title: "Love It If We Made It"
   artists:
     - "Rina Sawayama"
   album: "SAWAYAMA"
@@ -1958,9 +1614,7 @@ week172:
   year: 2020
   blurb: >
     Everything I love about a good cover - innovating on the core identity of the song with a very novel, Rina-like twist.
-week173:
-  week: "Week 173: April 15 - April 21"
-  title: "END OF THE WORLD"
+- title: "END OF THE WORLD"
   artists:
     - "MICHELLE"
   album: "AFTER DINNER WE TALK DREAMS"
@@ -1969,9 +1623,7 @@ week173:
   year: 2022
   blurb: >
     A stellar album front to back - the personality of someone who's always the wholesome life of the party.
-week174:
-  week: "Week 174: April 22 - April 28"
-  title: "Dreamin Of The Past"
+- title: "Dreamin Of The Past"
   artists:
     - "Pusha T"
     - "Kanye West"
@@ -1981,9 +1633,7 @@ week174:
   year: 2022
   blurb: >
     Push on Pharrell *and* Kanye is a murderous combination.
-week175:
-  week: "Week 175: April 29 - May 5"
-  title: "Forever"
+- title: "Forever"
   artists:
     - "HAIM"
   album: "Days Are Gone"
@@ -1992,9 +1642,7 @@ week175:
   year: 2013
   blurb: >
     In-person HAIM was a completely different vibe - congrats on 15 years to them!
-week176:
-  week: "Week 176: May 6 - May 12"
-  title: "The Heart Part 5"
+- title: "The Heart Part 5"
   artists:
     - "Kendrick Lamar"
   album: "The Heart Part 5"
@@ -2003,9 +1651,7 @@ week176:
   year: 2022
   blurb: >
     IT'S HAPPENING.
-week177:
-  week: "Week 177: May 13 - May 19"
-  title: "Father Time"
+- title: "Father Time"
   artists:
     - "Kendrick Lamar"
     - "Sampha"
@@ -2015,9 +1661,7 @@ week177:
   year: 2022
   blurb: >
     An astounding portrait of toxic masculinity.
-week178:
-  week: "Week 178: May 20 - May 26"
-  title: "Auntie Diaries"
+- title: "Auntie Diaries"
   artists:
     - "Kendrick Lamar"
   album: "Mr. Morale & The Big Steppers"
@@ -2026,9 +1670,7 @@ week178:
   year: 2022
   blurb: >
     It is remarkably good that one of the largest names in the music industry centers an entire song on transphobia and trans support. Time will tell how this will age, and there are some things I'm not qualified to comment on; nevertheless, impactful.
-week179:
-  week: "Week 179: May 27 - June 2"
-  title: "Listening To Me Sing"
+- title: "Listening To Me Sing"
   artists:
     - "Jacklen Ro"
   album: "Love Junkies"
@@ -2037,9 +1679,7 @@ week179:
   year: 2019
   blurb: >
     Great seeing them (and Dark Dazey, Even Kevin, Lola Rice) live. This song in particular was stellar; the Spotify mix doesn't do it justice.
-week180:
-  week: "Week 180: June 3 - June 9"
-  title: "Music For A Sushi Restaurant"
+- title: "Music For A Sushi Restaurant"
   artists:
     - "Harry Styles"
   album: "Harry's House"
@@ -2048,9 +1688,7 @@ week180:
   year: 2022
   blurb: >
     What an awful week to wrap up. This song was a highlight, though.
-week181:
-  week: "Week 181: June 10 - June 16"
-  title: "Cash In Cash Out"
+- title: "Cash In Cash Out"
   artists:
     - "Pharrell Williams"
     - "21 Savage"
@@ -2061,9 +1699,7 @@ week181:
   year: 2022
   blurb: >
     Infectious hook, but the standout feature is [the music video](https://www.youtube.com/watch?v=cKEwnhc8ItY).
-week182:
-  week: "Week 182: June 17 - June 23"
-  title: "Glimpse of Us"
+- title: "Glimpse of Us"
   artists:
     - "Joji"
   album: "Glimpse of Us"
@@ -2072,9 +1708,7 @@ week182:
   year: 2022
   blurb: >
     Fast week, slow song.
-week183:
-  week: "Week 183: June 24 - June 30"
-  title: "Sorry"
+- title: "Sorry"
   artists:
     - "Deb Never"
   album: "Where Have All the Flowers Gone?"
@@ -2083,9 +1717,7 @@ week183:
   year: 2021
   blurb: >
     Surprised this is Deb's first appearance!
-week184:
-  week: "Week 184: July 1 - July 7"
-  title: "hollaback bitch"
+- title: "hollaback bitch"
   artists:
     - "Mura Masa"
     - "Shygirl"
@@ -2096,9 +1728,7 @@ week184:
   year: 2022
   blurb: >
     Absolute earworm from three artists perfectly in their zone.
-week185:
-  week: "Week 185: July 8 - July 14"
-  title: "TAKE A CHANCE"
+- title: "TAKE A CHANCE"
   artists:
     - "DOMi & JD BECK"
     - "Anderson .Paak"
@@ -2108,9 +1738,7 @@ week185:
   year: 2022
   blurb: >
     It seems like just yesterday that I saw DOMi and JD hang out with Kenny Beats on stream. There's something unique about their music. They make me feel old.
-week186:
-  week: "Week 186: July 15 - July 21"
-  title: "Beware of the Dogs"
+- title: "Beware of the Dogs"
   artists:
     - "Stella Donnelly"
   album: "Beware of the Dogs"
@@ -2119,9 +1747,7 @@ week186:
   year: 2019
   blurb: >
     Something about this album and this song just hit different. There's a pain and timbre in her voice that's patently unique.
-week187:
-  week: "Week 187: July 22 - July 28"
-  title: "Timeless"
+- title: "Timeless"
   artists:
     - "Ambar Lucid"
   album: "Timeless"
@@ -2130,9 +1756,7 @@ week187:
   year: 2022
   blurb: >
     An admittedly subpar album cover hides one of the smoothest hooks I've heard this year, and probably, ever.
-week188:
-  week: "Week 188: July 29 - August 4"
-  title: "Shatter"
+- title: "Shatter"
   artists:
     - "Maggie Rogers"
   album: "Surrender"
@@ -2141,9 +1765,7 @@ week188:
   year: 2022
   blurb: >
     Maggie Rogers is back with a fiery passion. Love every minute of this album.
-week189:
-  week: "Week 189: August 5 - August 11"
-  title: "ENERGY"
+- title: "ENERGY"
   artists:
     - "Beyoncé"
     - "Beam"
@@ -2153,9 +1775,7 @@ week189:
   year: 2022
   blurb: >
     This album has an energy out of this world - everything the Drake album wanted to be.
-week190:
-  week: "Week 190: August 12 - August 18"
-  title: "SAN FRANCISCO SIDEWALK"
+- title: "SAN FRANCISCO SIDEWALK"
   artists:
     - "Tiffany Day"
   album: "SAN FRANCISCO SIDEWALK"
@@ -2164,9 +1784,7 @@ week190:
   year: 2022
   blurb: >
     Close by, a different production style, and introspective noise. Love.
-week191:
-  week: "Week 191: August 19 - August 25"
-  title: "Budget"
+- title: "Budget"
   artists:
     - "Megan Thee Stallion"
     - "Latto"
@@ -2176,9 +1794,7 @@ week191:
   year: 2022
   blurb: >
     I don't know what's more killer: Megan's flow or the sample.
-week192:
-  week: "Week 192: August 26 - September 1"
-  title: "Crack Sandwich"
+- title: "Crack Sandwich"
   artists:
     - "JID"
   album: "The Forever Story"
@@ -2187,9 +1803,7 @@ week192:
   year: 2022
   blurb: >
     JID dances around the beat like it's ballet, doesn't pull punches like it's boxing, and tackles tough subject matter like it's football - entrancing.
-week193:
-  week: "Week 193: September 2 - September 8"
-  title: "Still"
+- title: "Still"
   artists:
     - "Kenny Beats"
   album: "LOUIE"
@@ -2198,9 +1812,7 @@ week193:
   year: 2022
   blurb: >
     I've loved following Kenny ever since The Cave and his Twitch stream. LOUIE is his raw creativity, love of the art, and playfulness all bundled in a tight beat pack. Stellar.
-week194:
-  week: "Week 194: September 9 - September 15"
-  title: "Stoked"
+- title: "Stoked"
   artists:
     - "Weston Estate"
   album: "Maggie Valley"
@@ -2209,9 +1821,7 @@ week194:
   year: 2022
   blurb: >
     huge weston estate week
-week195:
-  week: "Week 195: September 16 - September 22"
-  title: "Forgot About"
+- title: "Forgot About"
   artists:
     - "Priya Ragu"
   album: "damnshestamil"
@@ -2220,9 +1830,7 @@ week195:
   year: 2021
   blurb: >
     how could
-week196:
-  week: "Week 196: September 23 - September 29"
-  title: "KAZINO"
+- title: "KAZINO"
   artists:
     - "BIBI"
   album: "KAZINO"
@@ -2231,9 +1839,7 @@ week196:
   year: 2020
   blurb: >
     How did I miss this when it came out?
-week197:
-  week: "Week 197: September 30 - October 6"
-  title: "i tried"
+- title: "i tried"
   artists:
     - "slowthai"
   album: "Tyron"
@@ -2241,9 +1847,7 @@ week197:
   genre: "rap"
   year: 2021
   blurb: ""
-week198:
-  week: "Week 198: October 7  - October 13"
-  title: "Heavenly Father"
+- title: "Heavenly Father"
   artists:
     - "Isaiah Rashad"
   album: "Cilvia Demo"
@@ -2251,9 +1855,7 @@ week198:
   genre: "rap"
   year: 2014
   blurb: ""
-week199:
-  week: "Week 199: October 14  - October 20"
-  title: "HEAD"
+- title: "HEAD"
   artists:
     - "Devon Again"
   album: "HEAD"
@@ -2261,9 +1863,7 @@ week199:
   genre: "pop"
   year: 2022
   blurb: "in my head"
-week200:
-  week: "Week 200: October 21  - October 27"
-  title: "Sideways"
+- title: "Sideways"
   artists:
     - "Carly Rae Jepsen"
   album: "The Loneliest Time"
@@ -2271,9 +1871,7 @@ week200:
   genre: "pop"
   year: 2022
   blurb: "crj crj crj"
-week201:
-  week: "Week 201: October 28  - November 3"
-  title: "patience interlude"
+- title: "patience interlude"
   artists:
     - "Baby Keem"
   album: "The Melodic Blue (Deluxe)"
@@ -2281,9 +1879,7 @@ week201:
   genre: "rap"
   year: 2022
   blurb: "a stellar deluxe"
-week202:
-  week: "Week 202: November 4 - November 10"
-  title: "As The World Caves In"
+- title: "As The World Caves In"
   artists:
     - "Matt Maltese"
   album: "Bad Contestant"
@@ -2291,9 +1887,7 @@ week202:
   genre: "pop"
   year: 2018
   blurb: It's hard to reconcile how absurd this song premise is with its beauty; I love both Matt and Sarah's versions. Does feel like things are caving in :/
-week203:
-  week: "Week 203: November 11 - November 17"
-  title: "Die For You"
+- title: "Die For You"
   artists:
     - "Joji"
   album: "SMITHEREENS"
@@ -2301,9 +1895,7 @@ week203:
   genre: "pop"
   year: 2022
   blurb: And I hope it's true
-week204:
-  week: "Week 204: November 18 - November 24"
-  title: "First Time"
+- title: "First Time"
   artists:
     - "Nas"
   album: "King's Disease III"
@@ -2311,9 +1903,7 @@ week204:
   genre: "rap"
   year: 2022
   blurb: Nas & Hit-Boy run it back on KD3 and the quality is still there. Unparalleled.
-week205:
-  week: "Week 205: November 25 - December 1"
-  title: "うっせぇわ"
+- title: "うっせぇわ"
   artists:
     - "Ado"
   album: "うっせぇわ"
@@ -2321,9 +1911,7 @@ week205:
   genre: "japanese electropop"
   year: 2020
   blurb: Absolutely out of this world vocal range and production! I'm much too late to this bandwagon.
-week206:
-  week: "Week 206: December 2 - December 8"
-  title: "Feel The Fiyaaaah"
+- title: "Feel The Fiyaaaah"
   artists:
     - "Metro Boomin"
     - "A$AP Rocky"
@@ -2333,9 +1921,7 @@ week206:
   genre: "rap"
   year: 2022
   blurb: Stellar sample. Somber, neat alphabet verse from Takeoff. Album's not perfect, but Metro is definitely back.
-week207:
-  week: "Week 207: December 9 - December 15"
-  title: "Look Out!"
+- title: "Look Out!"
   artists:
     - "Peach Pit"
   album: "From 2 to 3"
@@ -2343,9 +1929,7 @@ week207:
   genre: "alt rock"
   year: 2022
   blurb: Smooth and serene for a sleep-filled Seattle.
-week208:
-  week: "Week 208: December 16 - December 22"
-  title: "Kill Bill"
+- title: "Kill Bill"
   artists:
     - "SZA"
   album: "SOS"
@@ -2353,9 +1937,7 @@ week208:
   genre: "r&b"
   year: 2022
   blurb: Finally, new SZA - and it's stellar.
-week209:
-  week: "Week 209: December 23 - December 29"
-  title: "Gorilla"
+- title: "Gorilla"
   artists:
     - "Little Simz"
   album: "NO THANK YOU"
@@ -2363,9 +1945,7 @@ week209:
   genre: "rap"
   year: 2022
   blurb: Will never say no thank you to more Little Simz.
-week210:
-  week: "Week 210: December 30 - January 5"
-  title: "King"
+- title: "King"
   artists:
     - "Florence + The Machine"
   album: "Dance Fever"
@@ -2373,9 +1953,7 @@ week210:
   genre: "pop rock"
   year: 2022
   blurb: Can't believe I missed this!
-week211:
-  week: "Week 211: January 6 - January 12"
-  title: "One Mic One Gun"
+- title: "One Mic One Gun"
   artists:
     - "Nas"
     - "21 Savage"
@@ -2384,9 +1962,7 @@ week211:
   genre: "rap"
   year: 2022
   blurb: Been bumping this for the past month. What a great way to squash a beef!
-week212:
-  week: "Week 212: January 13 - January 19"
-  title: "Shinunoga E-Wa / 死ぬのがいいわ"
+- title: "Shinunoga E-Wa / 死ぬのがいいわ"
   artists:
     - "Fuji Kaze / 藤井風"
   album: "HELP EVER HURT NEVER"
@@ -2394,9 +1970,7 @@ week212:
   genre: "jpop"
   year: 2020
   blurb: So late to the trend, but what a medley of pop, jazz, and rap production.
-week213:
-  week: "Week 213: January 20 - January 26"
-  title: "GOATED."
+- title: "GOATED."
   artists:
     - "Armani White"
     - "Denzel Curry"
@@ -2405,9 +1979,7 @@ week213:
   genre: "rap"
   year: 2023
   blurb: Denzel imbues a simple beat and chorus with inventive wordplay, effortlessly switches flows, and that signature Denzel energy.
-week214:
-  week: "Week 214: January 27 - February 2"
-  title: "Two Tens"
+- title: "Two Tens"
   artists:
     - "Cordae"
     - "Anderson .Paak"
@@ -2416,9 +1988,7 @@ week214:
   genre: "rap"
   year: 2023
   blurb: It's not RNP, but it shouldn't be. Smooth!
-week215:
-  week: "Week 215: February 3 - February 9"
-  title: "CUFF IT"
+- title: "CUFF IT"
   artists:
     - "Beyoncé"
   album: "Renaissance"
@@ -2426,9 +1996,7 @@ week215:
   genre: "dance"
   year: 2022
   blurb: Shoutout Beyoncé for nabbing the most Grammys ever.
-week216:
-  week: "Week 216: February 10 - February 16"
-  title: "OutRight"
+- title: "OutRight"
   artists:
     - "Wild Party"
   album: "Phantom Pop"
@@ -2436,9 +2004,7 @@ week216:
   genre: "indie rock"
   year: 2014
   blurb: Super slow week and not much new music. This song is almost a nostalgia trip à la Two Door Cinema Club.
-week217:
-  week: "Week 217: February 17 - February 23"
-  title: "Chameleon"
+- title: "Chameleon"
   artists:
     - "Dark Dazey"
   album: "Chameleon"
@@ -2446,9 +2012,7 @@ week217:
   genre: "indie rock"
   year: 2023
   blurb: To me it's wild that Fantano has now reviewed Dark Dazey. Feels like I'm seeing a band blow up in real-time!
-week218:
-  week: "Week 218: February 24 - March 2"
-  title: "Tally"
+- title: "Tally"
   artists:
     - "midwxst"
     - "Denzel Curry"
@@ -2457,9 +2021,7 @@ week218:
   genre: "rap"
   year: 2023
   blurb: It's not polished, but it's fun.
-week219:
-  week: "Week 219: March 3 - March 9"
-  title: "Eye Know"
+- title: "Eye Know"
   artists:
     - "De La Soul"
     - "Otis Redding"
@@ -2468,9 +2030,7 @@ week219:
   genre: "rap"
   year: 1989
   blurb: Can't believe that De La is finally back. What a classic!
-week220:
-  week: "Week 220: March 10 - March 16"
-  title: "Weight"
+- title: "Weight"
   artists:
     - "redveil"
   album: "Niagara"
@@ -2478,9 +2038,7 @@ week220:
   genre: "rap"
   year: 2020
   blurb: This is top-notch production; one of the more innovative soul samples I've listened to!
-week221:
-  week: "Week 221: March 17 - March 23"
-  title: "Slipping Into Darkness"
+- title: "Slipping Into Darkness"
   artists:
     - "Hit-Boy"
     - "The Alchemist"
@@ -2489,9 +2047,7 @@ week221:
   genre: "rap"
   year: 2023
   blurb: Alchemist over a Hit-Boy beat, Hit-Boy over a Alchemist beat. Beautiful.
-week222:
-  week: "Week 222: March 24 - March 30"
-  title: "Kingdom Hearts Key"
+- title: "Kingdom Hearts Key"
   artists:
     - "JPEGMAFIA"
     - "Danny Brown"
@@ -2501,9 +2057,7 @@ week222:
   genre: "rap"
   year: 2023
   blurb: I have never cackled so much while being thoroughly amazed by a project's production. This one is closer to easy listening compared to ... some of the other songs. Those scare me.
-week223:
-  week: "Week 223: March 31 - April 6"
-  title: "SORRY NOT SORRY"
+- title: "SORRY NOT SORRY"
   artists:
     - "Tyler, The Creator"
   album: "CALL ME IF YOU GET LOST: The Estate Sale"
@@ -2511,9 +2065,7 @@ week223:
   genre: "rap"
   year: 2023
   blurb: "[Beautiful music video](https://www.youtube.com/watch?v=LSIOcCcEVaE) for a beautiful era of rap."
-week224:
-  week: "Week 224: April 7 - April 13"
-  title: "pg baby"
+- title: "pg baby"
   artists:
     - "redveil"
   album: "Learn 2 Swim"
@@ -2521,9 +2073,7 @@ week224:
   genre: "rap"
   year: 2022
   blurb: On a redveil grind.
-week225:
-  week: "Week 225: April 14 - April 20"
-  title: "Prom Night"
+- title: "Prom Night"
   artists:
     - "Chance the Rapper"
   album: "10 Day"
@@ -2531,9 +2081,7 @@ week225:
   genre: "rap"
   year: 2012
   blurb: This for everybody's fucking prom night.
-week226:
-  week: "Week 226: April 21 - April 27"
-  title: "For DOOM"
+- title: "For DOOM"
   artists:
     - "Open Mike Eagle"
   album: "Component System with the Auto Reverse"
@@ -2541,9 +2089,7 @@ week226:
   genre: "rap"
   year: 2022
   blurb: On a massive rap binge recently, and so naturally tending towards OME!
-week227:
-  week: "Week 227: April 28 - May 4"
-  title: "Gang Gang Gang"
+- title: "Gang Gang Gang"
   artists:
     - "Jack Harlow"
   album: "Jackman."
@@ -2551,9 +2097,7 @@ week227:
   genre: "rap"
   year: 2023
   blurb: 'It surprises me just how many people (including Fantano!) are missing what this song is about: a critique of "brotherhood" and its lack of accountability. Coming from an all-boys school that was hyperfixated on brotherhood above all else, this song hits too close to home. Really wasn''t expecting this from Jack Harlow!'
-week228:
-  week: "Week 228: May 5 - May 11"
-  title: "Love, Try Not To Let Go"
+- title: "Love, Try Not To Let Go"
   artists:
     - "Julia Jacklin"
   album: "PRE PLEASURE"
@@ -2561,9 +2105,7 @@ week228:
   genre: "indie rock"
   year: 2022
   blurb: Breaking a too-long streak of rap with a punchy, powerful, and almost overwhelming moden power ballad.
-week229:
-  week: "Week 229: May 12 - May 18"
-  title: "MOTHERLESS"
+- title: "MOTHERLESS"
   artists:
     - "Killer Mike"
     - "Eryn Allen Kane"
@@ -2572,9 +2114,7 @@ week229:
   genre: "rap"
   year: 2023
   blurb: Painful, but also great timing.
-week230:
-  week: "Week 230: May 19 - May 25"
-  title: "Master P"
+- title: "Master P"
   artists:
     - "KAYTRANADA"
     - "Aminé"
@@ -2584,9 +2124,7 @@ week230:
   genre: "rap"
   year: 2023
   blurb: bop bop bop
-week231:
-  week: "Week 231: May 26 - June 1"
-  title: "Daydreaming"
+- title: "Daydreaming"
   artists:
     - "NxWorries"
     - "Anderson .Paak"
@@ -2596,9 +2134,7 @@ week231:
   genre: "r&b"
   year: 2023
   blurb: Quite excited for this album, it's another win for .Paak!
-week232:
-  week: "Week 232: June 2 - June 8"
-  title: "The Hillbillies"
+- title: "The Hillbillies"
   artists:
     - "Baby Keem"
     - "Kendrick Lamar"
@@ -2607,9 +2143,7 @@ week232:
   genre: "rap"
   year: 2023
   blurb: Glad to see the pgLang boys having fun.
-week233:
-  week: "Week 233: June 9 - June 15"
-  title: "From The Start"
+- title: "From The Start"
   artists:
     - "Laufey"
   album: "From The Start"
@@ -2617,9 +2151,7 @@ week233:
   genre: "jazz pop"
   year: 2023
   blurb: I cannot underscore how amazing Laufey is. Elegant, charming, beautiful.
-week234:
-  week: "Week 234: June 16 - June 22"
-  title: "All I Wanted"
+- title: "All I Wanted"
   artists:
     - "Paramore"
   album: "Brand New Eyes"
@@ -2627,9 +2159,7 @@ week234:
   genre: "emo rock"
   year: 2009
   blurb: Ugh, this emo rock era was a time. Love Paramore.
-week235:
-  week: "Week 235: June 23 - June 29"
-  title: "Nails"
+- title: "Nails"
   artists:
     - "Saint Levant"
   album: "Nails"
@@ -2637,9 +2167,7 @@ week235:
   genre: "rap"
   year: 2023
   blurb: Saint Levant's genre-bending trilingual rap is smooth as butter. [The music video](https://www.youtube.com/watch?v=J7e70aw_x_E) definitely made me chuckle.
-week236:
-  week: "Week 236: June 30 - July 6"
-  title: "Professor X"
+- title: "Professor X"
   artists:
     - "Dave"
   album: "Top Boy"
@@ -2647,9 +2175,7 @@ week236:
   genre: "rap"
   year: 2019
   blurb: Nuts beat, and the "Little man want to jump on FIFA, so I'm close to the sun like Icarus" line has me cackling.
-week237:
-  week: "Week 237: July 7 - 13"
-  title: "FUNKFEST"
+- title: "FUNKFEST"
   artists:
     - "grouptherapy."
   album: "i was mature for my age, but i was still a child"
@@ -2657,9 +2183,7 @@ week237:
   genre: "alt rap"
   year: 2023
   blurb: This gives me BROCKHAMPTON levels of excitement! What a flexible and unique album.
-week238:
-  week: "Week 238: July 14 - 20"
-  title: "Hunned Bandz"
+- title: "Hunned Bandz"
   artists:
     - "Tanukichan"
   album: "Sundays"
@@ -2667,9 +2191,7 @@ week238:
   genre: "indie rock"
   year: 2018
   blurb: Laid-back, relaxing, and chill rock - perfect for a hot summer.
-week239:
-  week: "Week 239: July 21 - 27"
-  title: "Rush"
+- title: "Rush"
   artists:
     - "Troye Sivan"
   album: "Rush"
@@ -2677,9 +2199,7 @@ week239:
   genre: "pop"
   year: 2023
   blurb: Absolute bop.
-week240:
-  week: "Week 240: July 28 - August 3"
-  title: "Come Over"
+- title: "Come Over"
   artists:
     - "Carly Rae Jepsen"
   album: "The Loveliest Time"
@@ -2687,9 +2207,7 @@ week240:
   genre: "pop"
   year: 2023
   blurb: She's back :)
-week241:
-  week: "Week 241: August 4 - August 10"
-  title: "HEARTBREAKER CLUB"
+- title: "HEARTBREAKER CLUB"
   artists:
     - "City Girl"
     - "tiffi"
@@ -2699,9 +2217,7 @@ week241:
   genre: "pop"
   year: 2022
   blurb: The City Girl x tiffi combination is elite.
-week242:
-  week: "Week 242: August 11 - August 17"
-  title: "ABC"
+- title: "ABC"
   artists:
     - "Polyphia"
     - "Sophia Black"
@@ -2710,9 +2226,7 @@ week242:
   genre: "prog rock"
   year: 2022
   blurb: "This song is *such* an earworm: the perfect balance of Polyphia's insane technical skill and a piece that doesn't take itself too seriously."
-week243:
-  week: "Week 243: August 18 - August 24"
-  title: "Oh No Darling!"
+- title: "Oh No Darling!"
   artists:
     - "Sarah Kinsley"
   album: "Ascension"
@@ -2720,9 +2234,7 @@ week243:
   genre: "alt rock"
   year: 2023
   blurb: As my summer winds down, gotta give it to one of my songs of the summer. Shoutout Becky!
-week244:
-  week: "Week 244: August 25 - August 31"
-  title: "踊り子"
+- title: "踊り子"
   artists:
     - "Vaundy"
   album: "踊り子"
@@ -2730,9 +2242,7 @@ week244:
   genre: "jpop"
   year: 2023
   blurb: Bye Boston (and the work bestie)! What a smooth, danceable song.
-week245:
-  week: "Week 245: September 1st - September 7th"
-  title: "Charge It"
+- title: "Charge It"
   artists:
     - "ENNY"
   album: "We Go Again"
@@ -2740,9 +2250,7 @@ week245:
   genre: "rap"
   year: 2023
   blurb: ENNY's flow is absolutely pristine; she excels on these laid-back beats.
-week246:
-  week: "Week 246: September 8th - September 14th"
-  title: "While You Were Sleeping"
+- title: "While You Were Sleeping"
   artists:
     - "Laufey"
   album: "Bewitched"
@@ -2750,9 +2258,7 @@ week246:
   genre: "jazz pop"
   year: 2023
   blurb: Of course she's done it again. Jealous of my friends who saw her live in LA!
-week247:
-  week: "Week 247: September 15th - September 21st"
-  title: "1-800-Nas&Hit"
+- title: "1-800-Nas&Hit"
   artists:
     - "Nas"
     - "Hit-Boy"
@@ -2761,9 +2267,7 @@ week247:
   genre: "rap"
   year: 2023
   blurb: The end (?) of a mind-blowing era. I don't think we'll see a six album run like this any time soon.
-week248:
-  week: "Week 248: September 22nd - September 28th"
-  title: "Nachts wach"
+- title: "Nachts wach"
   artists:
     - "Miksu / Macloud"
     - "makko"
@@ -2772,9 +2276,7 @@ week248:
   genre: "german dance-rap?"
   year: 2022
   blurb: Is this what language envy feels like? What an absolute bop.
-week249:
-  week: "Week 249: September 29th - October 5th"
-  title: "EVERYTHING IS RED"
+- title: "EVERYTHING IS RED"
   artists:
     - "Koven Wei"
   album: "EVERYTHING IS RED"
@@ -2782,9 +2284,7 @@ week249:
   genre: "alt rock"
   year: 2023
   blurb: I triple-taked when I saw this randomly; what a surprise from an old neighbour. Proud of him!
-week250:
-  week: "Week 250: October 6th - October 12th"
-  title: "Fucking Depressed"
+- title: "Fucking Depressed"
   artists:
     - "Bad Daughter"
   album: "Fucking Depressed"
@@ -2792,9 +2292,7 @@ week250:
   genre: "alt rock"
   year: 2020
   blurb: rt
-week251:
-  week: "Week 251: October 13th - October 19th"
-  title: "What's The Time Where You Are"
+- title: "What's The Time Where You Are"
   artists:
     - "Troye Sivan"
   album: "Something To Give Each Other"
@@ -2802,9 +2300,7 @@ week251:
   genre: "pop"
   year: 2023
   blurb: Just another ~~straight~~ bop.
-week252:
-  week: "Week 252: October 20th - October 26th"
-  title: "A Night To Remember"
+- title: "A Night To Remember"
   artists:
     - "beabadoobee"
     - "Laufey"
@@ -2813,9 +2309,7 @@ week252:
   genre: "alt pop"
   year: 2023
   blurb: The duo I never knew I needed? And excited for Laufey's potential feature run.
-week253:
-  week: "Week 253: October 27th - November 2nd"
-  title: "But Not For Me"
+- title: "But Not For Me"
   artists:
     - "Chet Baker"
   album: "Chet Baker Sings"
@@ -2823,9 +2317,7 @@ week253:
   genre: "vocal jazz"
   year: 1954
   blurb: Been on a massive Chet Baker binge this week!
-week254:
-  week: "Week 254: November 3rd - November 9th"
-  title: "To Summer, From Cole - Audio Hug"
+- title: "To Summer, From Cole - Audio Hug"
   artists:
     - "J. Cole"
   album: "CLEAR 2: SOFT LIFE EP"
@@ -2833,9 +2325,7 @@ week254:
   genre: "rap"
   year: 2023
   blurb: Maybe one of the sweetest rap songs I've ever heard?
-week255:
-  week: "Week 255: November 10th - November 16th"
-  title: "Cobra"
+- title: "Cobra"
   artists:
     - "Megan Thee Stallion"
   album: "Cobra"
@@ -2843,9 +2333,7 @@ week255:
   genre: "rap"
   year: 2023
   blurb: Megan continues to kill the sad and introspective hot girl music from Traumazine.
-week256:
-  week: "Week 256: November 17th - November 23th"
-  title: "Don't Know How To Keep Loving You"
+- title: "Don't Know How To Keep Loving You"
   artists:
     - "Julia Jacklin"
   album: "Crushing"
@@ -2853,9 +2341,7 @@ week256:
   genre: "indie pop"
   year: 2019
   blurb: Truly crushing.
-week257:
-  week: "Week 257: November 24th - November 30th"
-  title: "bloom"
+- title: "bloom"
   artists:
     - "ネクライトーキー"
   album: "bloom"
@@ -2863,9 +2349,7 @@ week257:
   genre: "jrock"
   year: 2023
   blurb: Enjoyed the new Scott Pilgrim more than I thought I would!
-week258:
-  week: "Week 258: December 1st - December 7th"
-  title: "Not Strong Enough"
+- title: "Not Strong Enough"
   artists:
     - "boygenius"
   album: "the record"
@@ -2873,9 +2357,7 @@ week258:
   genre: "indie rock"
   year: 2023
   blurb: Been on a bit of a boygenius kick this past week, and I can't believe that this wasn't already an SOTW!
-week259:
-  week: "Week 259: December 8th - December 14th"
-  title: "we're all eating each other"
+- title: "we're all eating each other"
   artists:
     - "Juliet Ivy"
   album: "playpen"
@@ -2883,9 +2365,7 @@ week259:
   genre: "indie pop"
   year: 2023
   blurb: Bright and nihilistic. Great job on a debut EP!
-week260:
-  week: "Week 260: December 15th - December 21st"
-  title: "Otro Atardecer"
+- title: "Otro Atardecer"
   artists:
     - "Bad Bunny"
     - "The Marías"
@@ -2894,9 +2374,7 @@ week260:
   genre: "latin pop"
   year: 2022
   blurb: Never gave this song its flowers when it first came out, but better late than never! Feels like a Marías featuring Bad Bunny in my favourite way.
-week261:
-  week: "Week 261: December 22nd - December 28th"
-  title: "Vampire Empire"
+- title: "Vampire Empire"
   artists:
     - "Big Thief"
   album: "Vampire Empire"
@@ -2904,9 +2382,7 @@ week261:
   genre: "indie folk"
   year: 2023
   blurb: Such a powerful earworm with an eclectic chorus. Can't believe this isn't attached to an album (yet?).
-week262:
-  week: "Week 262: December 29th - January 4th"
-  title: "Night Shift"
+- title: "Night Shift"
   artists:
     - "Lucy Dacus"
   album: "Historian"
@@ -2914,9 +2390,7 @@ week262:
   genre: "indie rock"
   year: 2018
   blurb: A sombering and belt out crying song to end 2023.
-week263:
-  week: "Week 263: January 5th - January 11th"
-  title: "Every Day Is The Worst Day Of My Life"
+- title: "Every Day Is The Worst Day Of My Life"
   artists:
     - "The Lemon Twigs"
   album: "Everything Harmony"
@@ -2924,9 +2398,7 @@ week263:
   genre: "soft rock"
   year: 2023
   blurb: Facts.
-week264:
-  week: "Week 264: January 12th - January 18th"
-  title: "Not My Fault"
+- title: "Not My Fault"
   artists:
     - "Reneé Rapp"
     - "Megan Thee Stallion"
@@ -2935,9 +2407,7 @@ week264:
   genre: "pop"
   year: 2023
   blurb: Another absolute bop. I'm not sure why Reneé seems to have a grip on online music discourse right now, but I'm all for it!
-week265:
-  week: "Week 265: January 19th - January 25th"
-  title: "née-nah"
+- title: "née-nah"
   artists:
     - "21 Savage"
     - "Travis Scott"
@@ -2947,9 +2417,7 @@ week265:
   genre: "rap"
   year: 2024
   blurb: In an era where each of these artists are slightly off their peak, this song is an absolute pleasure, a return to form.
-week266:
-  week: "Week 266: January 26th - February 1st"
-  title: "whiplash"
+- title: "whiplash"
   artists:
     - "2hollis"
   album: "whiplash / cliche"
@@ -2957,9 +2425,7 @@ week266:
   genre: "alt electronic"
   year: 2023
   blurb: Another brain-tickler!
-week267:
-  week: "Week 267: February 2nd - February 8th"
-  title: "Despair, Hangover & Ecstasy"
+- title: "Despair, Hangover & Ecstasy"
   artists:
     - "The Dø"
   album: "Shake, Shook, Shaken"
@@ -2967,9 +2433,7 @@ week267:
   genre: "electropop"
   year: 2014
   blurb: Can you believe that this song is almost a decade old? I can't.
-week268:
-  week: "Week 268: February 9th - February 15th"
-  title: "Tragedy"
+- title: "Tragedy"
   artists:
     - "dhruv"
   album: "Tragedy"
@@ -2977,9 +2441,7 @@ week268:
   genre: "pop"
   year: 2024
   blurb: How does this man never miss??
-week269:
-  week: "Week 269: February 16th - February 22nd"
-  title: "Marigold"
+- title: "Marigold"
   artists:
     - "Mia Day"
   album: "Marigold"
@@ -2987,9 +2449,7 @@ week269:
   genre: "indie rock"
   year: 2023
   blurb: Shoutout Mia!
-week270:
-  week: "Week 270: February 23rd - February 29th"
-  title: "OMG"
+- title: "OMG"
   artists:
     - "Suki Waterhouse"
   album: "OMG"
@@ -2997,9 +2457,7 @@ week270:
   genre: "indie rock"
   year: 2024
   blurb: Earworm chorus and the right balance of grunge - excited for this album!
-week271:
-  week: "Week 271: March 1st - March 7th"
-  title: "Von dutch"
+- title: "Von dutch"
   artists:
     - "Charli XCX"
   album: "Von dutch"
@@ -3007,9 +2465,7 @@ week271:
   genre: "electropop"
   year: 2024
   blurb: It's Charli, baby...
-week272:
-  week: "Week 272: March 8th - March 14th"
-  title: "Goddess"
+- title: "Goddess"
   artists:
     - "Laufey"
   album: "Goddess"
@@ -3017,9 +2473,7 @@ week272:
   genre: "jazz pop"
   year: 2024
   blurb: You already know...
-week273:
-  week: "Week 273: March 15th - March 21st"
-  title: "violet"
+- title: "violet"
   artists:
     - "Marianne Ross"
   album: "violet"
@@ -3027,9 +2481,7 @@ week273:
   genre: "indie pop"
   year: 2023
   blurb: This is very Mitski/boygenius/beabadoobee/Laufey-core... I've been played...
-week274:
-  week: "Week 274: March 22nd - March 28th"
-  title: "Like That"
+- title: "Like That"
   artists:
     - "Future"
     - "Metro Boomin"
@@ -3039,9 +2491,7 @@ week274:
   genre: "rap"
   year: 2024
   blurb: How could I avoid this? Kendrick is hungry - there is no big three. Metro brings a surprising flip on a generally overplayed sample.
-week275:
-  week: "Week 275: March 29th - April 4th"
-  title: "16 CARRIAGES"
+- title: "16 CARRIAGES"
   artists:
     - "Beyoncé"
   album: "COWBOY CARTER"
@@ -3049,9 +2499,7 @@ week275:
   genre: "country"
   year: 2024
   blurb: Album is a great balance of vulnerability and absolute bops!
-week276:
-  week: "Week 276: April 5th - April 11th"
-  title: "No Machine"
+- title: "No Machine"
   artists:
     - "Adrianne Lenker"
   album: "Bright Future"
@@ -3059,9 +2507,7 @@ week276:
   genre: "indie folk"
   year: 2024
   blurb: Serene, beautiful, and a tinge of sadness - exactly what I expected.
-week277:
-  week: "Week 277: April 12th - April 18th"
-  title: "R&B"
+- title: "R&B"
   artists:
     - "English Teacher"
   album: "R&B"
@@ -3069,19 +2515,7 @@ week277:
   genre: "alt rock"
   year: 2024
   blurb: Reminds me of Wet Leg in the best way possible!
-week278:
-  week: "Week 278: April 19th - April 25th"
-  title: "Walkman"
-  artists:
-    - "Bad Bad Hats"
-  album: "Bright Future"
-  album_art: "walkman.jpeg"
-  genre: "indie pop"
-  year: 2021
-  blurb: Such an earworm - even if Walkmans have faded from my mind.
-week279:
-  week: "Week 279: April 19th - April 25th"
-  title: "dancinwithsomebawdy"
+- title: "dancinwithsomebawdy"
   artists:
     - "ericdoa"
   album: "DOA"
@@ -3089,9 +2523,7 @@ week279:
   genre: "dance"
   year: 2024
   blurb: Did not expect this out of Eric at all, but this is an absolute bop - we'll take those.
-week280:
-  week: "Week 280: April 26th - May 2nd"
-  title: "Jokes On Me"
+- title: "Jokes On Me"
   artists:
     - "Audrey Nuna"
   album: "Jokes On Me"
@@ -3099,9 +2531,7 @@ week280:
   genre: "rap"
   year: 2024
   blurb: Brilliant execution of what I think is a pretty crowded sound.
-week281:
-  week: "Week 281: May 3rd - May 9th"
-  title: "Not Like Us"
+- title: "Not Like Us"
   artists:
     - "Kendrick Lamar"
   album: "Not Like Us"
@@ -3109,9 +2539,7 @@ week281:
   genre: "rap"
   year: 2024
   blurb: Absolutely devastating; I can't believe I'm here for this pop culture moment. So many thoughts.
-week282:
-  week: "Week 282: May 10th - May 16th"
-  title: "Steel"
+- title: "Steel"
   artists:
     - "Matt Champion"
     - "Dora Jar"
@@ -3120,9 +2548,7 @@ week282:
   genre: "alt pop"
   year: 2024
   blurb: Out of left field, but probably my favourite post-BROCKHAMPTON album from the boys so far!
-week283:
-  week: "Week 283: May 17th - May 23rd"
-  title: "LUNCH"
+- title: "LUNCH"
   artists:
     - "Billie Eilish"
   album: "HIT ME HARD AND SOFT"
@@ -3130,9 +2556,7 @@ week283:
   genre: "pop"
   year: 2024
   blurb: Surprise bop? Hard and soft?
-week284:
-  week: "Week 284: May 24th - May 30th"
-  title: "Étouffée"
+- title: "Étouffée"
   artists:
     - "Vince Staples"
   album: "Dark Times"
@@ -3140,9 +2564,7 @@ week284:
   genre: "rap"
   year: 2024
   blurb: Vince yet again is in his pocket - buttery smooth flows and laid-back beats with his own flavour of social commentary.
-week285:
-  week: "Week 285: May 31st - June 6th"
-  title: "Sexy to Someone"
+- title: "Sexy to Someone"
   artists:
     - "Clairo"
   album: "Sexy to Someone"
@@ -3150,9 +2572,7 @@ week285:
   genre: "indie pop"
   year: 2024
   blurb: Me too, Clairo, me too.
-week286:
-  week: "Week 286: June 7th - 13th"
-  title: "Speed of Light"
+- title: "Speed of Light"
   artists:
     - "dhruv"
   album: "Speed of Light"
@@ -3160,9 +2580,7 @@ week286:
   genre: "pop"
   year: 2024
   blurb: I originally slightly doubted this single, but it really grew on me - dhruv (and his production taste) really doesn't miss.
-week287:
-  week: "Week 287: June 14th - 20th"
-  title: "Forbidden Feelingz"
+- title: "Forbidden Feelingz"
   artists:
     - "Nia Archives"
   album: "Silence Is Loud"
@@ -3170,9 +2588,7 @@ week287:
   genre: "dance"
   year: 2024
   blurb: Went on a massive Boiler Room binge this week, and it shows.
-week288:
-  week: "Week 288: June 21st - 28th"
-  title: "The girl, so confusing version with lorde"
+- title: "The girl, so confusing version with lorde"
   artists:
     - "Charli XCX"
     - "Lorde"
@@ -3181,9 +2597,7 @@ week288:
   genre: "alt pop"
   year: 2024
   blurb: She's back, and she's back! Surprised (and hooked) by the vulnerability.
-week289:
-  week: "Week 289: June 30th - July 4th"
-  title: "Any Way"
+- title: "Any Way"
   artists:
     - "L'Impératrice"
     - "Maggie Rogers"
@@ -3192,9 +2606,7 @@ week289:
   genre: "dance pop"
   year: 2024
   blurb: Fastueux, superbe, luxueux.
-week290:
-  week: "Week 290: July 5th - July 11th"
-  title: "Black Cherri"
+- title: "Black Cherri"
   artists:
     - "Suzi Wu"
     - "Zac Carper"
@@ -3203,9 +2615,7 @@ week290:
   genre: "indie/noise rock"
   year: 2022
   blurb: Another brain-tickler à la upbeat 100 gecs and burbank house.
-week291:
-  week: "Week 291: July 12th - 18th"
-  title: "Add Up My Love"
+- title: "Add Up My Love"
   artists:
     - "Clairo"
   album: "Charm"
@@ -3213,9 +2623,7 @@ week291:
   genre: "indie pop"
   year: 2024
   blurb: Holy shit, this Clairo album is so good. The perfect instrumentals for her vibe.
-week292:
-  week: "Week 292: July 19th - July 25th"
-  title: "No Problems"
+- title: "No Problems"
   artists:
     - "Ginger Root"
   album: "No Problems"
@@ -3223,9 +2631,7 @@ week292:
   genre: "indie pop"
   year: 2024
   blurb: Just delightfully groovy - excited for this album!
-week293:
-  week: "Week 293: July 26th - August 1st"
-  title: "Where Them Girls At"
+- title: "Where Them Girls At"
   artists:
     - "Megan Thee Stallion"
   album: "MEGAN"
@@ -3233,9 +2639,7 @@ week293:
   genre: "rap"
   year: 2024
   blurb: Straightforward Megan banger, as expected.
-week294:
-  week: "Week 294: August 2nd - August 8th"
-  title: "either on or off the drugs"
+- title: "either on or off the drugs"
   artists:
     - "JPEGMAFIA"
   album: "I LAY DOWN MY LIFE FOR YOU"
@@ -3243,9 +2647,7 @@ week294:
   genre: "rap"
   year: 2024
   blurb: Absolutely in his pocket with a gorgeous sample flip.
-week295:
-  week: "Week 295: August 9th - August 15th"
-  title: "NISSAN ALTIMA"
+- title: "NISSAN ALTIMA"
   artists:
     - "Doechii"
   album: "NISSAN ALTIMA"
@@ -3253,9 +2655,7 @@ week295:
   genre: "rap"
   year: 2024
   blurb: These swamp sessions are a treat - lethal tempo, beat, and flow.
-week296:
-  week: "Week 296: August 16th - August 22nd"
-  title: "Beaches"
+- title: "Beaches"
   artists:
     - "beabadoobee"
   album: "This Is How Tomorrow Moves"
@@ -3263,9 +2663,7 @@ week296:
   genre: "alt rock"
   year: 2024
   blurb: Album is filled with absolute earworms - perhaps her best yet!
-week297:
-  week: "Week 297: August 23rd - August 29th"
-  title: "Fantasy"
+- title: "Fantasy"
   artists:
     - "Luna Li"
   album: "When a Thought Grows Wings"
@@ -3273,9 +2671,7 @@ week297:
   genre: "dream pop"
   year: 2024
   blurb: Serene and ethereal. And produced by Scott Zhang!! Thank you Muthu :)
-week298:
-  week: "Week 298: August 30th - September 5th"
-  title: "No Broke Boys"
+- title: "No Broke Boys"
   artists:
     - "Tinashe"
   album: "Quantum Baby"
@@ -3283,9 +2679,7 @@ week298:
   genre: "r&b"
   year: 2024
   blurb: Tinashe has just been so fun lately!
-week299:
-  week: "Week 299: September 6th - September 12th"
-  title: "CRAZY"
+- title: "CRAZY"
   artists:
     - "LE SSERAFIM"
   album: "CRAZY"
@@ -3293,9 +2687,7 @@ week299:
   genre: "kpop"
   year: 2024
   blurb: Absolute house bop.
-week300:
-  week: "Week 300: September 13th - September 19th"
-  title: "DENIAL IS A RIVER"
+- title: "DENIAL IS A RIVER"
   artists:
     - "Doechii"
   album: "Alligator Bites Never Heal"
@@ -3303,9 +2695,7 @@ week300:
   genre: "rap"
   year: 2024
   blurb: Unhinged and at her best!
-week301:
-  week: "Week 301: September 20th - September 26th"
-  title: "Toast"
+- title: "Toast"
   artists:
     - "CLAUDIA"
   album: "Love, Again"
@@ -3313,9 +2703,7 @@ week301:
   genre: "pop"
   year: 2024
   blurb: Such a catchy set of runs in the hook!
-week302:
-  week: "Week 302: September 27th - October 3rd"
-  title: "Let's Go Back"
+- title: "Let's Go Back"
   artists:
     - "Jungle"
   album: "Let's Go Back"
@@ -3323,9 +2711,7 @@ week302:
   genre: "neo soul"
   year: 2024
   blurb: Such a smooth single in the vein of Back On 74. Stellar!
-week303:
-  week: "Week 303: October 4th - October 10th"
-  title: "Wassup"
+- title: "Wassup"
   artists:
     - "Powers Pleasant"
     - "Jasiah"

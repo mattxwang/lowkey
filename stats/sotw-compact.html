@@ -14,6 +14,7 @@ layout: page
 
 <ul class="list-unstyled">
   {% for song in site.data.sotw reversed %}
-    <li><a href="{{site.baseurl}}/stats/song-of-the-week.html#{{song[0]}}">{{ song[1].title }}</a> by {{ song[1].artists | join: ", " }} ({{ song[1].year }})</li>
+  <li><a href="{{site.baseurl}}/stats/song-of-the-week.html#week-{{ song.index | plus: 1 }}">{{ song.title }}</a> by {{
+    song.artists | join: ", " }} ({{ song.year }})</li>
   {% endfor %}
 </ul>
