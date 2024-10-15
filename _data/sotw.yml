@@ -3288,8 +3288,50 @@ week299:
   title: "CRAZY"
   artists:
     - "LE SSERAFIM"
-  album: "Private Blizzard"
+  album: "CRAZY"
   album_art: "crazy.jpeg"
   genre: "kpop"
   year: 2024
   blurb: Absolute house bop.
+week300:
+  week: "Week 300: September 13th - September 19th"
+  title: "DENIAL IS A RIVER"
+  artists:
+    - "Doechii"
+  album: "Alligator Bites Never Heal"
+  album_art: "abnh.jpeg"
+  genre: "rap"
+  year: 2024
+  blurb: Unhinged and at her best!
+week301:
+  week: "Week 301: September 20th - September 26th"
+  title: "Toast"
+  artists:
+    - "CLAUDIA"
+  album: "Love, Again"
+  album_art: "love-again.jpeg"
+  genre: "pop"
+  year: 2024
+  blurb: Such a catchy set of runs in the hook!
+week302:
+  week: "Week 302: September 27th - October 3rd"
+  title: "Let's Go Back"
+  artists:
+    - "Jungle"
+  album: "Let's Go Back"
+  album_art: "lets-go-back.jpeg"
+  genre: "neo soul"
+  year: 2024
+  blurb: Such a smooth single in the vein of Back On 74. Stellar!
+week303:
+  week: "Week 303: October 4th - October 10th"
+  title: "Wassup"
+  artists:
+    - "Powers Pleasant"
+    - "Jasiah"
+    - "Tkay Maidza"
+  album: "Life Sucks"
+  album_art: "life-sucks.jpeg"
+  genre: "rap"
+  year: 2024
+  blurb: Leagues above the average producer album!
