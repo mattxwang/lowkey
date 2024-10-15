@@ -5,7 +5,8 @@ layout: page
 ---
 
 <p>
-  How many times does an artist show up in the <a href="{{site.baseurl}}/stats/song-of-the-week.html">Song of the Week</a>? Now you know*!
+  How many times does an artist show up in the <a href="{{site.baseurl}}/stats/song-of-the-week.html">Song of the
+    Week</a>? Now you know*!
 </p>
 
 <p>
@@ -14,11 +15,14 @@ layout: page
 
 <p>
   Artists that appear more than once:
-  <ul>
+<ul>
   {% for i in (2..page.top_artist) reversed %}
-    <li>{{ i | pluralize: 'time', 'times' }}: {{ page.artist_count[i] | sort_natural | join: ", " }}</li>
+  {% assign num_artists = page.artist_count[i] | size %}
+  {% if num_artists > 0 %}
+  <li>{{ i }}: {{ page.artist_count[i] | sort_natural | join: ", " }}</li>
+  {% endif %}
   {% endfor %}
-  </ul>
+</ul>
 </p>
 
 <details>
@@ -27,17 +31,21 @@ layout: page
     {% assign ohws = page.artist_count | first %}
     {% assign one_hit_wonders = ohws[1] | sort_natural %}
     {% for artist in one_hit_wonders %}
-      <li>{{artist}}</li>
+    <li>{{artist}}</li>
     {% endfor %}
   </ul>
 </details>
 
 <p>
-  *An astute observer might note that this is an undercount (with minor overcounts)! Good observation. I list artists generally based off of the Spotify listing when I add the song. Some notes on methodology:
+  *An astute observer might note that this is an undercount (with minor overcounts)! Good observation. I list artists
+  generally based off of the Spotify listing when I add the song. Some notes on methodology:
 
-  <ul>
-    <li>Uncredited features are not counted, like Playboi Carti on EARFQUAKE.</li>
-    <li>I subjectively choose when a group versus individual members are credited. For example, I don't count 88rising as an artist, but I do for K/DA; I view 100 gecs as Dylan Brady and Laura Les, not different artists.</li>
-    <li>Producers are inconsistently undercounted. Generally, they're not credited, but they occasionally are. Madlib seems to be credited on all of his beats; Kenny isn't on ARE YOU WITH THAT?, but is on get off my dick. I'll try to explore producers another time!</li>
-  </ul>
+<ul>
+  <li>Uncredited features are not counted, like Playboi Carti on EARFQUAKE.</li>
+  <li>I subjectively choose when a group versus individual members are credited. For example, I don't count 88rising as
+    an artist, but I do for K/DA; I view 100 gecs as Dylan Brady and Laura Les, not different artists.</li>
+  <li>Producers are inconsistently undercounted. Generally, they're not credited, but they occasionally are. Madlib
+    seems to be credited on all of his beats; Kenny isn't on ARE YOU WITH THAT?, but is on get off my dick. I'll try to
+    explore producers another time!</li>
+</ul>
 </p>
