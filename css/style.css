@@ -273,3 +273,14 @@ pre {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+.album-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+@media (min-width: 768px) {
+  .album-grid {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+}

@@ -1,0 +1,24 @@
+---
+title: "Song of the Week (covers)"
+permalink: "/stats/sotw-covers"
+layout: page
+---
+
+<p>
+  A compact list of my song of the week since 2019. Click in for more information and my thoughts.
+</p>
+
+<p>
+  See: <a href="{{site.baseurl}}/stats/song-of-the-week.html">expanded list</a>.
+</p>
+
+<ul class="list-unstyled album-grid">
+  {% for song in site.data.sotw reversed %}
+  <li>
+    <a href="{{site.baseurl}}/stats/song-of-the-week.html#week-{{ song.index | plus: 1 }}">
+      <img src="{{site.baseurl}}/img/albums/{{ song.album_art }}" alt="{{ song.album }} by {{ song.artists | join: "
+        , " }}">
+    </a>
+  </li>
+  {% endfor %}
+</ul>

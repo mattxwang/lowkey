@@ -1448,7 +1448,7 @@
     - "tsubi club"
   album: "burbank house"
   album_art: "burbank-house.jpg"
-  genre: "indie/noise rock?"
+  genre: "noise rock?"
   year: 2021
   blurb: >
     Brain tickling.
@@ -2612,7 +2612,7 @@
     - "Zac Carper"
   album: "Black Cherri"
   album_art: "black-cherri.jpeg"
-  genre: "indie/noise rock"
+  genre: "noise rock?"
   year: 2022
   blurb: Another brain-tickler à la upbeat 100 gecs and burbank house.
 - title: "Add Up My Love"
@@ -2721,3 +2721,46 @@
   genre: "rap"
   year: 2024
   blurb: Leagues above the average producer album!
+- title: "Locals (Girls like us)"
+  artists:
+    - "underscores"
+    - "gabby start"
+  album: "Wallsocket"
+  album_art: "wallsocket.jpeg"
+  genre: "hyperrock?"
+  year: 2023
+  blurb: An absolutely infectious genre-mashing earworm that re-entered my rotation. Can't help but smile!
+- title: "In The Living Room"
+  artists:
+    - "Maggie Rogers"
+  album: "In The Living Room"
+  album_art: "in-the-living-room.jpeg"
+  genre: "pop-rock"
+  year: 2024
+  blurb: Stellar single, and an absolutely stellar concert performance! Maggie is an absolute diva live!
+- title: "Roc Steady"
+  artists:
+    - "Megan Thee Stallion"
+    - "Flo Milli"
+  album: "MEGAN: ACT II"
+  album_art: "megan-2.jpeg"
+  genre: "rap"
+  year: 2024
+  blurb: Just as fun as it sounds - Megan kills it on a beat that feels very Flo!
+- title: "Buttons"
+  artists:
+    - "Lyn Lapid"
+  album: "Buttons"
+  album_art: "buttons.jpeg"
+  genre: "pop"
+  year: 2024
+  blurb: Killer hook, and some hilarious social media promo.
+- title: "whatcha gotta say"
+  artists:
+    - "thủy"
+    - "Blxst"
+  album: "wings"
+  album_art: "wings.jpeg"
+  genre: "pop"
+  year: 2024
+  blurb: Feel like she's so underrated - absolute bop!
