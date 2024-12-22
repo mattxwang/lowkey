@@ -2764,3 +2764,47 @@
   genre: "pop"
   year: 2024
   blurb: Feel like she's so underrated - absolute bop!
+- title: "Skurrr"
+  artists:
+    - "MIKE"
+    - "Tony Seltzer"
+  album: "Pinball"
+  album_art: "pinball.jpeg"
+  genre: "rap"
+  year: 2024
+  blurb: Effortlessly smooth.
+- title: "Ma Meilleure Ennemie"
+  artists:
+    - "Stromae"
+    - "Pomme"
+  album: "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+  album_art: "arcane-2.jpeg"
+  genre: "dance"
+  year: 2024
+  blurb: Wow, what an ending to an absolutely stunning show. And I always love to see Stromae win!
+- title: "tv off"
+  artists:
+    - "Kendrick Lamar"
+    - "Lefty Gunplay"
+  album: "GNX"
+  album_art: "gnx.jpeg"
+  genre: "rap"
+  year: 2024
+  blurb: What a victory lap - the "MUSTAAAAAAARD" is just the cherry on top. Also just an incredible album - Kenny is an absolute hitmaker.
+- title: "Balloon"
+  artists:
+    - "Tyler, The Creator"
+    - "Doechii"
+  album: "CHROMAKOPIA"
+  album_art: "chromakopia.jpeg"
+  genre: "rap"
+  year: 2024
+  blurb: I never had a chance to spotlight a CHROMAKOPIA song when it first came out. Doechii's infectious energy makes this a standout in a standout album cycle.
+- title: "Like The End"
+  artists:
+    - "James Blake"
+  album: "Like The End"
+  album_art: "like-the-end.jpeg"
+  genre: "alt r&b"
+  year: 2024
+  blurb: This song feels immense. It's so beautiful, yet it also makes me feel so hopeless.
