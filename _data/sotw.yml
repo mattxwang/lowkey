@@ -2808,3 +2808,27 @@
   genre: "alt r&b"
   year: 2024
   blurb: This song feels immense. It's so beautiful, yet it also makes me feel so hopeless.
+- title: "Image"
+  artists:
+    - "Magdalena Bay"
+  album: "Imaginal Disk"
+  album_art: "imaginal-disk.jpeg"
+  genre: "synth pop"
+  year: 2024
+  blurb: Absolute bop; I don't think I gave this album the flowers it deserved when it first came out. Imaginal Disk has been on repeat for me!
+- title: "Beautiful Boy"
+  artists:
+    - "The Last Dinner Party"
+  album: "Prelude to Ecstasy"
+  album_art: "prelude-to-ecstasy.jpeg"
+  genre: "indie rock"
+  year: 2024
+  blurb: Me too, me too. (and one of the best debut albums I've seen in this decade!)
+- title: "The Ballad of Matt & Mica"
+  artists:
+    - "Magdalena Bay"
+  album: "Imaginal Disk"
+  album_art: "imaginal-disk.jpeg"
+  genre: "synth pop"
+  year: 2024
+  blurb: I haven't been able to get this album out of my head for the past month! This hook is *so* infectious.
