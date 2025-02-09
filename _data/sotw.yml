@@ -2832,3 +2832,36 @@
   genre: "synth pop"
   year: 2024
   blurb: I haven't been able to get this album out of my head for the past month! This hook is *so* infectious.
+- title: "Do You Have A Destination"
+  artists:
+    - "Mac Miller"
+  album: "Balloonerism"
+  album_art: "balloonerism.jpeg"
+  genre: "rap"
+  year: 2025
+  blurb: Mac's estate (and family) have done an absolutely stellar job releasing music posthumously while still preserving his legacy.
+- title: "Sugar in the Tank"
+  artists:
+    - "Julien Baker"
+    - "TORRES"
+  album: "Imaginal Disk"
+  album_art: "sugar-in-the-tank.jpeg"
+  genre: "indie rock"
+  year: 2024
+  blurb: Beautiful duet; excited for this album!
+- title: "BAILE INoLVIDABLE"
+  artists:
+    - "Bad Bunny"
+  album: "DeBÍ TiRAR Más FOToS"
+  album_art: "dtmf.jpeg"
+  genre: "salsa"
+  year: 2025
+  blurb: Didn't have a 6-minute PR salsa banger on my 2025 bingo card, but I'm all for it!
+- title: "Besties"
+  artists:
+    - "Black Country, New Road"
+  album: "Besties"
+  album_art: "besties.jpeg"
+  genre: "indie rock"
+  year: 2025
+  blurb: Amazingly cute and melancholic. Very intrigued to see the new BCNR!
