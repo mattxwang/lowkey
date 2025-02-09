@@ -2,28 +2,18 @@
 title: Lowkey
 timezone: America/Los_Angeles
 collections:
-  category:
-    output: true
   posts:
     output: true
-  specials:
-    output: true
-specials_list:
-  - "hindsight2018"
-  - "concise21"
 title_long: Lowkey | A blog by Matthew Wang
 email: matt@matthewwang.me
 author:
   name: Matthew Wang
-  twitter: welcomemattwang
 description: "The blog of one of the more boring people named Matthew Wang."
-baseurl: ''
+baseurl: ""
 url: https://blog.matthewwang.me
-twitter:
-  username: welcomemattwang
 github: mattxwang
 repo: http://github.com/mattxwang/lowkey
-website: https://matthewwang.me
+website: https://mattx.wang
 logo: "/img/logo.png"
 markdown: kramdown
 kramdown:
@@ -41,8 +31,6 @@ exclude:
   - .git
   - .github
 plugins:
-  - jekyll-paginate
   - jekyll-seo-tag
-paginate: 5
 
 words_read_per_minute: 180

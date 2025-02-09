@@ -5,47 +5,41 @@ layout: default
   <h1><span class="text-primary">Lowkey</span><span class="text-black"> is matt's blog</span></h1>
 
   <p>
-    If this is your first time, I don't really post too much. People usually stalk me by:
+    It used to have quite a bit of content, but now it doesn't. I don't really post too much anymore. The only remaining
+    content is:
   </p>
 
   <ul>
     <li>
-      keeping up with my <a href="{{site.baseurl}}/stats/song-of-the-week.html">songs of the week</a> and <a href="{{site.baseurl}}/stats/books">the books I read</a>
+      keeping up with my <a href="{{site.baseurl}}/stats/song-of-the-week.html">songs of the week</a> and <a
+        href="{{site.baseurl}}/stats/books">the books I read</a>
     </li>
     <li>
-      reading some of my <em>really long</em> reflections: on running <a href="{% link _posts/2021-12-31-reflecting-on-teach-la.markdown %}">ACM Teach LA (2021)</a>, <a href="{% link _posts/2020-06-27-reflecting-on-tla-dev-team.markdown %}">Teach LA's dev team (2020)</a>, or <a href="{% link _posts/2018-09-21-hindsight-debate.markdown %}">high school debate (2018)</a>
+      reading some of my longer ramblings on my music taste (since ~ 2019)
     </li>
   </ul>
 </div>
 
 <hr class="border-top-primary" />
-{% for post in paginator.posts %}
-  <div>
-    <a class="post-listing" href="{{ post.url | prepend: site.baseurl }}">
-      <span class="post-listing-title">{{ post.title }}</span>
-      <span class="post-listing-info">
-        <span class="post-listing-date">{{ post.date | date: "%b %d '%y" }}</span>
-        <span class="post-listing-metadata">
-          {% capture words %}
-            {{ post.content | number_of_words | minus: 250 }}
-          {% endcapture %}
-          {% if words contains "-" %}
-          quick read / {{ words | plus: 250 | append: " words" }}
-          {% else %}
-          ~ {{ words | plus: 250 | divided_by: site.words_read_per_minute | append: " min" }} / {{ words | plus: 250 | append: " words" }}
-          {% endif %}
-        </span>
+{% for post in site.posts %}
+<div>
+  <a class="post-listing" href="{{ post.url | prepend: site.baseurl }}">
+    <span class="post-listing-title">{{ post.title }}</span>
+    <span class="post-listing-info">
+      <span class="post-listing-date">{{ post.date | date: "%b %d '%y" }}</span>
+      <span class="post-listing-metadata">
+        {% capture words %}
+        {{ post.content | number_of_words | minus: 250 }}
+        {% endcapture %}
+        {% if words contains "-" %}
+        quick read / {{ words | plus: 250 | append: " words" }}
+        {% else %}
+        ~ {{ words | plus: 250 | divided_by: site.words_read_per_minute | append: " min" }} / {{ words | plus: 250 |
+        append: " words" }}
+        {% endif %}
       </span>
-    </a>
-  </div>
-  <hr />
-{% endfor %}
-<div class="text-center">
-  {% if paginator.previous_page %}
-    <a class="button button-primary" href="{{ paginator.previous_page_path }}">Previous</a>
-  {% endif %}
-  <span class="tag bg-primary">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a class="button button-primary" href="{{ paginator.next_page_path }}">Next</a>
-  {% endif %}
+    </span>
+  </a>
 </div>
+<hr />
+{% endfor %}
