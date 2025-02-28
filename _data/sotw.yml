@@ -2865,3 +2865,28 @@
   genre: "indie rock"
   year: 2025
   blurb: Amazingly cute and melancholic. Very intrigued to see the new BCNR!
+- title: "afraid"
+  artists:
+    - "2hollis"
+    - "nate sib"
+  album: "afraid"
+  album_art: "afraid.jpeg"
+  genre: "electro pop"
+  year: 2025
+  blurb: A numbing brain-tickler. No business being this fun!
+- title: "The Opener"
+  artists:
+    - "Wallice"
+  album: "The Jester"
+  album_art: "the-jester.jpeg"
+  genre: "indie rock"
+  year: 2024
+  blurb: One of my favourite conceptual opening tracks to an album. And amazing live!
+- title: "Valentine's Day Freestyle '25"
+  artists:
+    - "JPEGMAFIA"
+  album: "Valentine's Day Freestyle '25"
+  album_art: "v-day-f.jpeg"
+  genre: "rap"
+  year: 2025
+  blurb: This man can really sample anything.
