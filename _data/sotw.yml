@@ -2890,3 +2890,28 @@
   genre: "rap"
   year: 2025
   blurb: This man can really sample anything.
+- title: "ExtraL"
+  artists:
+    - "JENNIE"
+    - "Doechii"
+  album: "Ruby"
+  album_art: "ruby.jpeg"
+  genre: "rap"
+  year: 2025
+  blurb: Such a fun song, and Doechii kills her verse (as always).
+- title: "Sun Don't Leave Me"
+  artists:
+    - "Raveena"
+  album: "Where the Butterflies Go in the Rain (Deluxe)"
+  album_art: "where-the-butterflies-go.jpeg"
+  genre: "indie pop"
+  year: 2025
+  blurb: Such a light, beautiful, and breezy song. A simple melody that showcases Raveena's unique voice.
+- title: "The Giver"
+  artists:
+    - "Chappell Roan"
+  album: "The Giver"
+  album_art: "the-giver.jpeg"
+  genre: "country"
+  year: 2025
+  blurb: Gave me a hearty chuckle - what a juxtaposition! (but also, so fun!)
