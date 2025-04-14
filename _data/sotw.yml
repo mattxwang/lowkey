@@ -2915,3 +2915,27 @@
   genre: "country"
   year: 2025
   blurb: Gave me a hearty chuckle - what a juxtaposition! (but also, so fun!)
+- title: "Kicking Cars"
+  artists:
+    - "Panchinko"
+  album: "D>E>A>T>H>M>E>T>A>L"
+  album_art: "deathmetal.jpeg"
+  genre: "indie rock"
+  year: 2000
+  blurb: "D>E>A>T>H>M>E>T>A>L has been my soundtrack this week - there is something tantalizingly unique about the EP."
+- title: "Neurotica"
+  artists:
+    - "Polyphia"
+  album: "Remember That You Will Die"
+  album_art: "remember-that-you-will-die.jpeg"
+  genre: "prog rock"
+  year: 2022
+  blurb: An absolute brain-tickler :)
+- title: "Silver Lining"
+  artists:
+    - "Laufey"
+  album: "Silver Lining"
+  album_art: "silver-lining.jpeg"
+  genre: "vocal pop"
+  year: 2025
+  blurb: So excited for Laufey3!!!!
