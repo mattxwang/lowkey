@@ -2939,3 +2939,20 @@
   genre: "vocal pop"
   year: 2025
   blurb: So excited for Laufey3!!!!
+- title: "Hate It Or Love It"
+  artists:
+    - "The Game"
+    - "50 Cent"
+  album: "The Documentary"
+  album_art: "the-documentary.jpeg"
+  genre: "rap"
+  year: 2005
+  blurb: 20-year classic!
+- title: "Goodbye (Don't Tell Me)"
+  artists:
+    - "Black Country, New Road"
+  album: "Forever Howlong"
+  album_art: "forever-howlong.jpeg"
+  genre: "indie rock"
+  year: 2025
+  blurb: Stellar album front-to-back - absolutely beautiful instrumentation and three-way vocal splits!
