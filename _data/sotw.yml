@@ -2956,3 +2956,36 @@
   genre: "indie rock"
   year: 2025
   blurb: Stellar album front-to-back - absolutely beautiful instrumentation and three-way vocal splits!
+- title: "Arc de Triomphe"
+  artists:
+    - "Aminé"
+  album: "13 Months of Sunshine"
+  album_art: "13-mos.jpeg"
+  genre: "hip house"
+  year: 2025
+  blurb: An absolute summer bop. Aminé drops a dance album wasn't on my 2025 rap bingo card!
+- title: "Bottom of a Bottle"
+  artists:
+    - "Julien Baker"
+    - "TORRES"
+  album: "Forever Howlong"
+  album_art: "send-a-prayer-my-way.jpeg"
+  genre: "country"
+  year: 2025
+  blurb: No-nonsense sad alcoholism banger.
+- title: "Illegal"
+  artists:
+    - "PinkPantheress"
+  album: "Fancy That"
+  album_art: "fancy-that.jpeg"
+  genre: "ukg"
+  year: 2025
+  blurb: "\"My name is Pink, and I'm really glad to meet you\" is an amazing opener on an entrancing opening track."
+- title: "Chasm"
+  artists:
+    - "Beach Bunny"
+  album: "Tunnel Vision"
+  album_art: "tunnel-vision.jpeg"
+  genre: "indie rock"
+  year: 2025
+  blurb: The two-part chorus absolutely amazes me - the "past", "future", and "presence" just flows so well!
