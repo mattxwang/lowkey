@@ -3007,3 +3007,29 @@
   genre: "afrobeat"
   year: 2025
   blurb: Absolute bop (and absolutely hilarious). Also so excited for this Little Simz album!
+- title: "Only"
+  artists:
+    - "Little Simz"
+    - "Lydia Kitto"
+  album: "Paradise Now"
+  album_art: "paradise-now.jpeg"
+  genre: "rap"
+  year: 2025
+  blurb: Simz is back and as introspective as ever --- and shows that she can shine without Inflo. Thief!
+- title: "Kick It to Me"
+  artists:
+    - "Sammy Rae & The Friends"
+  album: "The Good Life"
+  album_art: "the-good-life.jpeg"
+  genre: "indie pop"
+  year: 2018
+  blurb: I saw their tour poster at a friend's house and was reminded of just how great Sammy Rae's vibes are.
+- title: "WASSUP"
+  artists:
+    - "Joey Valence & Brae"
+    - "JPEGMAFIA"
+  album: "WASSUP"
+  album_art: "wassup.jpeg"
+  genre: "rap"
+  year: 2025
+  blurb: "The crossover I didn't know I needed, but it makes sense: JVB and Peggy both have unique production that shows a deep reverance for hip hop history, and it shows."
