@@ -5,20 +5,19 @@ layout: page
 ---
 <p>
 	I listen to a lot of music, and I'm personally interested in seeing how my taste in music changes over time. As such,
-	I've started this very small pet project: I document my favourite song of the week.
+	I've documented my favourite song of the week (since 2019).
 </p>
 <p>
-	This project is definitely still a work in progress - I think there's a lot of cool statistical analysis I can do
-	here. For now, give the <a href="{{site.baseurl}}/stats/sotw-artists">artist count</a> a look.
+	There's probably much more I can do with this project, but all I've got for now is:
 </p>
-<p>
-	Oh yeah, and <a target="_blank" rel="noopener noreferrer"
-		href="https://open.spotify.com/playlist/0ebcv8uwo17Gss1UaHoCxK?si=xhz40GZSRJOMjkFmcmEjOg">here's the Spotify
-		playlist</a>, for your convenience.
-	<br>
-	And, a <a href="{{site.baseurl}}/stats/sotw-compact">compact version</a> (+
-	<a href="{{site.baseurl}}/stats/sotw-covers">covers-only version</a>), if you're into that.
-</p>
+<ul>
+	<li><a href="{{site.baseurl}}/stats/sotw-artists">artist count</a></li>
+	<li><a href="{{site.baseurl}}/stats/sotw-compact">compact version</a></li>
+	<li><a href="{{site.baseurl}}/stats/sotw-covers">covers-only visualization</a></li>
+	<li><a target="_blank" rel="noopener noreferrer"
+		href="https://open.spotify.com/playlist/0ebcv8uwo17Gss1UaHoCxK?si=xhz40GZSRJOMjkFmcmEjOg">the Spotify
+		playlist</a></li>
+</ul>
 
 {% for song in site.data.sotw reversed %}
 <div class="card border-primary" id="week-{{ song.index | plus: 1 }}" style="padding: 0.5rem;">
@@ -31,7 +30,7 @@ layout: page
 				<span style="display: block; margin-top:0.5em; margin-bottom: 0.5em; font-weight: bold;">
 					Week {{ song.index | plus: 1 }}: {{ song.start_date | date: "%B" }} {{ song.start_date | date: "%e" |
 					ordinalize
-					}} - {{ song.end_date | date: "%B" }} {{ song.end_date | date: "%e" | ordinalize }}
+					}} - {{ song.end_date | date: "%B" }} {{ song.end_date | date: "%e" | ordinalize }} {{ song.end_date | date: "%Y" }}
 				</span>
 				<h2 style="margin-top:0; margin-bottom: 0"><span class="text-primary">{{ song.title }}</span> | {{
 					song.artists | join: ", " }}</h2>
