@@ -3033,3 +3033,12 @@
   genre: "rap"
   year: 2025
   blurb: "The crossover I didn't know I needed, but it makes sense: JVB and Peggy both have unique production that shows a deep reverance for hip hop history, and it shows."
+- title: "Trigger Bang"
+  artists:
+    - "Lily Allen"
+    - "Giggs"
+  album: "No Shame"
+  album_art: "no-shame.jpeg"
+  genre: "pop"
+  year: 2018
+  blurb: I don't remember exactly why this re-entered my rotation, but it's got an incredibly catchy chorus and refrain.
