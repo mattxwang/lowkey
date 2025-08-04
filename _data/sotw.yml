@@ -3058,3 +3058,19 @@
   genre: "rap"
   year: 2025
   blurb: An absolutely criminal sample flip. Killer coke bars. This is culturally inappropriate.
+- title: "pokemon"
+  artists:
+    - "Wet Leg"
+  album: "moisturizer"
+  album_art: "moisturizer.jpeg"
+  genre: "alt rock"
+  year: 2025
+  blurb: Why yes, I did enjoy the new Wet Leg album!
+- title: "Coming Soon"
+  artists:
+    - "Annie DiRusso"
+  album: "Coming Soon"
+  album_art: "coming-soon.jpeg"
+  genre: "indie rock"
+  year: 2021
+  blurb: Shoutout Youngbo :)
