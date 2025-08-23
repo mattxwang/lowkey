@@ -3074,3 +3074,28 @@
   genre: "indie rock"
   year: 2021
   blurb: Shoutout Youngbo :)
+- title: "I Really Want to Stay at Your House"
+  artists:
+    - "Rosa Walton"
+    - "Hallie Coggins"
+  album: "Cyberpunk 2077: Radio, Vol. 2"
+  album_art: "cyberpunk-vol-2.jpeg"
+  genre: "pop"
+  year: 2020
+  blurb: Wow, Edgerunners was so good. Adore how this song was used as a motif throughout the show!
+- title: "This is the Killer Speaking"
+  artists:
+    - "The Last Dinner Party"
+  album: "This is the Killer Speaking"
+  album_art: "titks.jpeg"
+  genre: "indie rock"
+  year: 2025
+  blurb: The chorus brings such a rush of energy. Potentially my favourite song of the summer?
+- title: "LIVE RIGHT"
+  artists:
+    - "Joey Valence & Brae"
+  album: "HYPERYOUTH"
+  album_art: "hyperyouth.jpeg"
+  genre: "rap"
+  year: 2025
+  blurb: Anthemic production that will sound amazing on tour. This entire album is a treat front-to-back!
