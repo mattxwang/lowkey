@@ -3099,3 +3099,19 @@
   genre: "rap"
   year: 2025
   blurb: Anthemic production that will sound amazing on tour. This entire album is a treat front-to-back!
+- title: "Mr. Eclectic"
+  artists:
+    - "Laufey"
+  album: "A Matter Of Time"
+  album_art: "a-matter-of-time.jpg"
+  genre: "jazz pop"
+  year: 2025
+  blurb: I just know that Laufey was cackling while making this song. Such clairvoyant timing!
+- title: "More"
+  artists:
+    - "Carly Rae Jepsen"
+  album: "HYPERYOUTH"
+  album_art: "emotion-ten.jpg"
+  genre: "pop"
+  year: 2025
+  blurb: It's a pop emergency, alright!!
