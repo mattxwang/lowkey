@@ -3131,3 +3131,19 @@
   genre: "pop"
   year: 2025
   blurb: Tiff has been hit or miss for me recently, but this is a hit. Still excited to see what'll be in her sophomore album!
+- title: "Cinnamon"
+  artists:
+    - "BENEE"
+  album: "Cinnamon"
+  album_art: "cinnamon.jpg"
+  genre: "pop"
+  year: 2025
+  blurb: Such a fun and smooth chorus. Excited for this album
+- title: "Second Sleep"
+  artists:
+    - "Magdalena Bay"
+  album: "Second Sleep / Star Eyes"
+  album_art: "second-sleep.jpg"
+  genre: "pop"
+  year: 2025
+  blurb: I'd like a second (or first) sleep as sweet as this.
