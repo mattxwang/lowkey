@@ -3147,3 +3147,19 @@
   genre: "pop"
   year: 2025
   blurb: I'd like a second (or first) sleep as sweet as this.
+- title: "Open My Door"
+  artists:
+    - "Alice Phoebe Lou"
+  album: "Shelter"
+  album_art: "shelter.jpg"
+  genre: "soft rock"
+  year: 2023
+  blurb: I saw Alice open for Clairo last year but didn't fully appreciate just how much of a treat that was. Absolutely in love with the sadness in this song!
+- title: "iPod Touch"
+  artists:
+    - "Ninajirachi"
+  album: "I Love My Computer"
+  album_art: "i-love-my-computer.jpg"
+  genre: "dance pop"
+  year: 2025
+  blurb: Wow, this album is just such incredible fun. Excited for Nina's rise to internet music fame - it's so well-deserved!
