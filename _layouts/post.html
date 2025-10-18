@@ -23,14 +23,14 @@ layout: default
     {% endif %}
   </div>
   <p>
-      {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matt{% endif %} • 
+      {{ page.date | date: "%b %-d, %Y" }} • {% if page.author %}{{ page.author }}{% else %}Matt{% endif %} •
       {% capture words %}
         {{ page.content | number_of_words | minus: 250 }}
       {% endcapture %}
       {% if words contains "-" %}
         a quick read • {{ words | plus: 250 | append: " words" }}
       {% else %}
-        ~ {{ words | plus: 250 | divided_by: site.words_read_per_minute | append: " minute read" }} • {{ words | plus: 250 | append: " words" }}
+        {{ words | plus: 250 | append: " words" }}
       {% endif %}
     </p>
 </div>
@@ -41,17 +41,12 @@ layout: default
 <hr />
 <div>
   Thank you for reading <a href="{{page.url}}">{{ page.title }}</a>.
-  It was written on {{ page.date | date: "%b %-d, %Y" }} by {% if page.author %}{{ page.author }}{% else %}Matt{% endif %}. 
-  It was 
+  It was written on {{ page.date | date: "%b %-d, %Y" }} by {% if page.author %}{{ page.author }}{% else %}Matt{% endif %}.
+  It was
   {% capture words %}
     {{ page.content | number_of_words | minus: 250 }}
   {% endcapture %}
-  {{ words | plus: 250 | append: " words long" }}, and should be a
-  {% if words contains "-" %}
-    quick read.
-  {% else %}
-    ~ {{ words | plus: 250 | divided_by: site.words_read_per_minute | append: " minute read." }}
-  {% endif %}
+  {{ words | plus: 250 | append: " words long" }}.
   {% for category in page.categories %}
     {% if site.specials_list contains category %}
       It was part of the special series <a href="{{site.baseurl}}/specials/{{ category }}/">{{ category }}</a>.

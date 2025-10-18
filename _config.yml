@@ -32,5 +32,3 @@ exclude:
   - .github
 plugins:
   - jekyll-seo-tag
-
-words_read_per_minute: 180
