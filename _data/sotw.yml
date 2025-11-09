@@ -3171,3 +3171,19 @@
   genre: "indie rock"
   year: 2025
   blurb: Surprisingly solid sophomore album (if a minor mid-album slump). Powerful opener!
+- title: "PIXELATED KISSES"
+  artists:
+    - "Joji"
+  album: "PIXELATED KISSES"
+  album_art: "pixelated-kisses.jpg"
+  genre: "pop"
+  year: 2025
+  blurb: Absolutely killer bass and synth.
+- title: "Au Pays du Cocaine"
+  artists:
+    - "Geese"
+  album: "Getting Killed"
+  album_art: "getting-killed.jpg"
+  genre: "art rock"
+  year: 2025
+  blurb: So much power and emotion in such an otherwise simple package. So impressed by this entire album!
