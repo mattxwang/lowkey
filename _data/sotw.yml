@@ -3187,3 +3187,11 @@
   genre: "art rock"
   year: 2025
   blurb: So much power and emotion in such an otherwise simple package. So impressed by this entire album!
+- title: "My Type"
+  artists:
+    - "Sudan Archives"
+  album: "The BPM"
+  album_art: "the-bpm.jpg"
+  genre: "dance pop"
+  year: 2025
+  blurb: Absolute bop.
