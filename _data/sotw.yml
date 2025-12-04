@@ -3195,3 +3195,27 @@
   genre: "dance pop"
   year: 2025
   blurb: Absolute bop.
+- title: "Alien"
+  artists:
+    - "LAUNDRY DAY"
+  album: "EARWORM"
+  album_art: "earworm.jpg"
+  genre: "pop"
+  year: 2025
+  blurb: This is an earworm. Also absurd that Dylan Brady is on this. Shoutout Sam for being a day 1 fan!
+- title: "Thoroughfare"
+  artists:
+    - "Ethel Cain"
+  album: "Preacher's Daughter"
+  album_art: "preachers-daughter.jpg"
+  genre: "folk rock"
+  year: 2022
+  blurb: I'm not sure exactly what brought this song back into my rotation, but it's nine and a half minutes of absolute vibes.
+- title: "Face to Face"
+  artists:
+    - "Daft Punk"
+  album: "Discovery"
+  album_art: "discovery.jpg"
+  genre: "plunderphonics"
+  year: 2001
+  blurb: So, I absolutely adore this song, but it frequently bleeds in and out of my mind because of this absolutely amazing YouTube video called [What If "Face to Face" by Daft Punk Used Newer Samples?](https://www.youtube.com/watch?v=RgXZNvMg0-U). Among other things, I think this speaks to how unique the song is, in spite of the sample spread.
