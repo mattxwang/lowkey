@@ -3294,3 +3294,27 @@
   genre: "country"
   year: 2025
   blurb: Maybe the funniest country song I've heard. And now, a Grammy winner!
+- title: "Pluto's Lament"
+  artists:
+    - "The Olympians"
+  album: "The Olympians"
+  album_art: "the-olympians.jpg"
+  genre: "jazz"
+  year: 2016
+  blurb: I've been having this album on repeat in my office for the past few weeks. So playful and elegant!
+- title: "I Just Might"
+  artists:
+    - "Bruno Mars"
+  album: "The Romantic"
+  album_art: "the-romantic.jpg"
+  genre: "pop"
+  year: 2026
+  blurb: Bruno Mars always makes a (safe) bop. Every mall is going to be playing this song for the next six months. I'll enjoy it until then!
+- title: "Ca$ino"
+  artists:
+    - "Baby Keem"
+  album: "Ca$ino"
+  album_art: "casino.jpg"
+  genre: "rap"
+  year: 2026
+  blurb: "Beyond the wild beat switch, this song exemplifies everything that makes Baby Keem (and the album): unorthodox and unabashedly energetic production and some memorable one-liners. He's Baby Keem!"
