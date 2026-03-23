@@ -3318,3 +3318,35 @@
   genre: "rap"
   year: 2026
   blurb: "Beyond the wild beat switch, this song exemplifies everything that makes Baby Keem (and the album): unorthodox and unabashedly energetic production and some memorable one-liners. He's Baby Keem!"
+- title: "I'll Change for You"
+  artists:
+    - "Mitski"
+  album: "Nothing's About to Happen to Me"
+  album_art: "nathtm.jpg"
+  genre: "indie rock"
+  year: 2026
+  blurb: "Another Mitski album, another sanger (sad banger)."
+- title: "These Chains"
+  artists:
+    - "Mid-Air Thief"
+  album: "Crumbling"
+  album_art: "crumbling.jpg"
+  genre: "folktronica"
+  year: 2019
+  blurb: "Something absolutely mind-tickling about this song. "
+- title: "Strangers"
+  artists:
+    - "Black Country, New Road"
+  album: "HELP(2)"
+  album_art: "help-2.jpg"
+  genre: "indie rock"
+  year: 2026
+  blurb: "A standout song on an already star-studded compilation album. This is a Besties redux in the best way possible!"
+- title: "Where the City Can't See"
+  artists:
+    - "Blood Cultures"
+  album: "Skate Story: Vol. I"
+  album_art: "skate-story-i.jpg"
+  genre: "chillwave"
+  year: 2025
+  blurb: "Holy shit, Skate Story is one of the best video games I've played - and among other things, it's made me fall in love with Blood Cultures."
