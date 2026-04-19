@@ -3350,3 +3350,27 @@
   genre: "chillwave"
   year: 2025
   blurb: "Holy shit, Skate Story is one of the best video games I've played - and among other things, it's made me fall in love with Blood Cultures."
+- title: "idk idk"
+  artists:
+    - "Jim Legxacy"
+  album: "idk idk"
+  album_art: "idk-idk.jpg"
+  genre: "rap"
+  year: 2026
+  blurb: "Feels like a BBC loosie - that is, jumpy, infections production, angelic backup vocals, and an absolute vibe."
+- title: "Trying Times"
+  artists:
+    - "James Blake"
+  album: "Trying Times"
+  album_art: "trying-times.jpg"
+  genre: "soul"
+  year: 2026
+  blurb: "I'm absolutely blown away by the raw emotion and soundscape of this album. And, it really is trying times."
+- title: "Indian Summer"
+  artists:
+    - "Blood Cultures"
+  album: "Happy Birthday"
+  album_art: "happy-birthday.jpg"
+  genre: "electropop"
+  year: 2017
+  blurb: "Still on the Blood Cultures grind post-Skate Story - and this song is perfect as the sun starts to come out!."
