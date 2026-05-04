@@ -3363,7 +3363,7 @@
     - "James Blake"
   album: "Trying Times"
   album_art: "trying-times.jpg"
-  genre: "soul"
+  genre: "alt r&b"
   year: 2026
   blurb: "I'm absolutely blown away by the raw emotion and soundscape of this album. And, it really is trying times."
 - title: "Indian Summer"
@@ -3374,3 +3374,27 @@
   genre: "electropop"
   year: 2017
   blurb: "Still on the Blood Cultures grind post-Skate Story - and this song is perfect as the sun starts to come out!."
+- title: "Madwoman"
+  artists:
+    - "Laufey"
+  album: "A Matter of Time: The Final Hour"
+  album_art: "amot-tfh.jpg"
+  genre: "bossa nova"
+  year: 2026
+  blurb: "Avengers assembled for the music video! (and some very fun backing strings)"
+- title: "drop dead"
+  artists:
+    - "Olivia Rodrigo"
+  album: "Drop Dead"
+  album_art: "drop-dead.jpg"
+  genre: "pop rock"
+  year: 2026
+  blurb: "Incredibly fun lead single from Olivia. Excited for Olivia 3!"
+- title: "Need For Speed"
+  artists:
+    - "Kim Petras"
+  album: "Need For Speed"
+  album_art: "need-for-speed.jpg"
+  genre: "electro pop"
+  year: 2026
+  blurb: "Absolute bop that might be an early contender for song of the summer. Chorus is such an earworm (especially the \"with you\")!"
