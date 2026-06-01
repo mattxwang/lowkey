@@ -3398,3 +3398,27 @@
   genre: "electro pop"
   year: 2026
   blurb: "Absolute bop that might be an early contender for song of the summer. Chorus is such an earworm (especially the \"with you\")!"
+- title: "Dry Spell"
+  artists:
+    - "Kacey Musgraves"
+  album: "Middle of Nowhere"
+  album_art: "middle-of-nowhere.jpg"
+  genre: "country"
+  year: 2026
+  blurb: "An incredibly fun take on this type of song, and such a delightful album."
+- title: "Boys In Blue"
+  artists:
+    - "Nia Archives"
+  album: "Boys In Blue"
+  album_art: "boys-in-blue.jpg"
+  genre: "jungle"
+  year: 2026
+  blurb: "A fun beat with a great \"title drop\" moment in the hook!"
+- title: "American Dream"
+  artists:
+    - "Alabama Shakes"
+  album: "American Dream"
+  album_art: "american-dream.jpg"
+  genre: "blues"
+  year: 2026
+  blurb: "Poignant as always. Excited for this third album!"
