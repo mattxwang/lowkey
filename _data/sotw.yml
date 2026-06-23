@@ -3422,3 +3422,35 @@
   genre: "blues"
   year: 2026
   blurb: "Poignant as always. Excited for this third album!"
+- title: "( ╥﹏╥ )"
+  artists:
+    - "tsubi club"
+  album: "trinket"
+  album_art: "trinket.jpg"
+  genre: "glitch pop"
+  year: 2026
+  blurb: "Under the Tsubi Club name, Soren's created such a unique sound in an already crowded field of hyperpop and noise pop. Just so, so, brain-tickling!"
+- title: "Check It"
+  artists:
+    - "Kim Petras"
+  album: "Detour"
+  album_art: "detour.jpg"
+  genre: "electro pop"
+  year: 2026
+  blurb: "Bop central, and just in time for summer."
+- title: "Dark Magic"
+  artists:
+    - "Quadeca"
+  album: "Dark Magic"
+  album_art: "dark-magic.jpg"
+  genre: "folktronica"
+  year: 2026
+  blurb: "Something just grandiose about this song. Quadeca impresses again!"
+- title: "Too Easy"
+  artists:
+    - "Tinashe"
+  album: "Too Easy"
+  album_art: "too-easy.jpg"
+  genre: "dance pop"
+  year: 2026
+  blurb: "Tinashe seems to be on a generational run of sub-3-minute earworms with near-perfect production execution. And quite frankly, I'm all for it!"
