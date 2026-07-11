@@ -3454,3 +3454,19 @@
   genre: "dance pop"
   year: 2026
   blurb: "Tinashe seems to be on a generational run of sub-3-minute earworms with near-perfect production execution. And quite frankly, I'm all for it!"
+- title: "Lost Boys"
+  artists:
+    - "Phoebe Bridgers"
+  album: "Lost Boys"
+  album_art: "lost-boys.jpg"
+  genre: "folk pop"
+  year: 2026
+  blurb: "Serene and a little less sad than normal for Phoebe. ([the music video](https://www.youtube.com/watch?v=4KXnboPN1p4&pp=ygUJbG9zdCBib3lz) gave me a chuckle)"
+- title: "Love & Money"
+  artists:
+    - "Luvcat"
+  album: "Vicious Delicious"
+  album_art: "vicious-delicious.jpg"
+  genre: "dark pop"
+  year: 2026
+  blurb: "There's a dark, somewhat psychedelic and dreamy element to this album that just makes it stick. Thanks Alina for the rec!"
