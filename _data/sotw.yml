@@ -3468,5 +3468,13 @@
   album: "Vicious Delicious"
   album_art: "vicious-delicious.jpg"
   genre: "dark pop"
-  year: 2026
+  year: 2025
   blurb: "There's a dark, somewhat psychedelic and dreamy element to this album that just makes it stick. Thanks Alina for the rec!"
+- title: "L.U.C.K.Y"
+  artists:
+    - "Fcukers"
+  album: "Ö"
+  album_art: "o.jpeg"
+  genre: "dance"
+  year: 2026
+  blurb: "Straightforward earworm and bop."
