@@ -20,6 +20,6 @@ layout: page
 
 <ul class="list-unstyled">
 {% for book in books reversed %}
-  <li><a href="{{site.baseurl}}/stats/books#{{book[0]}}">{{ book[1].title }}</a> by {{ book[1].author }} ({{ book[1].year_published }})</li>
+  <li><a href="{{site.baseurl}}/stats/books#{{book[0]}}">{{ book[1].title }}</a> by {{ book[1].author }}{% if book[1].translator %}, translated by {{ book[1].translator }}{% endif %} {% if book[1].strong %}(strong rec){% endif %}</li>
 {% endfor %}
 </ul>
