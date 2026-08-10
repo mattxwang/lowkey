@@ -3357,7 +3357,7 @@
   album_art: "idk-idk.jpg"
   genre: "rap"
   year: 2026
-  blurb: "Feels like a BBC loosie - that is, jumpy, infections production, angelic backup vocals, and an absolute vibe."
+  blurb: "Feels like a BBM loosie - that is, jumpy, infectious production, angelic backup vocals, and an absolute vibe."
 - title: "Trying Times"
   artists:
     - "James Blake"
@@ -3478,3 +3478,35 @@
   genre: "dance"
   year: 2026
   blurb: "Straightforward earworm and bop."
+- title: "Crash Out"
+  artists:
+    - "Tinashe"
+  album: "Crash Out"
+  album_art: "crash-out.jpg"
+  genre: "dance pop"
+  year: 2026
+  blurb: Yet another absolute banger. Tinashe is in her pocket.
+- title: "You Just Wanna Get With My Friend"
+  artists:
+    - "Sammy Rae & The Friends"
+  album: "You Just Wanna Get With My Friend"
+  album_art: "yjwgwmf.jpg"
+  genre: "jazz pop"
+  year: 2026
+  blurb: Sammy Rae (and the friends!) bring their signature infectious groove to a hilarious premise for a song.
+- title: "Card Declined"
+  artists:
+    - "Charli XCX"
+  album: "Music, Fashion, Film"
+  album_art: "mff.jpg"
+  genre: "electronic rock"
+  year: 2026
+  blurb: "card declined."
+- title: "HEADLOCK"
+  artists:
+    - "Luci Gang"
+  album: "Rolling Stone"
+  album_art: "rolling-stone.jpg"
+  genre: "dance pop"
+  year: 2026
+  blurb: She's absolutely gliding on this beat. And, [killer music video](https://www.youtube.com/watch?v=cythnn3VTLg).
