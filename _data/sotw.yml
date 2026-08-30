@@ -3510,3 +3510,21 @@
   genre: "dance rap"
   year: 2026
   blurb: She's absolutely gliding on this beat. And, [killer music video](https://www.youtube.com/watch?v=cythnn3VTLg).
+- title: "Difference"
+  artists:
+    - "Denzel Curry"
+    - "Kenny Beats"
+    - "YEBBA"
+  album: "ii"
+  album_art: "ii.jpg"
+  genre: "rap"
+  year: 2026
+  blurb: Denzel & Kenny are back with a smoother flow that feels more *LOUIE* and less *UNLOCKED*. Very excited for this album!
+- title: "Motivation"
+  artists:
+    - "Carly Rae Jepsen"
+  album: "Motivation"
+  album_art: "motivation.jpg"
+  genre: "pop"
+  year: 2026
+  blurb: Absolute bop from my queen of pop. Production gives me Jessie Ware vibes!
