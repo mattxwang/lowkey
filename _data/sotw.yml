@@ -3528,3 +3528,20 @@
   genre: "pop"
   year: 2026
   blurb: Absolute bop from my queen of pop. Production gives me Jessie Ware vibes!
+- title: "Sure"
+  artists:
+    - "Monsune"
+  album: "Sure"
+  album_art: "sure.jpg"
+  genre: "r&b"
+  year: 2026
+  blurb: I cannot contain my excitement -- the boy is back, after seven years. And he's smooth as ever.
+- title: "Look Like My Mama"
+  artists:
+    - "AZ Chike"
+    - "Tyler, The Creator"
+  album: "Look Like My Mama"
+  album_art: "look-like-my-mama.jpg"
+  genre: "rap"
+  year: 2026
+  blurb: Chike and Tyler are both gliding on a straightforward banger. Love it when features go back-and-forth like this!
