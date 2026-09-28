@@ -3545,3 +3545,19 @@
   genre: "rap"
   year: 2026
   blurb: Chike and Tyler are both gliding on a straightforward banger. Love it when features go back-and-forth like this!
+- title: "Stain"
+  artists:
+    - "Weston Estate"
+  album: "Stain"
+  album_art: "stain.jpg"
+  genre: "pop"
+  year: 2026
+  blurb: There's something downright euphoric about the high point of this song.
+- title: "Versailles"
+  artists:
+    - "Carly Rae Jepsen"
+  album: "Stain"
+  album_art: "day-and-night.jpg"
+  genre: "pop"
+  year: 2026
+  blurb: I feel like this beat switch shouldn't work, and yet, it does.
