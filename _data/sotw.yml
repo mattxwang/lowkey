@@ -3561,3 +3561,19 @@
   genre: "pop"
   year: 2026
   blurb: I feel like this beat switch shouldn't work, and yet, it does.
+- title: "Pale Blue Eyes"
+  artists:
+    - "Lucy Rose"
+  album: "Pale Blue Eyes"
+  album_art: "pale-blue-eyes.jpg"
+  genre: "indie pop"
+  year: 2025
+  blurb: The production is somehow groovy and reserved, which lets Lucy's unique vocals shine. Thanks Karen!
+- title: "Hammer"
+  artists:
+    - "Hana Vu"
+  album: "Romanticism"
+  album_art: "romanticism.jpeg"
+  genre: "indie pop"
+  year: 2024
+  blurb: Love the power in Hana's voice!
