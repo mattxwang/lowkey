@@ -3577,3 +3577,29 @@
   genre: "indie pop"
   year: 2024
   blurb: Love the power in Hana's voice!
+- title: "Night Lot"
+  artists:
+    - "Lot 3"
+  album: "Night Lot"
+  album_art: "night-lot.jpg"
+  genre: "pop rock"
+  year: 2022
+  blurb: Getting a little bit of UCLA nostalgia :)
+- title: "I Give Everything I Have 2 U"
+  artists:
+    - "The Avalanches"
+    - "Loaded Honey"
+  album: "No Bad Memories"
+  album_art: "no-bad-memories.jpg"
+  genre: "dance"
+  year: 2026
+  blurb: Pure bliss in a 1:36 package.
+- title: "Chiltern Firehouse ."
+  artists:
+    - "fakemink"
+    - "Skepta"
+  album: "Chiltern Firehouse ."
+  album_art: "chiltern.jpeg"
+  genre: "rap"
+  year: 2026
+  blurb: Unreal Skepta verse and a hook that is much more catchy than it deserves to be. (essentially, "I need to lock in")
